@@ -98,10 +98,6 @@
 
 ---
 
----
-
----
-
 ## Sprint 8 — Chapter 8: The AgentFlow Loop (COMPLETE ✅)
 
 **Goal**: Name the loop; five stages map to Part 1 disciplines; `stats` command as full loop walkthrough; 13→14 tests.
@@ -113,12 +109,21 @@
 
 ---
 
+## Sprint 9 — Chapter 9: Skills and Autonomy Modes (COMPLETE ✅)
+
+**Goal**: Skills encode the Start stage; `start-session.md` created; `clear` command as scenario; 14→15 tests; three autonomy modes defined.
+
+| Task | Status |
+|------|--------|
+| All 9 ebook-writer stages | ✅ Done |
+| Commit `chapters/part-2/ch-09-skills-and-autonomy-modes.md` | ✅ Done |
+
+---
+
 ## Upcoming Sprints
 
 | Sprint | Chapter | Topic |
 |--------|---------|-------|
-| Sprint 9 | Chapter 9 | Part 2: Skills and Autonomy Modes |
-| Sprint 9 | Chapter 9 | Part 2: Skills and Autonomy Modes |
 | Sprint 10 | Chapter 10 | Part 2: Context Files and Handoffs |
 | Sprint 11 | Chapter 11 | Part 2: Multi-Agent Coordination |
 | Sprint 12 | Chapter 12 | Part 2: The Sprint Cadence |
