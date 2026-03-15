@@ -87,28 +87,27 @@
 
 ---
 
-## Sprint 7 — Chapter 7: Document Decisions (ACTIVE)
+## Sprint 7 — Chapter 7: Document Decisions (COMPLETE ✅)
 
-**Goal**: Decision log as insurance against AI amnesia; decisions-as-artifacts.
+**Goal**: Decision log as insurance against AI amnesia; `--format json` as scenario; 12→13 tests; decisions.md artifact.
 
 | Task | Status |
 |------|--------|
-| Stage 1: Principle Brief (se-educator) | ⬜ Not started |
-| Stage 2: Scenario Brief (scenario-designer) | ⬜ Not started |
-| Stage 3: Continuity Check (continuity-editor) | ⬜ Not started |
-| Stage 4: Chapter Outline (tutorial-planner) | ⬜ Not started |
-| **GATE: Human approves outline** | ⬜ Blocked on above |
-| Stage 5: Chapter Draft (script-writer) | ⬜ Not started |
-| Stage 6: Antigravity Review (antigravity-expert) | ⬜ Not started |
-| Stage 7: Adversarial Read (confused-beginner) | ⬜ Not started |
-| Stage 8: AgentFlow Annotation (agentflow-architect) | ⬜ Not started |
-| Stage 9: Refine and finalize | ⬜ Not started |
-| Commit `chapters/part-1/ch-07-document-decisions.md` | ⬜ Not started |
+| All 9 ebook-writer stages | ✅ Done |
+| Commit `chapters/part-1/ch-07-document-decisions.md` | ✅ Done |
+
+---
 
 ---
 
 ## Upcoming Sprints
 
-| Sprint | Chapter | Principle |
-|--------|---------|-----------|
-| Sprint 8–14 | Chapters 8–14 | Part 2: AgentFlow mechanisms |
+| Sprint | Chapter | Topic |
+|--------|---------|-------|
+| Sprint 8 | Chapter 8 | Part 2: The AgentFlow Loop |
+| Sprint 9 | Chapter 9 | Part 2: Skills and Autonomy Modes |
+| Sprint 10 | Chapter 10 | Part 2: Context Files and Handoffs |
+| Sprint 11 | Chapter 11 | Part 2: Multi-Agent Coordination |
+| Sprint 12 | Chapter 12 | Part 2: The Sprint Cadence |
+| Sprint 13 | Chapter 13 | Part 2: Autonomy at Scale |
+| Sprint 14 | Chapter 14 | Part 2: Putting It All Together |
