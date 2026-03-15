@@ -94,7 +94,7 @@ Do not proceed to Stage 5 until the outline is explicitly approved. Revise the o
 ## Stage 5: Write the Chapter
 
 **Role**: script-writer
-**Load**: `agents/script-writer.md`, `skills/tutorial-writer/tutorial-writing.md`, `skills/tutorial-writer/tutorial-narrative.md`, `skills/antigravity-guide.md`
+**Load**: `agents/script-writer.md`, `skills/tutorial-writer/tutorial-writing.md`, `skills/tutorial-writer/tutorial-narrative.md`, `skills/antigravity-guide.md`, `skills/book-voice.md`
 **Produce**: Chapter Draft
 
 - Write for a reader, not a source archive
