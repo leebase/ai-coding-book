@@ -100,11 +100,24 @@
 
 ---
 
+---
+
+## Sprint 8 — Chapter 8: The AgentFlow Loop (COMPLETE ✅)
+
+**Goal**: Name the loop; five stages map to Part 1 disciplines; `stats` command as full loop walkthrough; 13→14 tests.
+
+| Task | Status |
+|------|--------|
+| All 9 ebook-writer stages | ✅ Done |
+| Commit `chapters/part-2/ch-08-the-agentflow-loop.md` | ✅ Done |
+
+---
+
 ## Upcoming Sprints
 
 | Sprint | Chapter | Topic |
 |--------|---------|-------|
-| Sprint 8 | Chapter 8 | Part 2: The AgentFlow Loop |
+| Sprint 9 | Chapter 9 | Part 2: Skills and Autonomy Modes |
 | Sprint 9 | Chapter 9 | Part 2: Skills and Autonomy Modes |
 | Sprint 10 | Chapter 10 | Part 2: Context Files and Handoffs |
 | Sprint 11 | Chapter 11 | Part 2: Multi-Agent Coordination |
