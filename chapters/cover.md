@@ -1,0 +1,1 @@
+![Cover](cover-optimized.png)
