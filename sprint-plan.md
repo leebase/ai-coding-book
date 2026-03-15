@@ -120,11 +120,23 @@
 
 ---
 
+---
+
+## Sprint 10 — Chapter 10: Context Files and Handoffs (COMPLETE ✅)
+
+**Goal**: context.md separates state from instructions; handoff test; start-session.md updated to reference context.md.
+
+| Task | Status |
+|------|--------|
+| All 9 ebook-writer stages | ✅ Done |
+| Commit `chapters/part-2/ch-10-context-files-and-handoffs.md` | ✅ Done |
+
+---
+
 ## Upcoming Sprints
 
 | Sprint | Chapter | Topic |
 |--------|---------|-------|
-| Sprint 10 | Chapter 10 | Part 2: Context Files and Handoffs |
 | Sprint 11 | Chapter 11 | Part 2: Multi-Agent Coordination |
 | Sprint 12 | Chapter 12 | Part 2: The Sprint Cadence |
 | Sprint 13 | Chapter 13 | Part 2: Autonomy at Scale |
