@@ -59,17 +59,20 @@ If you were mid-session, context.md may be slightly stale. Spend sixty seconds u
 Start a new session in the replacement tool — whether that is a different AI product, a different account on the same product, or the same tool after the rate limit resets.
 
 **Step 4: Run the handoff prompt.**
-Paste the contents of `context.md` and `decisions.md` into the new session, then ask:
 
-```
-Read these two files. Then tell me:
-1. What is the current state of the project?
-2. How many tests are passing?
-3. What are we working on right now?
-4. What constraints apply to this work?
-```
+Paste the contents of `context.md` and `decisions.md` into the new session. Then send this template exactly:
 
-> **Watch For:** The agent answering correctly from the files alone, without you adding anything. If it answers all four correctly, you are ready to continue. If it misses something, your context.md has a gap — add the missing information before proceeding.
+> **Handoff Prompt — copy this**
+>
+> *Paste context.md and decisions.md above, then send:*
+>
+> Read these two files. Then tell me:
+> 1. What is the current state of the project?
+> 2. How many tests are passing?
+> 3. What are we working on right now?
+> 4. What constraints apply to this work?
+
+> **Watch For:** The agent answering correctly from the files alone, without you adding anything. If it answers all four correctly, you are ready to continue. If it misses something, your context.md has a gap — add the missing information before proceeding. This step doubles as a diagnostic: a passing handoff test means your context files are complete enough to sustain the session.
 
 **Step 5: Continue.**
 Issue the next prompt — the same requirement or increment you were working on when the session ended. Reference the WIP commit if relevant. Proceed.
@@ -78,69 +81,33 @@ Five steps. Most of them take less than a minute. The handoff test (Step 4) is t
 
 ---
 
-## The AI Tool Landscape
+## How to Evaluate AI Tools for Tool Switching
 
-Understanding where to switch requires understanding what you are switching to. At any given moment in 2024–2026, there are three major platforms worth knowing at the free and ~$20/month tier: Claude, ChatGPT, and Gemini. Each has different credit generosity, different strengths, and different features that matter for different kinds of work.
+Understanding where to switch requires knowing what to evaluate. The specific tool landscape changes — prices shift, new products appear, credit policies update. What does not change are the properties that make a tool useful for a given type of work. Evaluating tools by their properties gives you a framework that ages better than any point-in-time comparison.
 
-### Free Tiers
+**Four criteria that matter when evaluating AI coding tools for AgentFlow compatibility:**
 
-Every platform offers a free tier. None of them are unlimited. All of them are more useful than nothing, and all of them are substantially more productive when you bring your own context.
+**Reasoning quality.** How carefully does the tool approach complex code? High-reasoning tools handle edge cases, produce clean variable names, and write error handling that makes sense on first read. They produce cleaner first drafts that require less correction after review. This matters most for sessions involving intricate logic, multi-step validation, or document-and-code work where both outputs need to be correct and clear.
 
-Free tiers are best used for:
-- Running the handoff test when you need to verify context
-- Short, targeted prompts — fixing a specific bug, reviewing a small function
-- Experimenting with a new tool before committing credits to it
+**Session stamina.** How many exchanges can you sustain before credit limits fire? For an implementation sprint — agent running tests, editing multiple files, iterating on output — session stamina is the primary budget constraint at the $20/month tier. A tool with excellent reasoning and limited credits may be less useful as your primary workhorse than one with generous credits and solid (if not exceptional) reasoning.
 
-Free tiers are not suited for:
-- Long implementation sessions
-- Multi-step agent runs that require sustained context
-- Anything that requires the agent to hold a large working context across many exchanges
+**Ecosystem integration.** Does the tool connect to software you already use? For developers in Google Workspace, AI integration into Docs, Sheets, and Drive removes friction that other tools require workarounds for. For a developer who works entirely in the terminal, ecosystem integration is less relevant — what matters is what happens in the editor.
 
-If you are on a zero-budget constraint, rotate across free tiers and keep your sessions short and targeted. AgentFlow's incremental structure (one requirement, one session, one verified result) is naturally compatible with free tier limitations — each session is bounded by design.
+**Context handling.** When you paste a long context.md, decisions.md, and a skill file into the session, does the tool hold and respect those constraints throughout? Some tools drift from stated constraints as the session lengthens. You want the decisions you specified at the start of the session applied consistently at exchange thirty. The handoff test (Step 4 of the recovery protocol) is your practical diagnostic for this: if the agent answers all four questions correctly from your context files alone, it is handling context well enough for the task.
 
-### Claude (~$20/month — Pro tier)
+---
 
-Claude's Pro tier is conservative with agentic coding credits compared to the others. If you are running extended Antigravity-style sessions, you will hit limits faster than you might expect. Budget accordingly — use Claude for the tasks where it adds the most unique value.
+**How these criteria cash out at the free and ~$20/month tier:**
 
-**Where Claude leads:**
+*On reasoning quality* — Claude Pro (approximately $20/month) stands out. For complex logic, data transformation, and anything that mixes writing with code (documentation, spec documents, decision logs), it tends to produce cleaner first drafts that are easier to review and maintain. Its document-collaborative capabilities make it unusually strong for any session where the output needs to be both technically correct and well-written. The trade-off: its coding credit budget is more conservative than the alternatives. Reserve it for the sessions where reasoning quality pays off most.
 
-*Reasoning quality.* Claude consistently produces code with careful attention to edge cases, clear variable naming, and sensible error handling. For complex logic — parsing, data transformation, multi-step validation — Claude tends to produce cleaner first drafts that require less cleanup.
+*On session stamina* — ChatGPT Plus ($20/month) leads. For extended implementation sprints, the credit budget goes further than comparable tiers. ChatGPT Plus also offers Codex Web — the ability to kick off agent tasks from a mobile device, start a PR review from your phone, and return to the result on your laptop. No other $20 tier offers async mobile-to-desktop workflow at this quality level. Use it as your primary workhorse for implementation sprints; use Codex Web for async work between meetings.
 
-*Document collaboration.* Claude's Projects feature and its document-collaborative capabilities make it unusually strong for any work that mixes writing with code. If you are producing documentation, spec documents, decision logs, or anything that requires well-structured prose alongside implementation work, Claude handles the cognitive switch between "write this explanation" and "implement this function" better than most. For this book, for example — Claude is the right tool.
+*On ecosystem integration* — Gemini Advanced (Google One AI Premium, approximately $20/month) leads — and leads substantially. The tier includes AI integration across Google Workspace (Docs, Sheets, Drive), NotebookLM for cross-document reasoning (ask questions across your spec files, decisions.md, and code simultaneously), and Antigravity for hands-on coding sessions — all running on the same underlying model. For teams already in the Google ecosystem, this integration removes friction that other tools cannot match at this price point.
 
-*Long-context fidelity.* When you paste a long context.md plus a decisions.md plus a skill file into Claude, it tends to hold and respect those constraints across the full session. The decisions you specified in the context are the decisions the agent applies, consistently.
+*On context handling* — this varies by tool and task complexity. Run the handoff test every time you switch. A tool that passes it is ready for the session.
 
-**How to use Claude efficiently at $20/month:** Reserve it for high-reasoning tasks — the sessions where you need careful implementation of complex logic, or where you are producing artifacts that need to be both technically correct and well-written. For straightforward CRUD-style feature work, use ChatGPT or Gemini where your credits will go further.
-
-### ChatGPT Plus (~$20/month — Plus tier)
-
-ChatGPT Plus is notably more generous with coding credits at the $20 tier. For extended implementation sessions — the kind where the agent is running tests, editing multiple files, and iterating — ChatGPT Plus lets you go further before hitting limits.
-
-**Where ChatGPT leads:**
-
-*Coding session stamina.* If you are in a deep implementation sprint, ChatGPT Plus is likely your most productive $20 spend. The credit budget is generous enough for sessions that would exhaust other tools' limits.
-
-*Codex Web.* This is genuinely novel. OpenAI's Codex Web interface allows you to kick off agent tasks from a mobile device — review a pull request, start an implementation, trigger a test run — and return to it on desktop when it finishes. For a developer who has fifteen minutes between meetings, or wants to queue up work from their phone on the commute in, this is a material workflow advantage. You can start a PR review from your phone, have the agent produce a structured review with specific suggestions, and read the result on your laptop when you sit down. The work does not require you to be at a desk.
-
-*Model options.* GPT-4o and the o-series reasoning models are available at Plus, giving you flexibility between speed (4o) and deep reasoning (o1/o3) depending on what the task requires.
-
-**How to use ChatGPT efficiently at $20/month:** Use it as your primary workhorse for implementation sprints. When you hit a rate limit elsewhere, open ChatGPT. Use Codex Web for async work — kick off a task, do something else, return to the result.
-
-### Gemini Advanced (~$20/month — Google One AI Premium)
-
-Gemini's $20/month tier is actually a Google One AI Premium subscription, which bundles substantially more than just AI coding assistance. This is the platform with the broadest feature surface area at the $20 price point.
-
-**Where Gemini leads:**
-
-*Ecosystem integration.* If your work involves Google Workspace — Docs, Sheets, Drive, Gmail — Gemini integration at this tier connects AI assistance directly into those tools. Draft a spec in Google Docs with AI help, generate a summary of your project status in Sheets, ask questions about your codebase in a format that connects back to your Drive files. For teams already in the Google ecosystem, this integration removes friction that other tools require workarounds for.
-
-*NotebookLM.* This is one of the most underrated tools in the AI landscape. NotebookLM allows you to create a research notebook from your documents — upload your spec files, your decisions.md, your chapter drafts, your code — and ask questions across all of them simultaneously. "What features have we explicitly decided not to implement, and why?" is a question NotebookLM can answer from your actual files rather than from the AI's training data. For long projects with a lot of accumulated context, NotebookLM is a powerful complement to the standard chat interface.
-
-*Antigravity.* Antigravity is a Google DeepMind product, and at the Google One AI Premium tier you have access to the same Gemini models that power Antigravity's agent capabilities. This means your coding sessions in Antigravity and your chat sessions in Gemini Advanced are running on the same underlying model — the context you build in one is structurally compatible with how the other reasons.
-
-*Raw model capacity.* Gemini's context window and multimodal capabilities (code, text, images, and increasingly structured data) give it flexibility for tasks that require processing large amounts of existing material.
-
-**How to use Gemini efficiently at $20/month:** Use Antigravity for hands-on coding sessions. Use NotebookLM to reason across your accumulated project documents. Use Gemini chat for ecosystem-integrated tasks — anything touching Google Docs or your Drive. The three products, used together, cover more workflow surface area than any other $20 tier.
+**The free tier.** Every platform offers one. None are unlimited, and none are suited for extended implementation sessions. Free tiers are most useful for running the handoff test when you need to verify your context files, short targeted prompts (a specific bug fix, a small function review), and evaluating a new tool before committing credits. If you are on a zero-budget constraint, AgentFlow's incremental structure — one requirement, one scoped session, one verified result — is naturally compatible with free tier limitations. Each session is bounded by design.
 
 ---
 
@@ -199,20 +166,18 @@ matching expected output. Next: fix output format in export_csv() function.
 
 **Step 4:** Run the handoff prompt:
 
-```
-I'm switching AI tools mid-session due to a rate limit. Here are two files
-that describe my project — read them carefully before we continue.
-
-[paste context.md contents]
-
-[paste decisions.md contents]
-
-Tell me:
-1. What are we building?
-2. What is the current state of the implementation?
-3. What is the next step?
-4. What constraints apply to output format and error handling?
-```
+> **Handoff Prompt — copy this**
+>
+> *Paste context.md and decisions.md above, then send:*
+>
+> I'm switching AI tools mid-session due to a rate limit. Here are two files
+> that describe my project — read them carefully before we continue.
+>
+> Tell me:
+> 1. What are we building?
+> 2. What is the current state of the implementation?
+> 3. What is the next step?
+> 4. What constraints apply to output format and error handling?
 
 > **Watch For:** The agent correctly identifying the WIP state, the failing tests, the export command context, and the key decisions (error behavior, output format consistency). If it gets these right from the files, you are ready.
 
