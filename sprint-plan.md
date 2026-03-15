@@ -146,10 +146,22 @@
 
 ---
 
+---
+
+## Sprint 12 — Chapter 12: The Sprint Cadence (COMPLETE ✅)
+
+**Goal**: Sprint plan template; export sprint (--format csv + export command); 16→18 tests; dependency analysis catches serialization requirement.
+
+| Task | Status |
+|------|--------|
+| All 9 ebook-writer stages | ✅ Done |
+| Commit `chapters/part-2/ch-12-the-sprint-cadence.md` | ✅ Done |
+
+---
+
 ## Upcoming Sprints
 
 | Sprint | Chapter | Topic |
 |--------|---------|-------|
-| Sprint 12 | Chapter 12 | Part 2: The Sprint Cadence |
 | Sprint 13 | Chapter 13 | Part 2: Autonomy at Scale |
 | Sprint 14 | Chapter 14 | Part 2: Putting It All Together |
