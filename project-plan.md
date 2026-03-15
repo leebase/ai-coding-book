@@ -6,46 +6,43 @@
 
 ## Phases
 
-### Phase 0 — Foundation (COMPLETE)
+### Phase 0 — Foundation (COMPLETE ✅)
 - AgentFlow scaffold (AGENTS.md, CLAUDE.md, context.md)
 - Writing pipeline (ebook-writer, agents, skills)
 - Product definition and project plan
 - Sprint plan for Phase 1
 
-### Phase 1 — Part 1: Engineering in the AI Era
+### Phase 1 — Part 1: Engineering in the AI Era (COMPLETE ✅)
 
-Seven chapters. One project thread built across all of them. Each chapter = one sprint.
+Seven chapters. One project thread (task manager CLI) built across all of them.
 
-| Chapter | Principle | Status |
-|---------|-----------|--------|
-| 1 | Plan before you prompt | ⬜ Not started |
-| 2 | Define requirements before you build | ⬜ Not started |
-| 3 | Test what the AI produces | ⬜ Not started |
-| 4 | Review AI output like a PR | ⬜ Not started |
-| 5 | Iterate deliberately | ⬜ Not started |
-| 6 | Manage scope | ⬜ Not started |
-| 7 | Document decisions | ⬜ Not started |
+| Chapter | Title | Principle | Status |
+|---------|-------|-----------|--------|
+| 1 | Plan Before You Prompt | Plan before you prompt | ✅ Done |
+| 2 | Define Requirements | Define requirements before you build | ✅ Done |
+| 3 | Test AI Output | Test what the AI produces | ✅ Done |
+| 4 | Review Like a PR | Review AI output like a colleague's PR | ✅ Done |
+| 5 | Iterate Deliberately | Iterate deliberately, not randomly | ✅ Done |
+| 6 | Manage Scope | The AI will gold-plate if you let it | ✅ Done |
+| 7 | Document Decisions | Document decisions, not just code | ✅ Done |
 
-**Phase 1 milestone:** Part 1 complete, coherent project thread, reviewed by adversarial reader.
-
-### Phase 2 — Part 2: The AgentFlow Methodology
+### Phase 2 — Part 2: The AgentFlow Methodology (COMPLETE ✅)
 
 Seven chapters. Each formally answers a pain point from Part 1.
 
-| Chapter | AgentFlow Mechanism | Part 1 Pain It Solves | Status |
-|---------|--------------------|-----------------------|--------|
-| 8 | The document system | "I lose context between sessions" (Ch 1) | ⬜ Not started |
-| 9 | AGENTS.md — the contract | "The AI does whatever it wants" (Ch 1, 6) | ⬜ Not started |
-| 10 | The Development Loop | "My workflow is chaotic" (Ch 3, 5) | ⬜ Not started |
-| 11 | Autonomy modes | "I don't know how much to trust it" (Ch 4) | ⬜ Not started |
-| 12 | The skill system | "I repeat myself every session" (Ch 2, 7) | ⬜ Not started |
-| 13 | The backlog system | "Scope keeps expanding" (Ch 6) | ⬜ Not started |
-| 14 | Multi-session continuity | "Switching tools breaks everything" (Ch 1, 7) | ⬜ Not started |
+| Chapter | Title | AgentFlow Mechanism | Part 1 Pain It Solves | Status |
+|---------|-------|--------------------|-----------------------|--------|
+| 8 | The AgentFlow Loop | The five-stage loop | "My workflow is chaotic" (Ch 3, 5) | ✅ Done |
+| 9 | Skills and Autonomy Modes | Skill system + autonomy modes | "I repeat myself every session" (Ch 2, 7) | ✅ Done |
+| 10 | Context Files and Handoffs | Document system for continuity | "I lose context between sessions" (Ch 1) | ✅ Done |
+| 11 | Multi-Agent Coordination | Parallel agents, merge review | "I don't know how much to trust it" (Ch 4) | ✅ Done |
+| 12 | The Sprint Cadence | Sprint planning and execution | "Scope keeps expanding" (Ch 6) | ✅ Done |
+| 13 | Autonomy at Scale | Calibration heuristics | "The AI does whatever it wants" (Ch 1, 6) | ✅ Done |
+| 14 | Putting It All Together | Full system synthesis | "Switching tools breaks everything" (Ch 1, 7) | ✅ Done |
 
-**Phase 2 milestone:** Part 2 complete, AgentFlow connections to Part 1 verified by agentflow-architect role.
-
-### Phase 3 — Polish & Publication Prep
-- Introduction and conclusion chapters
+### Phase 3 — Polish & Publication Prep (ACTIVE 🔄)
+- Introduction chapter
+- Conclusion chapter
 - Full continuity read (continuity-editor pass across all 14 chapters)
 - Copyedit pass
 - Format for publication (markdown → target format)
@@ -105,13 +102,13 @@ chapters/
 │   ├── ch-06-manage-scope.md
 │   └── ch-07-document-decisions.md
 └── part-2/
-    ├── ch-08-document-system.md
-    ├── ch-09-agents-md.md
-    ├── ch-10-development-loop.md
-    ├── ch-11-autonomy-modes.md
-    ├── ch-12-skill-system.md
-    ├── ch-13-backlog-system.md
-    └── ch-14-multi-session-continuity.md
+    ├── ch-08-the-agentflow-loop.md
+    ├── ch-09-skills-and-autonomy-modes.md
+    ├── ch-10-context-files-and-handoffs.md
+    ├── ch-11-multi-agent-coordination.md
+    ├── ch-12-the-sprint-cadence.md
+    ├── ch-13-autonomy-at-scale.md
+    └── ch-14-putting-it-all-together.md
 ```
 
 ---

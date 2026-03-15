@@ -11,9 +11,9 @@
 | Attribute | Value |
 |-----------|-------|
 | **Project** | ai-coding-book |
-| **Profile** | Python Package |
-| **Current Phase** | Phase 0 — Bootstrap |
-| **Overall Status** | 🟡 Just scaffolded |
+| **Type** | Book — "The AI-Era Developer" |
+| **Current Phase** | Phase 3 — Polish & Publication Prep |
+| **Overall Status** | 🟢 Writing complete, polishing |
 | **Last Updated** | 2026-03-15 |
 
 ---
@@ -22,57 +22,54 @@
 
 > Reference: `product-definition.md` for full success criteria.
 
-### MVP Criteria
+### Book Completion
 
-| Criterion | Status | Notes |
-|-----------|--------|-------|
-| Core feature 1 | ⬜ Not started | |
-| Core feature 2 | ⬜ Not started | |
-| Basic documentation | ✅ Done | Scaffolded by init-agent |
+| Part | Chapters | Status |
+|------|----------|--------|
+| Part 1 — Engineering in the AI Era | Ch 1–7 | ✅ Complete |
+| Part 2 — The AgentFlow Methodology | Ch 8–14 | ✅ Complete |
+| Introduction | — | ⬜ Not started |
+| Conclusion | — | ⬜ Not started |
 
-### Current Phase Goals
+### Phase 3 Sprints
 
-| Goal | Status | Notes |
-|------|--------|-------|
-| Establish project structure | ✅ Done | |
-| Define product vision | ⬜ Not started | Update `product-definition.md` |
-| First working feature | ⬜ Not started | |
+| Sprint | Focus | Status |
+|--------|-------|--------|
+| Sprint 15 — Introduction | Set thesis, hook reader, explain book structure | ⬜ Not started |
+| Sprint 16 — Conclusion | Close thesis, address what comes next | ⬜ Not started |
+| Sprint 17 — Visuals | 14 Mermaid/ASCII diagrams across all chapters | ⬜ Not started |
+| Sprint 18 — Continuity Pass | Read all 16 chapters as one work, fix issues | ⬜ Not started |
+| Sprint 19 — Copyedit | Line-level polish across all 16 chapters | ⬜ Not started |
+| Sprint 20 — Publication Format | Decide format, generate final output | ⬜ Not started |
+
+### Success Criteria (from product-definition.md)
+
+| Criterion | Status |
+|-----------|--------|
+| Reader can start AI-assisted project with planning first | ✅ Covered in Ch 1 |
+| Reader can write verifiable requirements | ✅ Covered in Ch 2 |
+| Reader can evaluate AI output against requirements | ✅ Covered in Ch 3–4 |
+| Reader can set up AgentFlow in under 30 min | ✅ Covered in Ch 8–10 |
+| Reader can hand off sessions with zero context loss | ✅ Covered in Ch 10 |
 
 ---
 
 ## Sprint Position
 
-| Sprint | Focus | Status |
-|--------|-------|--------|
-| Sprint 1 — Foundation | Core setup and first feature | 🟡 Planning |
-
----
-
-## Product Risks & Blockers
-
-| Risk/Blocker | Impact | Status |
-|-------------|--------|--------|
-| Product definition not yet written | Can't validate direction | 🟡 Action needed |
-
----
-
-## Key Decisions Made
-
-Decisions that affect product direction (for technical decisions, see `architecture.md`):
-
-| Decision | Rationale | Date |
-|----------|-----------|------|
-| Python Package profile selected | Best fit for project goals | 2026-03-15 |
+All 14 sprints complete. No active sprint — entering Phase 3 (polish).
 
 ---
 
 ## What "Done" Looks Like
 
-> Pull from `product-definition.md` once written. This section answers: "How do we know we've succeeded?"
-
-- [ ] MVP criteria met
-- [ ] Users can [core use case]
-- [ ] Documentation complete
+- [x] All 14 chapters written and committed
+- [x] Part 1 project thread (task manager CLI) coherent across chapters
+- [x] Part 2 AgentFlow mechanisms mapped to Part 1 pain points
+- [ ] Introduction chapter
+- [ ] Conclusion chapter
+- [ ] Continuity pass complete
+- [ ] Copyedit pass complete
+- [ ] Publication format decided and converted
 
 ---
 
