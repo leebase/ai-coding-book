@@ -40,6 +40,16 @@ For every principle from Part 1, Part 2 introduces the AgentFlow mechanism that 
 | 13 | [Autonomy at Scale](chapters/part-2/ch-13-autonomy-at-scale.md) | Calibration heuristics, right mode for the task |
 | 14 | [Putting It All Together](chapters/part-2/ch-14-putting-it-all-together.md) | Self-directed sprint, full system synthesis |
 
+## Download the Book
+
+| Format | File |
+|--------|------|
+| 📖 EPUB | [AgentFlow.epub](chapters/AgentFlow.epub) |
+| 📝 Word (DOCX) | [AgentFlow.docx](chapters/AgentFlow.docx) |
+| 📄 PDF | [AgentFlow.pdf](chapters/AgentFlow.pdf) |
+
+---
+
 ## Target Reader
 
 - Working developers with 2–10 years of experience
@@ -71,7 +81,7 @@ This book was written using **AgentFlow** — the same documentation-driven meth
 
 ## Status
 
-**14 of 14 chapters complete.** Moving into Phase 3: introduction, conclusion, continuity pass, and publication prep.
+**16 of 16 chapters complete** (including Introduction, Conclusion, and new Ch 10b: Resilience and Tool Portability). Available in EPUB, DOCX, and PDF above. Continuity pass and copyedit in progress.
 
 ---
 
