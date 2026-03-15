@@ -159,9 +159,21 @@
 
 ---
 
+---
+
+## Sprint 13 — Chapter 13: Autonomy at Scale (COMPLETE ✅)
+
+**Goal**: Calibration heuristic (3 factors × 3 modes); --done filter at Mode 2; tag field at Mode 1; COMMANDS.md update at Mode 3; 18→20 tests.
+
+| Task | Status |
+|------|--------|
+| All 9 ebook-writer stages | ✅ Done |
+| Commit `chapters/part-2/ch-13-autonomy-at-scale.md` | ✅ Done |
+
+---
+
 ## Upcoming Sprints
 
 | Sprint | Chapter | Topic |
 |--------|---------|-------|
-| Sprint 13 | Chapter 13 | Part 2: Autonomy at Scale |
 | Sprint 14 | Chapter 14 | Part 2: Putting It All Together |
