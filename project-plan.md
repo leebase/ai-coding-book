@@ -55,15 +55,38 @@ Seven chapters. Each formally answers a pain point from Part 1.
 
 ## The Project Thread
 
-The reader builds **one project** across all of Part 1. Project to be defined in Sprint 1.
+The reader builds **one project** across all of Part 1. The book uses a **personal task manager CLI** as the default project — familiar domain, no external dependencies, grows naturally across 7 chapters.
 
-Requirements for the project:
-- Complex enough to demonstrate all 7 SE principles meaningfully
-- Simple enough to set up in Chapter 1 with free-tier Antigravity
-- Realistic — something a working developer would actually build
-- Self-contained — does not require external services or paid APIs
+Readers who prefer to use their own project can do so, provided it meets the criteria below.
 
-Candidate types: CLI tool, web app, simple API, data pipeline. Finalize in Sprint 1.
+### Criteria for a Valid Part 1 Project
+
+A suitable project must satisfy all of the following:
+
+**Scope**
+- Can be set up from scratch in under 30 minutes using free-tier Antigravity
+- Has enough surface area to demonstrate all 7 SE principles without feeling forced
+- Is not so large that any single chapter requires more than 1–2 hours of Antigravity work
+
+**Independence**
+- No external paid APIs or services required
+- No authentication systems (adds complexity that distracts from SE principles)
+- No real-time or infrastructure concerns (no databases, message queues, or cloud deployments)
+- Runnable locally with a single command
+
+**Growth potential**
+- Can start minimal (Ch 1) and accumulate features across all 7 chapters without requiring rewrites
+- Each chapter can add one meaningful capability to the project
+- The failure scenarios in each chapter (what happens when discipline breaks down) are plausible within this project's domain
+
+**Demonstrability**
+- Has visible, testable output — the reader can see and verify what the AI built
+- Supports meaningful unit tests (not just "does it run")
+- Has a user-facing interface, even if minimal (CLI flags, a simple API, a UI)
+
+**Good fits**: CLI tools, simple REST APIs, data processing scripts, personal automation tools, small web apps with no auth.
+
+**Poor fits**: Games (too creative), data pipelines with external sources (too much setup), anything requiring a paid service, anything with real-time requirements.
 
 ---
 
