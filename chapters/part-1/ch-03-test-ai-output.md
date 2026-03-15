@@ -2,7 +2,7 @@
 
 You have a task manager that runs. You have verified that the main commands work — you ran them manually after each chapter and checked the output. That is not testing.
 
-Testing is systematic verification of every behavior you specified, including the ones you have not manually checked since you wrote them. There is a meaningful difference between "it worked when I tried it" and "it works for every case it is supposed to handle."
+Testing is systematic verification of every behavior you specified. There is a meaningful difference between "it worked when I tried it" and "it works for every case it is supposed to handle."
 
 That difference matters more with AI-generated code than with code you wrote yourself. When you write code, you understand it — you made the decisions, you know the edge cases you considered and the ones you skipped. AI-generated code has no such intuition attached to it. The code exists. It does things. What those things are, precisely, requires verification.
 
@@ -109,7 +109,7 @@ Here is the test plan for the task manager, covering both Chapter 1 and Chapter 
 | 8 | Invalid priority errors | `add "task" --priority urgent` | Error message, no task added, exit code non-zero |
 | 9 | Missing priority field defaults to medium | `tasks.json` entry with no `priority` key, then `list` | Shows `[medium] description` |
 
-Nine test cases. Each one maps to a specific property in your requirements. Each one is testable independently. The test plan took about fifteen minutes to design.
+Nine test cases. Each one maps to a specific property in your requirements. The test plan took about fifteen minutes to design.
 
 ---
 
@@ -187,7 +187,7 @@ This is why you design test cases and let the agent write test code. The test ca
 
 You now have a task manager with a requirement, an implementation, and a test suite that enforces the requirement against the implementation. Every feature you add in subsequent chapters gets the same treatment: requirement first, tests second (designed from the requirement), implementation third.
 
-In Part 2, the Development Loop formalizes this exact sequence. You have been following it — you just have not seen it written down yet.
+In Part 2, the Development Loop formalizes this sequence into an explicit structure that scales from solo sessions to teams of parallel agents. The same requirement-first, test-second discipline applies whether you are the only developer or coordinating multiple AIs. You have been following the pattern here — Part 2 gives it a name and a system.
 
 ---
 

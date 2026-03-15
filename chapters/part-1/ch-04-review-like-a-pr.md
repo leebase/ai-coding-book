@@ -14,9 +14,9 @@ This is the problem that code review solves. Not finding bugs. Not enforcing sty
 
 ## The Understanding Gap
 
-When you write code yourself, review happens continuously. You make a decision, you write the code, you read it back, you adjust. By the time you are done, you understand the code because you built it incrementally.
+When you write code yourself, review happens continuously. You make a decision, write the code, read it back, adjust. By the time you are done, you understand the code because you built it incrementally.
 
-AI-generated code arrives complete. You read it once to verify it runs. Then you move on. Three chapters in, you may have read `tasks.py` in fragments — checking one function when something seemed off, looking up one variable name — but probably not end-to-end with the goal of understanding the whole thing.
+AI-generated code arrives complete. You read it once to verify it runs, then move on. Three chapters in, you may have read `tasks.py` in fragments — checking one function when something seemed off — but probably not end-to-end with the goal of understanding the whole thing.
 
 The gap between "verified behavior" and "understood implementation" matters for one specific reason: **you are the permanent maintainer**. The AI that generated this code has no memory of it. Next session, it will read the file fresh, just like you will. The difference is that you are responsible for what it contains and what it does going forward. The AI is not.
 

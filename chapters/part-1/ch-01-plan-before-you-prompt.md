@@ -14,7 +14,7 @@ Before AI, writing code yourself was slow. That slowness was secretly useful. Wh
 
 AI removes that friction. You describe something, and thirty seconds later you have code. The speed feels like productivity. It often isn't.
 
-Here is what actually happens when you skip planning with an AI agent: the agent makes assumptions. It has to — you did not give it enough information to do otherwise. It produces something that compiles, runs, and looks reasonable. You look at it and think it is mostly right. So you move on.
+Here is what actually happens: the agent makes assumptions. It has to — you did not give it enough information to do otherwise. It produces something that compiles, runs, and looks reasonable. You think it is mostly right. You move on.
 
 Three prompts later, you realize the foundation is wrong. The AI built a task manager with SQLite persistence and a full CLI argument parser, and you just wanted a simple JSON file and four commands. Now you are either fighting the existing structure or starting over.
 
@@ -87,7 +87,7 @@ This is the failure mode. Not a crash. Not an error message. A gradual accumulat
 
 ## The Planning Brief
 
-Before you open Antigravity for any feature or project, answer five questions in writing. Not in your head — in writing, in a file. The act of writing forces specificity. Vague thinking survives in your head. It does not survive contact with a blank document.
+Before you open Antigravity for any feature or project, answer five questions in writing. Not in your head — in writing, in a file. Vague thinking survives in your head. It does not survive contact with a blank document.
 
 **The five questions:**
 
@@ -201,19 +201,11 @@ One specific problem. One specific fix. This is the same discipline as the plann
 
 Look at what you have. A working CLI tool, built in one focused Antigravity session, that does exactly what you specified — because you specified it.
 
-The agent's job was execution. Your job was definition. When you tried to hand the definition work to the agent in the failure path, the output reflected the agent's judgment, not yours. When you did the definition work yourself first, the output reflected your judgment.
+The agent's job was execution. Your job was definition. When you handed the definition work to the agent in the failure path, the output reflected the agent's judgment, not yours. When you did the definition work yourself first, the output reflected your judgment.
 
-This is the pattern you will use for every feature in every chapter that follows:
+**What you own: the plan. What the AI owns: the implementation.** Keep those roles clear and AI-assisted development becomes predictable. Blur them and you are debugging someone else's assumptions.
 
-1. Write the planning brief before opening Antigravity
-2. Issue the spec as the prompt, not a wish
-3. Verify against the brief, not against "does it look right"
-
-What you own: the plan. What the AI owns: the implementation. Keep those roles clear and AI-assisted development becomes predictable. Blur them and you are debugging someone else's assumptions.
-
-The task manager you just built is the foundation for the next six chapters. In Chapter 2, you will add a feature to it — but before you touch Antigravity, you will define exactly what that feature is. Which means writing another planning brief.
-
-Now you know why.
+The task manager you just built is the foundation for the next six chapters. In Chapter 2, you will add a feature to it — but before you open Antigravity, you will define exactly what that feature is.
 
 ---
 

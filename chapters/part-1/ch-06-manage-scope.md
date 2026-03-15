@@ -2,11 +2,11 @@
 
 Every feature you ask an AI to build creates an opportunity. Not just for that feature — for all the features adjacent to it that the AI thinks you probably also want.
 
-Search is a good example. If you ask an AI to add search to the task manager, it will implement search. It will also likely add a `--case-sensitive` flag, a filter for completed tasks, output highlighting for matched terms, and possibly a `--limit` flag for capping results. All useful. None of what you asked for.
+Search is a good example. Ask the AI to add search, and it will implement search. It will also likely add a `--case-sensitive` flag, output highlighting, and possibly a `--limit` flag. All useful. None of what you asked for.
 
-This is gold-plating — the AI adding polish and adjacent features beyond what was specified. It is not malicious. It is the AI being helpful based on what search usually means in a real application. The problem is that each addition is untested, undocumented, and potentially in conflict with what you actually wanted. You specified nothing, so the AI filled in.
+This is gold-plating — the AI adding polish and adjacent features beyond what was specified. It is the AI being helpful based on what search usually means in a real application. The problem is that each addition is untested, undocumented, and potentially in conflict with what you actually wanted. You specified nothing, so the AI filled in.
 
-**Gold-plated features are liability, not value.** They cost more to verify than to skip. They introduce surface area for bugs you did not write requirements for. They expand your mental model of a codebase you are trying to keep small.
+**Gold-plated features are liability, not value.** They cost more to verify than to skip, introduce surface area for bugs you never wrote requirements for, and expand a codebase you are trying to keep small.
 
 The fix is the same as the fix for bad requirements: make the scope explicit before you prompt. Not just what the feature does — what it does not do.
 
@@ -174,7 +174,7 @@ Compare this to the failure path, where the agent's interpretation of "search" i
 
 The discipline generalizes. Every feature you add from here has a natural set of extensions — the next obvious steps an agent would consider if you left scope undefined. Your job before each prompt is to identify those extensions and explicitly exclude the ones you are not building yet.
 
-Notice what happened to the features you excluded: they did not disappear. Relevance sorting, regex support, done-status filtering — those are all potential future features, now named and parked. In Part 2, that list of parked features becomes a formal backlog. The scope boundary is not a way to kill features. It is a way to defer them on your terms instead of building them without planning.
+Notice what happened to the features you excluded: they did not disappear. Relevance sorting, regex support, done-status filtering — those are all potential future features, now named and parked. In Part 2, that list becomes a shared backlog — plannable as a sprint, assignable to parallel agents, and readable by any session that picks up the project. The scope boundary is not a way to kill features. It is a way to defer them on your terms, with visibility, instead of building them without planning.
 
 ---
 

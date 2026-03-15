@@ -1,6 +1,6 @@
 # Chapter 5: Iterate Deliberately
 
-AI makes iteration cheap. You can prompt, get a result, prompt again, get another result, repeat. The marginal cost of each iteration is low. This is genuinely useful — you can explore and refine quickly.
+AI makes iteration cheap. You can prompt, get a result, prompt again, and repeat. This is genuinely useful — you can explore and refine quickly.
 
 It is also a trap.
 
@@ -242,9 +242,7 @@ Compare this to the failure path, where you could not answer that question after
 
 **Traceability is the product of deliberate iteration.** When something goes wrong — and in a long project, something will — you need a clear record of when and where it was introduced. One change per verified increment gives you that record. Everything-at-once does not.
 
-Notice also what you just wrote before you opened Antigravity: an increment plan. It is not a formal document. It is a sequenced list of changes with verification criteria. In Part 2, you will recognize this as the structure of a sprint plan — the same discipline applied to larger units of work. Every sprint has a defined scope and a definition of done. Every increment has the same. The scale differs; the pattern is identical.
-
-The increment plan is also a communication artifact. If you handed this project to a colleague — or to a different AI in a new session — the increment plan tells them exactly where you are in the work and what remains. You will formalize that handoff in Part 2.
+Notice also what you just wrote before you opened Antigravity: an increment plan. It is not a formal document. It is a sequenced list of changes with verification criteria. In Part 2, you will recognize this as the structure of a sprint plan — the same discipline applied to larger units of work coordinated across multiple AI sessions and agents. Every sprint has a defined scope and a definition of done. Every increment has the same. The scale differs; the pattern is identical.
 
 ---
 

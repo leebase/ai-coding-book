@@ -180,9 +180,23 @@ The decision log did not add complexity. It removed ambiguity. The agent did not
 
 **A decision log is insurance against your own forgetfulness as much as the AI's amnesia.** Midway through a long project, you will not remember why you chose YYYY-MM-DD over other formats, or why search has no case-sensitive flag. The log is the record. The AI is just the most obvious beneficiary.
 
-The discipline also generalizes to collaborators — human ones. If another developer joins this project, the code tells them what exists. The decisions.md tells them what constraints those choices were made under. One file, one purpose: preserving intent across time.
+The discipline generalizes to collaborators — human and AI alike. If another developer joins this project, the code tells them what exists. The decisions.md tells them what constraints those choices were made under. One file, one purpose: preserving intent across time.
 
 You have now built a task manager through seven chapters of deliberate practice: planning, requirements, testing, review, iteration, scope, and decision tracking. Each discipline compounds. The requirements from Chapter 2 informed the test cases in Chapter 3. The tests from Chapter 3 caught the scope drift in Chapter 6. The scope decisions from Chapter 6 are now in the decision log you will carry into Part 2.
+
+```
+Plan (Ch 1) ──────────► Requirements (Ch 2)
+     ▲                           │
+     │                       Tests (Ch 3)
+     │                           │
+Document                     Review (Ch 4)
+Decisions (Ch 7)                 │
+     ▲                       Iterate (Ch 5)
+     │                           │
+     └─────── Scope (Ch 6) ◄─────┘
+```
+
+*Each new feature enters at Plan, informed by documented decisions from the previous feature. The loop is the practice.*
 
 In Part 2, decisions.md becomes the seed of a larger artifact — the project context file that makes multi-session AI development tractable at scale. You built the habit here. Part 2 gives it a formal structure.
 

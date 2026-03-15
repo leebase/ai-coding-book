@@ -1,10 +1,8 @@
 # Chapter 2: Define Requirements Before You Build
 
-In Chapter 1, you wrote a planning brief before building the task manager. That brief answered: *what are we building?* It scoped the project and constrained the AI's assumptions.
+In Chapter 1, you wrote a planning brief that answered: *what are we building?* Now you need to add a feature, and that question has an answer — the task manager exists. The question changes: *what must this specific feature do?*
 
-Now you need to add a feature. And "what are we building" already has an answer — the task manager exists. The question is different: *what must this specific feature do?*
-
-That is a requirement. And it is not the same thing as a plan.
+That is a requirement. It is not the same thing as a plan.
 
 ---
 
@@ -12,11 +10,9 @@ That is a requirement. And it is not the same thing as a plan.
 
 A plan tells the AI what to build. A requirement tells the AI how to verify that it built it correctly.
 
-Without a requirement, "working" is undefined. The AI will implement something. It will run. It might even do roughly what you had in mind. But you will not be able to say with certainty whether it is right, because you never defined right.
+Without a requirement, "working" is undefined. The AI will implement something that runs and looks reasonable. You look at the result and think: *that is not quite what I meant*. But you cannot articulate why, because you never articulated what you did mean.
 
-This sounds abstract until you experience it. You ask the AI to add priority levels to your task manager. It adds priority levels. You look at the result and think: *that is not quite what I meant*. But you cannot articulate why, because you never articulated what you did mean.
-
-The mistake is not the AI's implementation. The mistake is that you tried to evaluate the output against a mental model you never made explicit. You cannot test a requirement you never wrote.
+The mistake is not the AI's implementation. The mistake is evaluating the output against a mental model you never made explicit. You cannot test a requirement you never wrote.
 
 **A requirement is a statement you can test as true or false.**
 
@@ -56,7 +52,7 @@ The agent probably built something functional. But look carefully at the decisio
 - Does `list` sort by priority, or just display it?
 - What happens if you pass an invalid priority value?
 
-You did not make any of these decisions. The agent did. Some of its choices may match your mental model. Some will not. And you will only discover the mismatches later, when you try to use the feature and find it does not behave the way you expected.
+You did not make any of these decisions. The agent did. You will only discover the mismatches later, when the feature does not behave as you expected.
 
 > **Free Tier Note:** At this point you might be tempted to issue corrections — "actually, use a flag," "sort the list by priority." Each correction is another prompt, another rate limit draw, and another opportunity for the agent to introduce new assumptions. You are debugging a mental model you never wrote down.
 
