@@ -133,11 +133,23 @@
 
 ---
 
+---
+
+## Sprint 11 — Chapter 11: Multi-Agent Coordination (COMPLETE ✅)
+
+**Goal**: Manager View first use; --priority filter (Agent A) + COMMANDS.md (Agent B) as parallel scenario; 15→16 tests; merge review discipline.
+
+| Task | Status |
+|------|--------|
+| All 9 ebook-writer stages | ✅ Done |
+| Commit `chapters/part-2/ch-11-multi-agent-coordination.md` | ✅ Done |
+
+---
+
 ## Upcoming Sprints
 
 | Sprint | Chapter | Topic |
 |--------|---------|-------|
-| Sprint 11 | Chapter 11 | Part 2: Multi-Agent Coordination |
 | Sprint 12 | Chapter 12 | Part 2: The Sprint Cadence |
 | Sprint 13 | Chapter 13 | Part 2: Autonomy at Scale |
 | Sprint 14 | Chapter 14 | Part 2: Putting It All Together |
