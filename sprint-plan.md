@@ -172,8 +172,26 @@
 
 ---
 
-## Upcoming Sprints
+---
 
-| Sprint | Chapter | Topic |
-|--------|---------|-------|
-| Sprint 14 | Chapter 14 | Part 2: Putting It All Together |
+## Sprint 14 — Chapter 14: Putting It All Together (COMPLETE ✅)
+
+**Goal**: Synthesis chapter; reader runs a self-directed sprint on a backlog feature; full AgentFlow system demonstrated as one coherent practice; book closes.
+
+| Task | Status |
+|------|--------|
+| All 9 ebook-writer stages | ✅ Done |
+| Commit `chapters/part-2/ch-14-putting-it-all-together.md` | ✅ Done |
+
+---
+
+## Book Status: ALL 14 CHAPTERS COMPLETE ✅
+
+**Part 1** (Chapters 1–7): SE principles through guided Antigravity project
+**Part 2** (Chapters 8–14): AgentFlow methodology — loop, skills, context files, sprint cadence, autonomy, multi-agent, synthesis
+
+**Remaining work (Phase 3):**
+- Introduction and conclusion chapters
+- Continuity pass across all 14 chapters
+- Copyedit
+- Publication format
