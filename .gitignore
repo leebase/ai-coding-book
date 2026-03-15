@@ -23,7 +23,3 @@ Thumbs.db
 *.swp
 *.swo
 
-# Build output
-*.pdf
-*.epub
-*.mobi
