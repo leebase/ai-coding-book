@@ -1,18 +1,22 @@
-# The AI-Era Developer
+# AI Coding Books by Lee Harrington
 
-> A hands-on guide to software engineering discipline in the age of AI coding tools.
+A series of hands-on guides for developers working with AI tools. Each book is self-contained and builds directly on real practice — no toy examples, no hype.
 
 ---
 
-## About This Book
+## Book 1: The AI-Era Developer
 
-AI coding tools are powerful. Most developers using them are frustrated — because they gave up engineering discipline when they picked up the AI. This book restores that discipline, chapter by chapter, through real exercises using Google Antigravity and the AgentFlow methodology.
+<img src="chapters/SoftwareEngineeringWithAi.png" alt="The AI-Era Developer cover" width="200" align="right" />
+
+> A hands-on guide to software engineering discipline in the age of AI coding tools.
 
 **Thesis**: Software engineering discipline does not disappear in the AI era. It moves up a level. The AI writes the code. You are responsible for everything the code is supposed to do.
 
-## Book Structure
+AI coding tools are powerful. Most developers using them are frustrated — because they gave up engineering discipline when they picked up the AI. This book restores that discipline, chapter by chapter, through real exercises using the AgentFlow methodology.
 
-### Part 1 — Engineering in the AI Era
+### Book Structure
+
+**Part 1 — Engineering in the AI Era**
 
 The reader builds a **personal task manager CLI** from scratch across all seven chapters. Each chapter introduces one SE principle through a hands-on scenario.
 
@@ -26,7 +30,7 @@ The reader builds a **personal task manager CLI** from scratch across all seven 
 | 6 | [Manage Scope](chapters/part-1/ch-06-manage-scope.md) | The AI will gold-plate if you let it |
 | 7 | [Document Decisions](chapters/part-1/ch-07-document-decisions.md) | Document decisions, not just code |
 
-### Part 2 — The AgentFlow Methodology
+**Part 2 — The AgentFlow Methodology**
 
 For every principle from Part 1, Part 2 introduces the AgentFlow mechanism that enforces it systematically.
 
@@ -40,7 +44,7 @@ For every principle from Part 1, Part 2 introduces the AgentFlow mechanism that 
 | 13 | [Autonomy at Scale](chapters/part-2/ch-13-autonomy-at-scale.md) | Calibration heuristics, right mode for the task |
 | 14 | [Putting It All Together](chapters/part-2/ch-14-putting-it-all-together.md) | Self-directed sprint, full system synthesis |
 
-## Download the Book
+### Download Book 1
 
 | Format | File |
 |--------|------|
@@ -50,39 +54,101 @@ For every principle from Part 1, Part 2 introduces the AgentFlow mechanism that 
 
 ---
 
-## Target Reader
+## Book 2: Coding with Agent Teams
 
-- Working developers with 2–10 years of experience
-- Already using AI tools casually, not systematically
-- Frustrated that AI-assisted development is less predictable than expected
+<img src="book2/cover.jpg" alt="Coding with Agent Teams cover" width="200" align="right" />
 
-## Project Structure
+> A practical guide to document-driven multi-agent coordination.
 
-```
-├── chapters/
-│   ├── part-1/          # Ch 1–7: SE principles
-│   └── part-2/          # Ch 8–14: AgentFlow methodology
-├── skills/              # AgentFlow skill definitions
-├── agents/              # Agent role definitions
-├── product-definition.md
-├── project-plan.md
-├── sprint-plan.md
-├── context.md           # Session working memory
-└── AGENTS.md            # Agent operating instructions
-```
+**Thesis**: A single agent has one context, one perspective, and one job. Complex work has structural properties one agent cannot satisfy. The solution is a team.
 
-## Writing Methodology
+This book teaches you to build and run teams of AI agents — specialized roles working in sequence, passing structured output between each other, coordinated by a skill file you design. No external orchestration infrastructure required. Everything runs in your AI tool of choice using documents and skill files as the coordination layer.
 
-This book was written using **AgentFlow** — the same documentation-driven methodology it teaches. The writing pipeline uses:
+**Part 1** builds a content pipeline: a team that takes a topic and produces a finished article. Researcher, Writer, Adversarial Reader, Coordinator. In Chapter 5 you compare the pipeline output against a single-prompt article. The difference is not subtle.
 
-- A coordinator agent (`skills/ebook-writer.md`) with 9 stages
-- Specialized agent roles: se-educator, scenario-designer, confused-beginner, continuity-editor, agentflow-architect
-- The book-voice skill for consistent peer-to-peer tone
+**Part 2** applies the same pattern to software development. Planner, Implementer, Reviewer, Tester, Documenter — coordinated through a feature-sprint skill. The project is `git-summary`, a CLI tool built from requirement to documented, tested code.
 
-## Status
+### Book Structure
 
-**16 of 16 chapters complete** (including Introduction, Conclusion, and new Ch 10b: Resilience and Tool Portability). Available in EPUB, DOCX, and PDF above. Continuity pass and copyedit in progress.
+**Part 1 — The Content Pipeline**
+
+| Ch | Title | What You Build |
+|----|-------|----------------|
+| 1 | [Run the Prompt](book2/chapters/part-1/ch-01-run-the-prompt.md) | Baseline single-agent article |
+| 2 | [The Grounding Problem](book2/chapters/part-1/ch-02-the-grounding-problem.md) | `agents/researcher.md` |
+| 3 | [The Reader Problem](book2/chapters/part-1/ch-03-the-reader-problem.md) | `agents/adversarial-reader.md` |
+| 4 | [Voice and Sequence](book2/chapters/part-1/ch-04-voice-and-sequence.md) | `skills/voice.md`, `skills/article-pipeline.md` |
+| 5 | [Run the Pipeline](book2/chapters/part-1/ch-05-run-the-pipeline.md) | Full pipeline run + comparison |
+| 6 | [What You Cannot Trust](book2/chapters/part-1/ch-06-what-you-cannot-trust.md) | Calibration and trust boundaries |
+
+**Part 2 — The Coding Pipeline**
+
+| Ch | Title | What You Build |
+|----|-------|----------------|
+| 7 | [Translating the Pattern](book2/chapters/part-2/ch-07-translating-the-pattern.md) | `requirement.md`, pattern map |
+| 8 | [The Coding Team](book2/chapters/part-2/ch-08-the-coding-team.md) | Five agent role files |
+| 9 | [The Feature Skill](book2/chapters/part-2/ch-09-the-feature-skill.md) | `skills/feature-sprint.md` |
+| 10 | [Running a Sprint](book2/chapters/part-2/ch-10-running-a-sprint.md) | Full sprint run for `git-summary` |
+| 11 | [Your Coding Team at Work](book2/chapters/part-2/ch-11-your-coding-team-at-work.md) | Calibration and what comes next |
+
+### Download Book 2
+
+| Format | File |
+|--------|------|
+| 📖 EPUB | [coding-with-agent-teams.epub](book2/coding-with-agent-teams.epub) |
+| 📝 Word (DOCX) | [coding-with-agent-teams.docx](book2/coding-with-agent-teams.docx) |
+| 📄 PDF | [coding-with-agent-teams.pdf](book2/coding-with-agent-teams.pdf) |
 
 ---
 
-*Working title: "The AI-Era Developer"*
+## Target Reader
+
+Working developers with 2–10 years of experience who are already using AI tools — and frustrated that the results are less predictable than expected.
+
+- **Book 1** is for developers who want to restore software engineering discipline to their AI-assisted workflow.
+- **Book 2** is for developers who have outgrown single-agent sessions and want to coordinate multi-agent teams without external infrastructure.
+
+---
+
+## Repository Structure
+
+```
+├── chapters/               # Book 1: The AI-Era Developer
+│   ├── part-1/             # Ch 1–7: SE principles
+│   ├── part-2/             # Ch 8–14: AgentFlow methodology
+│   ├── AgentFlow.epub
+│   ├── AgentFlow.docx
+│   └── AgentFlow.pdf
+│
+├── book2/                  # Book 2: Coding with Agent Teams
+│   ├── chapters/
+│   │   ├── part-1/         # Ch 1–6: Content pipeline
+│   │   └── part-2/         # Ch 7–11: Coding pipeline
+│   ├── coding-with-agent-teams.epub
+│   ├── coding-with-agent-teams.docx
+│   ├── coding-with-agent-teams.pdf
+│   ├── coding-with-agent-teams.md  # Combined publication source
+│   ├── harness-inventory.md        # 23 swap points for spin-offs
+│   └── cover.jpg
+│
+├── skills/                 # AgentFlow skill definitions
+├── agents/                 # Agent role definitions (Book 1)
+├── AGENTS.md               # Agent operating instructions
+├── CLAUDE.md               # Project instructions for AI sessions
+└── context.md              # Session working memory (Book 1)
+```
+
+---
+
+## Writing Methodology
+
+Both books were written using **AgentFlow** — the same documentation-driven methodology they teach. The writing pipeline uses:
+
+- A coordinator skill with defined stages (research, draft, adversarial read, revise)
+- Specialized agent roles: se-educator, scenario-designer, confused-beginner, continuity-editor, agentflow-architect
+- A book-voice skill enforcing consistent peer-to-peer tone across all sessions
+
+---
+
+*Book 1: "The AI-Era Developer" — complete*
+*Book 2: "Coding with Agent Teams" — complete*

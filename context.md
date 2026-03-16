@@ -1,6 +1,7 @@
 # ai-coding-book Session Context
 
 > **Purpose**: Working memory for session continuity. Read this first, then `sprint-plan.md`.
+> **Note**: This file tracks Book 1 (The AI-Era Developer). Book 2 context is in `book2/context.md`.
 
 ---
 
@@ -8,7 +9,8 @@
 
 | Attribute | Value |
 |-----------|-------|
-| **Phase** | Phase 3 — Polish & Publication Prep |
+| **Series** | Two books complete — see README |
+| **Phase** | Book 1: Complete. Book 2: Complete. |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-15 |
 
@@ -35,22 +37,24 @@
 
 ## What's Happening Now
 
-### Current Work Stream
-All 14 chapters written and committed. Moving into **Phase 3: Polish & Publication Prep**.
+### Series Status
+Both books are complete and published to main.
 
-### Recently Completed
-- ✅ All 14 chapters (Part 1: Ch 1–7, Part 2: Ch 8–14)
+### Book 1 — The AI-Era Developer (complete)
+- ✅ All 16 chapters (14 + Introduction + Conclusion)
 - ✅ Project thread: task manager CLI built across Part 1
 - ✅ AgentFlow scaffold, writing pipeline, agent roles, skills
-- ✅ Product definition, project plan, sprint plan
+- ✅ Continuity pass, copyedit
+- ✅ Published: EPUB, DOCX, PDF in `chapters/`
 
-### Phase 3 Remaining Work
-- Sprint 15: Introduction chapter
-- Sprint 16: Conclusion chapter
-- Sprint 17: Visuals (14 diagrams across all chapters)
-- Sprint 18: Continuity pass (all 16 chapters)
-- Sprint 19: Copyedit (all 16 chapters)
-- Sprint 20: Publication format decision and conversion
+### Book 2 — Coding with Agent Teams (complete)
+- ✅ All 13 files (Introduction, Ch 1–11, Conclusion)
+- ✅ Content pipeline (Part 1) + Coding pipeline (Part 2)
+- ✅ Continuity pass, copyedit, harness inventory
+- ✅ Published: EPUB, DOCX, PDF in `book2/`
+
+### Next Up
+See `book2/context.md` for Book 2 spin-off and Book 3 planning.
 
 ---
 
@@ -68,9 +72,9 @@ All 14 chapters written and committed. Moving into **Phase 3: Polish & Publicati
 
 ## Open Questions
 
-1. Publication format (markdown → what?)
-2. Final book title (working title locked for now)
-3. Introduction and conclusion scope
+1. Book 3 topic and scope
+2. Tool-specific spin-offs for Book 2 (Claude Code, Cursor editions)
+3. Distribution / reader feedback channel
 
 ---
 
@@ -78,12 +82,8 @@ All 14 chapters written and committed. Moving into **Phase 3: Polish & Publicati
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Sprint 15: Write introduction chapter | AI | Draft committed to `chapters/introduction.md` |
-| 2 | Sprint 16: Write conclusion chapter | AI | Draft committed to `chapters/conclusion.md` |
-| 3 | Sprint 17: Add visuals (14 Mermaid/ASCII diagrams) | AI | All chapters have diagrams |
-| 4 | Sprint 18: Continuity pass | AI | All 16 chapters reviewed, issues fixed |
-| 5 | Sprint 19: Copyedit pass | AI | All 16 chapters polished |
-| 6 | Sprint 20: Publication format | TBD | Final output generated |
+| 1 | Plan Book 3 topic | Lee | Product definition drafted |
+| 2 | Book 2 spin-off: Claude Code edition | AI | Harness swaps applied from `book2/harness-inventory.md` |
 
 ---
 
