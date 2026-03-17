@@ -1,0 +1,11 @@
+---
+title: 'Your Dev Environment: A Guide for AI-Assisted Developers'
+author: Lee Harrington
+language: en-US
+description: 'Teaches new developers just enough about git, GitHub, Python environments, Node/npm, and Warp to understand what their AI coding tool is doing — and direct it when something breaks.'
+rights: 'Copyright © 2025 Lee Harrington. All rights reserved.'
+publisher: 'Leebase Press'
+cover-image: DevEnvCover.png
+toc: true
+toc-depth: 2
+---

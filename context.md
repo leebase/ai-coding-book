@@ -9,10 +9,10 @@
 
 | Attribute | Value |
 |-----------|-------|
-| **Series** | Two books complete — see README |
-| **Phase** | Book 1: Complete. Book 2: Complete. |
+| **Series** | Three books — see README |
+| **Phase** | Book 1: Complete. Book 2: Complete. Book 3: First draft + publication complete. |
 | **Mode** | 2 (Collaborative) |
-| **Last Updated** | 2026-03-15 |
+| **Last Updated** | 2026-03-17 |
 
 ### Sprint Status
 | Sprint | Status | Completion |
@@ -53,8 +53,14 @@ Both books are complete and published to main.
 - ✅ Continuity pass, copyedit, harness inventory
 - ✅ Published: EPUB, DOCX, PDF in `book2/`
 
+### Book 3 — Your Dev Environment (first draft complete)
+- ✅ All 17 chapters written (~25,000 words) using Claude Code subagents
+- ✅ Published: EPUB (9.1MB), DOCX (72KB), PDF (222KB) in `ai-env-book/`
+- ⏳ Thin chapters to expand: ch-04, ch-06, ch-14, conclusion
+- ⏳ Continuity pass, copyedit, rebuild formats
+
 ### Next Up
-See `book2/context.md` for Book 2 spin-off and Book 3 planning.
+See `ai-env-book/context.md` for Book 3 editing status and next actions.
 
 ---
 
@@ -72,9 +78,9 @@ See `book2/context.md` for Book 2 spin-off and Book 3 planning.
 
 ## Open Questions
 
-1. Book 3 topic and scope
-2. Tool-specific spin-offs for Book 2 (Claude Code, Cursor editions)
-3. Distribution / reader feedback channel
+1. Tool-specific spin-offs for Book 2 (Claude Code, Cursor editions)
+2. Distribution / reader feedback channel
+3. Book 4 topic and scope
 
 ---
 
@@ -82,7 +88,7 @@ See `book2/context.md` for Book 2 spin-off and Book 3 planning.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Plan Book 3 topic | Lee | Product definition drafted |
+| 1 | Book 3 editing passes (expand thin chapters, continuity, copyedit) | AI | All chapters ≥1,500w, drift resolved |
 | 2 | Book 2 spin-off: Claude Code edition | AI | Harness swaps applied from `book2/harness-inventory.md` |
 
 ---

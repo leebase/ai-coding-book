@@ -101,12 +101,71 @@ This book teaches you to build and run teams of AI agents — specialized roles 
 
 ---
 
+## Book 3: Your Dev Environment
+
+<img src="ai-env-book/DevEnvCover.png" alt="Your Dev Environment cover" width="200" align="right" />
+
+> A Guide for AI-Assisted Developers.
+
+**Thesis**: Before you can direct an AI coding tool effectively, you need to understand the environment it's operating in. Git, GitHub, Python environments, Node/npm, and your terminal are not optional prerequisites — they are the ground the AI stands on.
+
+This book teaches new developers just enough about each layer of the environment to understand what their AI coding tool is doing — and direct it confidently when something breaks. No prior experience assumed. No toy examples. Every topic introduced through a real error or a real question the AI raises.
+
+### Book Structure
+
+**Introduction + Part 1 — Git & GitHub**
+
+| Ch | Title |
+|----|-------|
+| Intro | Why Your Environment Matters |
+| 1 | What Git Actually Is |
+| 2 | GitHub — Where Your Code Lives |
+| 3 | Getting Your Computer Authorized |
+| 4 | Branches and Worktrees |
+| 5 | When Git Goes Wrong |
+
+**Part 2 — Python Environments**
+
+| Ch | Title |
+|----|-------|
+| 6 | Why Python Has an Environment Problem |
+| 7 | venv, conda, uv — Which One and Why |
+| 8 | Reading requirements.txt and pyproject.toml |
+
+**Part 3 — Node and npm**
+
+| Ch | Title |
+|----|-------|
+| 9 | What Node Is (and Why It's on Your Machine) |
+| 10 | nvm and Node Versions |
+| 11 | package.json and node_modules |
+
+**Part 4 — Warp**
+
+| Ch | Title |
+|----|-------|
+| 12 | The Gap Warp Fills |
+| 13 | Warp Basics |
+| 14 | Warp Workflows for Developers |
+| 15 | Dividing Responsibilities |
+
+**Conclusion**
+
+### Download Book 3
+
+| Format | File |
+|--------|------|
+| 📖 EPUB | [your-dev-environment.epub](ai-env-book/your-dev-environment.epub) |
+| 📝 Word (DOCX) | [your-dev-environment.docx](ai-env-book/your-dev-environment.docx) |
+| 📄 PDF | [your-dev-environment.pdf](ai-env-book/your-dev-environment.pdf) |
+
+---
+
 ## Target Reader
 
-Working developers with 2–10 years of experience who are already using AI tools — and frustrated that the results are less predictable than expected.
-
-- **Book 1** is for developers who want to restore software engineering discipline to their AI-assisted workflow.
-- **Book 2** is for developers who have outgrown single-agent sessions and want to coordinate multi-agent teams without external infrastructure.
+- **Book 1** — Working developers (2–10 yrs) who want to restore software engineering discipline to their AI-assisted workflow.
+- **Book 2** — Developers who have outgrown single-agent sessions and want to coordinate multi-agent teams without external infrastructure.
+- **Book 3** — New developers (or developers new to a stack) who need to understand the environment before they can direct an AI tool effectively.
 
 ---
 
@@ -131,24 +190,34 @@ Working developers with 2–10 years of experience who are already using AI tool
 │   ├── harness-inventory.md        # 23 swap points for spin-offs
 │   └── cover.jpg
 │
+├── ai-env-book/            # Book 3: Your Dev Environment
+│   ├── chapters/           # 17 source chapter files
+│   ├── your-dev-environment.md   # Combined publication source
+│   ├── your-dev-environment.epub
+│   ├── your-dev-environment.docx
+│   ├── your-dev-environment.pdf
+│   └── DevEnvCover.png
+│
 ├── skills/                 # AgentFlow skill definitions
 ├── agents/                 # Agent role definitions (Book 1)
 ├── AGENTS.md               # Agent operating instructions
 ├── CLAUDE.md               # Project instructions for AI sessions
-└── context.md              # Session working memory (Book 1)
+└── context.md              # Series session working memory
 ```
 
 ---
 
 ## Writing Methodology
 
-Both books were written using **AgentFlow** — the same documentation-driven methodology they teach. The writing pipeline uses:
+All three books were written using **AgentFlow** — the same documentation-driven methodology they teach. The writing pipeline uses:
 
 - A coordinator skill with defined stages (research, draft, adversarial read, revise)
 - Specialized agent roles: se-educator, scenario-designer, confused-beginner, continuity-editor, agentflow-architect
 - A book-voice skill enforcing consistent peer-to-peer tone across all sessions
+- For Book 3: Claude Code parallel subagents (Parts written simultaneously, then merged)
 
 ---
 
 *Book 1: "The AI-Era Developer" — complete*
 *Book 2: "Coding with Agent Teams" — complete*
+*Book 3: "Your Dev Environment" — first draft complete, editing in progress*

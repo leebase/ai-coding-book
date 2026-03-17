@@ -1,0 +1,4 @@
+.sync-conflict*
+.DS_Store
+node_modules/
+symphony-logs/
