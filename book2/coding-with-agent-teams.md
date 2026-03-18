@@ -129,6 +129,8 @@ First impressions — one sentence each:
 
 Write one honest sentence in response to each question. Not a critique — an impression. You are not deciding whether the article is good. You are noticing what you notice before you know what to look for.
 
+If "voice" or "misconception" feels vague right now, treat them plainly. "Voice" means whether the article sounds like a specific person wrote it. "Misconception" means whether it addresses something developers actually get wrong, rather than only describing the topic.
+
 > **Antigravity:** Copy the full article text from the agent response. In the Explorer pane (left sidebar), right-click your project directory and choose **New File**. Name it `article-v1.md`. Paste the article text, then add the comment block above it — at the very top of the file, before the article begins. Fill in your one-sentence impressions and save (Cmd+S or Ctrl+S).
 >
 > **Watch For:** `article-v1.md` appears in your file tree with the comment block at the top followed by the article text. Your four impressions are filled in. The file is saved.
@@ -200,7 +202,7 @@ You are not going to fix this by asking the agent to "only use real examples." T
 
 ## What a Researcher Role Does Differently
 
-A role is not a prompt. A prompt tells the agent what to produce. A role defines what the agent *is* during this task — its perspective, its constraints, and its output format. Those three things change what gets produced.
+A role is not a prompt. A prompt tells the agent what to produce. A role defines what the agent *is* during this task — its perspective, its constraints, and its output format.
 
 The researcher role does one thing: it commits to what it knows before writing starts. It does this by separating two outputs that one-agent generation blends together:
 
@@ -215,7 +217,7 @@ The researcher produces `research-notes.md`. Not an article. Not a list of ideas
 
 ## Building `agents/researcher.md`
 
-Create a new file: `agents/researcher.md`. This is your researcher role definition. It should contain:
+Create `agents/researcher.md`. If you do not already have an `agents/` directory in this project, create it first. This is your researcher role definition. It should contain:
 
 **What the researcher receives:**
 A topic and a question. In this case: the topic is "documentation your future self will actually use" and the question is "what do developers actually get wrong, and what evidence supports that?"
@@ -261,7 +263,7 @@ Rules:
 - If you cannot ground a claim, it does not go in Grounded
 ```
 
-> **Antigravity:** Create a new file: in the Explorer pane, right-click your project directory, choose **New File**, name it `agents/researcher.md`. Paste the role definition above. Save it.
+> **Antigravity:** In the Explorer pane, right-click your project directory and choose **New Folder** if `agents/` does not exist yet. Name it `agents`. Then right-click `agents/`, choose **New File**, name it `researcher.md`, paste the role definition above, and save it.
 
 ---
 
@@ -277,7 +279,7 @@ and what evidence supports that?
 
 > **Antigravity:** Start a **New Session**. In the input field, paste the full text of `agents/researcher.md`, then add a blank line, then add the topic and question above. Send it. The agent will produce structured research notes rather than article prose.
 >
-> **Watch For:** Output organized into the three sections — Grounded, Plausible, Uncertain. If the agent produces flowing prose instead, the role constraint did not hold. Add an explicit instruction at the top of your role definition: "Your entire output must use the structured format below. Do not write prose paragraphs."
+> **Watch For:** Output organized into the three sections — Grounded, Plausible, Uncertain. If the agent produces flowing prose instead, the role constraint did not hold. You may need to add an explicit instruction at the top of your role definition: "Your entire output must use the structured format below. Do not write prose paragraphs."
 
 When the output arrives, save it as `research-notes.md`.
 
@@ -444,7 +446,7 @@ Voice is not a style preference. It is a set of specific constraints that apply 
 - What sentence structures are preferred? What are off-limits?
 - What does "specific" mean in practice for this audience?
 
-Create `skills/voice.md`. Here is a starting definition you will adapt:
+Create `skills/voice.md`. If you do not already have a `skills/` directory in this project, create it first. Here is a starting definition you will adapt:
 
 ```markdown
 # Skill: Voice
@@ -475,7 +477,7 @@ Not a consultant. Someone who figured this out and is sharing it directly.
   to anything, it applies to nothing
 ```
 
-> **Antigravity:** Create `skills/voice.md` in your project directory. Paste the definition above, adjust the reader description to match your intended audience, and save it.
+> **Antigravity:** In the Explorer pane, right-click your project directory and choose **New Folder** if `skills/` does not exist yet. Name it `skills`. Then create `skills/voice.md`, paste the definition above, adjust the reader description to match your intended audience, and save it. For example, if you are writing for junior developers instead of experienced ones, change the first lines of **The Reader** section to say so explicitly.
 
 This file will be loaded at the start of every stage that produces prose. It does not change what the stages do — it changes what register they do it in.
 
@@ -563,9 +565,9 @@ is the most valuable gate — it is the last moment to catch
 a research problem before prose is built on top of it.
 ```
 
-> **Antigravity:** Create `skills/article-pipeline.md`. Paste the coordinator above. Save it.
+> **Antigravity:** Create `skills/article-pipeline.md` inside `skills/`. Paste the coordinator above. Save it.
 
-You will notice Stage 2 references `agents/writer.md` — a role you have not built yet. Add it now: a simple role that receives research notes and voice constraints and produces a draft. The writer role does not need to be complex; the researcher and adversarial reader are doing the heavy lifting. The writer's constraint is straightforward: use the research notes, use the voice, produce prose.
+You will notice Stage 2 references `agents/writer.md` — a role you have not built yet. That is intentional. The coordinator names the full sequence first; you will add the writer role next. It is a simple role that receives research notes and voice constraints and produces a draft. The writer role does not need to be complex; the researcher and adversarial reader are doing the heavy lifting. The writer's constraint is straightforward: use the research notes, use the voice, produce prose.
 
 ```markdown
 # Agent: Writer
@@ -645,13 +647,13 @@ useless within six months
 
 Follow the stages in the coordinator. At each stage, let the role complete before moving to the next. Use the optional Stage 1 gate — read the research notes before the writer starts. If anything in the notes looks uncertain, address it before prose exists.
 
-> **Antigravity:** Start a **New Session**. Paste the full contents of `skills/article-pipeline.md` at the start, then add the topic and target reader above. The agent will walk through the stages. At Stage 1, read `research-notes.md` before confirming it should proceed to Stage 2. At subsequent stages, let the pipeline run.
+> **Antigravity:** Start a **New Session**. Paste the full contents of `skills/article-pipeline.md` at the start, then add the topic and target reader above. The agent will walk through the stages. At Stage 1, read `research-notes.md` before confirming it should proceed to Stage 2. When you are ready, type: `Stage 1 complete. Proceed to Stage 2.` At subsequent stages, let the pipeline run.
 >
 > **Watch For:** The stages producing distinct outputs — research notes that stay in the structured format, a draft that stays within the research notes' claims, adversarial feedback that is located and specific, a final article that differs from the draft only at the located gaps. If stages blend — if the writer starts adding new claims, or the adversarial reader starts rewriting — the coordinator did not hold. Note where it broke; Chapter 6 addresses this directly.
 
-When `final.md` is ready, read it once through. Save a copy as `article-v2.md` — this is the artifact you will compare against `article-v1.md`.
+When `final.md` is ready, read it once through. Save a copy as `article-v2.md` — this is the artifact you will compare against `article-v1.md`. Like `article-v1.md`, leave it unchanged after saving so the comparison stays honest.
 
-> **Antigravity:** Copy the content of `final.md`. Create a new file in your project directory named `article-v2.md`. Paste the content and save.
+> **Antigravity:** Copy the content of `final.md`. Create a new file in your project directory named `article-v2.md`. Paste the content and save. Do not keep editing `article-v2.md` after that; it is your comparison artifact.
 
 Then open `article-v1.md` — the article you saved in Chapter 1.
 
@@ -660,6 +662,8 @@ Then open `article-v1.md` — the article you saved in Chapter 1.
 ## The Comparison
 
 Place both articles side by side. Read them on the same five dimensions you noted your first impressions against in Chapter 1:
+
+> **Antigravity:** Open both `article-v1.md` and `article-v2.md` in the editor pane. If your editor uses tabs, switch between them as you compare. You are not looking for perfect prose; you are looking for visible differences you can name.
 
 **Voice.** Does `article-v1.md` have a consistent register throughout? Does `article-v2.md`? Can you tell where in `article-v1.md` the tone shifts? Can you find a shift in `final.md`?
 
@@ -805,7 +809,7 @@ Not the same roles. Not the same files. The same design: specialized roles, expl
 
 Everything structural carries over unchanged.
 
-**Roles over prompts.** The coding pipeline has a Planner, an Implementer, a Reviewer, a Tester, and a Documenter. Each one receives a specific input, produces a specific output, and operates within explicit scope constraints. You will write role definition files for each of them, exactly as you wrote `agents/researcher.md` and `agents/adversarial-reader.md`.
+**Roles over prompts.** The coding pipeline has a Planner, an Implementer, a Reviewer, a Tester, and a Documenter. Each one receives a specific input, produces a specific output, and operates within explicit scope constraints. You will write role definition files for each of them, exactly as you wrote `agents/researcher.md` and `agents/adversarial-reader.md`. Code needs two roles prose did not: a Tester, because code has an objective pass/fail signal, and a Documenter, because the implementation and test report together can define the tool's real boundary.
 
 **Handoff contracts.** The Planner produces a plan that the Implementer consumes. The Implementer produces code that the Reviewer and Tester consume. The Tester produces a report that the Documenter uses to describe what the tool does and what it doesn't. Each stage is designed with the next stage's input in mind.
 
@@ -886,7 +890,9 @@ Printed to stdout. Sections:
 - Output formats other than plain text
 ```
 
-> **Antigravity:** Create `requirement.md` in a new project directory for Part 2. Paste the requirement above. Save it. This file does not change during the sprint — if you find that the requirement is underspecified while building, you add a new version after the sprint, not during it.
+> **Antigravity:** Create a new folder for Part 2 in your workspace root. Name it `git-summary-project`. Then create `requirement.md` inside that folder, paste the requirement above, and save it. This file does not change during the sprint — if you find that the requirement is underspecified while building, you add a new version after the sprint, not during it.
+>
+> **Watch For:** `requirement.md` exists in `git-summary-project` with all five sections present: What it does, Inputs, Output format, Constraints, and Out of scope. Verify the Out of scope section is there before you proceed — it is the first scope boundary in the coding pipeline.
 
 Read the requirement once. Notice what it specifies and what it leaves open. "Top 5 most-modified files" — what if there are fewer than 5? "Most recent commit message for that file" — what if the file has no commits in the period? These are the questions the Planner will answer. They are in the requirement as gaps on purpose — real requirements always have them.
 
@@ -913,7 +919,7 @@ Your coding team has five. The work is different; the structure is the same.
 
 **Reviewer.** Receives the code and the requirement. Does not run the code. Reads it — asking whether it correctly implements the requirement, whether it handles the edge cases the Planner specified, whether it does anything the requirement did not ask for, and whether it is the simplest correct implementation. The Reviewer's output is located findings: specific lines, specific issues.
 
-**Tester.** Receives the code and the requirement. Writes and runs tests — not tests that prove the code works, but tests that prove the code meets the requirement. The distinction matters: a test that passes because the implementation is clever is not the same as a test that confirms the requirement was satisfied. The Tester's output is a test file and a report.
+**Tester.** Receives the code and the requirement. Writes the tests that verify the requirement and records the results when they are run — not tests that prove the code works, but tests that prove the code meets the requirement. The distinction matters: a test that passes because the implementation is clever is not the same as a test that confirms the requirement was satisfied. The Tester's output is a test file and a report.
 
 **Documenter.** Receives the code, the requirement, and the test report. Produces a README that tells a new user what the tool does, how to run it, what the options are, and what it does not do. The "does not do" section is not optional — it closes the scope explicitly and prevents the next person from implementing features that were deliberately excluded.
 
@@ -1078,7 +1084,9 @@ Rules:
 - If the test report shows a failing test, note the limitation in the README
 ```
 
-> **Antigravity:** Create the `agents/` directory in your Part 2 project. Create all five role files above. Save each one.
+> **Antigravity:** In `git-summary-project`, right-click the project folder and choose **New Folder**. Name it `agents`. Then create all five role files above inside that directory. Save each one.
+>
+> **Watch For:** Five files exist in `agents/`: `planner.md`, `implementer.md`, `reviewer.md`, `tester.md`, and `documenter.md`. Open each one and confirm the first line matches the role name you intended to create.
 
 ---
 
@@ -1205,8 +1213,9 @@ Role: load `agents/tester.md`
 Input: requirement.md, git_summary.py
 Output: test_git_summary.py, test-report.md
 
-Write and run tests that verify the requirement.
-Report all results — passing and failing.
+Write tests that verify the requirement.
+Report all results — passing and failing. If you cannot run the
+tests in your current session, make that explicit in test-report.md.
 
 ---
 
@@ -1244,7 +1253,9 @@ Include what the tool does not do.
 ---
 ```
 
-> **Antigravity:** Create `skills/feature-sprint.md`. Paste the coordinator above. Save it.
+> **Antigravity:** In `git-summary-project`, create `skills/` if it does not exist yet. Then create `skills/feature-sprint.md`, paste the coordinator above, and save it.
+>
+> **Watch For:** `skills/feature-sprint.md` exists with all six stages present. Verify the `⛔ Gate — Required` block appears between Stage 1 and Stage 2 — that gate is load-bearing.
 
 ---
 
@@ -1321,7 +1332,7 @@ This is the judgment call only you can make. If the Planner decided that fewer t
 
 > **Antigravity:** Save the Planner's output as `plan.md`. Read it thoroughly. Add or adjust any decisions before proceeding. The plan is the spec from here.
 
-When you are satisfied with `plan.md`, confirm to the session that Stage 1 is complete and Stage 2 is beginning.
+When you are satisfied with `plan.md`, confirm to the session that Stage 1 is complete and Stage 2 is beginning. Use the exact transition message: `Stage 1 complete. Proceed to Stage 2.`
 
 ---
 
@@ -1338,6 +1349,8 @@ Save the output as `git_summary.py`. Read it once before proceeding to Stages 3 
 ## Stages 3 and 4: Running in Parallel
 
 Stages 3 and 4 are independent — the Reviewer and Tester both need `git_summary.py` but not each other's output. This is where running two simultaneous sessions pays off.
+
+What "parallel" means here is simple: both stages start from the same implementation file, but in separate contexts. They do not share memory, they do not wait on each other, and neither stage can silently bias the other. Each produces its own artifact. Stage 5 begins only after you have both.
 
 > **Antigravity:** Click the grid icon (upper right) to open **Manager View**. You will see your current session as a card. Create a second agent card by clicking the **+** or **New Agent** button on the canvas.
 >
@@ -1359,17 +1372,17 @@ Before Stage 5, read both outputs together.
 
 **From the Tester:** Which tests passed on first run? Which failed? For the failing tests: is the failure because the implementation is wrong, or because the test's assertion is wrong? Both are useful information. A test that fails because the implementation misses an edge case identified in the plan is a correctness failure. A test that fails because the tester wrote an assertion that contradicts the requirement is a test failure — fix the test, not the code.
 
-Save `review-notes.md` and `test-report.md`.
+Save `review-notes.md`, `test-report.md`, and `test_git_summary.py`.
 
 ---
 
 ## Stage 5: Addressing Findings
 
-> **Antigravity:** Open a new session (or return to your Stage 2 session if context is still clean). Load `agents/implementer.md`. Paste `git_summary.py`, `review-notes.md`, and `test-report.md`. Instruct the agent to fix the correctness issues and failing tests.
+> **Antigravity:** Open a new session (or return to your Stage 2 session if the context is still clean). A session is still clean if it has only the Stage 2 exchange in it and the agent is still following the original implementation scope without commentary drift. Load `agents/implementer.md`. Paste `git_summary.py`, `review-notes.md`, and `test-report.md`. Instruct the agent to fix the correctness issues and failing tests.
 >
 > **Watch For:** Changes that are targeted — fixes for the specific issues raised, not rewrites of working sections. If the Implementer rewrites a section that had no findings, it has stepped outside its scope. Note it; that is scope drift.
 
-When the revised `git_summary.py` is ready, run the tests again. They should pass. If they do not, the Stage 5 Implementer missed something — run Stage 5 again with the updated test output.
+When the revised `git_summary.py` is ready, run the tests again yourself. If the tester wrote `unittest` tests, run `python -m unittest test_git_summary.py`. If the tester wrote `pytest` tests and `pytest` is available in your environment, run `pytest test_git_summary.py` instead. They should pass. If they do not, the Stage 5 Implementer missed something — run Stage 5 again with the updated test output.
 
 Check the optional gate: tests pass, review findings resolved, no new scope violations introduced. If yes, proceed.
 

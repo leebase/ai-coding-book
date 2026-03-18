@@ -8,6 +8,36 @@
 
 ## 2026-03-18 — Book 2 EPUB Readability Fixes and Post-Publication Review Sync
 
+## 2026-03-18 — Book 2 Rebuilt From Claude-Reviewed Source
+
+**Rebuilt all three Book 2 publication outputs** after applying the accepted Claude-review fixes. EPUB was regenerated with `pandoc`, DOCX was regenerated with the local Node builder, PDF was regenerated with `pandoc` + WeasyPrint, and `book2/build-docx.js` was updated so the DOCX now carries the correct title and author metadata instead of the default `Un-named` values.
+
+### How to Verify
+
+1. Confirm the rebuilt artifacts exist:
+   - [book2/coding-with-agent-teams.epub](/Users/lee/projects/ai-coding-book/book2/coding-with-agent-teams.epub)
+   - [book2/coding-with-agent-teams.docx](/Users/lee/projects/ai-coding-book/book2/coding-with-agent-teams.docx)
+   - [book2/coding-with-agent-teams.pdf](/Users/lee/projects/ai-coding-book/book2/coding-with-agent-teams.pdf)
+2. Open [book2/build-docx.js](/Users/lee/projects/ai-coding-book/book2/build-docx.js) and confirm the document metadata now sets title, creator, and lastModifiedBy
+3. Inspect DOCX core metadata:
+   - `unzip -p book2/coding-with-agent-teams.docx docProps/core.xml`
+   - verify it includes `Coding with Agent Teams` and `Lee Harrington`
+4. Confirm the PDF is a fresh valid file:
+   - `file book2/coding-with-agent-teams.pdf`
+   - verify it reports a PDF document
+
+## 2026-03-18 — Book 2 Claude Review Pass Applied
+
+**Applied the high-signal fixes from the Claude review memo** without taking the review as a wholesale rewrite. The accepted changes were all execution- and harness-related: clearer directory-creation instructions, explicit gate confirmation language, new `Watch For` callouts in the Part 2 setup chapters, a concept-level explanation of parallel Reviewer/Tester stages in Chapter 10, and exact Stage 5 test rerun commands.
+
+### How to Verify
+
+1. Open [book2/claude_says.md](/Users/lee/projects/ai-coding-book/book2/claude_says.md) and confirm the review memo is present in the live repo
+2. Open [book2/chapters/part-1/ch-05-run-the-pipeline.md](/Users/lee/projects/ai-coding-book/book2/chapters/part-1/ch-05-run-the-pipeline.md) and confirm the Stage 1 gate now includes the explicit message `Stage 1 complete. Proceed to Stage 2.`
+3. Open [book2/chapters/part-2/ch-07-translating-the-pattern.md](/Users/lee/projects/ai-coding-book/book2/chapters/part-2/ch-07-translating-the-pattern.md), [book2/chapters/part-2/ch-08-the-coding-team.md](/Users/lee/projects/ai-coding-book/book2/chapters/part-2/ch-08-the-coding-team.md), and [book2/chapters/part-2/ch-09-the-feature-skill.md](/Users/lee/projects/ai-coding-book/book2/chapters/part-2/ch-09-the-feature-skill.md) and confirm the new `Watch For` scaffolding is present
+4. Open [book2/chapters/part-2/ch-10-running-a-sprint.md](/Users/lee/projects/ai-coding-book/book2/chapters/part-2/ch-10-running-a-sprint.md) and confirm it now explains what parallel stages mean and includes exact test rerun commands
+5. Open [book2/harness-inventory.md](/Users/lee/projects/ai-coding-book/book2/harness-inventory.md) and confirm the new `Swap 10.5b` test-rerun step is tracked
+
 ## 2026-03-18 — Environment Book Review Cleanup and Book 2 EPUB Hard-Wrap Fix
 
 **Completed two targeted follow-ups.** First, the Environment book was restored from Gemini's direct chapter rewrites back to the committed manuscript, then updated manually with only a small set of worthwhile clarity improvements in the original voice. Second, Book 2's EPUB readability issue was fixed at the manuscript level by hard-wrapping the worst long-line fenced examples and rebuilding the EPUB so the fix no longer depends on reader support for CSS `pre` wrapping.

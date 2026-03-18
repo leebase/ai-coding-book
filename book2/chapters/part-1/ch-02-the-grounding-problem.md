@@ -44,7 +44,7 @@ You are not going to fix this by asking the agent to "only use real examples." T
 
 ## What a Researcher Role Does Differently
 
-A role is not a prompt. A prompt tells the agent what to produce. A role defines what the agent *is* during this task — its perspective, its constraints, and its output format. Those three things change what gets produced.
+A role is not a prompt. A prompt tells the agent what to produce. A role defines what the agent *is* during this task — its perspective, its constraints, and its output format.
 
 The researcher role does one thing: it commits to what it knows before writing starts. It does this by separating two outputs that one-agent generation blends together:
 
@@ -59,7 +59,7 @@ The researcher produces `research-notes.md`. Not an article. Not a list of ideas
 
 ## Building `agents/researcher.md`
 
-Create a new file: `agents/researcher.md`. This is your researcher role definition. It should contain:
+Create `agents/researcher.md`. If you do not already have an `agents/` directory in this project, create it first. This is your researcher role definition. It should contain:
 
 **What the researcher receives:**
 A topic and a question. In this case: the topic is "documentation your future self will actually use" and the question is "what do developers actually get wrong, and what evidence supports that?"
@@ -105,7 +105,7 @@ Rules:
 - If you cannot ground a claim, it does not go in Grounded
 ```
 
-> **Antigravity:** Create a new file: in the Explorer pane, right-click your project directory, choose **New File**, name it `agents/researcher.md`. Paste the role definition above. Save it.
+> **Antigravity:** In the Explorer pane, right-click your project directory and choose **New Folder** if `agents/` does not exist yet. Name it `agents`. Then right-click `agents/`, choose **New File**, name it `researcher.md`, paste the role definition above, and save it.
 
 ---
 
@@ -121,7 +121,7 @@ and what evidence supports that?
 
 > **Antigravity:** Start a **New Session**. In the input field, paste the full text of `agents/researcher.md`, then add a blank line, then add the topic and question above. Send it. The agent will produce structured research notes rather than article prose.
 >
-> **Watch For:** Output organized into the three sections — Grounded, Plausible, Uncertain. If the agent produces flowing prose instead, the role constraint did not hold. Add an explicit instruction at the top of your role definition: "Your entire output must use the structured format below. Do not write prose paragraphs."
+> **Watch For:** Output organized into the three sections — Grounded, Plausible, Uncertain. If the agent produces flowing prose instead, the role constraint did not hold. You may need to add an explicit instruction at the top of your role definition: "Your entire output must use the structured format below. Do not write prose paragraphs."
 
 When the output arrives, save it as `research-notes.md`.
 

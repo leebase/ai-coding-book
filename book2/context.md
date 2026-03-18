@@ -33,7 +33,7 @@
 ## What's Happening Now
 
 ### Current Work Stream
-Book 2 is published. Human EPUB review surfaced three follow-up items; the EPUB readability problem has now been addressed twice: first with stronger CSS wrapping rules, then with manual hard-wrapping of the worst long-line code examples in the manuscript itself. Simpler reader-facing wording than "confabulation" is also done. One editorial pass remains: trimming repetitive Antigravity callouts.
+Book 2 is published and rebuilt from the latest revised manuscript. Human EPUB review surfaced three follow-up items; the EPUB readability problem has now been addressed twice: first with stronger CSS wrapping rules, then with manual hard-wrapping of the worst long-line code examples in the manuscript itself. Simpler reader-facing wording than "confabulation" is also done. A later Claude review added a second round of high-signal fixes: clearer gate-confirmation steps, explicit directory creation, stronger Part 2 Watch For scaffolding, and a cleaner explanation of parallel stages in Chapter 10. The publication outputs have now been regenerated from that revised source set. One editorial pass remains: trimming repetitive Antigravity callouts.
 
 ### Recently Completed
 - ✅ All 11 chapters (Sprints 1–11)
@@ -44,9 +44,13 @@ Book 2 is published. Human EPUB review surfaced three follow-up items; the EPUB 
 - ✅ Agent vs skill distinction added to Ch 4 ("Two Kinds of Files" section)
 - ✅ Reader-facing "confabulation" wording replaced with plainer language
 - ✅ Long-line EPUB code examples manually hard-wrapped in source and EPUB rebuilt
+- ✅ High-signal Claude review fixes applied to execution flow and harness separation in Ch 1, 2, 4, 5, and 7-10
+- ✅ EPUB, DOCX, and PDF rebuilt from the revised Book 2 manuscript
+- ✅ DOCX builder updated to write correct title/author metadata
 
 ### In Progress
 - Human-review follow-up pass for Antigravity callout trimming
+- Optional follow-up on lower-priority Claude review notes (for example, conclusion tightening and future-framework phrasing)
 
 ---
 
@@ -72,6 +76,7 @@ Book 2 is published. Human EPUB review surfaced three follow-up items; the EPUB 
 ## Open Questions
 
 1. How aggressive should the Book 2 callout-trimming pass be?
+2. Do we want to apply the optional Claude review notes in the conclusion, or leave the current ending alone?
 
 ---
 
@@ -80,7 +85,7 @@ Book 2 is published. Human EPUB review surfaced three follow-up items; the EPUB 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
 | 1 | Trim repetitive `> **Antigravity:**` callouts | Lee + AI | Callouts carry only tool-specific UI/action detail |
-| 2 | Spot-check rebuilt Book 2 EPUB on-device | Lee | Human review confirms the hard-wrapped examples now read cleanly in the target reader |
+| 2 | Spot-check rebuilt Book 2 outputs on-device | Lee | Human review confirms the latest EPUB/PDF/DOCX read cleanly in the target apps |
 | 3 | Capture any additional Book 2 reader errata | Lee + AI | Feedback logged and categorized |
 
 ---

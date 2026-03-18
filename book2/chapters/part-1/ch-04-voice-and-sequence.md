@@ -27,7 +27,7 @@ Voice is not a style preference. It is a set of specific constraints that apply 
 - What sentence structures are preferred? What are off-limits?
 - What does "specific" mean in practice for this audience?
 
-Create `skills/voice.md`. Here is a starting definition you will adapt:
+Create `skills/voice.md`. If you do not already have a `skills/` directory in this project, create it first. Here is a starting definition you will adapt:
 
 ```markdown
 # Skill: Voice
@@ -58,7 +58,7 @@ Not a consultant. Someone who figured this out and is sharing it directly.
   to anything, it applies to nothing
 ```
 
-> **Antigravity:** Create `skills/voice.md` in your project directory. Paste the definition above, adjust the reader description to match your intended audience, and save it.
+> **Antigravity:** In the Explorer pane, right-click your project directory and choose **New Folder** if `skills/` does not exist yet. Name it `skills`. Then create `skills/voice.md`, paste the definition above, adjust the reader description to match your intended audience, and save it. For example, if you are writing for junior developers instead of experienced ones, change the first lines of **The Reader** section to say so explicitly.
 
 This file will be loaded at the start of every stage that produces prose. It does not change what the stages do — it changes what register they do it in.
 
@@ -146,9 +146,9 @@ is the most valuable gate — it is the last moment to catch
 a research problem before prose is built on top of it.
 ```
 
-> **Antigravity:** Create `skills/article-pipeline.md`. Paste the coordinator above. Save it.
+> **Antigravity:** Create `skills/article-pipeline.md` inside `skills/`. Paste the coordinator above. Save it.
 
-You will notice Stage 2 references `agents/writer.md` — a role you have not built yet. Add it now: a simple role that receives research notes and voice constraints and produces a draft. The writer role does not need to be complex; the researcher and adversarial reader are doing the heavy lifting. The writer's constraint is straightforward: use the research notes, use the voice, produce prose.
+You will notice Stage 2 references `agents/writer.md` — a role you have not built yet. That is intentional. The coordinator names the full sequence first; you will add the writer role next. It is a simple role that receives research notes and voice constraints and produces a draft. The writer role does not need to be complex; the researcher and adversarial reader are doing the heavy lifting. The writer's constraint is straightforward: use the research notes, use the voice, produce prose.
 
 ```markdown
 # Agent: Writer

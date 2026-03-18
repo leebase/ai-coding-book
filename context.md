@@ -51,7 +51,7 @@ Book 1 and Book 2 are complete and published. The standalone environment primer 
 - ✅ All 13 files (Introduction, Ch 1–11, Conclusion)
 - ✅ Content pipeline (Part 1) + Coding pipeline (Part 2)
 - ✅ Continuity pass, copyedit, harness inventory
-- ✅ Published: EPUB, DOCX, PDF in `book2/`
+- ✅ Post-publication review fixes applied and outputs rebuilt in `book2/`
 
 ### Standalone Primer — Your Dev Environment (complete)
 - ✅ All 17 chapters written (~25,000 words) using Claude Code subagents

@@ -14,7 +14,7 @@ Your coding team has five. The work is different; the structure is the same.
 
 **Reviewer.** Receives the code and the requirement. Does not run the code. Reads it — asking whether it correctly implements the requirement, whether it handles the edge cases the Planner specified, whether it does anything the requirement did not ask for, and whether it is the simplest correct implementation. The Reviewer's output is located findings: specific lines, specific issues.
 
-**Tester.** Receives the code and the requirement. Writes and runs tests — not tests that prove the code works, but tests that prove the code meets the requirement. The distinction matters: a test that passes because the implementation is clever is not the same as a test that confirms the requirement was satisfied. The Tester's output is a test file and a report.
+**Tester.** Receives the code and the requirement. Writes the tests that verify the requirement and records the results when they are run — not tests that prove the code works, but tests that prove the code meets the requirement. The distinction matters: a test that passes because the implementation is clever is not the same as a test that confirms the requirement was satisfied. The Tester's output is a test file and a report.
 
 **Documenter.** Receives the code, the requirement, and the test report. Produces a README that tells a new user what the tool does, how to run it, what the options are, and what it does not do. The "does not do" section is not optional — it closes the scope explicitly and prevents the next person from implementing features that were deliberately excluded.
 
@@ -179,7 +179,9 @@ Rules:
 - If the test report shows a failing test, note the limitation in the README
 ```
 
-> **Antigravity:** Create the `agents/` directory in your Part 2 project. Create all five role files above. Save each one.
+> **Antigravity:** In `git-summary-project`, right-click the project folder and choose **New Folder**. Name it `agents`. Then create all five role files above inside that directory. Save each one.
+>
+> **Watch For:** Five files exist in `agents/`: `planner.md`, `implementer.md`, `reviewer.md`, `tester.md`, and `documenter.md`. Open each one and confirm the first line matches the role name you intended to create.
 
 ---
 

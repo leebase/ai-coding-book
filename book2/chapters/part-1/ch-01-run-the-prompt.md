@@ -68,6 +68,8 @@ First impressions — one sentence each:
 
 Write one honest sentence in response to each question. Not a critique — an impression. You are not deciding whether the article is good. You are noticing what you notice before you know what to look for.
 
+If "voice" or "misconception" feels vague right now, treat them plainly. "Voice" means whether the article sounds like a specific person wrote it. "Misconception" means whether it addresses something developers actually get wrong, rather than only describing the topic.
+
 > **Antigravity:** Copy the full article text from the agent response. In the Explorer pane (left sidebar), right-click your project directory and choose **New File**. Name it `article-v1.md`. Paste the article text, then add the comment block above it — at the very top of the file, before the article begins. Fill in your one-sentence impressions and save (Cmd+S or Ctrl+S).
 >
 > **Watch For:** `article-v1.md` appears in your file tree with the comment block at the top followed by the article text. Your four impressions are filled in. The file is saved.

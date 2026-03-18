@@ -12,7 +12,7 @@ Not the same roles. Not the same files. The same design: specialized roles, expl
 
 Everything structural carries over unchanged.
 
-**Roles over prompts.** The coding pipeline has a Planner, an Implementer, a Reviewer, a Tester, and a Documenter. Each one receives a specific input, produces a specific output, and operates within explicit scope constraints. You will write role definition files for each of them, exactly as you wrote `agents/researcher.md` and `agents/adversarial-reader.md`.
+**Roles over prompts.** The coding pipeline has a Planner, an Implementer, a Reviewer, a Tester, and a Documenter. Each one receives a specific input, produces a specific output, and operates within explicit scope constraints. You will write role definition files for each of them, exactly as you wrote `agents/researcher.md` and `agents/adversarial-reader.md`. Code needs two roles prose did not: a Tester, because code has an objective pass/fail signal, and a Documenter, because the implementation and test report together can define the tool's real boundary.
 
 **Handoff contracts.** The Planner produces a plan that the Implementer consumes. The Implementer produces code that the Reviewer and Tester consume. The Tester produces a report that the Documenter uses to describe what the tool does and what it doesn't. Each stage is designed with the next stage's input in mind.
 
@@ -93,7 +93,9 @@ Printed to stdout. Sections:
 - Output formats other than plain text
 ```
 
-> **Antigravity:** Create `requirement.md` in a new project directory for Part 2. Paste the requirement above. Save it. This file does not change during the sprint — if you find that the requirement is underspecified while building, you add a new version after the sprint, not during it.
+> **Antigravity:** Create a new folder for Part 2 in your workspace root. Name it `git-summary-project`. Then create `requirement.md` inside that folder, paste the requirement above, and save it. This file does not change during the sprint — if you find that the requirement is underspecified while building, you add a new version after the sprint, not during it.
+>
+> **Watch For:** `requirement.md` exists in `git-summary-project` with all five sections present: What it does, Inputs, Output format, Constraints, and Out of scope. Verify the Out of scope section is there before you proceed — it is the first scope boundary in the coding pipeline.
 
 Read the requirement once. Notice what it specifies and what it leaves open. "Top 5 most-modified files" — what if there are fewer than 5? "Most recent commit message for that file" — what if the file has no commits in the period? These are the questions the Planner will answer. They are in the requirement as gaps on purpose — real requirements always have them.
 

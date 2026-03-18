@@ -42,6 +42,41 @@
 **Context/Notes**:
 Feedback came from human EPUB reading review. The wrapping issue is a production bug; the callout note is still an editorial follow-up. EPUB was first rebuilt with stronger `pre` wrapping rules after pandoc became available, then the worst long-line code examples were manually hard-wrapped in the manuscript and the EPUB was rebuilt again so the fix would survive EPUB readers that ignore `pre` wrapping CSS.
 
+### 2026-03-18 — Review by Claude
+
+**Status**: 🟢 Actioned
+
+**Scope**: `book2/` execution completeness, harness separation, and chapter-to-callout alignment
+
+**Findings**:
+
+1. **[DOCS] Gate and execution steps were underspecified in a few load-bearing places**
+   - **Location**: `book2/chapters/part-1/ch-05-run-the-pipeline.md`, `book2/chapters/part-2/ch-10-running-a-sprint.md`
+   - **Issue**: The book told the reader to confirm a gate or re-run tests without always saying exactly what to type or run next.
+   - **Recommendation**: Add explicit transition wording and concrete test commands.
+   - **Priority**: 🔴 High
+
+2. **[DOCS] Part 2 setup chapters had weaker confirmation scaffolding than Part 1**
+   - **Location**: `book2/chapters/part-2/ch-07-translating-the-pattern.md`, `book2/chapters/part-2/ch-08-the-coding-team.md`, `book2/chapters/part-2/ch-09-the-feature-skill.md`
+   - **Issue**: Part 2 setup had fewer `Watch For` confirmations, which made the harness feel less grounded than the earlier chapters.
+   - **Recommendation**: Add targeted `Watch For` callouts for the requirement, role files, and feature-sprint skill.
+   - **Priority**: 🟡 Medium
+
+3. **[DOCS] Some file-system actions were too implicit**
+   - **Location**: `book2/chapters/part-1/ch-02-the-grounding-problem.md`, `book2/chapters/part-1/ch-04-voice-and-sequence.md`, `book2/chapters/part-2/ch-08-the-coding-team.md`, `book2/chapters/part-2/ch-09-the-feature-skill.md`
+   - **Issue**: The book assumed `agents/` and `skills/` directories into existence instead of always instructing the reader to create them.
+   - **Recommendation**: Make directory creation explicit where it first matters.
+   - **Priority**: 🟡 Medium
+
+**Action Items**:
+- [x] Add explicit gate-confirmation wording and concrete test rerun commands (completed by: @ai)
+- [x] Add missing Part 2 `Watch For` callouts (completed by: @ai)
+- [x] Make `agents/` and `skills/` directory creation explicit in the relevant chapters (completed by: @ai)
+
+**Context/Notes**:
+The full Claude review memo lives in `book2/claude_says.md`. Only the high-signal execution and harness-separation points were applied. Lower-priority stylistic notes were intentionally left alone unless they helped a real reader action.
+Book 2 publication outputs were then rebuilt from the revised manuscript, and the DOCX builder was updated to write the correct title/author metadata.
+
 ### 2026-02-17 — Review by {REVIEWER_NAME}
 
 **Status**: 🟡 Pending / 🟢 Actioned / 🔴 Declined

@@ -43,7 +43,7 @@ This is the judgment call only you can make. If the Planner decided that fewer t
 
 > **Antigravity:** Save the Planner's output as `plan.md`. Read it thoroughly. Add or adjust any decisions before proceeding. The plan is the spec from here.
 
-When you are satisfied with `plan.md`, confirm to the session that Stage 1 is complete and Stage 2 is beginning.
+When you are satisfied with `plan.md`, confirm to the session that Stage 1 is complete and Stage 2 is beginning. Use the exact transition message: `Stage 1 complete. Proceed to Stage 2.`
 
 ---
 
@@ -60,6 +60,8 @@ Save the output as `git_summary.py`. Read it once before proceeding to Stages 3 
 ## Stages 3 and 4: Running in Parallel
 
 Stages 3 and 4 are independent — the Reviewer and Tester both need `git_summary.py` but not each other's output. This is where running two simultaneous sessions pays off.
+
+What "parallel" means here is simple: both stages start from the same implementation file, but in separate contexts. They do not share memory, they do not wait on each other, and neither stage can silently bias the other. Each produces its own artifact. Stage 5 begins only after you have both.
 
 > **Antigravity:** Click the grid icon (upper right) to open **Manager View**. You will see your current session as a card. Create a second agent card by clicking the **+** or **New Agent** button on the canvas.
 >
@@ -81,17 +83,17 @@ Before Stage 5, read both outputs together.
 
 **From the Tester:** Which tests passed on first run? Which failed? For the failing tests: is the failure because the implementation is wrong, or because the test's assertion is wrong? Both are useful information. A test that fails because the implementation misses an edge case identified in the plan is a correctness failure. A test that fails because the tester wrote an assertion that contradicts the requirement is a test failure — fix the test, not the code.
 
-Save `review-notes.md` and `test-report.md`.
+Save `review-notes.md`, `test-report.md`, and `test_git_summary.py`.
 
 ---
 
 ## Stage 5: Addressing Findings
 
-> **Antigravity:** Open a new session (or return to your Stage 2 session if context is still clean). Load `agents/implementer.md`. Paste `git_summary.py`, `review-notes.md`, and `test-report.md`. Instruct the agent to fix the correctness issues and failing tests.
+> **Antigravity:** Open a new session (or return to your Stage 2 session if the context is still clean). A session is still clean if it has only the Stage 2 exchange in it and the agent is still following the original implementation scope without commentary drift. Load `agents/implementer.md`. Paste `git_summary.py`, `review-notes.md`, and `test-report.md`. Instruct the agent to fix the correctness issues and failing tests.
 >
 > **Watch For:** Changes that are targeted — fixes for the specific issues raised, not rewrites of working sections. If the Implementer rewrites a section that had no findings, it has stepped outside its scope. Note it; that is scope drift.
 
-When the revised `git_summary.py` is ready, run the tests again. They should pass. If they do not, the Stage 5 Implementer missed something — run Stage 5 again with the updated test output.
+When the revised `git_summary.py` is ready, run the tests again yourself. If the tester wrote `unittest` tests, run `python -m unittest test_git_summary.py`. If the tester wrote `pytest` tests and `pytest` is available in your environment, run `pytest test_git_summary.py` instead. They should pass. If they do not, the Stage 5 Implementer missed something — run Stage 5 again with the updated test output.
 
 Check the optional gate: tests pass, review findings resolved, no new scope violations introduced. If yes, proceed.
 

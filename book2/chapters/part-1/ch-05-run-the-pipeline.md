@@ -20,13 +20,13 @@ useless within six months
 
 Follow the stages in the coordinator. At each stage, let the role complete before moving to the next. Use the optional Stage 1 gate — read the research notes before the writer starts. If anything in the notes looks uncertain, address it before prose exists.
 
-> **Antigravity:** Start a **New Session**. Paste the full contents of `skills/article-pipeline.md` at the start, then add the topic and target reader above. The agent will walk through the stages. At Stage 1, read `research-notes.md` before confirming it should proceed to Stage 2. At subsequent stages, let the pipeline run.
+> **Antigravity:** Start a **New Session**. Paste the full contents of `skills/article-pipeline.md` at the start, then add the topic and target reader above. The agent will walk through the stages. At Stage 1, read `research-notes.md` before confirming it should proceed to Stage 2. When you are ready, type: `Stage 1 complete. Proceed to Stage 2.` At subsequent stages, let the pipeline run.
 >
 > **Watch For:** The stages producing distinct outputs — research notes that stay in the structured format, a draft that stays within the research notes' claims, adversarial feedback that is located and specific, a final article that differs from the draft only at the located gaps. If stages blend — if the writer starts adding new claims, or the adversarial reader starts rewriting — the coordinator did not hold. Note where it broke; Chapter 6 addresses this directly.
 
-When `final.md` is ready, read it once through. Save a copy as `article-v2.md` — this is the artifact you will compare against `article-v1.md`.
+When `final.md` is ready, read it once through. Save a copy as `article-v2.md` — this is the artifact you will compare against `article-v1.md`. Like `article-v1.md`, leave it unchanged after saving so the comparison stays honest.
 
-> **Antigravity:** Copy the content of `final.md`. Create a new file in your project directory named `article-v2.md`. Paste the content and save.
+> **Antigravity:** Copy the content of `final.md`. Create a new file in your project directory named `article-v2.md`. Paste the content and save. Do not keep editing `article-v2.md` after that; it is your comparison artifact.
 
 Then open `article-v1.md` — the article you saved in Chapter 1.
 
@@ -35,6 +35,8 @@ Then open `article-v1.md` — the article you saved in Chapter 1.
 ## The Comparison
 
 Place both articles side by side. Read them on the same five dimensions you noted your first impressions against in Chapter 1:
+
+> **Antigravity:** Open both `article-v1.md` and `article-v2.md` in the editor pane. If your editor uses tabs, switch between them as you compare. You are not looking for perfect prose; you are looking for visible differences you can name.
 
 **Voice.** Does `article-v1.md` have a consistent register throughout? Does `article-v2.md`? Can you tell where in `article-v1.md` the tone shifts? Can you find a shift in `final.md`?
 

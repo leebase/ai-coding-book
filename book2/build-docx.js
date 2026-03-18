@@ -308,6 +308,10 @@ async function main() {
   };
 
   const doc = new Document({
+    creator: 'Lee Harrington',
+    lastModifiedBy: 'Lee Harrington',
+    title: 'Coding with Agent Teams',
+    description: 'A practical guide to document-driven multi-agent coordination',
     numbering: {
       config: [
         {

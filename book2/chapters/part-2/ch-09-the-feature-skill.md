@@ -93,8 +93,9 @@ Role: load `agents/tester.md`
 Input: requirement.md, git_summary.py
 Output: test_git_summary.py, test-report.md
 
-Write and run tests that verify the requirement.
-Report all results — passing and failing.
+Write tests that verify the requirement.
+Report all results — passing and failing. If you cannot run the
+tests in your current session, make that explicit in test-report.md.
 
 ---
 
@@ -132,7 +133,9 @@ Include what the tool does not do.
 ---
 ```
 
-> **Antigravity:** Create `skills/feature-sprint.md`. Paste the coordinator above. Save it.
+> **Antigravity:** In `git-summary-project`, create `skills/` if it does not exist yet. Then create `skills/feature-sprint.md`, paste the coordinator above, and save it.
+>
+> **Watch For:** `skills/feature-sprint.md` exists with all six stages present. Verify the `⛔ Gate — Required` block appears between Stage 1 and Stage 2 — that gate is load-bearing.
 
 ---
 
