@@ -38,7 +38,7 @@ Its limitation is equally simple: it only knows about packages. It doesn't know 
 
 ## pyproject.toml
 
-`pyproject.toml` is the newer standard, introduced to replace the patchwork of older configuration formats that Python projects accumulated over the years. It's richer than `requirements.txt` because it holds more than just the package list.
+`pyproject.toml` is the newer standard, introduced to replace the patchwork of older configuration formats that Python projects accumulated over the years. TOML is just a structured text format for configuration files. You don't need to memorize the acronym. What matters is that this file can hold more than just the package list.
 
 Open `backend/pyproject.toml` and you'll see something like this:
 

@@ -40,7 +40,7 @@
 - [ ] Run a focused callout-trimming pass on Book 2 harness callouts (assigned to: @ai)
 
 **Context/Notes**:
-Feedback came from human EPUB reading review. The wrapping issue is a production bug; the callout note is still an editorial follow-up. EPUB was rebuilt with stronger `pre` wrapping rules after pandoc became available.
+Feedback came from human EPUB reading review. The wrapping issue is a production bug; the callout note is still an editorial follow-up. EPUB was first rebuilt with stronger `pre` wrapping rules after pandoc became available, then the worst long-line code examples were manually hard-wrapped in the manuscript and the EPUB was rebuilt again so the fix would survive EPUB readers that ignore `pre` wrapping CSS.
 
 ### 2026-02-17 — Review by {REVIEWER_NAME}
 

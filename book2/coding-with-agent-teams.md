@@ -1,16 +1,3 @@
-# Coding with Agent Teams
-
-*A practical guide to document-driven multi-agent coordination*
-
----
-
-<!-- PUBLICATION FORMAT: Single-file edition. All chapters in reading order.
-     Source files: book-2/chapters/
-     Harness: Antigravity
-     For spin-off editions, see: book-2/harness-inventory.md -->
-
----
-
 # Introduction
 
 You have been using AI agents for a while. You know how to write a prompt. You know what a good response looks like and what a bad one looks like. You have gotten real work done with these tools.
@@ -69,9 +56,6 @@ That is an accurate description of what you are about to build. Not a perfect sy
 
 Let's build it.
 
----
-
-# Part 1: The Content Pipeline
 
 ---
 
@@ -128,10 +112,18 @@ Then create a new file called `article-v1.md`, paste the full text in, and add t
 ```markdown
 <!--
 First impressions — one sentence each:
-  Voice: Does this sound like a specific person wrote it, or like anyone could have?
-  Examples: Are they concrete enough to recognize, or generic enough to fit anything?
-  Misconception: Does this address something developers get wrong, or just explain the topic?
-  Send test: Would you send this to someone whose opinion you respect, unchanged?
+  Voice:
+    Does this sound like a specific person wrote it,
+    or like anyone could have?
+  Examples:
+    Are they concrete enough to recognize,
+    or generic enough to fit anything?
+  Misconception:
+    Does this address something developers get wrong,
+    or just explain the topic?
+  Send test:
+    Would you send this to someone whose opinion
+    you respect, unchanged?
 -->
 ```
 
@@ -158,6 +150,7 @@ That is exactly what this chapter needed to produce.
 ---
 
 > **Key Takeaway:** Complete is not the same as good. You have a complete article. Keep it exactly as it is — you will need it in five chapters.
+
 
 ---
 
@@ -304,6 +297,7 @@ Every role in your pipeline will have a handoff contract. You will design them d
 
 > **Key Takeaway:** The researcher's job is not to write — it is to commit. Separating that commitment from the writing changes what the writing can trust.
 
+
 ---
 
 # Chapter 3: The Reader Problem
@@ -418,6 +412,7 @@ When you are done, you have a draft that was written from grounded research and 
 
 > **Key Takeaway:** Clarity is invisible to the person with context. You need a role whose entire job is to not have it.
 
+
 ---
 
 # Chapter 4: Voice and Sequence
@@ -465,7 +460,8 @@ who is slightly behind on this specific thing. Not a teacher.
 Not a consultant. Someone who figured this out and is sharing it directly.
 
 ## Constraints
-- Short sentences when the point is sharp. Expand only when the concept requires it.
+- Short sentences when the point is sharp.
+  Expand only when the concept requires it.
 - Specific examples over general principles wherever possible.
 - Name the problem before offering the solution.
 - No hedging. If something is true, say it.
@@ -475,7 +471,8 @@ Not a consultant. Someone who figured this out and is sharing it directly.
 - Academic register: "it can be observed that" → "notice that"
 - Cheerleading: do not tell the reader how useful this will be
 - False precision: do not use numbers or statistics you cannot source
-- Generic examples: if the example could apply to anything, it applies to nothing
+- Generic examples: if the example could apply
+  to anything, it applies to nothing
 ```
 
 > **Antigravity:** Create `skills/voice.md` in your project directory. Paste the definition above, adjust the reader description to match your intended audience, and save it.
@@ -623,6 +620,7 @@ This is the same calibration question you will face with every pipeline you buil
 
 > **Key Takeaway:** A coordinator turns a collection of roles into a pipeline. Sequence is a constraint, not a preference — and voice is a constraint you define before writing starts, not a style that emerges during it.
 
+
 ---
 
 # Chapter 5: Run the Pipeline
@@ -663,11 +661,11 @@ Then open `article-v1.md` — the article you saved in Chapter 1.
 
 Place both articles side by side. Read them on the same five dimensions you noted your first impressions against in Chapter 1:
 
-**Voice.** Does `article-v1.md` have a consistent register throughout? Does `article-v2.md`? Can you tell where in `article-v1.md` the tone shifts? Can you find a shift in `article-v2.md`?
+**Voice.** Does `article-v1.md` have a consistent register throughout? Does `article-v2.md`? Can you tell where in `article-v1.md` the tone shifts? Can you find a shift in `final.md`?
 
 **Examples.** Pick one example from each article. For the `article-v1.md` example: could it have come from anywhere, or is it specific to a real situation? For the `article-v2.md` example: is it in `research-notes.md`? Can you trace it to a grounded claim?
 
-**Misconception.** Does `article-v1.md` address something a developer actually gets wrong about documentation — a specific wrong belief — or does it explain what good documentation looks like? Does `article-v2.md` do the same? Is the difference visible?
+**Misconception.** Does `article-v1.md` address something a developer actually gets wrong about documentation — a specific wrong belief — or does it explain what good documentation looks like? Does `final.md` do the same? Is the difference visible?
 
 **Silent gaps.** Find one place in `article-v1.md` where a reader without background might lose the thread without knowing it. Now find the same kind of place in `article-v2.md`. Were the gaps in `article-v2.md` smaller? Were they in different places?
 
@@ -705,11 +703,12 @@ You are not looking for failures. You are calibrating your trust. The pipeline p
 
 > **Key Takeaway:** Each quality in the final article traces back to a specific role. That traceability is what a team gives you that one agent cannot — not just better output, but output you can understand and improve.
 
+
 ---
 
 # Chapter 6: What You Cannot Trust
 
-The pipeline works. You have evidence of it in `article-v2.md`. The comparison with `article-v1.md` showed specific, traceable improvements — not "better in general" but better in the ways the design intended.
+The pipeline works. You have evidence of it in `final.md`. The comparison with `article-v1.md` showed specific, traceable improvements — not "better in general" but better in the ways the design intended.
 
 Now for the part the pipeline does not advertise.
 
@@ -789,9 +788,6 @@ As of writing, the main options worth knowing:
 
 Each of these trades the simplicity of document-driven coordination for the reliability of programmatic control. If what you built in Part 1 is working for you, you do not need them yet. If the failure modes are costing you more than the infrastructure would, you do now. Search for current comparisons before committing — the relative strengths of these frameworks are changing faster than most books can track.
 
----
-
-# Part 2: The Coding Team
 
 ---
 
@@ -897,6 +893,7 @@ Read the requirement once. Notice what it specifies and what it leaves open. "To
 ---
 
 > **Key Takeaway:** The pipeline pattern translates directly from content to code. What changes is what each role is protecting against — and code's pass/fail signal makes some failures unambiguous in a way that prose never is.
+
 
 ---
 
@@ -1045,7 +1042,8 @@ Rules:
 - Use Python's unittest or pytest (standard library or pytest only)
 - Every test must state in its docstring which requirement statement it covers
 - Do not test internal implementation details — test observable behavior
-- If a requirement is untestable as written, report it; do not invent a proxy test
+- If a requirement is untestable as written,
+  report it; do not invent a proxy test
 ```
 
 ### `agents/documenter.md`
@@ -1092,10 +1090,13 @@ Read through the five roles and trace what each one receives and produces:
 requirement.md
   └─► Planner ──────────────► plan.md
                                   └─► Implementer ──► git_summary.py
-                                                           ├─► Reviewer ──► review-notes.md
-                                                           └─► Tester ───► test_git_summary.py
-                                                                            test-report.md
-                                                                                └─► Documenter ──► README.md
+                         ├─► Reviewer
+                         │   └─► review-notes.md
+                         └─► Tester
+                             ├─► test_git_summary.py
+                             ├─► test-report.md
+                             └─► Documenter
+                                 └─► README.md
 ```
 
 Reviewer and Tester both receive `git_summary.py`. They run in parallel — their outputs do not depend on each other. That is the independence test from Chapter 7: can task B start before task A completes? For Reviewer and Tester, the answer is yes. For Implementer, the answer is no — it depends on the plan.
@@ -1105,6 +1106,7 @@ This dependency structure determines the sprint's parallelism. Stages 1 and 2 ar
 ---
 
 > **Key Takeaway:** Five roles, five files, one handoff chain. The chain is visible before a single line of code is written — and it tells you which stages can run in parallel before you decide to try.
+
 
 ---
 
@@ -1271,6 +1273,7 @@ After Stage 1 is the last cheap moment. Everything after it is built on the plan
 
 > **Key Takeaway:** The coordinator sequences the team and holds the gates. The mandatory gate after Stage 1 is the most important line in the whole skill file — it is the last cheap moment before work that cannot be recovered.
 
+
 ---
 
 # Chapter 10: Running a Sprint
@@ -1394,6 +1397,7 @@ That is the pipeline. One more chapter to close the loop.
 
 > **Key Takeaway:** Running the pipeline is following the sequence the coordinator defines, reading each output before confirming the next stage, and trusting that specialized roles produce better results than one agent doing everything — because you have now seen both.
 
+
 ---
 
 # Chapter 11: Your Coding Team at Work
@@ -1428,7 +1432,8 @@ plan.md                 — the Planner's decisions, filling the gaps
 git_summary.py          — the implementation
 test_git_summary.py     — tests that verify the requirement, not the code
 test-report.md          — what passed, what failed, what was missing
-review-notes.md         — located findings from someone who read without running
+review-notes.md         — located findings from someone
+                          who read without running
 README.md               — documentation for someone who was not in the room
 agents/
   planner.md
@@ -1485,6 +1490,7 @@ For now, you have a system you can run, a team you understand, and an honest pic
 ---
 
 > **Key Takeaway:** The pipeline is portable. The team you built for `git-summary` is the team for the next feature, and the one after that. Add roles when you need them. The coordinator grows with the work.
+
 
 ---
 

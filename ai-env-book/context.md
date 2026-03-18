@@ -41,15 +41,16 @@
 
 ## What's Happening Now
 
-All 17 chapter files are complete, the combined manuscript is synced, and the publication outputs were rebuilt successfully on 2026-03-17.
+All 17 chapter files are complete, and the combined manuscript is synced. A post-publication review pass reverted Gemini's direct rewrites, kept the review memo as reference, and applied a small set of selective clarity fixes. Publication outputs were last rebuilt successfully on 2026-03-17 and are now slightly behind the latest chapter text.
 Total: ~26,500 words. Final outputs live in `ai-env-book/`.
 
 ---
 
 ## Next Actions
 
-1. Optional future visual proof pass in external reader apps before storefront upload
-2. Log reader errata if any surface after distribution
+1. Rebuild EPUB, DOCX, and PDF if the latest selective source edits are accepted
+2. Optional future visual proof pass in external reader apps before storefront upload
+3. Log reader errata if any surface after distribution
 
 ---
 

@@ -120,6 +120,8 @@ When the AI sees the `EBADENGINE` error, the sequence is straightforward.
 > **Watch For:**
 > After the switch, `node --version` should return `v20.11.1`. When `npm install` runs again, the `EBADENGINE` error should be gone. You'll see the install proceed — downloading packages, logging progress, finishing with `added N packages in Xs`. That's the engine check passing and the install completing.
 
+One small landmine: if nvm itself was just installed in this terminal session, the shell may not know about it yet. The install succeeded, but the current shell hasn't reloaded its startup files. In that case the AI will usually run `source ~/.zshrc` (or the equivalent for your shell) or simply start a fresh terminal session before trying `nvm install` again.
+
 ---
 
 ## The Session Caveat

@@ -415,6 +415,8 @@ The private key is usually stored at `~/.ssh/id_ed25519` (or `~/.ssh/id_rsa` for
 
 The practical upshot: once the public key is on GitHub and the private key is on your machine, every git operation over SSH just works. The exchange happens invisibly. The AI pushes, GitHub checks, the handshake completes.
 
+One small beginner trap is worth naming here: the `.ssh` folder is hidden by default. If you're used to clicking through folders in Finder or Explorer, it can look like the key files don't exist. They do. The easiest path is not hunting for them in a file browser at all. Let the AI read the public key directly in the terminal and show you exactly what needs to be copied.
+
 > **Don't Do This:** Do not regenerate your SSH key pair after setting it up unless you have a specific reason. Regenerating creates a new key pair, which means the old public key on GitHub no longer matches. Every push will fail until you update GitHub with the new public key. The AI may regenerate keys if you ask it to "fix" auth by starting over — confirm this is what you want before it does.
 
 ---
@@ -498,6 +500,14 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 The output is a long string starting with `ssh-ed25519`. That entire string gets added to GitHub at: Settings → SSH and GPG keys → New SSH key.
+
+On macOS, the AI may also use:
+
+```
+pbcopy < ~/.ssh/id_ed25519.pub
+```
+
+That copies the public key straight to your clipboard so you don't have to select it manually. Different shells and operating systems use different clipboard commands, but the idea is the same: read the public key in the terminal, then copy it from there.
 
 After you paste it in and save, the `ssh -T git@github.com` test should succeed.
 
@@ -902,7 +912,7 @@ When you install Python on your machine, you get a Python interpreter. That's th
 
 Libraries get installed separately. When you install a library, it gets placed somewhere on your machine — a folder that the Python interpreter looks in when your code says `from flask import Flask`. If Flask isn't in that folder, you get the error above.
 
-Here's the part that trips people up: Python can be installed in multiple places on the same machine, and each installation has its own separate folder of libraries. Running `python backend/app.py` uses whichever Python your terminal found first. That might not be the one with Flask installed. Or more precisely, it probably isn't — because Flask hasn't been installed anywhere yet for this project.
+Here's the part that trips people up: Python can be installed in multiple places on the same machine, and each installation has its own separate folder of libraries. Running `python backend/app.py` uses whichever Python your terminal found first. That search list is part of your PATH — the list of places your shell checks when you type a command. That Python might not be the one with Flask installed. Or more precisely, it probably isn't — because Flask hasn't been installed anywhere yet for this project.
 
 That's the problem. Not that Python is missing. Not that Flask doesn't exist. It's that this project's libraries haven't been installed into an isolated space that this project uses.
 
@@ -1192,7 +1202,7 @@ Its limitation is equally simple: it only knows about packages. It doesn't know 
 
 ## pyproject.toml
 
-`pyproject.toml` is the newer standard, introduced to replace the patchwork of older configuration formats that Python projects accumulated over the years. It's richer than `requirements.txt` because it holds more than just the package list.
+`pyproject.toml` is the newer standard, introduced to replace the patchwork of older configuration formats that Python projects accumulated over the years. TOML is just a structured text format for configuration files. You don't need to memorize the acronym. What matters is that this file can hold more than just the package list.
 
 Open `backend/pyproject.toml` and you'll see something like this:
 
@@ -1564,6 +1574,8 @@ When the AI sees the `EBADENGINE` error, the sequence is straightforward.
 
 > **Watch For:**
 > After the switch, `node --version` should return `v20.11.1`. When `npm install` runs again, the `EBADENGINE` error should be gone. You'll see the install proceed — downloading packages, logging progress, finishing with `added N packages in Xs`. That's the engine check passing and the install completing.
+
+One small landmine: if nvm itself was just installed in this terminal session, the shell may not know about it yet. The install succeeded, but the current shell hasn't reloaded its startup files. In that case the AI will usually run `source ~/.zshrc` (or the equivalent for your shell) or simply start a fresh terminal session before trying `nvm install` again.
 
 ---
 
@@ -2046,7 +2058,7 @@ COMMAND   PID   USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
 node    12345   you   24u  IPv6 0x...         0t0  TCP *:3000 (LISTEN)
 ```
 
-There it is. A Node process, PID 12345, listening on port 3000. This is the previous dev server session — it didn't stop cleanly when you closed that terminal window. The process is still running. The port is still occupied.
+There it is. A Node process, PID 12345, listening on port 3000. PID stands for Process ID — just the operating system's number for a running program. This is the previous dev server session — it didn't stop cleanly when you closed that terminal window. The process is still running. The port is still occupied.
 
 Now type `#` again:
 
@@ -2067,6 +2079,8 @@ kill -9 12345
 ```
 
 `kill` sends a signal to a process. `-9` is the SIGKILL signal — it terminates the process immediately, no cleanup. The `12345` is the PID from the output you just read.
+
+That's why `kill -9` is the blunt instrument. It works, but it doesn't give the program a chance to shut down cleanly or save work. For a stuck local dev server, that's usually fine. For something more important, you stop and look more carefully before using it.
 
 > **Watch For:** After running `kill -9 12345`, run `lsof -i :3000` again. If the output is empty, the port is clear. If the same process is still there, you may need to run the kill command again.
 
@@ -2212,9 +2226,11 @@ Warp generates:
 echo 'export OPENAI_API_KEY=abc123' >> ~/.zshrc && source ~/.zshrc
 ```
 
+Pause before you run that and look at the arrows. `>>` means append — add this line to the end of the file. A single `>` means overwrite — replace the entire file with this one line.
+
 The logic is the same as the PATH fix from Chapter 13: append the export statement to `~/.zshrc`, then reload the file in the current session so the change takes effect immediately.
 
-> **Don't Do This:** Do not put the actual value of a sensitive API key in a public repository. The command above writes the key to `~/.zshrc`, which is a local file on your machine and is not tracked by git (as long as you haven't explicitly added it to the project). But if you ever commit `~/.zshrc` itself, or copy its contents somewhere version-controlled, the key is exposed. Keep `~/.zshrc` off of git.
+> **Don't Do This:** Do not change `>>` to `>` by accident. `>>` appends. `>` overwrites. If you overwrite `~/.zshrc`, you wipe out every other shell setting in that file. Also: do not put the actual value of a sensitive API key in a public repository. The command above writes the key to `~/.zshrc`, which is a local file on your machine and is not tracked by git (as long as you haven't explicitly added it to the project). But if you ever commit `~/.zshrc` itself, or copy its contents somewhere version-controlled, the key is exposed. Keep `~/.zshrc` off of git.
 
 Run the command. To confirm it worked, open a new terminal — not just a new tab, a genuinely new session — and check:
 

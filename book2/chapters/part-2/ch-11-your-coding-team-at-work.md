@@ -30,7 +30,8 @@ plan.md                 — the Planner's decisions, filling the gaps
 git_summary.py          — the implementation
 test_git_summary.py     — tests that verify the requirement, not the code
 test-report.md          — what passed, what failed, what was missing
-review-notes.md         — located findings from someone who read without running
+review-notes.md         — located findings from someone
+                          who read without running
 README.md               — documentation for someone who was not in the room
 agents/
   planner.md

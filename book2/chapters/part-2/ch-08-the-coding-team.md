@@ -143,7 +143,8 @@ Rules:
 - Use Python's unittest or pytest (standard library or pytest only)
 - Every test must state in its docstring which requirement statement it covers
 - Do not test internal implementation details — test observable behavior
-- If a requirement is untestable as written, report it; do not invent a proxy test
+- If a requirement is untestable as written,
+  report it; do not invent a proxy test
 ```
 
 ### `agents/documenter.md`
@@ -190,10 +191,13 @@ Read through the five roles and trace what each one receives and produces:
 requirement.md
   └─► Planner ──────────────► plan.md
                                   └─► Implementer ──► git_summary.py
-                                                           ├─► Reviewer ──► review-notes.md
-                                                           └─► Tester ───► test_git_summary.py
-                                                                            test-report.md
-                                                                                └─► Documenter ──► README.md
+                         ├─► Reviewer
+                         │   └─► review-notes.md
+                         └─► Tester
+                             ├─► test_git_summary.py
+                             ├─► test-report.md
+                             └─► Documenter
+                                 └─► README.md
 ```
 
 Reviewer and Tester both receive `git_summary.py`. They run in parallel — their outputs do not depend on each other. That is the independence test from Chapter 7: can task B start before task A completes? For Reviewer and Tester, the answer is yes. For Implementer, the answer is no — it depends on the plan.

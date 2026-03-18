@@ -40,9 +40,11 @@ Warp generates:
 echo 'export OPENAI_API_KEY=abc123' >> ~/.zshrc && source ~/.zshrc
 ```
 
+Pause before you run that and look at the arrows. `>>` means append — add this line to the end of the file. A single `>` means overwrite — replace the entire file with this one line.
+
 The logic is the same as the PATH fix from Chapter 13: append the export statement to `~/.zshrc`, then reload the file in the current session so the change takes effect immediately.
 
-> **Don't Do This:** Do not put the actual value of a sensitive API key in a public repository. The command above writes the key to `~/.zshrc`, which is a local file on your machine and is not tracked by git (as long as you haven't explicitly added it to the project). But if you ever commit `~/.zshrc` itself, or copy its contents somewhere version-controlled, the key is exposed. Keep `~/.zshrc` off of git.
+> **Don't Do This:** Do not change `>>` to `>` by accident. `>>` appends. `>` overwrites. If you overwrite `~/.zshrc`, you wipe out every other shell setting in that file. Also: do not put the actual value of a sensitive API key in a public repository. The command above writes the key to `~/.zshrc`, which is a local file on your machine and is not tracked by git (as long as you haven't explicitly added it to the project). But if you ever commit `~/.zshrc` itself, or copy its contents somewhere version-controlled, the key is exposed. Keep `~/.zshrc` off of git.
 
 Run the command. To confirm it worked, open a new terminal — not just a new tab, a genuinely new session — and check:
 

@@ -67,7 +67,7 @@ COMMAND   PID   USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
 node    12345   you   24u  IPv6 0x...         0t0  TCP *:3000 (LISTEN)
 ```
 
-There it is. A Node process, PID 12345, listening on port 3000. This is the previous dev server session — it didn't stop cleanly when you closed that terminal window. The process is still running. The port is still occupied.
+There it is. A Node process, PID 12345, listening on port 3000. PID stands for Process ID — just the operating system's number for a running program. This is the previous dev server session — it didn't stop cleanly when you closed that terminal window. The process is still running. The port is still occupied.
 
 Now type `#` again:
 
@@ -88,6 +88,8 @@ kill -9 12345
 ```
 
 `kill` sends a signal to a process. `-9` is the SIGKILL signal — it terminates the process immediately, no cleanup. The `12345` is the PID from the output you just read.
+
+That's why `kill -9` is the blunt instrument. It works, but it doesn't give the program a chance to shut down cleanly or save work. For a stuck local dev server, that's usually fine. For something more important, you stop and look more carefully before using it.
 
 > **Watch For:** After running `kill -9 12345`, run `lsof -i :3000` again. If the output is empty, the port is clear. If the same process is still there, you may need to run the kill command again.
 

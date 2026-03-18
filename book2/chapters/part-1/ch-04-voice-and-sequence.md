@@ -43,7 +43,8 @@ who is slightly behind on this specific thing. Not a teacher.
 Not a consultant. Someone who figured this out and is sharing it directly.
 
 ## Constraints
-- Short sentences when the point is sharp. Expand only when the concept requires it.
+- Short sentences when the point is sharp.
+  Expand only when the concept requires it.
 - Specific examples over general principles wherever possible.
 - Name the problem before offering the solution.
 - No hedging. If something is true, say it.
@@ -53,7 +54,8 @@ Not a consultant. Someone who figured this out and is sharing it directly.
 - Academic register: "it can be observed that" → "notice that"
 - Cheerleading: do not tell the reader how useful this will be
 - False precision: do not use numbers or statistics you cannot source
-- Generic examples: if the example could apply to anything, it applies to nothing
+- Generic examples: if the example could apply
+  to anything, it applies to nothing
 ```
 
 > **Antigravity:** Create `skills/voice.md` in your project directory. Paste the definition above, adjust the reader description to match your intended audience, and save it.

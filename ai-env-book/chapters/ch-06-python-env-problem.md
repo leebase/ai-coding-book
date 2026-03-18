@@ -21,7 +21,7 @@ When you install Python on your machine, you get a Python interpreter. That's th
 
 Libraries get installed separately. When you install a library, it gets placed somewhere on your machine — a folder that the Python interpreter looks in when your code says `from flask import Flask`. If Flask isn't in that folder, you get the error above.
 
-Here's the part that trips people up: Python can be installed in multiple places on the same machine, and each installation has its own separate folder of libraries. Running `python backend/app.py` uses whichever Python your terminal found first. That might not be the one with Flask installed. Or more precisely, it probably isn't — because Flask hasn't been installed anywhere yet for this project.
+Here's the part that trips people up: Python can be installed in multiple places on the same machine, and each installation has its own separate folder of libraries. Running `python backend/app.py` uses whichever Python your terminal found first. That search list is part of your PATH — the list of places your shell checks when you type a command. That Python might not be the one with Flask installed. Or more precisely, it probably isn't — because Flask hasn't been installed anywhere yet for this project.
 
 That's the problem. Not that Python is missing. Not that Flask doesn't exist. It's that this project's libraries haven't been installed into an isolated space that this project uses.
 

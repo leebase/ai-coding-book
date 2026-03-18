@@ -33,7 +33,7 @@
 ## What's Happening Now
 
 ### Current Work Stream
-Book 2 is published. Human EPUB review surfaced three follow-up items; two are now complete: stronger EPUB code-block wrapping and simpler reader-facing wording than "confabulation." One editorial pass remains: trimming repetitive Antigravity callouts.
+Book 2 is published. Human EPUB review surfaced three follow-up items; the EPUB readability problem has now been addressed twice: first with stronger CSS wrapping rules, then with manual hard-wrapping of the worst long-line code examples in the manuscript itself. Simpler reader-facing wording than "confabulation" is also done. One editorial pass remains: trimming repetitive Antigravity callouts.
 
 ### Recently Completed
 - ✅ All 11 chapters (Sprints 1–11)
@@ -42,6 +42,8 @@ Book 2 is published. Human EPUB review surfaced three follow-up items; two are n
 - ✅ `book-2/skills/book-2-voice.md`
 - ✅ Phase 3 complete: continuity pass (5 issues fixed), copyedit (voice + callout consistency), harness inventory, combined publication file
 - ✅ Agent vs skill distinction added to Ch 4 ("Two Kinds of Files" section)
+- ✅ Reader-facing "confabulation" wording replaced with plainer language
+- ✅ Long-line EPUB code examples manually hard-wrapped in source and EPUB rebuilt
 
 ### In Progress
 - Human-review follow-up pass for Antigravity callout trimming
@@ -78,7 +80,7 @@ Book 2 is published. Human EPUB review surfaced three follow-up items; two are n
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
 | 1 | Trim repetitive `> **Antigravity:**` callouts | Lee + AI | Callouts carry only tool-specific UI/action detail |
-| 2 | Spot-check rebuilt Book 2 EPUB on-device | Lee | Human review confirms long role-file examples now wrap acceptably |
+| 2 | Spot-check rebuilt Book 2 EPUB on-device | Lee | Human review confirms the hard-wrapped examples now read cleanly in the target reader |
 | 3 | Capture any additional Book 2 reader errata | Lee + AI | Feedback logged and categorized |
 
 ---

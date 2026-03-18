@@ -51,10 +51,18 @@ Then create a new file called `article-v1.md`, paste the full text in, and add t
 ```markdown
 <!--
 First impressions — one sentence each:
-  Voice: Does this sound like a specific person wrote it, or like anyone could have?
-  Examples: Are they concrete enough to recognize, or generic enough to fit anything?
-  Misconception: Does this address something developers get wrong, or just explain the topic?
-  Send test: Would you send this to someone whose opinion you respect, unchanged?
+  Voice:
+    Does this sound like a specific person wrote it,
+    or like anyone could have?
+  Examples:
+    Are they concrete enough to recognize,
+    or generic enough to fit anything?
+  Misconception:
+    Does this address something developers get wrong,
+    or just explain the topic?
+  Send test:
+    Would you send this to someone whose opinion
+    you respect, unchanged?
 -->
 ```
 

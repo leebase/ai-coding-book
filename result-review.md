@@ -8,6 +8,21 @@
 
 ## 2026-03-18 — Book 2 EPUB Readability Fixes and Post-Publication Review Sync
 
+## 2026-03-18 — Environment Book Review Cleanup and Book 2 EPUB Hard-Wrap Fix
+
+**Completed two targeted follow-ups.** First, the Environment book was restored from Gemini's direct chapter rewrites back to the committed manuscript, then updated manually with only a small set of worthwhile clarity improvements in the original voice. Second, Book 2's EPUB readability issue was fixed at the manuscript level by hard-wrapping the worst long-line fenced examples and rebuilding the EPUB so the fix no longer depends on reader support for CSS `pre` wrapping.
+
+### How to Verify
+
+1. Open [ai-env-book/gemini_says.md](/Users/lee/projects/ai-coding-book/ai-env-book/gemini_says.md) and confirm the review memo remains present as reference
+2. Open [ai-env-book/chapters/ch-03-auth.md](/Users/lee/projects/ai-coding-book/ai-env-book/chapters/ch-03-auth.md), [ai-env-book/chapters/ch-06-python-env-problem.md](/Users/lee/projects/ai-coding-book/ai-env-book/chapters/ch-06-python-env-problem.md), [ai-env-book/chapters/ch-08-requirements-and-pyproject.md](/Users/lee/projects/ai-coding-book/ai-env-book/chapters/ch-08-requirements-and-pyproject.md), [ai-env-book/chapters/ch-10-nvm-and-versions.md](/Users/lee/projects/ai-coding-book/ai-env-book/chapters/ch-10-nvm-and-versions.md), [ai-env-book/chapters/ch-13-warp-basics.md](/Users/lee/projects/ai-coding-book/ai-env-book/chapters/ch-13-warp-basics.md), and [ai-env-book/chapters/ch-14-warp-workflows.md](/Users/lee/projects/ai-coding-book/ai-env-book/chapters/ch-14-warp-workflows.md) to see the selective clarity fixes
+3. Open [book2/chapters/part-1/ch-01-run-the-prompt.md](/Users/lee/projects/ai-coding-book/book2/chapters/part-1/ch-01-run-the-prompt.md) and confirm the comment-block example is manually wrapped across short lines
+4. Confirm the rebuilt EPUB exists at [book2/coding-with-agent-teams.epub](/Users/lee/projects/ai-coding-book/book2/coding-with-agent-teams.epub)
+
+---
+
+## 2026-03-18 — Book 2 EPUB Readability Fixes and Post-Publication Review Sync
+
 **Applied post-publication Book 2 fixes** after human EPUB review. The main reader-facing changes were replacing "confabulation" with plainer wording in Book 2's source chapters and combined manuscript, tightening EPUB code-block wrapping in `book2/epub-styles.css`, rebuilding `coding-with-agent-teams.epub`, and logging the remaining callout-trimming pass in the project docs.
 
 ### How to Verify

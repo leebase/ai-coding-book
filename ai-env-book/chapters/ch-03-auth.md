@@ -38,6 +38,8 @@ The private key is usually stored at `~/.ssh/id_ed25519` (or `~/.ssh/id_rsa` for
 
 The practical upshot: once the public key is on GitHub and the private key is on your machine, every git operation over SSH just works. The exchange happens invisibly. The AI pushes, GitHub checks, the handshake completes.
 
+One small beginner trap is worth naming here: the `.ssh` folder is hidden by default. If you're used to clicking through folders in Finder or Explorer, it can look like the key files don't exist. They do. The easiest path is not hunting for them in a file browser at all. Let the AI read the public key directly in the terminal and show you exactly what needs to be copied.
+
 > **Don't Do This:** Do not regenerate your SSH key pair after setting it up unless you have a specific reason. Regenerating creates a new key pair, which means the old public key on GitHub no longer matches. Every push will fail until you update GitHub with the new public key. The AI may regenerate keys if you ask it to "fix" auth by starting over — confirm this is what you want before it does.
 
 ---
@@ -121,6 +123,14 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 The output is a long string starting with `ssh-ed25519`. That entire string gets added to GitHub at: Settings → SSH and GPG keys → New SSH key.
+
+On macOS, the AI may also use:
+
+```
+pbcopy < ~/.ssh/id_ed25519.pub
+```
+
+That copies the public key straight to your clipboard so you don't have to select it manually. Different shells and operating systems use different clipboard commands, but the idea is the same: read the public key in the terminal, then copy it from there.
 
 After you paste it in and save, the `ssh -T git@github.com` test should succeed.
 
