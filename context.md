@@ -1,7 +1,7 @@
 # ai-coding-book Session Context
 
 > **Purpose**: Working memory for session continuity. Read this first, then `sprint-plan.md`.
-> **Note**: This file tracks Book 1 (The AI-Era Developer). Book 2 context is in `book2/context.md`.
+> **Note**: This file tracks the series roadmap centered on Book 1. Book 2 context is in `book2/context.md`. The standalone environment primer has its own context in `ai-env-book/context.md`.
 
 ---
 
@@ -9,8 +9,8 @@
 
 | Attribute | Value |
 |-----------|-------|
-| **Series** | Three books — see README |
-| **Phase** | Book 1: Complete. Book 2: Complete. Book 3: First draft + publication complete. |
+| **Series** | Main arc: 3 books. Standalone environment primer tracked separately. |
+| **Phase** | Book 1: Complete. Book 2: Complete. Standalone environment primer: Complete and rebuilt from final revised sources. Main-arc Book 3: Planned. |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-17 |
 
@@ -38,7 +38,7 @@
 ## What's Happening Now
 
 ### Series Status
-Both books are complete and published to main.
+Book 1 and Book 2 are complete and published. The standalone environment primer is also complete and rebuilt from its revised source set. The main-arc Book 3 is still ahead of us.
 
 ### Book 1 — The AI-Era Developer (complete)
 - ✅ All 16 chapters (14 + Introduction + Conclusion)
@@ -53,14 +53,18 @@ Both books are complete and published to main.
 - ✅ Continuity pass, copyedit, harness inventory
 - ✅ Published: EPUB, DOCX, PDF in `book2/`
 
-### Book 3 — Your Dev Environment (first draft complete)
+### Standalone Primer — Your Dev Environment (complete)
 - ✅ All 17 chapters written (~25,000 words) using Claude Code subagents
-- ✅ Published: EPUB (9.1MB), DOCX (72KB), PDF (222KB) in `ai-env-book/`
-- ⏳ Thin chapters to expand: ch-04, ch-06, ch-14, conclusion
-- ⏳ Continuity pass, copyedit, rebuild formats
+- ✅ Final revision complete: thin chapters expanded, continuity and copyedit passes applied
+- ✅ Rebuilt: EPUB (8.9MB), DOCX (8.9MB), PDF (10.0MB) in `ai-env-book/`
+- ✅ Structural publication QA complete, including EPUB TOC verification
+
+### Planned Book 3 — Independent and Autonomous Agents
+- ⏳ Intentionally deferred until more firsthand experience is gathered
+- ⏳ Scope, structure, and thesis not yet locked
 
 ### Next Up
-See `ai-env-book/context.md` for Book 3 editing status and next actions.
+See `ai-env-book/context.md` for the standalone primer finish state and optional post-release follow-up.
 
 ---
 
@@ -80,7 +84,7 @@ See `ai-env-book/context.md` for Book 3 editing status and next actions.
 
 1. Tool-specific spin-offs for Book 2 (Claude Code, Cursor editions)
 2. Distribution / reader feedback channel
-3. Book 4 topic and scope
+3. Main-arc Book 3 topic, structure, and scope
 
 ---
 
@@ -88,8 +92,9 @@ See `ai-env-book/context.md` for Book 3 editing status and next actions.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Book 3 editing passes (expand thin chapters, continuity, copyedit) | AI | All chapters ≥1,500w, drift resolved |
-| 2 | Book 2 spin-off: Claude Code edition | AI | Harness swaps applied from `book2/harness-inventory.md` |
+| 1 | Book 2 spin-off: Claude Code edition | AI | Harness swaps applied from `book2/harness-inventory.md` |
+| 2 | Explore thesis and boundaries for main-arc Book 3 on independent/autonomous agents | Lee + AI | Enough real-world lessons collected to lock scope |
+| 3 | Optional environment-book visual proof pass before external upload | Lee + AI | Outputs spot-checked in reader apps if needed |
 
 ---
 

@@ -10,7 +10,7 @@
 | Attribute | Value |
 |-----------|-------|
 | **Title** | Your Dev Environment: A Guide for AI-Assisted Developers |
-| **Phase** | Complete |
+| **Phase** | Published and archived |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-17 |
 | **Runtime** | Claude Code subagents (Symphony abandoned) |
@@ -25,30 +25,31 @@
 | Skill files | Done | All 5 skill files verified and in live repo |
 | Symphony runtime | Abandoned | Consumed 1.17M tokens, produced zero chapters. Replaced by direct Claude Code agent approach. |
 | Introduction | Done | `chapters/introduction.md` — 1,283 words |
-| Part 1 (Ch 1–5) | Done | Git & GitHub — 7,272 words across 5 chapters |
-| Part 2 (Ch 6–8) | Done | Python environments — 4,244 words across 3 chapters |
+| Part 1 (Ch 1–5) | Done | Git & GitHub — 7,660 words across 5 chapters |
+| Part 2 (Ch 6–8) | Done | Python environments — 4,536 words across 3 chapters |
 | Part 3 (Ch 9–11) | Done | Node/npm — 4,749 words across 3 chapters |
-| Part 4 (Ch 12–15) | Done | Warp — 6,002 words across 4 chapters |
-| Conclusion | Done | `chapters/conclusion.md` — 1,040 words |
-| Continuity pass | Not started | Read all chapters sequentially, fix cross-chapter drift |
-| Copyedit | Not started | Line-level polish |
-| Publication format | Done | EPUB (9.1MB), DOCX (72KB), PDF (222KB) — all via pandoc/build scripts |
+| Part 4 (Ch 12–15) | Done | Warp — 6,792 words across 4 chapters |
+| Conclusion | Done | `chapters/conclusion.md` — 1,518 words after expansion |
+| Thin-chapter expansion | Done | ch-04, ch-06, ch-14, and conclusion all expanded to 1,500w+ |
+| Source alignment | Done | Restored missing `chapters/ch-03-auth.md` and `chapters/ch-15-dividing-responsibilities.md` |
+| Continuity pass | Done | Scenario thread, branch model, and port references aligned across chapter sources and combined manuscript |
+| Copyedit | Done | Thin chapters expanded, transitions tightened, and rough phrasing cleaned during final revision passes |
+| Publication format | Done | EPUB (8.9MB), DOCX (8.9MB), PDF (10.0MB) rebuilt from current manuscript on 2026-03-17 |
+| Publication QA | Done | Structural QA complete: EPUB TOC verified, DOCX metadata verified, PDF generated cleanly with expected title/author bytes and page objects |
 
 ---
 
 ## What's Happening Now
 
-All 17 chapter files written and publication formats built. Book is in first-complete state.
-Total: ~25,000 words. Publication outputs: EPUB, DOCX, PDF in `ai-env-book/`.
+All 17 chapter files are complete, the combined manuscript is synced, and the publication outputs were rebuilt successfully on 2026-03-17.
+Total: ~26,500 words. Final outputs live in `ai-env-book/`.
 
 ---
 
 ## Next Actions
 
-1. Expand thin chapters: ch-04 (1,296w), ch-06 (1,274w), ch-14 (1,368w), conclusion (1,040w)
-2. Continuity pass — read all 17 chapters sequentially as one document
-3. Copyedit pass
-4. Rebuild publication formats after editing passes
+1. Optional future visual proof pass in external reader apps before storefront upload
+2. Log reader errata if any surface after distribution
 
 ---
 

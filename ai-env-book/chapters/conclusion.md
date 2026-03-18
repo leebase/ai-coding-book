@@ -1,8 +1,8 @@
 # Conclusion
 
-Both servers are running. The `neighborhood-meals` frontend is available at `localhost:3000` and the backend is responding on `localhost:5000`. You got here by working through every wall the project threw at you — not by memorizing fixes, but by understanding what you were looking at.
+Both servers are running. The `neighborhood-meals` frontend is available at `localhost:3000` and the backend is responding on `localhost:8000`. You got here by working through every wall the project threw at you — not by memorizing fixes, but by understanding what you were looking at.
 
-That's the thing you proved to yourself: you don't need to be a sysadmin. You need to recognize what you're looking at.
+That's what you proved to yourself: you don't need to be a sysadmin. You need to recognize what you're looking at.
 
 That claim was made in the introduction as a thesis. It's yours now. You ran into `fatal: not a git repository` and knew immediately it was a directory problem, not a git failure. You saw your AI create a virtual environment and you knew why — not because you'd memorized the explanation, but because the pattern was legible. When the Node version was wrong, you recognized the mismatch as a version problem before the error message finished scrolling. When a port was already in use, you knew to go to Warp and not to keep asking the AI to guess.
 
@@ -51,6 +51,44 @@ When something breaks and you don't recognize it: describe the error to your AI 
 Then ask whether the problem lives in a file or in the machine's running state. If it's a file, the AI coding tool owns it. If it's machine state — a process, a PATH entry, a missing binary, a persistent environment variable — Warp owns it.
 
 That two-step has gotten you through fifteen chapters. It will get you through the next fifteen problems.
+
+What changes after this book is not that you stop needing help. It's that your questions get better.
+
+Before, the question was often just "why doesn't this work?" Now it can be "is this a Node version mismatch or a missing package?" or "is this a shell problem or a project problem?" or "did the AI change code, or did it change machine state?" Those are dramatically better questions. They produce dramatically better help — from an AI, from documentation, or from another developer.
+
+That's what understanding buys you. Not independence from tools. Better leverage with them.
+
+---
+
+## What You Can Do Now
+
+You can clone a project, let your AI try to set it up, and stay oriented while it works.
+
+You can see a branch appear and know that `main` is being protected.
+
+You can see a `.venv` directory appear and know that the project just got its own Python room.
+
+You can see `npm ERR! EBADENGINE` and know to ask about Node versions before touching application code.
+
+You can see `EADDRINUSE` and know you're no longer debugging code at all.
+
+Those are small sentences, but they add up to a very different experience of using AI tools on real projects. The terminal stops feeling like a slot machine. The AI stops feeling like a magician. You can follow what happened, which means you can notice when something is off, which means you can course-correct earlier.
+
+For a new developer, that's a real threshold. It is the difference between "I hope this works" and "I see what layer this failure belongs to."
+
+---
+
+## How to Carry This Forward
+
+The next project will not fail in exactly the same way this one did. It might use FastAPI instead of Flask. It might use pnpm instead of npm. It might run in Docker from day one. It might have a `.env` file instead of exporting variables directly in the shell.
+
+That's fine. The surface details can change without invalidating the map.
+
+What you take with you is the habit of asking the right first question. What layer am I in? Is this git state, project dependencies, runtime versioning, or machine state? Once you can sort the problem into the right layer, you are no longer reacting blindly. You have a direction.
+
+That is what makes this kind of knowledge reusable. You are not carrying around a bag of project-specific tricks for `neighborhood-meals`. You are carrying a way to look at setup failures that applies to the next repo, and the one after that.
+
+And that matters because real confidence usually does not feel like certainty. It feels like orientation. You may still need the AI to suggest the exact command, or documentation to confirm a detail, or another developer to sanity-check an unfamiliar tool. But you are no longer lost at the start of the problem.
 
 ---
 

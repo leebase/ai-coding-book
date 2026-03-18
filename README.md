@@ -1,6 +1,20 @@
 # AI Coding Books by Lee Harrington
 
-A series of hands-on guides for developers working with AI tools. Each book is self-contained and builds directly on real practice — no toy examples, no hype.
+A set of hands-on guides for developers working with AI tools. The main arc is a three-book series, and there is also a standalone environment primer. Each book is self-contained and builds directly on real practice — no toy examples, no hype.
+
+---
+
+## Roadmap
+
+### Main Arc
+
+- **Book 1** — *The AI-Era Developer* — complete
+- **Book 2** — *Coding with Agent Teams* — complete
+- **Book 3** — independent and autonomous agents — planned, not started
+
+### Standalone Primer
+
+- **Your Dev Environment** — complete, revised, and rebuilt from final sources
 
 ---
 
@@ -101,7 +115,7 @@ This book teaches you to build and run teams of AI agents — specialized roles 
 
 ---
 
-## Book 3: Your Dev Environment
+## Standalone Primer: Your Dev Environment
 
 <img src="ai-env-book/DevEnvCover.png" alt="Your Dev Environment cover" width="200" align="right" />
 
@@ -151,7 +165,7 @@ This book teaches new developers just enough about each layer of the environment
 
 **Conclusion**
 
-### Download Book 3
+### Download Your Dev Environment
 
 | Format | File |
 |--------|------|
@@ -165,7 +179,8 @@ This book teaches new developers just enough about each layer of the environment
 
 - **Book 1** — Working developers (2–10 yrs) who want to restore software engineering discipline to their AI-assisted workflow.
 - **Book 2** — Developers who have outgrown single-agent sessions and want to coordinate multi-agent teams without external infrastructure.
-- **Book 3** — New developers (or developers new to a stack) who need to understand the environment before they can direct an AI tool effectively.
+- **Standalone primer: Your Dev Environment** — New developers (or developers new to a stack) who need to understand the environment before they can direct an AI tool effectively.
+- **Planned Book 3** — Developers ready to move from coordinated agent teams toward more independent and autonomous agent systems.
 
 ---
 
@@ -190,8 +205,8 @@ This book teaches new developers just enough about each layer of the environment
 │   ├── harness-inventory.md        # 23 swap points for spin-offs
 │   └── cover.jpg
 │
-├── ai-env-book/            # Book 3: Your Dev Environment
-│   ├── chapters/           # 17 source chapter files
+├── ai-env-book/            # Standalone primer: Your Dev Environment
+│   ├── chapters/           # Chapter source files plus briefs/drafts/reviews
 │   ├── your-dev-environment.md   # Combined publication source
 │   ├── your-dev-environment.epub
 │   ├── your-dev-environment.docx
@@ -209,15 +224,16 @@ This book teaches new developers just enough about each layer of the environment
 
 ## Writing Methodology
 
-All three books were written using **AgentFlow** — the same documentation-driven methodology they teach. The writing pipeline uses:
+The three written books were produced using **AgentFlow** — the same documentation-driven methodology they teach. The writing pipeline uses:
 
 - A coordinator skill with defined stages (research, draft, adversarial read, revise)
 - Specialized agent roles: se-educator, scenario-designer, confused-beginner, continuity-editor, agentflow-architect
 - A book-voice skill enforcing consistent peer-to-peer tone across all sessions
-- For Book 3: Claude Code parallel subagents (Parts written simultaneously, then merged)
+- For *Your Dev Environment*: Claude Code parallel subagents (Parts written simultaneously, then merged)
 
 ---
 
 *Book 1: "The AI-Era Developer" — complete*
 *Book 2: "Coding with Agent Teams" — complete*
-*Book 3: "Your Dev Environment" — first draft complete, editing in progress*
+*Standalone primer: "Your Dev Environment" — complete, revised, and rebuilt*
+*Planned main-arc Book 3: independent and autonomous agents*

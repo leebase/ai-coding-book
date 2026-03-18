@@ -36,7 +36,7 @@ It's enough for running the finished app. It's not enough for building and devel
 
 Modern frontend development involves a build step. Your source files — the `.jsx` files in `frontend/src/` — get processed, bundled, and transformed before the browser sees them. Tools do that processing. Those tools are JavaScript programs. They need Node to run.
 
-The development server — the program that lets you open `localhost:5173` in your browser and see the app — is also a JavaScript program. Same situation.
+The development server — the program that lets you open `localhost:3000` in your browser and see the app — is also a JavaScript program. Same situation.
 
 This is why Node ends up on machines that have nothing to do with writing JavaScript. A Python developer building a full-stack app still needs Node for the frontend build pipeline. A data scientist publishing a documentation site may need it for the static site generator. The JavaScript tooling ecosystem runs on Node, and that ecosystem has become part of how a lot of development infrastructure works.
 
@@ -70,7 +70,7 @@ Either way, the AI's starting point is the same: verify whether Node is present 
 > zsh: command not found: node
 > ```
 >
-> That confirms the install path. The AI will proceed to install Node using nvm (Node Version Manager).
+> That confirms the situation. The AI will proceed to install Node using nvm (Node Version Manager).
 
 ---
 

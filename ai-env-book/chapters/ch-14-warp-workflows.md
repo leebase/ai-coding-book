@@ -1,6 +1,6 @@
 # Chapter 14: Warp Workflows for Developers
 
-You've used `#` to kill a stuck process and to fix a broken PATH. The mechanic is familiar now: describe the problem, get the command, review it, run it.
+You've used `#` to kill a stuck process and to fix a broken PATH. The pattern is familiar now: describe the problem, get the command, review it, run it.
 
 This chapter adds two more patterns and introduces something that happens naturally once you're comfortable with those patterns.
 
@@ -78,6 +78,8 @@ You've seen this command before. You don't need to memorize what `lsof` or `-i` 
 
 The lesson here is about sequence, not commands. Starting a dev server without checking first means you might get an `EADDRINUSE` error, go through the diagnosis, kill the process, and then start the server. That's three steps. Checking first collapses it to one.
 
+There's a deeper pattern here too: Warp is often most useful before the failure, not just after it. Once you know the common walls on your machine, you can ask preventative questions. Is the port free? Is the binary on PATH? Is the variable still set? These are boring checks, and boring checks are good. They turn "debugging" into "verifying the machine state before you depend on it."
+
 ---
 
 ## Why `lsof` Keeps Appearing
@@ -94,13 +96,15 @@ The same thing will happen with other commands you encounter repeatedly. Each ti
 
 ## Warp Drive
 
-Once you've been using `#` for a while, you'll start to notice a pattern: some descriptions come up over and over. "What is on port 3000." "What is on port 8000." "Is anything on port 5173." You're asking the same question with different port numbers.
+Once you've been using `#` for a while, you'll start to notice a pattern: some descriptions come up over and over. "What is on port 3000." "What is on port 8000." "Is anything on port 3000 right now." You're asking the same question in slightly different forms.
 
 Warp Drive is a library of saved, shareable commands. A **workflow** is a command with named blanks — like a template. You might save a workflow called "Check port" that runs `lsof -i :{PORT}`, where `PORT` is a placeholder. When you use the workflow, Warp asks you for the port number and fills it in.
 
 For a solo developer, Warp Drive is a personal cookbook. You save the patterns you use often so you don't have to retype the description from scratch each time.
 
 For a team, it's a shared resource. If everyone on the team saves the same diagnostic workflows, you're all using the same commands when you're debugging the same server. The senior developer who knows what `lsof` is can save it once, and everyone else can use it without needing to know the syntax.
+
+That matters more than it might seem. A shared workflow doesn't just save time. It standardizes what "check the port" means on your team. Instead of one person using `lsof`, another using `netstat`, and a third searching the web every time, everyone reaches for the same known-good diagnostic. For a new developer, that consistency removes a lot of ambient doubt.
 
 You don't need Warp Drive to use the patterns in this book. The `#` workflow gets you there every time. But if you find yourself describing the same situation repeatedly, Warp Drive is where you turn that repetition into a saved shortcut.
 
@@ -123,6 +127,8 @@ At this point you have five diagnostic patterns:
 None of these require memorizing commands. Each one starts with describing a situation. Warp handles the syntax.
 
 What you're building is not a list of commands — it's a habit of reaching for the right tool when you see a particular shape of problem. Port occupied: Warp. Command not found: Warp. Variable disappeared overnight: Warp. Syntax error in `backend/app.py`: AI coding tool.
+
+And by this point, another habit has started to form too: you review the generated command before you run it. That's important. Warp is helping with translation, not replacing judgment. You still glance at the command, make sure it matches what you asked for, then run it. That's the same pattern you've been building with the AI coding tool throughout the book: let the tool do the syntax, keep ownership of the intent.
 
 > **Key Takeaway:** The `#` pattern in Warp handles machine-state problems the same way every time: describe what you see, review the generated command, run it, confirm it worked. Warp Drive extends this with saved, shareable workflows — useful once you're running the same patterns often enough to want shortcuts.
 

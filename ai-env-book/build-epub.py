@@ -56,8 +56,35 @@ tr:nth-child(even){background:#f9f9f9;}
 """
 
 def split_chapters(text):
-    parts = re.split(r'\n\n---\n\n', text)
-    return [p.strip() for p in parts if p.strip()]
+    parts = []
+    current = []
+    in_code = False
+
+    for line in text.splitlines():
+        if line.startswith("```"):
+            in_code = not in_code
+
+        is_book_heading = (
+            not in_code
+            and line.startswith("# ")
+            and (
+                line == "# Introduction"
+                or line == "# Conclusion"
+                or re.match(r"^# Chapter \d+:", line)
+            )
+        )
+
+        if is_book_heading and current:
+            parts.append("\n".join(current).strip())
+            current = [line]
+            continue
+
+        current.append(line)
+
+    if current:
+        parts.append("\n".join(current).strip())
+
+    return [p for p in parts if p]
 
 def to_html(md_text, title):
     body = md_lib.markdown(md_text, extensions=['fenced_code', 'tables'])

@@ -28,6 +28,8 @@ This book gives you the mental models to understand what's actually there.
 
 Throughout this book, you'll be working through a single scenario. You've cloned a project called `neighborhood-meals` — a small full-stack web app for managing community meal pickups. It has a Python backend and a JavaScript frontend.
 
+This is a real companion repository for the book, not a made-up example name. The book-facing branch is `main`, which intentionally preserves setup and workflow friction so you can see the problems this book is about. There's also a `reference-working` branch — a known-good baseline you can use later when you need to answer a different question: "is this the environment, or is the app itself broken?"
+
 ```
 neighborhood-meals/
   README.md
@@ -107,7 +109,6 @@ Part 1 starts with the thing that confuses almost everyone who's new to working 
 
 
 ---
-
 
 # Chapter 1: What Git Actually Is
 
@@ -237,7 +238,6 @@ Now that you know what git is tracking, the question is where that tracking live
 
 ---
 
-
 # Chapter 2: GitHub — Where Your Code Lives
 
 You asked your AI to push some changes. It ran a command and referenced something called `origin`. Or maybe it told you the push succeeded, and you went to look for your code on GitHub and couldn't find it — different repository, different account, not where you expected it. Or the AI mentioned fetching from `origin/main` and you're not sure if that's the same `main` you're looking at in your project folder.
@@ -260,6 +260,14 @@ The connection between your local copy and GitHub exists only when you push or p
 
 When you clone a repository, git automatically creates a shorthand name for where you cloned it from. That shorthand is `origin` by default. It points to the URL of the source repository.
 
+For this book's companion repo, the canonical GitHub URL is:
+
+```
+https://github.com/leebase/neighborhood-meals.git
+```
+
+Depending on how the machine is set up, `origin` may use that HTTPS form directly or the SSH form of the same repository. The important point is not the transport. It's that `origin` names the remote copy of this repo.
+
 To see what `origin` is in `neighborhood-meals`, the AI can run:
 
 ```
@@ -269,8 +277,8 @@ git remote -v
 The output looks something like this:
 
 ```
-origin	git@github.com:yourname/neighborhood-meals.git (fetch)
-origin	git@github.com:yourname/neighborhood-meals.git (push)
+origin	git@github.com:leebase/neighborhood-meals.git (fetch)
+origin	git@github.com:leebase/neighborhood-meals.git (push)
 ```
 
 That's it. `origin` is an alias for a URL. When the AI says `git push origin main`, it means: "push the commits on my local `main` branch to the URL called `origin`, into the branch called `main` on that remote."
@@ -311,6 +319,8 @@ The first is obvious: if your project has credentials, API keys, or any secrets 
 The second is less obvious: when you share context with an AI tool, you're often pasting code, error messages, or file contents into a conversation window. That conversation may not be private depending on your service settings. Knowing whether your repository is public or private helps you calibrate how careful to be with what you paste.
 
 For `neighborhood-meals`, the repository is private. The AI doesn't need to know your GitHub credentials to work with a private repository — but your machine does, and that's what the next chapter covers.
+
+One more detail matters for this repo specifically: `main` is the book-facing branch, not the "everything is already smooth" branch. If you need to sanity-check whether a failure is environmental or whether the app itself is broken, the known-good branch is `reference-working`. The AI handles the branch switch. You just need to know why that branch exists.
 
 ---
 
@@ -364,7 +374,6 @@ Before the AI can push to that remote, your machine needs permission — and tha
 
 
 ---
-
 
 # Chapter 3: Getting Your Computer Authorized
 
@@ -521,7 +530,6 @@ Now that the machine is authorized, the next thing you'll notice is that the AI 
 
 ---
 
-
 # Chapter 4: Branches and Worktrees
 
 You asked your AI to add a theme switcher to `neighborhood-meals`. It ran some commands and then you noticed your terminal prompt changed — it now shows `feat/theme-switcher` where it used to show `main`. Or maybe you ran `git status` yourself and saw:
@@ -585,6 +593,24 @@ This also means if the theme switcher approach doesn't pan out — if you decide
 
 ---
 
+## What Actually Changes When the AI Switches Branches
+
+This is the part that feels spooky the first few times you see it.
+
+The files in your folder can change even when you didn't edit them manually. That's because the branch determines which snapshot git puts on disk. If `main` points to one snapshot and `feat/theme-switcher` points to a later one, switching branches changes which version of the files you are looking at.
+
+That doesn't mean the AI created a second secret project state out of nowhere. It means git replaced one checked-out snapshot with another. Same repository. Same history. Different point in that history made visible in the folder.
+
+This is why the terminal prompt matters. When your prompt shows `feat/theme-switcher`, that's not decoration. It's telling you which snapshot label is currently active. If you ever feel disoriented, the grounding command is:
+
+```
+git status
+```
+
+It tells you three things that matter immediately: which branch you're on, whether files have been changed, and whether there is anything uncommitted that would block a switch. For a new developer, that's often enough context to stop the panic. You don't need to reconstruct git's entire model. You just need to know where you are.
+
+---
+
 ## What a Worktree Is
 
 A worktree is a second checked-out copy of the same repository, in a different folder.
@@ -609,6 +635,24 @@ The output shows both locations:
 The first column is the path on disk. The second is the current commit ID in that worktree. The third is the branch name in brackets.
 
 > **Key Takeaway:** A worktree is not a duplicate project. It's the same project, same history, second folder. The `.git` folder in `neighborhood-meals` is shared. The `neighborhood-meals-theme-switcher` folder exists because the AI needed to work on `feat/theme-switcher` separately. You can treat it as a window into that branch.
+
+---
+
+## How to Stay Oriented When a Worktree Appears
+
+The confusing part about worktrees is not the git model. It's the filesystem feeling. You see two folders with almost the same name and your first reaction is reasonable: which one is real?
+
+Both are real. The question is which branch each one is showing you.
+
+When this happens, don't inspect random files hoping the answer becomes obvious. Ask git directly:
+
+```
+git worktree list
+```
+
+That output gives you the map. One path will show `[main]`. One path will show `[feat/theme-switcher]`. Once you know that, the folders stop feeling mysterious. One is your stable baseline. One is the feature workspace. The AI may have your app running from one while editing code in the other. That's not duplication. That's separation of responsibilities.
+
+The important thing to recognize is that deleting the feature folder manually in Finder is not the same as cleaning up a worktree correctly. If the AI created it with `git worktree`, the AI should remove it with `git worktree remove` when it's done. Let git clean up git's own structures.
 
 ---
 
@@ -665,7 +709,6 @@ Branches protect `main`, but they can't protect you from making changes you didn
 
 
 ---
-
 
 # Chapter 5: When Git Goes Wrong
 
@@ -836,7 +879,6 @@ Git is the foundation, but once the code is in the right place, the next wall is
 
 ---
 
-
 # Chapter 6: Why Python Has an Environment Problem
 
 You cloned `neighborhood-meals`. Git is sorted. Now you want to run the backend. You ask the AI to start it, and it tries `python backend/app.py`. This comes back immediately:
@@ -922,6 +964,22 @@ The next time you run the backend, Python will use that room. The error will be 
 
 ---
 
+## What "Activation" Actually Changes
+
+You'll often see one more step after the environment is created:
+
+```
+source .venv/bin/activate
+```
+
+This is the part that feels abstract until someone names it plainly. Activating the environment changes which Python your current shell reaches for by default. Before activation, typing `python` might mean the system Python, or a Homebrew Python, or whatever interpreter your shell finds first on PATH. After activation, typing `python` means the interpreter inside `backend/.venv`.
+
+Nothing magical happened to Python itself. Your shell just changed which room it walks into first.
+
+That's why activation is session-scoped. Open a new terminal and the shell starts over with its normal PATH. The environment isn't "broken" — it's just no longer the default for that new session until the AI activates it again. Once you see activation as a shell-state change rather than a Python concept, the behavior stops feeling random.
+
+---
+
 ## The Other Wall: Wrong Python Version
 
 Sometimes the error isn't about a missing library. Sometimes the AI runs the install step and you get this instead:
@@ -949,7 +1007,11 @@ The AI created `backend/.venv`. You don't need to understand its internals, and 
 
 **Don't run Python commands from outside the project's virtual environment accidentally.** If you open a new terminal window and run a Python command without the environment active, you're back in the generic room. The error returns. You'll know this happened if the `ModuleNotFoundError` shows up again on a project that was previously working.
 
+There's a subtle version of this mistake that's worth naming. You see the backend running correctly in one terminal, open another terminal to test something, run `python backend/app.py`, and assume it should work the same way because it's the same project on the same machine. But shells don't share state. The first terminal had the environment active. The second one doesn't. Same repo, different room.
+
 > **Don't Do This:** Do not install Flask or any other library globally with `pip install flask` to make the error go away faster. A global install can mask the problem temporarily, but it doesn't set up the project correctly. The next time someone else clones the project, or you set up a new machine, the install step will fail in the same way.
+
+The reason the global install feels tempting is that it can appear to work immediately. The import error disappears, which makes it feel like the diagnosis was correct. But what you actually did was put Flask on the generic shelf instead of the project shelf. The backend might start, but you've taught yourself the wrong lesson about what the project needs. The next project with different dependencies collides with it, and now the machine feels inconsistent again.
 
 > **Key Takeaway:** "Python is installed" and "this project's packages are installed" are two different conditions. A virtual environment is what connects them — it's the private room where this project's dependencies live.
 
@@ -959,7 +1021,6 @@ Now you know what a virtual environment is — but you may have noticed there ar
 
 
 ---
-
 
 # Chapter 7: venv, conda, uv — Which One and Why
 
@@ -1091,7 +1152,6 @@ The AI knows which tool to use — but it also needs to know what to install, an
 
 ---
 
-
 # Chapter 8: Reading requirements.txt and pyproject.toml
 
 Before the AI installs anything into the virtual environment, it opens two files: `backend/requirements.txt` and `backend/pyproject.toml`. It reads them first. It doesn't just run `pip install flask` and call it done.
@@ -1170,6 +1230,8 @@ This coexistence is common. It happens on real projects when teams migrate from 
 
 When the AI runs the install step, it uses `uv pip install -e .`, which tells `uv` to read `pyproject.toml` as the source of truth. If something reads `requirements.txt` instead — an older script, a teammate's manual install command — it will install from that list. The two files should stay in sync. In `neighborhood-meals`, they do.
 
+In this repo, that coexistence is also part of the teaching surface. The book-facing `main` branch keeps both files present because that is what readers actually encounter on real projects: clean migrations are rare, and transitional toolchains are normal. If you need to verify that the app works without wondering whether the roughness is deliberate, that's what `reference-working` is for. The dependency story is the same; the setup question becomes less ambiguous.
+
 > **Key Takeaway:** Having both files isn't a problem to fix. It's the project in the middle of a migration. The AI knows to read `pyproject.toml` with `uv`. If you see documentation that shows `pip install -r requirements.txt`, that's the older approach working from the older file. Both work; they just serve different toolchains.
 
 ---
@@ -1235,7 +1297,6 @@ With the backend dependencies installed and the right Python running, the fronte
 
 ---
 
-
 # Chapter 9: What Node Is (and Why It's on Your Machine)
 
 The backend is running. The Python environment is set up, `backend/.venv` exists, and the AI was able to start the Flask server without complaint. Now you want to run the frontend.
@@ -1274,7 +1335,7 @@ It's enough for running the finished app. It's not enough for building and devel
 
 Modern frontend development involves a build step. Your source files — the `.jsx` files in `frontend/src/` — get processed, bundled, and transformed before the browser sees them. Tools do that processing. Those tools are JavaScript programs. They need Node to run.
 
-The development server — the program that lets you open `localhost:5173` in your browser and see the app — is also a JavaScript program. Same situation.
+The development server — the program that lets you open `localhost:3000` in your browser and see the app — is also a JavaScript program. Same situation.
 
 This is why Node ends up on machines that have nothing to do with writing JavaScript. A Python developer building a full-stack app still needs Node for the frontend build pipeline. A data scientist publishing a documentation site may need it for the static site generator. The JavaScript tooling ecosystem runs on Node, and that ecosystem has become part of how a lot of development infrastructure works.
 
@@ -1308,7 +1369,7 @@ Either way, the AI's starting point is the same: verify whether Node is present 
 > zsh: command not found: node
 > ```
 >
-> That confirms the install path. The AI will proceed to install Node using nvm (Node Version Manager).
+> That confirms the situation. The AI will proceed to install Node using nvm (Node Version Manager).
 
 ---
 
@@ -1381,7 +1442,6 @@ Node exists on the machine now — but the version the project requires might no
 
 
 ---
-
 
 # Chapter 10: nvm and Node Versions
 
@@ -1571,7 +1631,6 @@ The right version of Node is active — but `npm install` also revealed that `fr
 
 ---
 
-
 # Chapter 11: package.json and node_modules
 
 Node 20.11.1 is active. The AI has confirmed it with `node --version`. Now it tries to start the frontend development server by running the project's dev script:
@@ -1728,11 +1787,11 @@ Now produces:
 
   VITE v5.1.4  ready in 312 ms
 
-  ➜  Local:   http://localhost:5173/
+  ➜  Local:   http://localhost:3000/
   ➜  Network: use --host to expose
 ```
 
-The shell found `vite` because it's now in `frontend/node_modules/.bin/`. npm knows to look there when running scripts. The dev server started. The frontend is accessible at `localhost:5173`.
+The shell found `vite` because it's now in `frontend/node_modules/.bin/`. npm knows to look there when running scripts. The dev server started. In this project, the frontend is configured to serve on `localhost:3000`, so that's where the app appears.
 
 This is the same shape as the Python resolution in Chapter 6. Once the packages were installed into the right place, the import error went away. Here, once `node_modules/` was created with the right contents, the command not found error went away. The pattern is the same: declare dependencies in the manifest, install them locally, use them.
 
@@ -1760,7 +1819,6 @@ The frontend is running — but some problems can't be fixed by installing the r
 
 
 ---
-
 
 # Chapter 12: The Gap Warp Fills
 
@@ -1918,7 +1976,6 @@ Now that you know what Warp is for, the next chapter shows you how to use it.
 
 
 ---
-
 
 # Chapter 13: Warp Basics
 
@@ -2113,10 +2170,9 @@ These two patterns — killing a stuck process and fixing a broken PATH — cove
 
 ---
 
-
 # Chapter 14: Warp Workflows for Developers
 
-You've used `#` to kill a stuck process and to fix a broken PATH. The mechanic is familiar now: describe the problem, get the command, review it, run it.
+You've used `#` to kill a stuck process and to fix a broken PATH. The pattern is familiar now: describe the problem, get the command, review it, run it.
 
 This chapter adds two more patterns and introduces something that happens naturally once you're comfortable with those patterns.
 
@@ -2194,6 +2250,8 @@ You've seen this command before. You don't need to memorize what `lsof` or `-i` 
 
 The lesson here is about sequence, not commands. Starting a dev server without checking first means you might get an `EADDRINUSE` error, go through the diagnosis, kill the process, and then start the server. That's three steps. Checking first collapses it to one.
 
+There's a deeper pattern here too: Warp is often most useful before the failure, not just after it. Once you know the common walls on your machine, you can ask preventative questions. Is the port free? Is the binary on PATH? Is the variable still set? These are boring checks, and boring checks are good. They turn "debugging" into "verifying the machine state before you depend on it."
+
 ---
 
 ## Why `lsof` Keeps Appearing
@@ -2210,13 +2268,15 @@ The same thing will happen with other commands you encounter repeatedly. Each ti
 
 ## Warp Drive
 
-Once you've been using `#` for a while, you'll start to notice a pattern: some descriptions come up over and over. "What is on port 3000." "What is on port 8000." "Is anything on port 5173." You're asking the same question with different port numbers.
+Once you've been using `#` for a while, you'll start to notice a pattern: some descriptions come up over and over. "What is on port 3000." "What is on port 8000." "Is anything on port 3000 right now." You're asking the same question in slightly different forms.
 
 Warp Drive is a library of saved, shareable commands. A **workflow** is a command with named blanks — like a template. You might save a workflow called "Check port" that runs `lsof -i :{PORT}`, where `PORT` is a placeholder. When you use the workflow, Warp asks you for the port number and fills it in.
 
 For a solo developer, Warp Drive is a personal cookbook. You save the patterns you use often so you don't have to retype the description from scratch each time.
 
 For a team, it's a shared resource. If everyone on the team saves the same diagnostic workflows, you're all using the same commands when you're debugging the same server. The senior developer who knows what `lsof` is can save it once, and everyone else can use it without needing to know the syntax.
+
+That matters more than it might seem. A shared workflow doesn't just save time. It standardizes what "check the port" means on your team. Instead of one person using `lsof`, another using `netstat`, and a third searching the web every time, everyone reaches for the same known-good diagnostic. For a new developer, that consistency removes a lot of ambient doubt.
 
 You don't need Warp Drive to use the patterns in this book. The `#` workflow gets you there every time. But if you find yourself describing the same situation repeatedly, Warp Drive is where you turn that repetition into a saved shortcut.
 
@@ -2240,6 +2300,8 @@ None of these require memorizing commands. Each one starts with describing a sit
 
 What you're building is not a list of commands — it's a habit of reaching for the right tool when you see a particular shape of problem. Port occupied: Warp. Command not found: Warp. Variable disappeared overnight: Warp. Syntax error in `backend/app.py`: AI coding tool.
 
+And by this point, another habit has started to form too: you review the generated command before you run it. That's important. Warp is helping with translation, not replacing judgment. You still glance at the command, make sure it matches what you asked for, then run it. That's the same pattern you've been building with the AI coding tool throughout the book: let the tool do the syntax, keep ownership of the intent.
+
 > **Key Takeaway:** The `#` pattern in Warp handles machine-state problems the same way every time: describe what you see, review the generated command, run it, confirm it worked. Warp Drive extends this with saved, shareable workflows — useful once you're running the same patterns often enough to want shortcuts.
 
 ---
@@ -2248,7 +2310,6 @@ You now have a working toolkit for the gap between code problems and machine pro
 
 
 ---
-
 
 # Chapter 15: Dividing Responsibilities
 
@@ -2417,12 +2478,11 @@ You don't need to know every command — you need to recognize what kind of prob
 
 ---
 
-
 # Conclusion
 
-Both servers are running. The `neighborhood-meals` frontend is available at `localhost:3000` and the backend is responding on `localhost:5000`. You got here by working through every wall the project threw at you — not by memorizing fixes, but by understanding what you were looking at.
+Both servers are running. The `neighborhood-meals` frontend is available at `localhost:3000` and the backend is responding on `localhost:8000`. You got here by working through every wall the project threw at you — not by memorizing fixes, but by understanding what you were looking at.
 
-That's the thing you proved to yourself: you don't need to be a sysadmin. You need to recognize what you're looking at.
+That's what you proved to yourself: you don't need to be a sysadmin. You need to recognize what you're looking at.
 
 That claim was made in the introduction as a thesis. It's yours now. You ran into `fatal: not a git repository` and knew immediately it was a directory problem, not a git failure. You saw your AI create a virtual environment and you knew why — not because you'd memorized the explanation, but because the pattern was legible. When the Node version was wrong, you recognized the mismatch as a version problem before the error message finished scrolling. When a port was already in use, you knew to go to Warp and not to keep asking the AI to guess.
 
@@ -2471,6 +2531,44 @@ When something breaks and you don't recognize it: describe the error to your AI 
 Then ask whether the problem lives in a file or in the machine's running state. If it's a file, the AI coding tool owns it. If it's machine state — a process, a PATH entry, a missing binary, a persistent environment variable — Warp owns it.
 
 That two-step has gotten you through fifteen chapters. It will get you through the next fifteen problems.
+
+What changes after this book is not that you stop needing help. It's that your questions get better.
+
+Before, the question was often just "why doesn't this work?" Now it can be "is this a Node version mismatch or a missing package?" or "is this a shell problem or a project problem?" or "did the AI change code, or did it change machine state?" Those are dramatically better questions. They produce dramatically better help — from an AI, from documentation, or from another developer.
+
+That's what understanding buys you. Not independence from tools. Better leverage with them.
+
+---
+
+## What You Can Do Now
+
+You can clone a project, let your AI try to set it up, and stay oriented while it works.
+
+You can see a branch appear and know that `main` is being protected.
+
+You can see a `.venv` directory appear and know that the project just got its own Python room.
+
+You can see `npm ERR! EBADENGINE` and know to ask about Node versions before touching application code.
+
+You can see `EADDRINUSE` and know you're no longer debugging code at all.
+
+Those are small sentences, but they add up to a very different experience of using AI tools on real projects. The terminal stops feeling like a slot machine. The AI stops feeling like a magician. You can follow what happened, which means you can notice when something is off, which means you can course-correct earlier.
+
+For a new developer, that's a real threshold. It is the difference between "I hope this works" and "I see what layer this failure belongs to."
+
+---
+
+## How to Carry This Forward
+
+The next project will not fail in exactly the same way this one did. It might use FastAPI instead of Flask. It might use pnpm instead of npm. It might run in Docker from day one. It might have a `.env` file instead of exporting variables directly in the shell.
+
+That's fine. The surface details can change without invalidating the map.
+
+What you take with you is the habit of asking the right first question. What layer am I in? Is this git state, project dependencies, runtime versioning, or machine state? Once you can sort the problem into the right layer, you are no longer reacting blindly. You have a direction.
+
+That is what makes this kind of knowledge reusable. You are not carrying around a bag of project-specific tricks for `neighborhood-meals`. You are carrying a way to look at setup failures that applies to the next repo, and the one after that.
+
+And that matters because real confidence usually does not feel like certainty. It feels like orientation. You may still need the AI to suggest the exact command, or documentation to confirm a detail, or another developer to sanity-check an unfamiliar tool. But you are no longer lost at the start of the problem.
 
 ---
 

@@ -15,8 +15,21 @@ The project is `neighborhood-meals`, a small full-stack web app for managing
 community meal pickups. It is simple enough to explain, but real enough to
 create Git, Python, Node, and system-level environment problems.
 
+It is a real companion repository for this book, not an invented folder name
+used only in prose. The canonical GitHub repository is:
+`https://github.com/leebase/neighborhood-meals.git`
+
 The repo name is always `neighborhood-meals`. The default branch is always
 `main`. The remote is always `origin`.
+
+Branch roles are fixed:
+
+- `main` is the book-facing branch. It preserves intentional setup and workflow
+  friction while keeping the core app behavior correct.
+- `reference-working` is the known-good runnable baseline. It exists so a
+  reader can compare "environment problem" against "application problem."
+- `feat/theme-switcher` is the workflow-support branch used for branch and
+  worktree examples.
 
 ## Canonical Repo Layout
 
@@ -49,6 +62,7 @@ Important conventions:
 - The frontend dev server runs on port `3000`
 - The backend dev server runs on port `8000`
 - The feature branch used in branch/worktree examples is `feat/theme-switcher`
+- The known-good comparison branch is `reference-working`
 - The extra worktree path is `../neighborhood-meals-theme-switcher`
 - The shell config file is `~/.zshrc`
 
@@ -258,6 +272,12 @@ Do not:
 The book is about recognition. The AI coding tool usually performs the fix. The
 reader's job is to recognize what class of problem they are looking at, notice
 whether the output means success or failure, and avoid undoing the AI's work.
+
+When useful, chapters may remind the reader that:
+
+- `main` is for following the book's friction-facing workflow
+- `reference-working` is the safety line for verifying whether a problem is
+  environmental versus application-level
 
 ## Chapter State Log
 
