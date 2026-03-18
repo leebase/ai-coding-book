@@ -104,7 +104,7 @@ Chapters:
 
 ## The Comparison Exercise
 
-Chapter 1 and Chapter 5 use the same topic. The reader keeps the Chapter 1 output and does not revisit it until Chapter 5. At Chapter 5, they run the pipeline and place both outputs side by side. The differences should be nameable: specific voice (not generic), grounded examples (not confabulated), a failure path in the examples (not just the success case), identified misconceptions addressed (not a survey of what the subject is).
+Chapter 1 and Chapter 5 use the same topic. The reader keeps the Chapter 1 output and does not revisit it until Chapter 5. At Chapter 5, they run the pipeline and place both outputs side by side. The differences should be nameable: specific voice (not generic), grounded examples (not invented), a failure path in the examples (not just the success case), identified misconceptions addressed (not a survey of what the subject is).
 
 The comparison is the argument. The book does not tell the reader the skills produce better output — it lets them observe it.
 

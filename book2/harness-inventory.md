@@ -31,7 +31,7 @@ The concept prose surrounding each callout must remain unchanged in spin-offs. O
 
 ### Chapter 2: The Grounding Problem
 
-**Swap 2.1** — Run the confabulation test
+**Swap 2.1** — Run the verification test
 **Concept action**: Open a fresh agent session. Send the five-examples prompt. Read the output.
 **Antigravity instruction**: Click **New Session** to open a fresh conversation. Paste the prompt and send it. Read the five examples the agent produces.
 

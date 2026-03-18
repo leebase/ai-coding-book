@@ -25,7 +25,7 @@ Do not add examples or claims that are not in these notes.
 
 > **Antigravity:** Start a **New Session**. Paste the full contents of `research-notes.md` first, then add a blank line, then add the instruction above. Send it. The agent will write a draft using only what the researcher committed to.
 >
-> **Watch For:** The draft should stay closer to the research notes than the Chapter 1 article did. If the agent adds new examples that were not in your notes, it has stepped outside its instructions. Note where that happened — it is the same confabulation pattern from Chapter 2, now visible because you have the notes to compare against.
+> **Watch For:** The draft should stay closer to the research notes than the Chapter 1 article did. If the agent adds new examples that were not in your notes, it has stepped outside its instructions. Note where that happened — it is the same invented-example pattern from Chapter 2, now visible because you have the notes to compare against.
 
 Save the output as `draft.md`. This is a working draft, not a final article. It does not need to be polished. It needs to be complete enough for the next step.
 

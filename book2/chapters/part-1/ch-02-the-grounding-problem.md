@@ -6,7 +6,7 @@ They sound specific. There may be a named tool, a named situation, a reference t
 
 You probably cannot check without effort. And you probably did not try — because the prose read with confidence, and confident prose does not usually flag itself as potentially invented. The AI wrote specific-sounding examples because you asked for specific examples, and it has no reliable way to distinguish between "I know this" and "this sounds right." Neither mode produces a different signal in the text.
 
-That is the grounding problem. It is not unique to AI — human writers conflate memory and confabulation too — but AI does it at a scale and fluency that makes it invisible. This chapter shows you how to design around it.
+That is the grounding problem. It is not unique to AI — human writers blur memory and invention too — but AI does it at a scale and fluency that makes it invisible. This chapter shows you how to design around it.
 
 ---
 
@@ -18,7 +18,7 @@ This is not a model problem. It is an architecture problem. One agent doing ever
 
 ---
 
-## The Confabulation Test
+## The Verification Test
 
 Before you build anything, do this: open a fresh agent session — no context from Chapter 1 — and send this prompt:
 
@@ -36,7 +36,7 @@ Read what you get. Each example will be specific — named projects, specific si
 
 You do not need to prove they are false. You only need to notice how much effort it takes to find out whether they are real. That effort is the gap the grounding problem lives in.
 
-> **Watch For:** At least one example that you cannot verify with a quick search, where the agent's prose gave you no indication of uncertainty. That is a confabulated example written with the same fluency as a real one.
+> **Watch For:** At least one example that you cannot verify with a quick search, where the agent's prose gave you no indication of uncertainty. That is an invented example written with the same fluency as a real one.
 
 You are not going to fix this by asking the agent to "only use real examples." That instruction does not change what the agent has access to. It changes how it presents what it generates.
 
@@ -125,7 +125,7 @@ and what evidence supports that?
 
 When the output arrives, save it as `research-notes.md`.
 
-Now read it and answer this honestly: which claims in the Grounded section could you verify right now? Pick two and try. Compare this to what you found in the confabulation test.
+Now read it and answer this honestly: which claims in the Grounded section could you verify right now? Pick two and try. Compare this to what you found in the verification test.
 
 ---
 

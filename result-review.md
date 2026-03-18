@@ -6,6 +6,19 @@
 
 ---
 
+## 2026-03-18 — Book 2 EPUB Readability Fixes and Post-Publication Review Sync
+
+**Applied post-publication Book 2 fixes** after human EPUB review. The main reader-facing changes were replacing "confabulation" with plainer wording in Book 2's source chapters and combined manuscript, tightening EPUB code-block wrapping in `book2/epub-styles.css`, rebuilding `coding-with-agent-teams.epub`, and logging the remaining callout-trimming pass in the project docs.
+
+### How to Verify
+
+1. Open [book2/epub-styles.css](/Users/lee/projects/ai-coding-book/book2/epub-styles.css) and confirm the `pre` block includes stronger wrapping rules such as `overflow-wrap: anywhere` and `word-break: break-word`
+2. Open [book2/chapters/part-1/ch-02-the-grounding-problem.md](/Users/lee/projects/ai-coding-book/book2/chapters/part-1/ch-02-the-grounding-problem.md) and confirm "The Verification Test" replaced "The Confabulation Test"
+3. Confirm the rebuilt EPUB exists at [book2/coding-with-agent-teams.epub](/Users/lee/projects/ai-coding-book/book2/coding-with-agent-teams.epub)
+4. Read [feedback.md](/Users/lee/projects/ai-coding-book/feedback.md) and [book2/context.md](/Users/lee/projects/ai-coding-book/book2/context.md) to confirm the remaining follow-up is the callout-trimming pass
+
+---
+
 ## 2026-03-17 — Environment Book Finished, Rebuilt, and QA'd
 
 **Completed the standalone Environment book** end to end: restored missing chapter sources, expanded the thin chapters, synced the companion-project details from `book-project-writeup.md`, fixed continuity drift in ports and scenario references, rebuilt all publication outputs, and verified the packaging.

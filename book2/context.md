@@ -8,9 +8,9 @@
 
 | Attribute | Value |
 |-----------|-------|
-| **Phase** | Phase 3 — Polish & Publication Prep |
+| **Phase** | Post-publication review and revision |
 | **Mode** | 2 (Collaborative) |
-| **Last Updated** | 2026-03-16 |
+| **Last Updated** | 2026-03-18 |
 
 ### Sprint Status
 | Sprint | Status | Completion |
@@ -33,7 +33,7 @@
 ## What's Happening Now
 
 ### Current Work Stream
-All 11 chapters complete. Phase 3 begins: introduction, conclusion, continuity pass, copyedit, publication format.
+Book 2 is published. Human EPUB review surfaced three follow-up items; two are now complete: stronger EPUB code-block wrapping and simpler reader-facing wording than "confabulation." One editorial pass remains: trimming repetitive Antigravity callouts.
 
 ### Recently Completed
 - ✅ All 11 chapters (Sprints 1–11)
@@ -44,7 +44,7 @@ All 11 chapters complete. Phase 3 begins: introduction, conclusion, continuity p
 - ✅ Agent vs skill distinction added to Ch 4 ("Two Kinds of Files" section)
 
 ### In Progress
-- Phase 3 complete ✅
+- Human-review follow-up pass for Antigravity callout trimming
 
 ---
 
@@ -69,7 +69,7 @@ All 11 chapters complete. Phase 3 begins: introduction, conclusion, continuity p
 
 ## Open Questions
 
-*All open questions resolved.*
+1. How aggressive should the Book 2 callout-trimming pass be?
 
 ---
 
@@ -77,7 +77,9 @@ All 11 chapters complete. Phase 3 begins: introduction, conclusion, continuity p
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| — | All Phase 3 tasks complete | — | ✅ |
+| 1 | Trim repetitive `> **Antigravity:**` callouts | Lee + AI | Callouts carry only tool-specific UI/action detail |
+| 2 | Spot-check rebuilt Book 2 EPUB on-device | Lee | Human review confirms long role-file examples now wrap acceptably |
+| 3 | Capture any additional Book 2 reader errata | Lee + AI | Feedback logged and categorized |
 
 ---
 

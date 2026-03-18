@@ -22,5 +22,10 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+.claude/
+
+# Sync / local tooling temp files
+.syncthing*
+*.sync-conflict-*
 
 node_modules/

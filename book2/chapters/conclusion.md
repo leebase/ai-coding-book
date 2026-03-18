@@ -12,7 +12,7 @@ You can take that design to any complex, repeatable task you do regularly. The r
 
 After Part 1:
 
-A content pipeline with three agent roles — Researcher, Writer, Adversarial Reader — and a coordinator skill that sequences them. Not just what each does, but what breaks when it is absent. The researcher prevents confabulation. The adversarial reader finds the gaps the writer cannot see. The voice constraint prevents drift across sessions. The coordinator enforces the sequence that makes all of it work together.
+A content pipeline with three agent roles — Researcher, Writer, Adversarial Reader — and a coordinator skill that sequences them. Not just what each does, but what breaks when it is absent. The researcher prevents invented examples from slipping in unnoticed. The adversarial reader finds the gaps the writer cannot see. The voice constraint prevents drift across sessions. The coordinator enforces the sequence that makes all of it work together.
 
 And `article-v1.md` and `article-v2.md` side by side — the argument the book did not make, but let you observe.
 
