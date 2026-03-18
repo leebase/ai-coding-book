@@ -61,6 +61,24 @@ This also means if the theme switcher approach doesn't pan out — if you decide
 
 ---
 
+## What Actually Changes When the AI Switches Branches
+
+This is the part that feels spooky the first few times you see it.
+
+The files in your folder can change even when you didn't edit them manually. That's because the branch determines which snapshot git puts on disk. If `main` points to one snapshot and `feat/theme-switcher` points to a later one, switching branches changes which version of the files you are looking at.
+
+That doesn't mean the AI created a second secret project state out of nowhere. It means git replaced one checked-out snapshot with another. Same repository. Same history. Different point in that history made visible in the folder.
+
+This is why the terminal prompt matters. When your prompt shows `feat/theme-switcher`, that's not decoration. It's telling you which snapshot label is currently active. If you ever feel disoriented, the grounding command is:
+
+```
+git status
+```
+
+It tells you three things that matter immediately: which branch you're on, whether files have been changed, and whether there is anything uncommitted that would block a switch. For a new developer, that's often enough context to stop the panic. You don't need to reconstruct git's entire model. You just need to know where you are.
+
+---
+
 ## What a Worktree Is
 
 A worktree is a second checked-out copy of the same repository, in a different folder.
@@ -85,6 +103,24 @@ The output shows both locations:
 The first column is the path on disk. The second is the current commit ID in that worktree. The third is the branch name in brackets.
 
 > **Key Takeaway:** A worktree is not a duplicate project. It's the same project, same history, second folder. The `.git` folder in `neighborhood-meals` is shared. The `neighborhood-meals-theme-switcher` folder exists because the AI needed to work on `feat/theme-switcher` separately. You can treat it as a window into that branch.
+
+---
+
+## How to Stay Oriented When a Worktree Appears
+
+The confusing part about worktrees is not the git model. It's the filesystem feeling. You see two folders with almost the same name and your first reaction is reasonable: which one is real?
+
+Both are real. The question is which branch each one is showing you.
+
+When this happens, don't inspect random files hoping the answer becomes obvious. Ask git directly:
+
+```
+git worktree list
+```
+
+That output gives you the map. One path will show `[main]`. One path will show `[feat/theme-switcher]`. Once you know that, the folders stop feeling mysterious. One is your stable baseline. One is the feature workspace. The AI may have your app running from one while editing code in the other. That's not duplication. That's separation of responsibilities.
+
+The important thing to recognize is that deleting the feature folder manually in Finder is not the same as cleaning up a worktree correctly. If the AI created it with `git worktree`, the AI should remove it with `git worktree remove` when it's done. Let git clean up git's own structures.
 
 ---
 

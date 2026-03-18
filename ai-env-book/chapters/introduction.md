@@ -28,6 +28,8 @@ This book gives you the mental models to understand what's actually there.
 
 Throughout this book, you'll be working through a single scenario. You've cloned a project called `neighborhood-meals` — a small full-stack web app for managing community meal pickups. It has a Python backend and a JavaScript frontend.
 
+This is a real companion repository for the book, not a made-up example name. The book-facing branch is `main`, which intentionally preserves setup and workflow friction so you can see the problems this book is about. There's also a `reference-working` branch — a known-good baseline you can use later when you need to answer a different question: "is this the environment, or is the app itself broken?"
+
 ```
 neighborhood-meals/
   README.md

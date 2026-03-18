@@ -1,15 +1,15 @@
 # ai-env-book Sprint Plan
 
-> **Staging runway and phase tracker.** Task-level status lives in Linear — do not mirror it here.
-> Update this file when: the active phase changes, the Linear runway is restaged, or a phase completes.
+> **Editing runway and phase tracker.**
+> Update this file when: the active editing phase changes, a pass completes, or the remaining work changes.
 
 ---
 
 ## Current Phase
 
-**Phase Complete — First Draft + Publication Outputs Done**
+**Phase Complete — Final Revision, Rebuild, and QA Finished**
 
-All 17 chapters written. EPUB, DOCX, and PDF published. Editing passes remain.
+Combined manuscript complete. EPUB, DOCX, and PDF rebuilt from current sources, and quick structural QA is complete.
 
 ---
 
@@ -17,25 +17,23 @@ All 17 chapters written. EPUB, DOCX, and PDF published. Editing passes remain.
 
 | Priority | Task | Notes |
 |----------|------|-------|
-| 1 | Expand thin chapters | ch-04, ch-06, ch-14, conclusion all under 1,400w |
-| 2 | Continuity pass | Read all 17 chapters sequentially, fix drift |
-| 3 | Copyedit pass | Line-level polish |
-| 4 | Rebuild publication formats | After editing passes complete |
+| 1 | Optional visual proof pass | Open EPUB/DOCX/PDF in reader apps before external distribution if desired |
+| 2 | Capture errata | Future-only; log any reader-reported issues after release |
 
 ---
 
-## What Needs to Be Staged Next
+## Recommended Edit Sequence
 
-When Phase 0 is complete, the first Linear issues to stage are:
+1. Treat the book as finished
+2. Run an optional visual proof pass only if preparing a public upload
+3. Capture any post-release errata separately
 
-1. `AENV-001` — Write `skills/scenario-thread.md` (blocking; must land before any chapter brief)
-2. `AENV-002` — Write `skills/book-voice.md` (new-dev edition)
-3. `AENV-003` — Write `skills/env-explainer.md`
-4. `AENV-004` — Write `skills/new-dev-validator.md`
-5. `AENV-005` — Write introduction chapter brief
+## Exit Criteria
 
-Do not stage `skills/warp-expert.md` until Lee provides Warp source material.
-Do not stage any chapter brief until `skills/scenario-thread.md` is Done in Linear.
+- Planning docs reflect the final standalone-book position and actual chapter map
+- Combined manuscript reads cleanly front to back
+- EPUB, DOCX, and PDF are rebuilt from the revised sources
+- Publication outputs pass quick structural QA, including a verified EPUB table of contents
 
 ---
 
@@ -43,4 +41,7 @@ Do not stage any chapter brief until `skills/scenario-thread.md` is Done in Line
 
 | Phase | Completed | Notes |
 |-------|-----------|-------|
-| Phase 0 — Scaffold | ⬜ | In progress |
+| Phase 0 — Scaffold | ✅ | Complete |
+| Phase 1 — Drafting | ✅ | All chapter files written |
+| Phase 2 — Initial publication outputs | ✅ | EPUB, DOCX, PDF built once |
+| Phase 3 — Editing and final polish | ✅ | Continuity, copyedit, rebuild, and structural QA complete on 2026-03-17 |

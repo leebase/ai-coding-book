@@ -154,11 +154,11 @@ Now produces:
 
   VITE v5.1.4  ready in 312 ms
 
-  ➜  Local:   http://localhost:5173/
+  ➜  Local:   http://localhost:3000/
   ➜  Network: use --host to expose
 ```
 
-The shell found `vite` because it's now in `frontend/node_modules/.bin/`. npm knows to look there when running scripts. The dev server started. The frontend is accessible at `localhost:5173`.
+The shell found `vite` because it's now in `frontend/node_modules/.bin/`. npm knows to look there when running scripts. The dev server started. In this project, the frontend is configured to serve on `localhost:3000`, so that's where the app appears.
 
 This is the same shape as the Python resolution in Chapter 6. Once the packages were installed into the right place, the import error went away. Here, once `node_modules/` was created with the right contents, the command not found error went away. The pattern is the same: declare dependencies in the manifest, install them locally, use them.
 

@@ -83,6 +83,22 @@ The next time you run the backend, Python will use that room. The error will be 
 
 ---
 
+## What "Activation" Actually Changes
+
+You'll often see one more step after the environment is created:
+
+```
+source .venv/bin/activate
+```
+
+This is the part that feels abstract until someone names it plainly. Activating the environment changes which Python your current shell reaches for by default. Before activation, typing `python` might mean the system Python, or a Homebrew Python, or whatever interpreter your shell finds first on PATH. After activation, typing `python` means the interpreter inside `backend/.venv`.
+
+Nothing magical happened to Python itself. Your shell just changed which room it walks into first.
+
+That's why activation is session-scoped. Open a new terminal and the shell starts over with its normal PATH. The environment isn't "broken" — it's just no longer the default for that new session until the AI activates it again. Once you see activation as a shell-state change rather than a Python concept, the behavior stops feeling random.
+
+---
+
 ## The Other Wall: Wrong Python Version
 
 Sometimes the error isn't about a missing library. Sometimes the AI runs the install step and you get this instead:
@@ -110,7 +126,11 @@ The AI created `backend/.venv`. You don't need to understand its internals, and 
 
 **Don't run Python commands from outside the project's virtual environment accidentally.** If you open a new terminal window and run a Python command without the environment active, you're back in the generic room. The error returns. You'll know this happened if the `ModuleNotFoundError` shows up again on a project that was previously working.
 
+There's a subtle version of this mistake that's worth naming. You see the backend running correctly in one terminal, open another terminal to test something, run `python backend/app.py`, and assume it should work the same way because it's the same project on the same machine. But shells don't share state. The first terminal had the environment active. The second one doesn't. Same repo, different room.
+
 > **Don't Do This:** Do not install Flask or any other library globally with `pip install flask` to make the error go away faster. A global install can mask the problem temporarily, but it doesn't set up the project correctly. The next time someone else clones the project, or you set up a new machine, the install step will fail in the same way.
+
+The reason the global install feels tempting is that it can appear to work immediately. The import error disappears, which makes it feel like the diagnosis was correct. But what you actually did was put Flask on the generic shelf instead of the project shelf. The backend might start, but you've taught yourself the wrong lesson about what the project needs. The next project with different dependencies collides with it, and now the machine feels inconsistent again.
 
 > **Key Takeaway:** "Python is installed" and "this project's packages are installed" are two different conditions. A virtual environment is what connects them — it's the private room where this project's dependencies live.
 

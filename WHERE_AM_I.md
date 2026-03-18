@@ -11,10 +11,10 @@
 | Attribute | Value |
 |-----------|-------|
 | **Project** | ai-coding-book |
-| **Type** | Book — "The AI-Era Developer" |
-| **Current Phase** | Phase 3 — Polish & Publication Prep |
-| **Overall Status** | 🟢 Writing complete, polishing |
-| **Last Updated** | 2026-03-15 |
+| **Type** | Book project — main arc plus standalone primer |
+| **Current Phase** | Main arc paused after Book 2; standalone primer complete |
+| **Overall Status** | 🟢 Two main-arc books complete; environment primer finished and rebuilt |
+| **Last Updated** | 2026-03-17 |
 
 ---
 
@@ -22,25 +22,20 @@
 
 > Reference: `product-definition.md` for full success criteria.
 
-### Book Completion
+### Main Arc Completion
 
 | Part | Chapters | Status |
 |------|----------|--------|
-| Part 1 — Engineering in the AI Era | Ch 1–7 | ✅ Complete |
-| Part 2 — The AgentFlow Methodology | Ch 8–14 | ✅ Complete |
-| Introduction | — | ⬜ Not started |
-| Conclusion | — | ⬜ Not started |
+| Book 1 — The AI-Era Developer | 16 files | ✅ Complete |
+| Book 2 — Coding with Agent Teams | 13 files | ✅ Complete |
+| Book 3 — Independent and autonomous agents | — | ⬜ Not started |
 
-### Phase 3 Sprints
+### Standalone Primer
 
-| Sprint | Focus | Status |
-|--------|-------|--------|
-| Sprint 15 — Introduction | Set thesis, hook reader, explain book structure | ⬜ Not started |
-| Sprint 16 — Conclusion | Close thesis, address what comes next | ⬜ Not started |
-| Sprint 17 — Visuals | 14 Mermaid/ASCII diagrams across all chapters | ⬜ Not started |
-| Sprint 18 — Continuity Pass | Read all 16 chapters as one work, fix issues | ⬜ Not started |
-| Sprint 19 — Copyedit | Line-level polish across all 16 chapters | ⬜ Not started |
-| Sprint 20 — Publication Format | Decide format, generate final output | ⬜ Not started |
+| Work | Status |
+|------|--------|
+| Your Dev Environment — first draft | ✅ Complete |
+| Your Dev Environment — revision, rebuild, and structural QA | ✅ Complete |
 
 ### Success Criteria (from product-definition.md)
 
@@ -56,20 +51,18 @@
 
 ## Sprint Position
 
-All 14 sprints complete. No active sprint — entering Phase 3 (polish).
+Main arc: no active sprint; real Book 3 is intentionally deferred.
+Standalone primer: finished, with only optional visual proofing left before any external upload.
 
 ---
 
 ## What "Done" Looks Like
 
-- [x] All 14 chapters written and committed
-- [x] Part 1 project thread (task manager CLI) coherent across chapters
-- [x] Part 2 AgentFlow mechanisms mapped to Part 1 pain points
-- [ ] Introduction chapter
-- [ ] Conclusion chapter
-- [ ] Continuity pass complete
-- [ ] Copyedit pass complete
-- [ ] Publication format decided and converted
+- [x] Book 1 complete and published
+- [x] Book 2 complete and published
+- [x] Standalone environment primer drafted and built to EPUB/DOCX/PDF
+- [x] Standalone environment primer revision, rebuild, and structural QA complete
+- [ ] Main-arc Book 3 thesis and scope locked
 
 ---
 

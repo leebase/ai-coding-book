@@ -6,6 +6,44 @@
 
 ---
 
+## 2026-03-17 — Environment Book Finished, Rebuilt, and QA'd
+
+**Completed the standalone Environment book** end to end: restored missing chapter sources, expanded the thin chapters, synced the companion-project details from `book-project-writeup.md`, fixed continuity drift in ports and scenario references, rebuilt all publication outputs, and verified the packaging.
+
+**Also fixed two publication-tooling issues** during finish work:
+- `ai-env-book/build-epub.py` now splits chapters by real top-level manuscript headings instead of every `---`, which eliminated the broken TOC entries like “Chapter 18”, “Chapter 19”, etc.
+- `ai-env-book/build-docx.py` now writes proper core metadata so the generated DOCX carries the actual title and author.
+
+### How to Verify
+
+1. Open `ai-env-book/context.md` and `ai-env-book/sprint-plan.md` to confirm the book is marked complete
+2. Confirm the rebuilt outputs exist:
+   - `ai-env-book/your-dev-environment.epub`
+   - `ai-env-book/your-dev-environment.docx`
+   - `ai-env-book/your-dev-environment.pdf`
+3. Inspect the EPUB nav:
+   - `unzip -p ai-env-book/your-dev-environment.epub EPUB/nav.xhtml`
+   - verify it lists Introduction, Chapters 1–15, and Conclusion only
+4. Inspect DOCX core metadata:
+   - `unzip -p ai-env-book/your-dev-environment.docx docProps/core.xml`
+   - verify the title is `Your Dev Environment: A Guide for AI-Assisted Developers` and the creator is `Lee Harrington`
+
+---
+
+## 2026-03-17 — Series Roadmap and Environment Sprint Plan Synced
+
+**Updated repo documentation** to reflect the actual roadmap: Book 1 and Book 2 are the completed main-arc books, `ai-env-book/` is a standalone environment primer, and the planned main-arc Book 3 is about independent/autonomous agents.
+
+**Also updated** `ai-env-book/sprint-plan.md` to replace stale Linear staging guidance with an editing-phase plan, including source/manuscript alignment, publication QA, and explicit doc-sync work before the next rebuild.
+
+### How to Verify
+
+1. Read `README.md` for the main-arc vs standalone-primer framing
+2. Read `context.md` and `WHERE_AM_I.md` for updated roadmap status
+3. Read `ai-env-book/sprint-plan.md` for the current editing sequence and exit criteria
+
+---
+
 ## 2026-03-15 — All Documents Updated
 
 README.md, context.md, WHERE_AM_I.md, result-review.md, and project-plan.md updated to reflect completion of all 14 chapters and transition to Phase 3.

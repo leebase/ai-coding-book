@@ -76,6 +76,8 @@ This coexistence is common. It happens on real projects when teams migrate from 
 
 When the AI runs the install step, it uses `uv pip install -e .`, which tells `uv` to read `pyproject.toml` as the source of truth. If something reads `requirements.txt` instead — an older script, a teammate's manual install command — it will install from that list. The two files should stay in sync. In `neighborhood-meals`, they do.
 
+In this repo, that coexistence is also part of the teaching surface. The book-facing `main` branch keeps both files present because that is what readers actually encounter on real projects: clean migrations are rare, and transitional toolchains are normal. If you need to verify that the app works without wondering whether the roughness is deliberate, that's what `reference-working` is for. The dependency story is the same; the setup question becomes less ambiguous.
+
 > **Key Takeaway:** Having both files isn't a problem to fix. It's the project in the middle of a migration. The AI knows to read `pyproject.toml` with `uv`. If you see documentation that shows `pip install -r requirements.txt`, that's the older approach working from the older file. Both work; they just serve different toolchains.
 
 ---

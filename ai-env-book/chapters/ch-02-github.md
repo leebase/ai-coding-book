@@ -20,6 +20,14 @@ The connection between your local copy and GitHub exists only when you push or p
 
 When you clone a repository, git automatically creates a shorthand name for where you cloned it from. That shorthand is `origin` by default. It points to the URL of the source repository.
 
+For this book's companion repo, the canonical GitHub URL is:
+
+```
+https://github.com/leebase/neighborhood-meals.git
+```
+
+Depending on how the machine is set up, `origin` may use that HTTPS form directly or the SSH form of the same repository. The important point is not the transport. It's that `origin` names the remote copy of this repo.
+
 To see what `origin` is in `neighborhood-meals`, the AI can run:
 
 ```
@@ -29,8 +37,8 @@ git remote -v
 The output looks something like this:
 
 ```
-origin	git@github.com:yourname/neighborhood-meals.git (fetch)
-origin	git@github.com:yourname/neighborhood-meals.git (push)
+origin	git@github.com:leebase/neighborhood-meals.git (fetch)
+origin	git@github.com:leebase/neighborhood-meals.git (push)
 ```
 
 That's it. `origin` is an alias for a URL. When the AI says `git push origin main`, it means: "push the commits on my local `main` branch to the URL called `origin`, into the branch called `main` on that remote."
@@ -71,6 +79,8 @@ The first is obvious: if your project has credentials, API keys, or any secrets 
 The second is less obvious: when you share context with an AI tool, you're often pasting code, error messages, or file contents into a conversation window. That conversation may not be private depending on your service settings. Knowing whether your repository is public or private helps you calibrate how careful to be with what you paste.
 
 For `neighborhood-meals`, the repository is private. The AI doesn't need to know your GitHub credentials to work with a private repository — but your machine does, and that's what the next chapter covers.
+
+One more detail matters for this repo specifically: `main` is the book-facing branch, not the "everything is already smooth" branch. If you need to sanity-check whether a failure is environmental or whether the app itself is broken, the known-good branch is `reference-working`. The AI handles the branch switch. You just need to know why that branch exists.
 
 ---
 
