@@ -1,0 +1,303 @@
+{
+  "profile_name": "claude-code",
+  "tool_name": "Claude Code",
+  "book_title": "Software Engineering with AI: Claude Code Edition",
+  "output_dir": "book1-claude-code",
+  "combined_filename": "software-engineering-with-ai-claude-code.md",
+  "notes": [
+    "Claude Code behavior was checked against Anthropic's current Claude Code docs before this profile was written.",
+    "The profile keeps the book's methodology intact and only adapts harness-specific workflow language."
+  ],
+  "global_replacements": [
+    {
+      "pattern": "https://antigravity\\.google",
+      "replacement": "https://code.claude.com/docs/en/quickstart"
+    },
+    {
+      "pattern": "\\bAntigravity\\b",
+      "replacement": "Claude Code"
+    },
+    {
+      "pattern": "Google DeepMind's free-tier AI coding IDE",
+      "replacement": "Anthropic's terminal-first AI coding agent"
+    },
+    {
+      "pattern": "free-tier",
+      "replacement": "subscription-backed"
+    },
+    {
+      "pattern": "free tier",
+      "replacement": "paid plan"
+    },
+    {
+      "pattern": "new conversation icon at the top of the agent sidebar",
+      "replacement": "`/clear` in the current Claude Code session"
+    },
+    {
+      "pattern": "new conversation icon at the top of the sidebar",
+      "replacement": "`/clear` in the current Claude Code session"
+    },
+    {
+      "pattern": "new conversation icon",
+      "replacement": "`/clear`"
+    },
+    {
+      "pattern": "\\bagent sidebar\\b",
+      "replacement": "Claude Code session"
+    },
+    {
+      "pattern": "\\bfile explorer\\b",
+      "replacement": "editor"
+    },
+    {
+      "pattern": "\\bEditor View\\b",
+      "replacement": "a single Claude Code session"
+    },
+    {
+      "pattern": "\\bManager View\\b",
+      "replacement": "Claude Code subagents"
+    },
+    {
+      "pattern": "\\*\\*Free Tier Note:\\*\\*",
+      "replacement": "**Credit Note:**"
+    },
+    {
+      "pattern": "Open Claude Code and start a new agent session \\(`/clear` in the current Claude Code session\\)\\.",
+      "replacement": "Start a fresh Claude Code session in your project directory."
+    },
+    {
+      "pattern": "Open a new agent session \\(`/clear` in the current Claude Code session\\)\\.",
+      "replacement": "Start a fresh Claude Code session."
+    },
+    {
+      "pattern": "Start a new agent session \\(`/clear` in the current Claude Code session\\)\\.",
+      "replacement": "Start a fresh Claude Code session."
+    },
+    {
+      "pattern": "Start a new agent session \\(`/clear`\\)\\.",
+      "replacement": "Start a fresh Claude Code session."
+    },
+    {
+      "pattern": "Open the Claude Code session and start a new session \\(`/clear` in the current Claude Code session\\)\\.",
+      "replacement": "Stay in your project directory and start a fresh Claude Code session."
+    },
+    {
+      "pattern": "Start a new agent session in your task manager project by clicking the `/clear` in the current Claude Code session\\.",
+      "replacement": "Start a fresh Claude Code session in your task manager project."
+    }
+  ],
+  "file_replacements": {
+    "introduction.md": [
+      {
+        "pattern": "\\*\\*Claude Code installed\\.\\*\\*[\\s\\S]*?The paid plan is sufficient for every exercise in this book\\.",
+        "replacement": "**Claude Code installed.** Use Anthropic's current [Claude Code quickstart](https://code.claude.com/docs/en/quickstart) to install it on your machine, then run `claude` inside your project directory. Claude Code is terminal-first, so the exercises in this edition assume you are comfortable moving between your shell and editor."
+      },
+      {
+        "pattern": "Prior experience with AI coding tools\\. This book starts from scratch with Claude Code\\.",
+        "replacement": "Prior experience with AI coding tools. This edition starts from scratch with Claude Code as the harness."
+      },
+      {
+        "pattern": "Chapter 1 opens with the failure path\\. You will open Claude Code, describe what you want, and watch what happens\\.",
+        "replacement": "Chapter 1 opens with the failure path. You will start a fresh Claude Code session, describe what you want, and watch what happens."
+      }
+    ],
+    "part-1/ch-01-plan-before-you-prompt.md": [
+      {
+        "pattern": "\\*\\*Open Claude Code and create a new project folder\\.\\*\\*[\\s\\S]*?Create a new folder for your project and open it\\.",
+        "replacement": "**Create a new project folder and start Claude Code inside it.** Make a new folder for your project, open a terminal in that folder, and run `claude`. If you have not installed Claude Code yet, use Anthropic's current [quickstart guide](https://code.claude.com/docs/en/quickstart)."
+      },
+      {
+        "pattern": "\\*\\*Open the Claude Code session\\.\\*\\*[\\s\\S]*?Click it to open the sidebar panel\\.",
+        "replacement": "**Start a fresh session.** Claude Code runs in your terminal. When you launch `claude` in the project directory, you start with a fresh session and an empty conversation history."
+      },
+      {
+        "pattern": "You will see it creating files in your project explorer on the left, running commands in the terminal panel at the bottom, and occasionally pausing to report what it has done\\.",
+        "replacement": "You will see it creating files in your project directory, running commands in the terminal, and occasionally pausing to report what it has done."
+      },
+      {
+        "pattern": "Delete the project folder from the failure path — or simply create a new empty folder and open that in Claude Code instead\\.",
+        "replacement": "Delete the project folder from the failure path — or simply create a new empty folder and start a fresh `claude` session in that directory instead."
+      },
+      {
+        "pattern": "Open the Claude Code session\\. This time, your prompt will be the planning brief, prefaced with a one-sentence instruction:",
+        "replacement": "Start a fresh Claude Code session. This time, your prompt will be the planning brief, prefaced with a one-sentence instruction:"
+      }
+    ],
+    "part-1/ch-03-test-ai-output.md": [
+      {
+        "pattern": "When the agent finishes, open the Claude Code terminal panel \\(View → Terminal, or the terminal tab at the bottom of the window\\)\\.",
+        "replacement": "When the agent finishes, return to your shell in the same project directory."
+      }
+    ],
+    "part-1/ch-02-define-requirements.md": [
+      {
+        "pattern": "Stay in the same project folder — your `tasks\\.py` and `tasks\\.json` from Chapter 1 should still be there\\. Start a new agent session by clicking the `/clear` in the current Claude Code session \\(it looks like a compose or plus icon\\)\\.",
+        "replacement": "Stay in the same project folder — your `tasks.py` and `tasks.json` from Chapter 1 should still be there. Start a fresh Claude Code session."
+      }
+    ],
+    "part-1/ch-07-document-decisions.md": [
+      {
+        "pattern": "Create this file yourself — not by prompting the agent, but by hand\\. In the Claude Code editor \\(left panel\\), right-click and select New File, or use the new file icon, and name it `decisions\\.md`\\. Paste the content above\\. Save with Cmd\\+S or Ctrl\\+S\\.",
+        "replacement": "Create this file yourself — not by prompting the agent, but by hand. Use your editor or `touch decisions.md`, paste the content above, and save it."
+      }
+    ],
+    "part-2/ch-09-skills-and-autonomy-modes.md": [
+      {
+        "pattern": "Create the skill file in your task manager project\\. In the Claude Code editor \\(left panel\\), right-click and select New File\\. Name it `start-session\\.md`\\. Copy the template above, updating \\`\\[CURRENT_COUNT\\]\\` to `14` \\(your current test count after Chapter 8\\)\\.",
+        "replacement": "Create the skill file in your task manager project. Use your editor or `touch start-session.md`, then copy the template above and update `[CURRENT_COUNT]` to `14` (your current test count after Chapter 8)."
+      },
+      {
+        "pattern": "It is not a special Claude Code file type — it is a plain markdown file you reference manually at the start of each session by copying its contents into your prompt\\.",
+        "replacement": "It is not a special Claude Code file type. It is a plain markdown file you can reference at the start of each session with `@start-session.md`, or copy into the prompt if you prefer."
+      },
+      {
+        "pattern": "This time, open `start-session\\.md` in the Claude Code editor, copy its contents, and paste them at the top of your prompt\\.",
+        "replacement": "This time, reference `@start-session.md` at the top of your prompt, or paste its contents if you prefer."
+      }
+    ],
+    "part-2/ch-10-context-files-and-handoffs.md": [
+      {
+        "pattern": "In the Claude Code editor \\(left panel\\), right-click and select New File\\. Name it `context\\.md`\\.",
+        "replacement": "Create `context.md` in your project directory using your editor or `touch context.md`."
+      },
+      {
+        "pattern": "Start a new agent session \\(`/clear` in the current Claude Code session\\)\\. Open `context\\.md` in the Claude Code editor, copy its full contents, and send this prompt — replacing the bracketed placeholder with the actual file contents:",
+        "replacement": "Start a fresh Claude Code session. Reference `@context.md` and send this prompt — replacing the bracketed placeholder if you are pasting manually:"
+      },
+      {
+        "pattern": "Start a fresh Claude Code session\\. Open `context\\.md` in the Claude Code editor, copy its full contents, and send this prompt — replacing the bracketed placeholder with the actual file contents:",
+        "replacement": "Start a fresh Claude Code session. Reference `@context.md` and send this prompt — replacing the bracketed placeholder if you are pasting manually:"
+      }
+    ],
+    "part-2/ch-08-the-agentflow-loop.md": [
+      {
+        "pattern": "# In the Claude Code editor, open tasks\\.json and replace its contents",
+        "replacement": "# Open tasks.json in your editor and replace its contents"
+      },
+      {
+        "pattern": "Add a new entry to decisions\\.md\\. In the Claude Code editor, open `decisions\\.md` and add:",
+        "replacement": "Add a new entry to decisions.md. Open `decisions.md` in your editor and add:"
+      },
+      {
+        "pattern": "Claude Code subagents becomes useful",
+        "replacement": "Claude Code subagents become useful"
+      }
+    ],
+    "part-2/ch-11-multi-agent-coordination.md": [
+      {
+        "pattern": "Until now you have used Claude Code's a single Claude Code session — one agent session at a time, in a sidebar next to your code\\. That is the right default\\. It keeps the loop tight and the context manageable\\.",
+        "replacement": "Until now you have used a single Claude Code session at a time. That is the right default. It keeps the loop tight and the context manageable."
+      },
+      {
+        "pattern": "Claude Code also has a Claude Code subagents\\. It is a canvas where multiple agent sessions run simultaneously, each visible as a card\\.",
+        "replacement": "Claude Code also supports subagents with fresh, separate context windows. They are the right tool when you want parallel work without dumping every branch of the task into one conversation."
+      },
+      {
+        "pattern": "To switch to Claude Code subagents: look for the grid icon in the upper right of the Claude Code interface, next to the Claude Code session icon\\. Click it\\. The canvas opens\\. Each agent you create appears as a card with its own conversation and terminal access\\.",
+        "replacement": "To use subagents, either ask Claude directly to delegate part of the work to a subagent, or use `/agents` to create a reusable specialist first. Each subagent runs with fresh context and returns a summary to the main session."
+      },
+      {
+        "pattern": "Open Claude Code subagents \\(grid icon, upper right\\)\\. Create two agent sessions — look for a button or icon to create a new agent on the canvas \\(it may appear as a plus icon or \"New Agent\" label\\)\\. Click it twice\\. You will have two cards\\.",
+        "replacement": "Stay in your main Claude Code session and explicitly delegate to two subagents with non-overlapping write scopes. Tell one subagent it owns the code change. Tell the other it owns the documentation change."
+      },
+      {
+        "pattern": "Open Claude Code subagents\\. Create two agent sessions\\.",
+        "replacement": "Stay in the main session and create two subagent tasks."
+      },
+      {
+        "pattern": "If COMMANDS\\.md did not include the `--priority` filter, open a single a single Claude Code session session and give Agent A \\(or a new session\\) a targeted correction:",
+        "replacement": "If COMMANDS.md did not include the `--priority` filter, return to a single Claude Code session and issue a targeted correction:"
+      },
+      {
+        "pattern": "Claude Code subagents is useful for exactly one situation:",
+        "replacement": "Claude Code subagents are useful for exactly one situation:"
+      },
+      {
+        "pattern": "\\*\\*Card 1:\\*\\*",
+        "replacement": "**Subagent 1:**"
+      },
+      {
+        "pattern": "\\*\\*Card 2:\\*\\*",
+        "replacement": "**Subagent 2:**"
+      },
+      {
+        "pattern": "Both agents running simultaneously on the canvas\\. You do not need to alternate between them — let them run\\. Monitor both cards for errors or questions\\.",
+        "replacement": "Both subagents running in parallel. You do not need to alternate between them; let them run, then review the summaries and changed files."
+      },
+      {
+        "pattern": "Open `COMMANDS\\.md` in the Claude Code editor\\. Read it\\.",
+        "replacement": "Open `COMMANDS.md` in your editor. Read it."
+      },
+      {
+        "pattern": "Claude Code subagents becomes useful when you have a backlog of independent tasks\\.",
+        "replacement": "Claude Code subagents become useful when you have a backlog of independent tasks."
+      }
+    ],
+    "part-2/ch-12-the-sprint-cadence.md": [
+      {
+        "pattern": "Jump straight in\\. Open Claude Code subagents, create two agents, and give each a rough description:",
+        "replacement": "Jump straight in. Ask Claude to use two subagents immediately, giving each only a rough description:"
+      },
+      {
+        "pattern": "Before opening Claude Code, write a `sprint-plan\\.md` in your project\\. In the Claude Code editor \\(left panel\\), right-click and select New File, name it `sprint-plan\\.md`\\.",
+        "replacement": "Before opening Claude Code, write a `sprint-plan.md` in your project using your editor or `touch sprint-plan.md`."
+      },
+      {
+        "pattern": "Because both sessions write to the same files, use a single Claude Code session \\(one session at a time\\) rather than Claude Code subagents for this sprint\\.",
+        "replacement": "Because both tasks write to the same files, use one Claude Code session at a time rather than parallel subagents for this sprint."
+      },
+      {
+        "pattern": "Open a new agent session in a single Claude Code session \\(`/clear` in the current Claude Code session\\)\\.",
+        "replacement": "Start a fresh Claude Code session."
+      },
+      {
+        "pattern": "# \\(Or open tasks-export\\.csv in the Claude Code editor to view the contents\\)",
+        "replacement": "# (Or open tasks-export.csv in your editor to view the contents)"
+      }
+    ],
+    "part-2/ch-10b-resilience-and-tool-switching.md": [
+      {
+        "pattern": "Open Claude Code and start a session without context\\.md in place\\.",
+        "replacement": "Start a Claude Code session without `context.md` in place."
+      },
+      {
+        "pattern": "The free and \\$20/month tiers are entirely viable",
+        "replacement": "The lower-cost and $20/month tiers are entirely viable"
+      },
+      {
+        "pattern": "Claude Code \\(Gemini, paid plan or \\$20/month\\)",
+        "replacement": "Claude Code (Claude subscription)"
+      },
+      {
+        "pattern": "or \\$20 for one and paid plan on the other",
+        "replacement": "or one paid subscription plus a lighter backup option"
+      },
+      {
+        "pattern": "The gap between subscription-backed AI coding and professional-tier AI coding",
+        "replacement": "The gap between mainstream AI coding subscriptions and professional-tier AI coding"
+      },
+      {
+        "pattern": "\\*\\*The paid plan\\.\\*\\* Every platform offers one\\. None are unlimited, and none are suited for extended implementation sessions\\. Free tiers are most useful for running the handoff test when you need to verify your context files, short targeted prompts \\(a specific bug fix, a small function review\\), and evaluating a new tool before committing credits\\. If you are on a zero-budget constraint, AgentFlow's incremental structure — one requirement, one scoped session, one verified result — is naturally compatible with paid plan limitations\\.",
+        "replacement": "**Entry-level plans and free tiers.** None are unlimited, and none are suited for extended implementation sessions. Lower-cost access is most useful for running the handoff test, short targeted prompts, and evaluating a new tool before committing real budget. If you are on a zero-budget constraint, AgentFlow's incremental structure — one requirement, one scoped session, one verified result — is naturally compatible with those limits."
+      }
+    ],
+    "part-2/ch-13-autonomy-at-scale.md": [
+      {
+        "pattern": "# In the Claude Code editor, open tasks\\.json",
+        "replacement": "# Open tasks.json in your editor"
+      }
+    ],
+    "part-2/ch-14-putting-it-all-together.md": [
+      {
+        "pattern": "Start a fresh Claude Code session\\. Open `start-session\\.md` in the Claude Code editor, copy its contents, and paste at the top of your first message\\.",
+        "replacement": "Start a fresh Claude Code session. Reference `@start-session.md` at the top of your first message, or paste its contents if you prefer."
+      }
+    ],
+    "conclusion.md": [
+      {
+        "pattern": "The methodology is not tied to Claude Code\\. The same context file, skill system, and sprint structure work with any AI coding tool that accepts a prompt\\.",
+        "replacement": "The methodology is not tied to Claude Code. The same context file, skill system, and sprint structure work with other coding harnesses too."
+      }
+    ]
+  }
+}

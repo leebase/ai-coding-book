@@ -12,7 +12,7 @@
 | **Series** | Main arc: 3 books. Standalone environment primer tracked separately. |
 | **Phase** | Book 1: Complete. Book 2: Complete. Standalone environment primer: Complete and rebuilt from final revised sources. Main-arc Book 3: Planned. |
 | **Mode** | 2 (Collaborative) |
-| **Last Updated** | 2026-03-17 |
+| **Last Updated** | 2026-03-20 |
 
 ### Sprint Status
 | Sprint | Status | Completion |
@@ -46,6 +46,9 @@ Book 1 and Book 2 are complete and published. The standalone environment primer 
 - ✅ AgentFlow scaffold, writing pipeline, agent roles, skills
 - ✅ Continuity pass, copyedit
 - ✅ Published: EPUB, DOCX, PDF in `chapters/`
+- ✅ Claude Code edition source generated in `book1-claude-code/`
+- ✅ Reusable edition generator + harness profiles added in `scripts/` and `edition-profiles/`
+- ✅ Claude Code edition rebuilt to EPUB, DOCX, and PDF in `book1-claude-code/`
 
 ### Book 2 — Coding with Agent Teams (complete)
 - ✅ All 13 files (Introduction, Ch 1–11, Conclusion)
@@ -82,9 +85,10 @@ See `ai-env-book/context.md` for the standalone primer finish state and optional
 
 ## Open Questions
 
-1. Tool-specific spin-offs for Book 2 (Claude Code, Cursor editions)
-2. Distribution / reader feedback channel
-3. Main-arc Book 3 topic, structure, and scope
+1. Which exact Cortex product should the Book 1 Cortex profile target?
+2. Tool-specific spin-offs for Book 2 (Claude Code, Cursor editions)
+3. Distribution / reader feedback channel
+4. Main-arc Book 3 topic, structure, and scope
 
 ---
 
@@ -92,9 +96,12 @@ See `ai-env-book/context.md` for the standalone primer finish state and optional
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Book 2 spin-off: Claude Code edition | AI | Harness swaps applied from `book2/harness-inventory.md` |
-| 2 | Explore thesis and boundaries for main-arc Book 3 on independent/autonomous agents | Lee + AI | Enough real-world lessons collected to lock scope |
-| 3 | Optional environment-book visual proof pass before external upload | Lee + AI | Outputs spot-checked in reader apps if needed |
+| 1 | Lock the exact Cortex target and fill `edition-profiles/cortex.json` | Lee + AI | Cortex profile is concrete enough to generate `book1-cortex/` |
+| 2 | Review the generated Book 1 Claude Code edition for editorial polish / remaining tool-language seams | Lee + AI | `book1-claude-code/` reads like a native edition |
+| 3 | Decide whether to keep the generated `uv.lock` or ignore it | Lee + AI | Dependency/build tooling noise is resolved cleanly |
+| 4 | Book 2 spin-off: Claude Code edition | AI | Harness swaps applied from `book2/harness-inventory.md` |
+| 5 | Explore thesis and boundaries for main-arc Book 3 on independent/autonomous agents | Lee + AI | Enough real-world lessons collected to lock scope |
+| 6 | Optional environment-book visual proof pass before external upload | Lee + AI | Outputs spot-checked in reader apps if needed |
 
 ---
 

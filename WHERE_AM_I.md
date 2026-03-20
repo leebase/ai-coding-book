@@ -14,7 +14,7 @@
 | **Type** | Book project — main arc plus standalone primer |
 | **Current Phase** | Main arc paused after Book 2; standalone primer complete |
 | **Overall Status** | 🟢 Two main-arc books complete; environment primer finished and rebuilt |
-| **Last Updated** | 2026-03-17 |
+| **Last Updated** | 2026-03-20 |
 
 ---
 
@@ -27,6 +27,7 @@
 | Part | Chapters | Status |
 |------|----------|--------|
 | Book 1 — The AI-Era Developer | 16 files | ✅ Complete |
+| Book 1 — Claude Code edition | Generated source + EPUB/DOCX/PDF | ✅ Complete |
 | Book 2 — Coding with Agent Teams | 13 files | ✅ Complete |
 | Book 3 — Independent and autonomous agents | — | ⬜ Not started |
 
@@ -59,6 +60,7 @@ Standalone primer: finished, with only optional visual proofing left before any 
 ## What "Done" Looks Like
 
 - [x] Book 1 complete and published
+- [x] Book 1 Claude Code edition generated and built to EPUB/DOCX/PDF
 - [x] Book 2 complete and published
 - [x] Standalone environment primer drafted and built to EPUB/DOCX/PDF
 - [x] Standalone environment primer revision, rebuild, and structural QA complete

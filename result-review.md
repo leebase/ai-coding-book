@@ -6,6 +6,37 @@
 
 ---
 
+## 2026-03-20 — Book 1 Claude Code Edition Generator and First Generated Manuscript
+
+**Created a reusable Book 1 edition pipeline** instead of doing a one-off rewrite. The repo now has a generator at [scripts/generate_book1_edition.py](/Users/lee/projects/ai-coding-book/scripts/generate_book1_edition.py), harness profiles in [edition-profiles/](/Users/lee/projects/ai-coding-book/edition-profiles/README.md), a live Claude Code profile at [edition-profiles/claude-code.json](/Users/lee/projects/ai-coding-book/edition-profiles/claude-code.json), and a Cortex scaffold profile at [edition-profiles/cortex.json](/Users/lee/projects/ai-coding-book/edition-profiles/cortex.json).
+
+**Also generated the first Book 1 Claude Code source edition** in [book1-claude-code/](/Users/lee/projects/ai-coding-book/book1-claude-code/README.md), including adapted chapter files and a combined manuscript at [book1-claude-code/software-engineering-with-ai-claude-code.md](/Users/lee/projects/ai-coding-book/book1-claude-code/software-engineering-with-ai-claude-code.md). The Claude harness mapping was grounded against current Anthropic Claude Code docs before the profile was written, including terminal-first startup, `CLAUDE.md`, `@file` references, and subagent support.
+
+**Then built all three publication outputs** with the stable builder at [scripts/build_book1_claude_outputs.py](/Users/lee/projects/ai-coding-book/scripts/build_book1_claude_outputs.py). The generated files are [book1-claude-code/software-engineering-with-ai-claude-code.epub](/Users/lee/projects/ai-coding-book/book1-claude-code/software-engineering-with-ai-claude-code.epub), [book1-claude-code/software-engineering-with-ai-claude-code.docx](/Users/lee/projects/ai-coding-book/book1-claude-code/software-engineering-with-ai-claude-code.docx), and [book1-claude-code/software-engineering-with-ai-claude-code.pdf](/Users/lee/projects/ai-coding-book/book1-claude-code/software-engineering-with-ai-claude-code.pdf). The EPUB TOC was fixed so it starts at Introduction instead of treating the generator preface as a chapter.
+
+### How to Verify
+
+1. Regenerate the Claude edition:
+   - `python3 scripts/generate_book1_edition.py claude-code`
+2. Confirm the generated edition exists:
+   - [book1-claude-code/README.md](/Users/lee/projects/ai-coding-book/book1-claude-code/README.md)
+   - [book1-claude-code/software-engineering-with-ai-claude-code.md](/Users/lee/projects/ai-coding-book/book1-claude-code/software-engineering-with-ai-claude-code.md)
+3. Confirm the combined Claude manuscript no longer contains Antigravity-specific language:
+   - `rg -n "Antigravity|antigravity.google|Manager View|agent sidebar" book1-claude-code/software-engineering-with-ai-claude-code.md`
+   - expect no matches
+4. Read [edition-profiles/README.md](/Users/lee/projects/ai-coding-book/edition-profiles/README.md) and confirm the Cortex path is scaffolded rather than hard-coded
+5. Rebuild the publication outputs:
+   - `uv run --no-project --with markdown --with python-docx --with reportlab python scripts/build_book1_claude_outputs.py`
+6. Inspect the EPUB nav:
+   - `unzip -p book1-claude-code/software-engineering-with-ai-claude-code.epub EPUB/nav.xhtml`
+   - verify it starts with `Introduction` and ends with `Conclusion`
+7. Inspect DOCX core metadata:
+   - `unzip -p book1-claude-code/software-engineering-with-ai-claude-code.docx docProps/core.xml`
+   - verify it includes `Software Engineering with AI: Claude Code Edition` and `Lee Harrington`
+8. Confirm the PDF is valid:
+   - `file book1-claude-code/software-engineering-with-ai-claude-code.pdf`
+   - verify it reports a PDF document
+
 ## 2026-03-18 — Book 2 EPUB Readability Fixes and Post-Publication Review Sync
 
 ## 2026-03-18 — Book 2 Rebuilt From Claude-Reviewed Source

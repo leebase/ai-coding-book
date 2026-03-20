@@ -1,0 +1,13 @@
+{
+  "profile_name": "cortex",
+  "tool_name": "Cortex",
+  "book_title": "Software Engineering with AI: Cortex Edition",
+  "output_dir": "book1-cortex",
+  "combined_filename": "software-engineering-with-ai-cortex.md",
+  "notes": [
+    "This is a scaffold profile so the edition pipeline is ready for a Cortex pass.",
+    "Because 'Cortex' is ambiguous across products, the exact harness mapping should be filled in against the specific Cortex docs before generation."
+  ],
+  "global_replacements": [],
+  "file_replacements": {}
+}

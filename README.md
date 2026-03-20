@@ -66,6 +66,17 @@ For every principle from Part 1, Part 2 introduces the AgentFlow mechanism that 
 | 📝 Word (DOCX) | [AgentFlow.docx](chapters/AgentFlow.docx) |
 | 📄 PDF | [AgentFlow.pdf](chapters/AgentFlow.pdf) |
 
+### Book 1 Claude Code Edition
+
+Generated from the canonical Book 1 source with a harness-profile pipeline so future tool editions can reuse the same structure.
+
+| Format | File |
+|--------|------|
+| 📖 EPUB | [software-engineering-with-ai-claude-code.epub](book1-claude-code/software-engineering-with-ai-claude-code.epub) |
+| 📝 Word (DOCX) | [software-engineering-with-ai-claude-code.docx](book1-claude-code/software-engineering-with-ai-claude-code.docx) |
+| 📄 PDF | [software-engineering-with-ai-claude-code.pdf](book1-claude-code/software-engineering-with-ai-claude-code.pdf) |
+| 🧾 Source | [software-engineering-with-ai-claude-code.md](book1-claude-code/software-engineering-with-ai-claude-code.md) |
+
 ---
 
 ## Book 2: Coding with Agent Teams
@@ -194,6 +205,13 @@ This book teaches new developers just enough about each layer of the environment
 │   ├── AgentFlow.docx
 │   └── AgentFlow.pdf
 │
+├── book1-claude-code/      # Book 1 Claude Code edition outputs + combined source
+│   ├── chapters/           # Generated harness-adapted chapter source
+│   ├── software-engineering-with-ai-claude-code.md
+│   ├── software-engineering-with-ai-claude-code.epub
+│   ├── software-engineering-with-ai-claude-code.docx
+│   └── software-engineering-with-ai-claude-code.pdf
+│
 ├── book2/                  # Book 2: Coding with Agent Teams
 │   ├── chapters/
 │   │   ├── part-1/         # Ch 1–6: Content pipeline
@@ -215,6 +233,8 @@ This book teaches new developers just enough about each layer of the environment
 │
 ├── skills/                 # AgentFlow skill definitions
 ├── agents/                 # Agent role definitions (Book 1)
+├── edition-profiles/       # Harness profiles for generated Book 1 editions
+├── scripts/                # Edition generators / publication builders
 ├── AGENTS.md               # Agent operating instructions
 ├── CLAUDE.md               # Project instructions for AI sessions
 └── context.md              # Series session working memory
