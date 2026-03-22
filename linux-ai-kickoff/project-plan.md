@@ -52,6 +52,9 @@ interpret, clarify, and apply what they found.
 
 ## Planned Book Shape
 
+See `architecture.md` for the concrete chapter map, mission ladder, and manual
+coverage map.
+
 ### Part 1 - You're Not Stuck
 
 Goal: Give the reader dignity, possibility, and a reason to believe they can
@@ -75,6 +78,14 @@ Goal: Turn confidence into momentum through practical missions and real output.
 
 Goal: Help the reader choose a direction and keep going without the book.
 
+### Working Manuscript Size
+
+- 1 introduction
+- 17 core chapters across five parts
+- 1 conclusion
+
+Total: **19 manuscript files**
+
 ---
 
 ## Phases
@@ -96,6 +107,7 @@ clear enough to begin chapter design.
 - Define the mission ladder across the book
 - Identify the minimum Omarchy-manual sections each part depends on
 - Choose the first concrete project thread for Part 4
+ - Record the architecture in `architecture.md`
 
 **Done when:** Every chapter has a one-sentence purpose, outcome, and place in
 the reader journey.
@@ -233,3 +245,4 @@ more vocabulary.
 - Omarchy manual: [The Omarchy Manual](https://learn.omacom.io/2/the-omarchy-manual)
 - Local voice guide: `lee-voice.md`
 - Local product definition: `product-definition.md`
+- Local structure decisions: `architecture.md`

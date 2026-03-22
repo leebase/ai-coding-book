@@ -4,6 +4,35 @@
 
 ---
 
+## 2026-03-22 - Sprint 1 Architecture Locked
+
+Completed the first real production sprint for the new book by creating
+`linux-ai-kickoff/architecture.md` and locking the working manuscript
+structure.
+
+This sprint established:
+
+- a 19-file manuscript shape
+- exact working chapter slots across all five parts
+- a purpose and visible outcome for every chapter
+- the Part 4 "personal launchpad" project thread
+- the placement of the core mental models
+- the Omarchy-manual coverage map by chapter
+- the review sequence to use during drafting
+
+It also updated the local project docs so `AGENTS.md`, `project-plan.md`,
+`context.md`, and `sprint-plan.md` all point to the new architecture as the
+canonical chapter map.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/architecture.md`
+2. Confirm it contains the chapter map, project thread, and manual coverage map
+3. Read `linux-ai-kickoff/project-plan.md` and confirm it now references `architecture.md`
+4. Read `linux-ai-kickoff/sprint-plan.md` and confirm Sprint 1 is marked done
+
+---
+
 ## 2026-03-22 - Full Production Sprint Plan Added
 
 Replaced the placeholder sprint plan with a full-book production runway in

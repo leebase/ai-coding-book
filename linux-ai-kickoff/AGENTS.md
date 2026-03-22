@@ -33,6 +33,7 @@ At the start of every session, read in order:
 4. `sprint-plan.md`
 5. `product-definition.md`
 6. `project-plan.md`
+7. `architecture.md` when chapter structure or sequencing matters
 
 If the task touches chapter voice, also read `lee-voice.md`.
 

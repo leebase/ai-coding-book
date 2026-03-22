@@ -76,8 +76,7 @@ planning spine, and custom agent roles.
 | Create custom agent files | Done |
 | Update `lee-voice.md` for this book | Done |
 | Expand sprint plan to full-book production plan | Done |
-| Decide chapter architecture | In progress |
-| Decide first-wave new skills | Not started |
+| Decide chapter architecture | Done |
 
 **Done when:** The workspace can support full-book planning without relying on
 chat history.
@@ -91,14 +90,15 @@ manuscript.
 
 | Task | Status |
 |------|--------|
-| Confirm total chapter count | Not started |
-| Name all parts and chapter slots | Not started |
-| Define one-sentence purpose for each chapter | Not started |
-| Define visible outcome for each chapter | Not started |
-| Choose the Part 4 project thread | Not started |
-| Map core mental models to exact chapters | Not started |
-| Identify required Omarchy-manual sections by chapter | Not started |
-| Decide introduction and conclusion roles | Not started |
+| Confirm total chapter count | Done |
+| Name all parts and chapter slots | Done |
+| Define one-sentence purpose for each chapter | Done |
+| Define visible outcome for each chapter | Done |
+| Choose the Part 4 project thread | Done |
+| Map core mental models to exact chapters | Done |
+| Identify required Omarchy-manual sections by chapter | Done |
+| Decide introduction and conclusion roles | Done |
+| Record decisions in `architecture.md` | Done |
 
 **Deliverables**
 

@@ -17,9 +17,9 @@
 
 | Sprint | Status | Completion |
 |--------|--------|------------|
-| Sprint 0 - Foundation | In progress | 80% |
-| Sprint 1 - Chapter architecture | Not started | 0% |
-| Sprint 2 - Part 1 drafting | Not started | 0% |
+| Sprint 0 - Foundation | Complete | 100% |
+| Sprint 1 - Chapter architecture | Complete | 100% |
+| Sprint 2 - Skill stack and writing workflow | Not started | 0% |
 
 ---
 
@@ -27,11 +27,12 @@
 
 This book has now moved from loose concept notes into a structured workspace.
 The title is `Teach Yourself Anything`, the core thesis is locked, the first
-custom agents exist, and the sprint plan now covers the full production of the
-book from architecture through publication QA.
+custom agents exist, the sprint plan now covers the full production of the
+book from architecture through publication QA, and the architecture file now
+locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to finish Sprint 0 by locking the chapter architecture and
-the first-wave skill stack before drafting begins.
+The current focus is to start Sprint 2 by building the first-wave skill stack
+and the writing workflow that will support chapter production.
 
 ---
 
@@ -45,15 +46,17 @@ the first-wave skill stack before drafting begins.
 | Omarchy manual is the primary technical companion source | RTFM is part of the method | 2026-03-22 |
 | AI is framed as tutor and leverage, not destiny | Avoids hype and passivity | 2026-03-22 |
 | GenAI is taught as horse-not-car | Explains why guidance and supervision matter | 2026-03-22 |
+| Working manuscript shape: 19 files | Enough room for transformation without turning into a reference tome | 2026-03-22 |
+| Part 4 project thread: personal launchpad | Keeps the practical work real, small, and broadly accessible | 2026-03-22 |
 
 ---
 
 ## Open Questions
 
 1. What is the final subtitle?
-2. How many chapters should each of the five parts contain?
-3. What should the Part 4 mission thread be?
-4. Which new skills should be created first after the agent stack?
+2. Do any of the working chapter titles need stronger wording before drafting starts?
+3. Which new skills should be created first after the agent stack?
+4. Should the introduction's visible outcome stay as a short note, or become a stronger opening exercise?
 
 ---
 
@@ -61,10 +64,10 @@ the first-wave skill stack before drafting begins.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Finalize chapter architecture across all five parts | Lee + AI | Every chapter has a role in the reader journey |
-| 2 | Decide the first wave of new skills | Lee + AI | Skill list is small, justified, and ordered |
-| 3 | Create the first writing skill for this book | AI | Local workflow is ready for chapter planning |
-| 4 | Choose the Part 4 project thread | Lee + AI | The book has a concrete action spine |
+| 1 | Decide the first wave of new skills | Lee + AI | Skill list is small, justified, and ordered |
+| 2 | Create `manual-first` | AI | The manual habit is encoded into the workflow |
+| 3 | Create `ai-as-tutor` | AI | AI usage guidance is explicit before chapter drafting |
+| 4 | Decide whether to scaffold chapter files before Sprint 3 | Lee + AI | Drafting setup is friction-free |
 
 ---
 
@@ -75,6 +78,7 @@ the first-wave skill stack before drafting begins.
 | `AGENTS.md` | Local operating guide | Done |
 | `product-definition.md` | Book vision and thesis | Done |
 | `project-plan.md` | Strategic roadmap | Done |
+| `architecture.md` | Chapter map and structural decisions | Done |
 | `context.md` | This file | Done |
 | `sprint-plan.md` | Tactical execution | Done |
 | `result-review.md` | Running log of completed setup work | Done |
