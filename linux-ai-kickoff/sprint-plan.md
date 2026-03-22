@@ -60,7 +60,7 @@ Every drafting sprint follows the same order:
 
 ---
 
-## Sprint 0 - Foundation (ACTIVE)
+## Sprint 0 - Foundation (COMPLETE)
 
 **Goal:** Turn the concept into a real book workspace with a clear thesis,
 planning spine, and custom agent roles.
@@ -111,20 +111,22 @@ journey.
 
 ---
 
-## Sprint 2 - Skill Stack and Writing Workflow
+## Sprint 2 - Skill Stack and Writing Workflow (COMPLETE)
 
 **Goal:** Create the minimum skill stack required to draft chapters cleanly.
 
 | Task | Status |
 |------|--------|
-| Decide the first-wave new skills | Not started |
-| Create `manual-first` | Not started |
-| Create `ai-as-tutor` | Not started |
-| Create `mission-ladder` | Not started |
-| Create `possibility-framing` | Not started |
-| Decide whether `lee-voice` becomes a formal skill file | Not started |
-| Define which `ai-env-book` skills are reused directly | Not started |
-| Document the chapter-writing review sequence | Not started |
+| Decide the first-wave new skills | Done |
+| Create `manual-first` | Done |
+| Create `ai-as-tutor` | Done |
+| Create `mission-ladder` | Done |
+| Create `possibility-framing` | Done |
+| Decide whether `lee-voice` becomes a formal skill file | Done |
+| Create `skills/lee-voice.md` | Done |
+| Create `skills/chapter-sprint.md` | Done |
+| Define which `ai-env-book` skills are reused directly | Done |
+| Document the chapter-writing review sequence | Done |
 
 **Deliverables**
 

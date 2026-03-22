@@ -209,22 +209,24 @@ Every technical section must answer:
 
 ## Skill Stack
 
-### Planned new skills
+### Local skills
 
-- `manual-first`
-- `ai-as-tutor`
-- `mission-ladder`
-- `possibility-framing`
-- `lee-voice` as an operational writing skill
+- `skills/chapter-sprint.md`
+- `skills/manual-first.md`
+- `skills/ai-as-tutor.md`
+- `skills/mission-ladder.md`
+- `skills/possibility-framing.md`
+- `skills/lee-voice.md`
 
-### Likely reused skills
+### Reused skills
 
 - `ai-env-book/skills/env-explainer.md`
 - `ai-env-book/skills/new-dev-validator.md`
 - `ai-env-book/skills/skill-command-safety.md`
 
-New skills should be created only if they add real workflow value and not just
-more vocabulary.
+`chapter-sprint.md` is the coordinator skill for this book's chapter production
+loop. The others constrain mission design, source use, AI interaction, tone,
+and possibility framing.
 
 ---
 

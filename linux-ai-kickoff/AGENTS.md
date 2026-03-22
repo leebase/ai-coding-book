@@ -86,6 +86,28 @@ Use the smallest set of roles that covers the current task.
 
 ---
 
+## Skills
+
+### Local skills
+
+- `skills/chapter-sprint.md`
+- `skills/manual-first.md`
+- `skills/ai-as-tutor.md`
+- `skills/mission-ladder.md`
+- `skills/possibility-framing.md`
+- `skills/lee-voice.md`
+
+### Reused skills from the repo when helpful
+
+- `ai-env-book/skills/env-explainer.md`
+- `ai-env-book/skills/new-dev-validator.md`
+- `ai-env-book/skills/skill-command-safety.md`
+
+When writing or planning a chapter, load `skills/chapter-sprint.md` first and
+then only the smallest supporting skill set needed for that chapter.
+
+---
+
 ## Source Discipline
 
 When the book teaches Omarchy, use the official Omarchy manual as the primary

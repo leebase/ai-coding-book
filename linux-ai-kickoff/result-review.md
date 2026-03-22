@@ -4,6 +4,40 @@
 
 ---
 
+## 2026-03-22 - Sprint 2 Skill Stack Created
+
+Built the first local skill stack for Teach Yourself Anything under
+`linux-ai-kickoff/skills/`.
+
+This sprint added:
+
+- `chapter-sprint.md`
+- `manual-first.md`
+- `ai-as-tutor.md`
+- `mission-ladder.md`
+- `possibility-framing.md`
+- `lee-voice.md`
+
+These skills turn the book's core ideas into a reusable workflow:
+
+- manuals first, AI second
+- AI as tutor instead of vending machine
+- chapter missions with visible outcomes
+- grounded possibility instead of hype
+- a local chapter sprint loop that uses the custom agents in sequence
+
+The local project docs now point to these skills as the active writing stack
+for the book.
+
+### How to Verify
+
+1. Open the files in `linux-ai-kickoff/skills/`
+2. Read `linux-ai-kickoff/skills/chapter-sprint.md`
+3. Read `linux-ai-kickoff/AGENTS.md` and confirm the skills are listed there
+4. Read `linux-ai-kickoff/project-plan.md` and confirm the skill stack is now active
+
+---
+
 ## 2026-03-22 - Sprint 1 Architecture Locked
 
 Completed the first real production sprint for the new book by creating

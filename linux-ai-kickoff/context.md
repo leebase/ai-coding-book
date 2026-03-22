@@ -9,7 +9,7 @@
 | Attribute | Value |
 |-----------|-------|
 | **Title** | Teach Yourself Anything |
-| **Phase** | Foundation |
+| **Phase** | Pre-drafting |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-22 |
 
@@ -19,7 +19,8 @@
 |--------|--------|------------|
 | Sprint 0 - Foundation | Complete | 100% |
 | Sprint 1 - Chapter architecture | Complete | 100% |
-| Sprint 2 - Skill stack and writing workflow | Not started | 0% |
+| Sprint 2 - Skill stack and writing workflow | Complete | 100% |
+| Sprint 3 - Introduction | Not started | 0% |
 
 ---
 
@@ -31,8 +32,8 @@ custom agents exist, the sprint plan now covers the full production of the
 book from architecture through publication QA, and the architecture file now
 locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to start Sprint 2 by building the first-wave skill stack
-and the writing workflow that will support chapter production.
+The current focus is to start Sprint 3 and draft the introduction using the
+local chapter-sprint workflow, custom agents, and new skill stack.
 
 ---
 
@@ -55,8 +56,8 @@ and the writing workflow that will support chapter production.
 
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
-3. Which new skills should be created first after the agent stack?
-4. Should the introduction's visible outcome stay as a short note, or become a stronger opening exercise?
+3. Should the introduction's visible outcome stay as a short note, or become a stronger opening exercise?
+4. What exact opening image or scene should the introduction lead with?
 
 ---
 
@@ -64,10 +65,10 @@ and the writing workflow that will support chapter production.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Decide the first wave of new skills | Lee + AI | Skill list is small, justified, and ordered |
-| 2 | Create `manual-first` | AI | The manual habit is encoded into the workflow |
-| 3 | Create `ai-as-tutor` | AI | AI usage guidance is explicit before chapter drafting |
-| 4 | Decide whether to scaffold chapter files before Sprint 3 | Lee + AI | Drafting setup is friction-free |
+| 1 | Draft the introduction brief | AI | Sprint 3 starts with a clear mission and outline |
+| 2 | Decide whether to scaffold chapter files before drafting Part 1 | Lee + AI | Drafting setup is friction-free |
+| 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
+| 4 | Revisit the subtitle after the introduction draft exists | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
 ---
 
@@ -76,6 +77,7 @@ and the writing workflow that will support chapter production.
 | File | Purpose | Status |
 |------|---------|--------|
 | `AGENTS.md` | Local operating guide | Done |
+| `skills/` | Local chapter-writing skill stack | Done |
 | `product-definition.md` | Book vision and thesis | Done |
 | `project-plan.md` | Strategic roadmap | Done |
 | `architecture.md` | Chapter map and structural decisions | Done |
