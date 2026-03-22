@@ -9,7 +9,7 @@
 | Attribute | Value |
 |-----------|-------|
 | **Title** | Teach Yourself Anything |
-| **Phase** | Pre-drafting |
+| **Phase** | Drafting |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-22 |
 
@@ -20,7 +20,8 @@
 | Sprint 0 - Foundation | Complete | 100% |
 | Sprint 1 - Chapter architecture | Complete | 100% |
 | Sprint 2 - Skill stack and writing workflow | Complete | 100% |
-| Sprint 3 - Introduction | Not started | 0% |
+| Sprint 3 - Introduction | Complete | 100% |
+| Sprint 4 - Part 1 Chapter 1 | Not started | 0% |
 
 ---
 
@@ -32,8 +33,8 @@ custom agents exist, the sprint plan now covers the full production of the
 book from architecture through publication QA, and the architecture file now
 locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to start Sprint 3 and draft the introduction using the
-local chapter-sprint workflow, custom agents, and new skill stack.
+The current focus is to start Sprint 4 and draft the first Part 1 chapter,
+using the introduction as the opening handoff into the main body of the book.
 
 ---
 
@@ -56,8 +57,8 @@ local chapter-sprint workflow, custom agents, and new skill stack.
 
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
-3. Should the introduction's visible outcome stay as a short note, or become a stronger opening exercise?
-4. What exact opening image or scene should the introduction lead with?
+3. Should the introduction's visible outcome stay as a short note, or become a stronger opening exercise later?
+4. Which exact real-life examples should recur across Part 1 without feeling forced?
 
 ---
 
@@ -65,10 +66,10 @@ local chapter-sprint workflow, custom agents, and new skill stack.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft the introduction brief | AI | Sprint 3 starts with a clear mission and outline |
-| 2 | Decide whether to scaffold chapter files before drafting Part 1 | Lee + AI | Drafting setup is friction-free |
+| 1 | Draft Part 1 Chapter 1 brief | AI | Sprint 4 starts with a clear mission and outline |
+| 2 | Decide whether to scaffold remaining chapter files before drafting Part 1 | Lee + AI | Drafting setup is friction-free |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
-| 4 | Revisit the subtitle after the introduction draft exists | Lee + AI | Subtitle matches the actual tone of the manuscript |
+| 4 | Revisit the subtitle after Part 1 has real prose | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
 ---
 
@@ -81,6 +82,7 @@ local chapter-sprint workflow, custom agents, and new skill stack.
 | `product-definition.md` | Book vision and thesis | Done |
 | `project-plan.md` | Strategic roadmap | Done |
 | `architecture.md` | Chapter map and structural decisions | Done |
+| `chapters/` | Live manuscript source | In progress |
 | `context.md` | This file | Done |
 | `sprint-plan.md` | Tactical execution | Done |
 | `result-review.md` | Running log of completed setup work | Done |

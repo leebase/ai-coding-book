@@ -4,6 +4,34 @@
 
 ---
 
+## 2026-03-22 - Sprint 3 Introduction Drafted
+
+Completed the introduction sprint with a full artifact set:
+
+- `chapters/briefs/introduction-brief.md`
+- `chapters/reviews/introduction-review.md`
+- `chapters/introduction.md`
+
+The introduction is now drafted at roughly 1,445 words and establishes:
+
+- the reader-centered thesis of the book
+- Linux and AI as tools rather than the true subject
+- the line that the future belongs to humans who learn to use AI effectively
+- the preview of the Team-Captain and Horse-Not-Car models
+- the opening reader exercise around the doors they want to open
+
+The draft was also checked against the local review roles and revised to keep
+the tone grounded, dignified, and action-oriented.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/introduction.md`
+2. Read `linux-ai-kickoff/chapters/briefs/introduction-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/introduction-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 3 complete
+
+---
+
 ## 2026-03-22 - Sprint 2 Skill Stack Created
 
 Built the first local skill stack for Teach Yourself Anything under

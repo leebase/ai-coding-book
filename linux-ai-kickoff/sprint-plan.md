@@ -138,20 +138,20 @@ workflow ambiguity.
 
 ---
 
-## Sprint 3 - Introduction
+## Sprint 3 - Introduction (COMPLETE)
 
 **Goal:** Write the introduction that establishes the promise, reader, and
 stakes of the book.
 
 | Task | Status |
 |------|--------|
-| Define opening hook | Not started |
-| Establish the reader persona with dignity | Not started |
-| State the book thesis clearly | Not started |
-| Introduce Linux and AI as tools, not the subject | Not started |
-| Preview the Team-Captain and Horse-Not-Car models | Not started |
-| Explain how to use the book | Not started |
-| Run agent reviews and revise | Not started |
+| Define opening hook | Done |
+| Establish the reader persona with dignity | Done |
+| State the book thesis clearly | Done |
+| Introduce Linux and AI as tools, not the subject | Done |
+| Preview the Team-Captain and Horse-Not-Car models | Done |
+| Explain how to use the book | Done |
+| Run agent reviews and revise | Done |
 
 **Done when:** The introduction makes the reader feel seen, capable, and ready
 to continue.
