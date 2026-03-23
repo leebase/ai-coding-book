@@ -4,6 +4,29 @@
 
 ---
 
+## 2026-03-22 - Sprint 4 Chapter 1 Drafted
+
+Completed Part 1 Chapter 1, `You're Not Stuck`, with the full sprint artifact
+set:
+
+- `chapters/briefs/ch-01-youre-not-stuck-brief.md`
+- `chapters/reviews/ch-01-youre-not-stuck-review.md`
+- `chapters/part-1/ch-01-youre-not-stuck.md`
+
+The chapter now gives the reader a clear first move: stop treating "my whole
+life" as the problem and pick one real door to move on. That keeps the promise
+of the book practical and gives Chapter 2 a clean handoff into what the machine
+actually gives the reader once they have a direction.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-1/ch-01-youre-not-stuck.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-01-youre-not-stuck-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-01-youre-not-stuck-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 4 complete
+
+---
+
 ## 2026-03-22 - Sprint 3 Introduction Drafted
 
 Completed the introduction sprint with a full artifact set:

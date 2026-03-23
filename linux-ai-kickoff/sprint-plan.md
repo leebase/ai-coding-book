@@ -158,18 +158,18 @@ to continue.
 
 ---
 
-## Sprint 4 - Part 1 Chapter 1
+## Sprint 4 - Part 1 Chapter 1 (COMPLETE)
 
 **Goal:** Open Part 1 with a chapter that breaks the feeling of being stuck and
 creates forward motion.
 
 | Task | Status |
 |------|--------|
-| Lock chapter mission | Not started |
-| Draft chapter | Not started |
-| Run `pathfinder` review | Not started |
-| Run `confidence-auditor` review | Not started |
-| Revise chapter | Not started |
+| Lock chapter mission | Done |
+| Draft chapter | Done |
+| Run `pathfinder` review | Done |
+| Run `confidence-auditor` review | Done |
+| Revise chapter | Done |
 
 **Done when:** The chapter increases hope and gives the reader a believable next
 step.
