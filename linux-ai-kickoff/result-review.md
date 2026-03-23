@@ -4,6 +4,29 @@
 
 ---
 
+## 2026-03-22 - Sprint 6 Chapter 3 Drafted
+
+Completed Part 1 Chapter 3, `Learning Without Permission`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-03-learning-without-permission-brief.md`
+- `chapters/reviews/ch-03-learning-without-permission-review.md`
+- `chapters/part-1/ch-03-learning-without-permission.md`
+
+This chapter closes Part 1 by turning the reader's chosen door and leverage
+list into one concrete mission with a why, success signal, and first move. That
+gives Part 2 a clean handoff into teaching the machine in service of a live,
+reader-owned goal.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-1/ch-03-learning-without-permission.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-03-learning-without-permission-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-03-learning-without-permission-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 6 complete
+
+---
+
 ## 2026-03-22 - Sprint 5 Chapter 2 Drafted
 
 Completed Part 1 Chapter 2, `What This Machine Really Gives You`, with the full
