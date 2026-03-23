@@ -4,6 +4,29 @@
 
 ---
 
+## 2026-03-22 - Sprint 5 Chapter 2 Drafted
+
+Completed Part 1 Chapter 2, `What This Machine Really Gives You`, with the full
+sprint artifact set:
+
+- `chapters/briefs/ch-02-what-this-machine-gives-you-brief.md`
+- `chapters/reviews/ch-02-what-this-machine-gives-you-review.md`
+- `chapters/part-1/ch-02-what-this-machine-gives-you.md`
+
+The chapter now reframes the machine as leverage instead of identity. It gives
+the reader a practical exercise to turn their chosen door into a short
+"this setup helps because it lets me..." list, which prepares the ground for
+Chapter 3's focus on self-direction.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-1/ch-02-what-this-machine-gives-you.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-02-what-this-machine-gives-you-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-02-what-this-machine-gives-you-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 5 complete
+
+---
+
 ## 2026-03-22 - Sprint 4 Chapter 1 Drafted
 
 Completed Part 1 Chapter 1, `You're Not Stuck`, with the full sprint artifact

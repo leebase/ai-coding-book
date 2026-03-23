@@ -22,7 +22,8 @@
 | Sprint 2 - Skill stack and writing workflow | Complete | 100% |
 | Sprint 3 - Introduction | Complete | 100% |
 | Sprint 4 - Part 1 Chapter 1 | Complete | 100% |
-| Sprint 5 - Part 1 Chapter 2 | Not started | 0% |
+| Sprint 5 - Part 1 Chapter 2 | Complete | 100% |
+| Sprint 6 - Part 1 Chapter 3 | Not started | 0% |
 
 ---
 
@@ -34,9 +35,9 @@ custom agents exist, the sprint plan now covers the full production of the
 book from architecture through publication QA, and the architecture file now
 locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to start Sprint 5 and draft Part 1 Chapter 2, carrying
-the reader's chosen door into a chapter about what the machine actually gives
-them.
+The current focus is to start Sprint 6 and draft Part 1 Chapter 3, where the
+reader moves from understanding the machine as leverage to using that leverage
+without waiting for permission.
 
 ---
 
@@ -60,7 +61,7 @@ them.
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
 3. Which exact real-life examples should recur across Part 1 without feeling forced?
-4. How specific should Chapter 2 get about the machine before it starts feeling technical too early?
+4. How hard should Chapter 3 push against waiting for permission without sounding preachy?
 
 ---
 
@@ -68,7 +69,7 @@ them.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft Part 1 Chapter 2 brief | AI | Sprint 5 starts with a clear mission and outline |
+| 1 | Draft Part 1 Chapter 3 brief | AI | Sprint 6 starts with a clear mission and outline |
 | 2 | Decide whether to scaffold remaining chapter files before drafting deeper into Part 1 | Lee + AI | Drafting setup is friction-free |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after Part 1 has more prose | Lee + AI | Subtitle matches the actual tone of the manuscript |

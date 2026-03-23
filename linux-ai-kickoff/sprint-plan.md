@@ -176,18 +176,18 @@ step.
 
 ---
 
-## Sprint 5 - Part 1 Chapter 2
+## Sprint 5 - Part 1 Chapter 2 (COMPLETE)
 
 **Goal:** Show what becomes possible when the reader has the right machine and
 the right mindset.
 
 | Task | Status |
 |------|--------|
-| Lock chapter mission | Not started |
-| Draft chapter | Not started |
-| Ensure visible outcome exists | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
+| Lock chapter mission | Done |
+| Draft chapter | Done |
+| Ensure visible outcome exists | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The machine is framed as an opening, not as a fetish object.
 
