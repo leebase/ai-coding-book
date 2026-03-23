@@ -4,6 +4,30 @@
 
 ---
 
+## 2026-03-23 - Sprint 7 Chapter 4 Drafted
+
+Completed Part 2 Chapter 1, `Meet the Machine`, with the full sprint artifact
+set:
+
+- `chapters/briefs/ch-04-meet-the-machine-brief.md`
+- `chapters/reviews/ch-04-meet-the-machine-review.md`
+- `chapters/part-2/ch-04-meet-the-machine.md`
+
+This chapter is grounded in the Omarchy manual's `Welcome to Omarchy`,
+`Navigation`, and `Hotkeys` sections. It teaches only the smallest useful set
+of entry points: launcher, Omarchy menu, hotkey sheet, terminal, and browser.
+That keeps the chapter usable and avoids turning the opening Part 2 chapter
+into a system tour.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-2/ch-04-meet-the-machine.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-04-meet-the-machine-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-04-meet-the-machine-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 7 complete
+
+---
+
 ## 2026-03-22 - Sprint 6 Chapter 3 Drafted
 
 Completed Part 1 Chapter 3, `Learning Without Permission`, with the full sprint

@@ -210,18 +210,18 @@ the right mindset.
 
 ---
 
-## Sprint 7 - Part 2 Chapter 1
+## Sprint 7 - Part 2 Chapter 1 (COMPLETE)
 
 **Goal:** Introduce the Omarchy machine in a way that feels usable, not
 overwhelming.
 
 | Task | Status |
 |------|--------|
-| Map source sections from the Omarchy manual | Not started |
-| Draft chapter | Not started |
-| Run `manual-guide` review | Not started |
-| Run beginner-friction review | Not started |
-| Revise chapter | Not started |
+| Map source sections from the Omarchy manual | Done |
+| Draft chapter | Done |
+| Run `manual-guide` review | Done |
+| Run beginner-friction review | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader knows where to start and what to ignore for now.
 

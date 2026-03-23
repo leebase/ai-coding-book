@@ -24,7 +24,8 @@
 | Sprint 4 - Part 1 Chapter 1 | Complete | 100% |
 | Sprint 5 - Part 1 Chapter 2 | Complete | 100% |
 | Sprint 6 - Part 1 Chapter 3 | Complete | 100% |
-| Sprint 7 - Part 2 Chapter 1 | Not started | 0% |
+| Sprint 7 - Part 2 Chapter 1 | Complete | 100% |
+| Sprint 8 - Part 2 Chapter 2 | Not started | 0% |
 
 ---
 
@@ -36,9 +37,9 @@ custom agents exist, the sprint plan now covers the full production of the
 book from architecture through publication QA, and the architecture file now
 locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to start Sprint 7 and move into Part 2, where the book
-begins teaching the machine directly in service of the mission the reader now
-owns.
+The current focus is to start Sprint 8 and teach the reader how to move
+through the machine with more confidence now that the first entry points are in
+place.
 
 ---
 
@@ -61,8 +62,8 @@ owns.
 
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
-3. Which exact Omarchy-manual sections should be foregrounded first in Chapter 4?
-4. How much technical detail can Chapter 4 carry before it loses the agency-first tone?
+3. Which exact navigation and clipboard patterns should be foregrounded first in Chapter 5?
+4. How much keyboard detail can Chapter 5 carry before it becomes a hotkey dump?
 
 ---
 
@@ -70,10 +71,10 @@ owns.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Map the exact Omarchy-manual anchors for Chapter 4 | AI | Sprint 7 starts from primary sources |
-| 2 | Draft Part 2 Chapter 1 brief | AI | Sprint 7 starts with a clear mission and outline |
+| 1 | Map the exact Omarchy-manual anchors for Chapter 5 | AI | Sprint 8 starts from primary sources |
+| 2 | Draft Part 2 Chapter 2 brief | AI | Sprint 8 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
-| 4 | Revisit the subtitle after Part 2 has begun | Lee + AI | Subtitle matches the actual tone of the manuscript |
+| 4 | Revisit the subtitle after Part 2 has more prose | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
 ---
 
