@@ -227,18 +227,18 @@ overwhelming.
 
 ---
 
-## Sprint 8 - Part 2 Chapter 2
+## Sprint 8 - Part 2 Chapter 2 (COMPLETE)
 
 **Goal:** Teach keyboard-first navigation and the minimum interaction model for
 daily use.
 
 | Task | Status |
 |------|--------|
-| Map source sections from the Omarchy manual | Not started |
-| Draft chapter | Not started |
-| Verify command and hotkey accuracy | Not started |
-| Run `manual-guide` and friction reviews | Not started |
-| Revise chapter | Not started |
+| Map source sections from the Omarchy manual | Done |
+| Draft chapter | Done |
+| Verify command and hotkey accuracy | Done |
+| Run `manual-guide` and friction reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader can move through the system with basic confidence.
 

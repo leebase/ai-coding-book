@@ -4,6 +4,29 @@
 
 ---
 
+## 2026-03-25 - Sprint 8 Chapter 5 Drafted
+
+Completed Part 2 Chapter 2, `Move Through It`, with the full sprint artifact
+set:
+
+- `chapters/briefs/ch-05-move-through-it-brief.md`
+- `chapters/reviews/ch-05-move-through-it-review.md`
+- `chapters/part-2/ch-05-move-through-it.md`
+
+This chapter is grounded in the Omarchy manual's `Navigation`,
+`Unified clipboard`, and `Hotkeys` sections. It teaches a small set of
+confidence-building patterns instead of turning the chapter into a giant hotkey
+list: workspace movement, close/fullscreen behavior, and the unified clipboard.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-2/ch-05-move-through-it.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-05-move-through-it-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-05-move-through-it-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 8 complete
+
+---
+
 ## 2026-03-23 - Sprint 7 Chapter 4 Drafted
 
 Completed Part 2 Chapter 1, `Meet the Machine`, with the full sprint artifact

@@ -25,7 +25,8 @@
 | Sprint 5 - Part 1 Chapter 2 | Complete | 100% |
 | Sprint 6 - Part 1 Chapter 3 | Complete | 100% |
 | Sprint 7 - Part 2 Chapter 1 | Complete | 100% |
-| Sprint 8 - Part 2 Chapter 2 | Not started | 0% |
+| Sprint 8 - Part 2 Chapter 2 | Complete | 100% |
+| Sprint 9 - Part 2 Chapter 3 | Not started | 0% |
 
 ---
 
@@ -37,9 +38,8 @@ custom agents exist, the sprint plan now covers the full production of the
 book from architecture through publication QA, and the architecture file now
 locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to start Sprint 8 and teach the reader how to move
-through the machine with more confidence now that the first entry points are in
-place.
+The current focus is to start Sprint 9 and bring the reader into the terminal
+from a stronger base of orientation, movement, and system confidence.
 
 ---
 
@@ -62,8 +62,8 @@ place.
 
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
-3. Which exact navigation and clipboard patterns should be foregrounded first in Chapter 5?
-4. How much keyboard detail can Chapter 5 carry before it becomes a hotkey dump?
+3. Which exact terminal actions should be foregrounded first in Chapter 6?
+4. How much shell detail can Chapter 6 carry before it stops feeling welcoming?
 
 ---
 
@@ -71,8 +71,8 @@ place.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Map the exact Omarchy-manual anchors for Chapter 5 | AI | Sprint 8 starts from primary sources |
-| 2 | Draft Part 2 Chapter 2 brief | AI | Sprint 8 starts with a clear mission and outline |
+| 1 | Map the exact Omarchy-manual anchors for Chapter 6 | AI | Sprint 9 starts from primary sources |
+| 2 | Draft Part 2 Chapter 3 brief | AI | Sprint 9 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after Part 2 has more prose | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
