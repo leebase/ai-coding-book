@@ -35,18 +35,21 @@
 | Sprint 15 - Part 4 Chapter 1 | Complete | 100% |
 | Sprint 16 - Part 4 Chapter 2 | Complete | 100% |
 | Sprint 17 - Part 4 Chapter 3 | Complete | 100% |
-| Sprint 18 - Part 4 Chapter 4 | Not started | 0% |
+| Sprint 18 - Part 4 Chapter 4 | Complete | 100% |
+| Sprint 19 - Part 5 Chapter 1 | Not started | 0% |
 
 ---
 
 ## What's Happening Now
 
 This book has moved well past concept setup and into sustained drafting. Part 1
-and Part 2 are complete, Part 3 is complete, and Part 4 now has a launchpad, a
-small helper, and one repaired break inside the same workspace.
+and Part 2 are complete, Part 3 is complete, and Part 4 is now complete too:
+the reader has a launchpad, a helper, a repaired break, and one small shipped
+win inside the same workspace.
 
-The current focus is to start Sprint 18 and turn that repaired workspace into a
-small win the reader actually keeps.
+The current focus is to start Part 5 and help the reader lift their eyes from
+the immediate workspace back to direction, options, and self-authored next
+moves.
 
 ---
 
@@ -71,9 +74,8 @@ small win the reader actually keeps.
 2. Do any of the working chapter titles need stronger wording before publication?
 3. Do any of the Part 3 chapter titles need stronger wording before the part is
    refined as a whole?
-4. What is the cleanest small kept win for Chapter 15 to ship from the existing
-   launchpad: a polished helper, a small workflow, or another lightweight
-   system?
+4. What is the cleanest opening move for Part 5 so it feels expansive without
+   collapsing into career-advice fog?
 
 ---
 
@@ -81,10 +83,10 @@ small win the reader actually keeps.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Lock the Chapter 15 kept-win example | AI | Sprint 18 starts with a clear practical scope |
-| 2 | Draft Part 4 Chapter 4 brief | AI | Sprint 18 starts with a clear mission and outline |
+| 1 | Lock the Chapter 16 opening direction example set | AI | Sprint 19 starts with a clear practical scope |
+| 2 | Draft Part 5 Chapter 1 brief | AI | Sprint 19 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
-| 4 | Revisit the subtitle after more of Part 4 exists | Lee + AI | Subtitle matches the actual tone of the manuscript |
+| 4 | Revisit the subtitle after Part 5 starts taking shape | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
 ---
 

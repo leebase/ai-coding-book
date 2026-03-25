@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-03-25 - Sprint 18 Chapter 15 Drafted
+
+Completed Part 4 Chapter 4, `Ship a Small Win`, with the full sprint artifact
+set:
+
+- `chapters/briefs/ch-15-ship-a-small-win-brief.md`
+- `chapters/reviews/ch-15-ship-a-small-win-review.md`
+- `chapters/part-4/ch-15-ship-a-small-win.md`
+
+This chapter closes Part 4 by turning the launchpad, helper, and recovery skill
+into one real kept artifact. The reader starts with `start-goal.sh`, asks AI
+for one 20-minute deliverable tied to the mission note, creates one real file,
+and finishes it enough to keep. The review pass also tightened the scope rule,
+made the fallback from a broken helper more concrete, and sharpened the final
+proof check so the win is unmistakable.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-4/ch-15-ship-a-small-win.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-15-ship-a-small-win-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-15-ship-a-small-win-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 18 complete
+
+---
+
 ## 2026-03-25 - Sprint 17 Chapter 14 Drafted
 
 Completed Part 4 Chapter 3, `Fix What Breaks`, with the full sprint artifact

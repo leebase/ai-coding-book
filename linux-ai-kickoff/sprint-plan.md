@@ -391,19 +391,19 @@ confidence.
 
 ---
 
-## Sprint 18 - Part 4 Chapter 4
+## Sprint 18 - Part 4 Chapter 4 (COMPLETE)
 
 **Goal:** Complete the project thread with a satisfying, competence-building
 result.
 
 | Task | Status |
 |------|--------|
-| Define closing mission | Not started |
-| Draft chapter | Not started |
-| Verify the ending feels earned | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
-| Check continuity into Part 5 | Not started |
+| Define closing mission | Done |
+| Draft chapter | Done |
+| Verify the ending feels earned | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
+| Check continuity into Part 5 | Done |
 
 **Done when:** The reader has proof that they can do things that matter.
 
