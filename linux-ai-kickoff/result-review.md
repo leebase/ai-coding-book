@@ -4,6 +4,32 @@
 
 ---
 
+## 2026-03-25 - Sprint 14 Chapter 11 Drafted
+
+Completed Part 3 Chapter 4, `Ask, Refine, Test, Repeat`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-11-ask-refine-test-repeat-brief.md`
+- `chapters/reviews/ch-11-ask-refine-test-repeat-review.md`
+- `chapters/part-3/ch-11-ask-refine-test-repeat.md`
+
+This chapter turns Part 3's mental models into a practical working loop. It
+shows one full ask-refine-test-repeat cycle on a small safe terminal task,
+explains why testing is where reality enters the process, and keeps the reader
+in charge of the work instead of waiting for one perfect AI answer. The review
+pass also made the repeat step concrete, clarified beginner terms like `pwd`
+and `~`, marked the example as a warm-up drill, and set up Part 4's launchpad
+thread cleanly.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-3/ch-11-ask-refine-test-repeat.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-11-ask-refine-test-repeat-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-11-ask-refine-test-repeat-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 14 complete
+
+---
+
 ## 2026-03-25 - Sprint 13 Chapter 10 Drafted
 
 Completed Part 3 Chapter 3, `The Horse, Not the Car`, with the full sprint

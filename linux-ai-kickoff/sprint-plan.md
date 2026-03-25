@@ -326,17 +326,17 @@ oracle.
 
 ---
 
-## Sprint 14 - Part 3 Chapter 4
+## Sprint 14 - Part 3 Chapter 4 (COMPLETE)
 
 **Goal:** Teach the practical loop of asking, refining, testing, and repeating.
 
 | Task | Status |
 |------|--------|
-| Draft chapter | Not started |
-| Ground examples in realistic learning tasks | Not started |
-| Ensure AI is not framed as deterministic | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
+| Draft chapter | Done |
+| Ground examples in realistic learning tasks | Done |
+| Ensure AI is not framed as deterministic | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader has a repeatable method for learning with AI.
 

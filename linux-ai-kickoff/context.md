@@ -31,19 +31,20 @@
 | Sprint 11 - Part 3 Chapter 1 | Complete | 100% |
 | Sprint 12 - Part 3 Chapter 2 | Complete | 100% |
 | Sprint 13 - Part 3 Chapter 3 | Complete | 100% |
-| Sprint 14 - Part 3 Chapter 4 | Not started | 0% |
+| Sprint 14 - Part 3 Chapter 4 | Complete | 100% |
+| Sprint 15 - Part 4 Chapter 1 | Not started | 0% |
 
 ---
 
 ## What's Happening Now
 
 This book has moved well past concept setup and into sustained drafting. Part 1
-and Part 2 are complete, and Part 3 now has its first three chapters drafted:
-AI is not a vending machine, pick the right hero, and the horse-not-car model.
+and Part 2 are complete, and Part 3 is now complete as well: AI is not a
+vending machine, pick the right hero, the horse-not-car model, and the
+ask-refine-test-repeat loop are all drafted.
 
-The current focus is to start Sprint 14 and turn those Part 3 mental models
-into the practical loop of ask, refine, test, and repeat without collapsing
-the chapter into generic debugging advice.
+The current focus is to start Part 4 and turn those mental models into real
+practical work through the launchpad project thread.
 
 ---
 
@@ -67,9 +68,8 @@ the chapter into generic debugging advice.
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before publication?
 3. Do any of the Part 3 chapter titles need stronger wording before the part is
-   fully drafted?
-4. Which Chapter 11 examples best show the full ask/refine/test/repeat loop
-   without turning into a generic bug-hunt chapter?
+   refined as a whole?
+4. What is the cleanest first kept artifact for Chapter 12's launchpad sprint?
 
 ---
 
@@ -77,8 +77,8 @@ the chapter into generic debugging advice.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Lock the Chapter 11 example thread and loop shape | AI | Sprint 14 starts with a clear practical scope |
-| 2 | Draft Part 3 Chapter 4 brief | AI | Sprint 14 starts with a clear mission and outline |
+| 1 | Lock the Chapter 12 launchpad mission and kept artifact | AI | Sprint 15 starts with a clear practical scope |
+| 2 | Draft Part 4 Chapter 1 brief | AI | Sprint 15 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after Part 3 is complete | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
