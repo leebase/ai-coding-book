@@ -4,6 +4,54 @@
 
 ---
 
+## 2026-03-25 - Export Pipeline And Renamed Book Artifacts Built
+
+Built a local publication/export pipeline for `Teach Yourself Anything` inside
+`linux-ai-kickoff/`. The book now assembles into
+`teach-yourself-anything.md` and exports to:
+
+- `teach-yourself-anything.epub`
+- `teach-yourself-anything.docx`
+- `teach-yourself-anything.pdf`
+
+The exported artifacts use `TeachYourselfAnything.png` as the embedded cover.
+EPUB and DOCX build through local pandoc-based exporters, and PDF uses an
+explicit raw LaTeX cover page so the cover becomes the real first page instead
+of getting buried behind generated front matter.
+
+### How to Verify
+
+1. Run the local build scripts:
+
+```bash
+python3 linux-ai-kickoff/build-manuscript.py
+python3 linux-ai-kickoff/build-epub.py
+python3 linux-ai-kickoff/build-docx.py
+python3 linux-ai-kickoff/build-pdf.py
+```
+
+2. Confirm the built files exist:
+
+```bash
+ls -lh linux-ai-kickoff/teach-yourself-anything.{md,epub,docx,pdf}
+```
+
+3. Confirm the archive formats contain the cover image:
+
+```bash
+unzip -l linux-ai-kickoff/teach-yourself-anything.epub | rg 'cover|png|media'
+unzip -l linux-ai-kickoff/teach-yourself-anything.docx | rg 'media/|docProps/core.xml'
+```
+
+4. Confirm the PDF leads with the cover:
+
+```bash
+qlmanage -t -s 800 -o /tmp linux-ai-kickoff/teach-yourself-anything.pdf
+open /tmp/teach-yourself-anything.pdf.png
+```
+
+---
+
 ## 2026-03-25 - Sprint 25 Copyedit and Voice Pass Applied
 
 Ran the final polish pass across the manuscript. This pass focused on the

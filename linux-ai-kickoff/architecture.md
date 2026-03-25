@@ -5,6 +5,49 @@
 
 ---
 
+## 2026-03-25 - Export Pipeline Locked
+
+### Decision
+
+Use a **local manuscript assembly + format-specific export pipeline** inside
+`linux-ai-kickoff/`:
+
+- `build-manuscript.py` assembles the full book into `teach-yourself-anything.md`
+- `build-epub.py` builds `teach-yourself-anything.epub` with the cover embedded
+- `build-docx.py` builds `teach-yourself-anything.docx` with the cover embedded
+- `build-pdf.py` builds `teach-yourself-anything.pdf` with a real first-page
+  cover via a PDF-specific raw LaTeX title block
+
+### Rationale
+
+- This book did not yet have a single assembled manuscript file or a local
+  publication pipeline.
+- The older `ai-env-book` builders depended on Python libraries that are not
+  available in this environment.
+- `pandoc` and `xelatex` are available locally, so a pandoc-based exporter is
+  the most reliable no-new-dependencies option.
+- PDF needs a slightly different path than DOCX and EPUB so the cover is not
+  lost behind generated title matter.
+
+### Alternatives Rejected
+
+- Reusing the older Python builders directly: blocked by missing local Python
+  packages.
+- Installing new Python dependencies: unnecessary and outside the project's
+  default guardrails.
+- Shipping only the assembled markdown: not enough once the user asked for
+  renamed publication-ready outputs.
+
+### Consequences
+
+- `linux-ai-kickoff/` now has its own self-contained build/export layer.
+- Future export tweaks should be made in the local build scripts, not in
+  `ai-env-book/`.
+- PDF export should keep its explicit cover-page handling unless a better
+  environment-stable option replaces it.
+
+---
+
 ## 2026-03-22 - Book Architecture Locked
 
 ### Decision

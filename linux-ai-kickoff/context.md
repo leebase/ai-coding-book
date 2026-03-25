@@ -9,7 +9,7 @@
 | Attribute | Value |
 |-----------|-------|
 | **Title** | Teach Yourself Anything |
-| **Phase** | Drafting |
+| **Phase** | Review and Packaging |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-25 |
 
@@ -57,8 +57,17 @@ from proof instead of promise.
 
 All planned production sprints in `sprint-plan.md` are now complete on the
 working branch. The manuscript has been drafted, continuity-reviewed,
-source-checked against the live Omarchy manual, and copyedited for voice. The
-current focus is human review and, after approval, merge.
+source-checked against the live Omarchy manual, and copyedited for voice.
+
+The book now also has a local export/build pipeline inside `linux-ai-kickoff/`.
+`teach-yourself-anything.md`, `teach-yourself-anything.epub`,
+`teach-yourself-anything.docx`, and `teach-yourself-anything.pdf` are built in
+place, with `TeachYourselfAnything.png` embedded as the cover in all three
+publication formats. The PDF path uses a PDF-specific raw LaTeX cover page so
+the cover leads the document correctly.
+
+The current focus is human review of both the manuscript and the exported
+artifacts and, after approval, merge.
 
 ---
 
@@ -74,6 +83,7 @@ current focus is human review and, after approval, merge.
 | GenAI is taught as horse-not-car | Explains why guidance and supervision matter | 2026-03-22 |
 | Working manuscript shape: 19 files | Enough room for transformation without turning into a reference tome | 2026-03-22 |
 | Part 4 project thread: personal launchpad | Keeps the practical work real, small, and broadly accessible | 2026-03-22 |
+| Local export pipeline lives in `linux-ai-kickoff/` | Keeps this book's build path self-contained and dependency-light | 2026-03-25 |
 
 ---
 
@@ -92,10 +102,11 @@ current focus is human review and, after approval, merge.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Human review of the working branch | Lee | Approval path is clear before merge |
-| 2 | Decide whether any chapter titles need final tightening | Lee + AI | Titles feel publication-ready |
-| 3 | Revisit the subtitle against the finished manuscript | Lee + AI | Subtitle matches the actual tone of the book |
-| 4 | Merge `codex/teach-yourself-anything` after approval | Lee + AI | Finished manuscript lands on the main line cleanly |
+| 1 | Human review of the exported EPUB, DOCX, and PDF | Lee | Artifacts feel publication-ready |
+| 2 | Human review of the working branch | Lee | Approval path is clear before merge |
+| 3 | Decide whether any chapter titles need final tightening | Lee + AI | Titles feel publication-ready |
+| 4 | Revisit the subtitle against the finished manuscript | Lee + AI | Subtitle matches the actual tone of the book |
+| 5 | Merge `codex/teach-yourself-anything` after approval | Lee + AI | Finished manuscript lands on the main line cleanly |
 
 ---
 
@@ -109,6 +120,9 @@ current focus is human review and, after approval, merge.
 | `project-plan.md` | Strategic roadmap | Done |
 | `architecture.md` | Chapter map and structural decisions | Done |
 | `chapters/` | Live manuscript source | In progress |
+| `build-*.py` | Local publication/export scripts | Done |
+| `teach-yourself-anything.md` | Assembled manuscript | Done |
+| `teach-yourself-anything.epub/.docx/.pdf` | Built export artifacts | Done |
 | `context.md` | This file | Done |
 | `sprint-plan.md` | Tactical execution | Done |
 | `result-review.md` | Running log of completed setup work | Done |
