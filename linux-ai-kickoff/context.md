@@ -80,6 +80,14 @@ files. `build-epub.py` now exports from the assembled manuscript directly
 instead of the cover/title-page helper source, which removes the invalid
 character and also cleans up the duplicated top-of-TOC title entries.
 
+After a fresh human read, the manuscript has now also had a paragraph-shape
+pass across the highest-impact early and structural chapters. The pass did not
+rewrite the book's ideas or voice; it merged clusters of standalone sentences
+into fuller paragraphs where they were really carrying one thought. The main
+files touched were the introduction, Part 1 Chapters 1-3, Part 2 Chapters 4,
+6, and 7, Part 3 Chapter 10, and the conclusion. The rebuilt EPUB, DOCX, PDF,
+and assembled manuscript all reflect that calmer page texture.
+
 The current focus is human review of both the manuscript and the exported
 artifacts and, after approval, merge.
 
@@ -117,7 +125,7 @@ artifacts and, after approval, merge.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Human review of the exported EPUB, DOCX, and PDF | Lee | Artifacts feel publication-ready |
+| 1 | Human review of the new paragraph texture in the exported EPUB, DOCX, and PDF | Lee | The prose now reads calm instead of choppy |
 | 2 | Decide whether the new appendix and conclusion note are exactly right | Lee + AI | Cross-platform and autobiographical framing feel final |
 | 3 | Human review of the working branch | Lee | Approval path is clear before merge |
 | 4 | Revisit the subtitle against the finished manuscript | Lee + AI | Subtitle matches the actual tone of the book |

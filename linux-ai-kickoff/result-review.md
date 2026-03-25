@@ -4,6 +4,63 @@
 
 ---
 
+## 2026-03-25 - Paragraph Shape Pass Applied And Outputs Rebuilt
+
+Applied a dedicated prose-shape pass after a fresh human read surfaced that too
+many adjacent standalone sentences were acting like chopped-up paragraphs. This
+was not a thesis or voice rewrite. It was a page-texture pass: merging obvious
+sentence clusters into fuller paragraphs while keeping isolated one-line beats
+only where they still earned emphasis.
+
+The highest-impact files revised in this pass were:
+
+- `chapters/introduction.md`
+- `chapters/part-1/ch-01-youre-not-stuck.md`
+- `chapters/part-1/ch-02-what-this-machine-gives-you.md`
+- `chapters/part-1/ch-03-learning-without-permission.md`
+- `chapters/part-2/ch-04-meet-the-machine.md`
+- `chapters/part-2/ch-06-the-terminal-is-not-a-wall.md`
+- `chapters/part-2/ch-07-read-the-manual-then-make-it-yours.md`
+- `chapters/part-3/ch-10-the-horse-not-the-car.md`
+- `chapters/conclusion.md`
+
+After the source edits, rebuilt:
+
+- `teach-yourself-anything.md`
+- `teach-yourself-anything.epub`
+- `teach-yourself-anything.docx`
+- `teach-yourself-anything.pdf`
+
+### How to Verify
+
+1. Rebuild the outputs:
+
+```bash
+python3 linux-ai-kickoff/build-manuscript.py
+python3 linux-ai-kickoff/build-epub.py
+python3 linux-ai-kickoff/build-docx.py
+python3 linux-ai-kickoff/build-pdf.py
+```
+
+2. Spot-check the revised chapters in source:
+
+```bash
+sed -n '1,120p' linux-ai-kickoff/chapters/introduction.md
+sed -n '1,120p' linux-ai-kickoff/chapters/part-1/ch-01-youre-not-stuck.md
+sed -n '1,120p' linux-ai-kickoff/chapters/conclusion.md
+```
+
+3. Confirm the rebuilt artifacts exist and are fresh:
+
+```bash
+ls -lh linux-ai-kickoff/teach-yourself-anything.{md,epub,docx,pdf}
+```
+
+4. Open the exported files and check that explanatory sections now read in
+fuller paragraphs while key emphasis lines still stand alone where warranted.
+
+---
+
 ## 2026-03-25 - EPUB XML Parse Error Fixed
 
 Fixed the EPUB exporter after a reader hit this XML error:

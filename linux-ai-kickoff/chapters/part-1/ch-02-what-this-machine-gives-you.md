@@ -4,17 +4,13 @@ Now that you have picked one door, we can ask a better question.
 
 What does this machine actually do for you?
 
-Not in the abstract.
-
-Not in some "power user" way.
-
-Not in a way that is mostly about looking impressive online.
+Not in the abstract. Not in some "power user" way. Not in a way that is mostly
+about looking impressive online.
 
 I mean for your real life, your real goals, and your real next move.
 
-That question matters because a lot of people get trapped here too.
-
-They start caring about the setup for its own sake.
+That question matters because a lot of people get trapped here too. They start
+caring about the setup for its own sake.
 
 The keyboard.
 
@@ -28,14 +24,11 @@ The dotfiles.
 
 The arguments about which tool is better.
 
-That can all be fun if you already know what you are doing.
+That can all be fun if you already know what you are doing. It can also become
+another way to avoid building anything real.
 
-It can also become another way to avoid building anything real.
-
-This machine is not valuable because it looks advanced.
-
-It is valuable because it reduces friction between you and the work you want to
-do.
+This machine is not valuable because it looks advanced. It is valuable because
+it reduces friction between you and the work you want to do.
 
 That is the whole point.
 
@@ -47,36 +40,21 @@ Not hard work.
 
 Friction.
 
-The wrong file in the wrong place.
+The wrong file in the wrong place. A machine that feels cluttered and
+confusing. Tools that do not cooperate. No clean place to keep notes. No
+repeatable way to do something twice. No confidence that if something breaks,
+you can understand what happened.
 
-A machine that feels cluttered and confusing.
-
-Tools that do not cooperate.
-
-No clean place to keep notes.
-
-No repeatable way to do something twice.
-
-No confidence that if something breaks, you can understand what happened.
-
-That kind of friction eats people alive.
-
-Not in one dramatic moment.
+That kind of friction eats people alive. Not in one dramatic moment.
 
 In little pieces.
 
-It makes every task feel heavier than it should.
+It makes every task feel heavier than it should. It makes learning feel harder
+than it is. It makes simple goals feel like big projects.
 
-It makes learning feel harder than it is.
-
-It makes simple goals feel like big projects.
-
-That is why your environment matters.
-
-Not because environment setup is a cool hobby.
-
-Because a better environment changes how hard it is to begin, continue, and
-repeat useful work.
+That is why your environment matters. Not because environment setup is a cool
+hobby. Because a better environment changes how hard it is to begin, continue,
+and repeat useful work.
 
 And if you are trying to build a new direction in your life, that matters a
 lot.
@@ -105,23 +83,18 @@ It gives you:
 
 That is more important than it sounds.
 
-A lot of people think productivity comes from discipline alone.
-
-Discipline matters.
+A lot of people think productivity comes from discipline alone. Discipline
+matters.
 
 But environment matters too.
 
-If your setup fights you, you spend your discipline budget on nonsense.
+If your setup fights you, you spend your discipline budget on nonsense. If your
+setup supports you, more of your energy goes into actual progress.
 
-If your setup supports you, more of your energy goes into actual progress.
-
-This is one reason Linux matters in this book.
-
-Not because Linux makes you special.
-
-Not because using a terminal turns you into some chosen technical class.
-
-Because a machine you can understand, shape, and trust becomes a serious asset.
+This is one reason Linux matters in this book. Not because Linux makes you
+special. Not because using a terminal turns you into some chosen technical
+class. Because a machine you can understand, shape, and trust becomes a serious
+asset.
 
 That is leverage.
 
@@ -144,21 +117,17 @@ Or:
 "If I cannot explain everything under the hood yet, maybe this is not really
 for me."
 
-That one can trap you fast.
+That one can trap you fast. Because it sounds humble, but it is really just
+another way of staying out of the arena.
 
-Because it sounds humble, but it is really just another way of staying out of
-the arena.
-
-You do not need total understanding before you get value.
-
-You need enough understanding to use the tool on purpose, learn as you go, and
-stay in charge when you need to.
+You do not need total understanding before you get value. You need enough
+understanding to use the tool on purpose, learn as you go, and stay in charge
+when you need to.
 
 That is a much more achievable standard.
 
-The machine is not asking you to become an identity.
-
-It is offering you a better place to work.
+The machine is not asking you to become an identity. It is offering you a
+better place to work.
 
 Take the offer.
 
@@ -247,10 +216,8 @@ We are doing this now because a machine without a purpose becomes another
 distraction.
 
 You can waste a lot of time polishing a workspace that never serves any real
-work.
-
-You can also waste a lot of time dismissing a good setup because you think it
-has to justify itself in some grand way.
+work. You can also waste a lot of time dismissing a good setup because you
+think it has to justify itself in some grand way.
 
 It does not.
 
@@ -291,7 +258,6 @@ As a place where effort compounds instead of disappearing.
 
 Hold onto your leverage list.
 
-In the next chapter, we are going to take the next step:
-
-using that direction and that leverage without waiting for permission, perfect
-clarity, or somebody else's blessing.
+In the next chapter, we are going to take the next step: using that direction
+and that leverage without waiting for permission, perfect clarity, or somebody
+else's blessing.

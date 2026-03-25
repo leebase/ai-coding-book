@@ -10,20 +10,15 @@ Somebody telling you to go figure it out alone.
 
 That is not what I mean.
 
-I mean this:
+I mean this: if you want to stop guessing, stop starting from guesses.
 
-if you want to stop guessing, stop starting from guesses.
-
-The manual is not where you go because AI failed you.
-
-The manual is where you go so AI has something real to stand on.
+The manual is not where you go because AI failed you. The manual is where you
+go so AI has something real to stand on.
 
 That is a very different relationship.
 
-The habit we want is simple:
-
-read the source first, use AI to clarify it, try one small thing, then look at
-what happened.
+The habit we want is simple: read the source first, use AI to clarify it, try
+one small thing, then look at what happened.
 
 That loop will take you a long way.
 
@@ -44,21 +39,15 @@ question.
 
 "How does Omarchy work?"
 
-Those are bigger than one manual section can answer well.
-
-A manual is much better at helping with something smaller.
+Those are bigger than one manual section can answer well. A manual is much
+better at helping with something smaller.
 
 For example:
 
 "How do I find files faster without clicking around?"
 
-That is a good manual question.
-
-It is narrow.
-
-It is practical.
-
-And it gives you a clear way to tell whether the answer helped.
+That is a good manual question. It is narrow. It is practical. And it gives you
+a clear way to tell whether the answer helped.
 
 So that is the one we are going to use.
 
@@ -80,9 +69,8 @@ Put them side by side.
 If the browser shortcut is different on your machine or you forget it, open the
 launcher with `Super + Space`, start the browser from there, and keep going.
 
-This matters more than it sounds like it should.
-
-You want the source and the machine visible at the same time.
+This matters more than it sounds like it should. You want the source and the
+machine visible at the same time.
 
 Read.
 
@@ -93,18 +81,14 @@ Observe.
 That rhythm is the whole skill.
 
 It is also one reason keyboard-first systems get so powerful once they click.
-
 You can move between reading and doing without turning it into a production.
 
 ## Read The Right Section First
 
 Now open the Omarchy manual's `Shell Tools` section.
 
-Do not read the whole manual.
-
-Do not skim six chapters.
-
-Read the part that matches the problem you actually have.
+Do not read the whole manual. Do not skim six chapters. Read the part that
+matches the problem you actually have.
 
 In this case, you are looking for ways to find things faster.
 
@@ -114,16 +98,10 @@ That section gives you several candidates:
 - `fd` for finding files by name
 - `rg` for searching text inside files
 
-That is already useful.
+That is already useful. It is also already a small win. You stopped guessing
+and narrowed the problem.
 
-It is also already a small win.
-
-You stopped guessing and narrowed the problem.
-
-Notice what just happened.
-
-You stopped asking the whole world for an answer.
-
+Notice what just happened. You stopped asking the whole world for an answer.
 You narrowed the question and found the official section that speaks to it.
 
 That is not glamorous.
@@ -150,11 +128,8 @@ That is a much better AI question than:
 
 Why?
 
-Because now the AI is working from a real source and a real problem.
-
-It is not inventing a starting point for you.
-
-It is helping you interpret one.
+Because now the AI is working from a real source and a real problem. It is not
+inventing a starting point for you. It is helping you interpret one.
 
 That is how you keep AI in the role of tutor instead of oracle.
 
@@ -171,38 +146,29 @@ That pattern matters.
 For this chapter, use `ff`.
 
 The manual says it gives you fuzzy finding of files in the current tree with a
-preview on the right.
-
-That makes it a good first experiment because it is useful and low-risk.
+preview on the right. That makes it a good first experiment because it is
+useful and low-risk.
 
 First, in the terminal, run:
 
 `cd ~`
 
-Your home directory is your personal top-level folder.
-
-The current tree just means whatever files and folders are underneath the place
-you are standing right now.
+Your home directory is your personal top-level folder. The current tree just
+means whatever files and folders are underneath the place you are standing
+right now.
 
 Then type:
 
 `ff`
 
-`ff` opens a searchable file picker.
-
-You do not type a full command after that.
-
-You just start typing partial letters and the list filters live.
+`ff` opens a searchable file picker. You do not type a full command after
+that. You just start typing partial letters and the list filters live.
 
 Start typing a few letters from a file name you think might be in that tree.
-
 Watch what happens.
 
-You should see the list narrow as you type.
-
-If your setup shows a preview area on the right, good.
-
-If it looks a little different, that is okay too.
+You should see the list narrow as you type. If your setup shows a preview area
+on the right, good. If it looks a little different, that is okay too.
 
 Success here is simpler: `ff` opened, responded to your typing, and gave you an
 interactive result instead of a blank wall.
@@ -260,9 +226,8 @@ need yet but probably will later:
 - understanding how Omarchy manages programming environments
 - using `gh auth login` when you need GitHub CLI
 
-You do not need to do those things now.
-
-You just need to see that the method scales.
+You do not need to do those things now. You just need to see that the method
+scales.
 
 Small tool today.
 
@@ -271,9 +236,8 @@ Bigger system choice later.
 Same loop.
 
 That matters because a lot of confidence comes from realizing you do not need a
-different personality to tackle bigger problems.
-
-You need the same habit applied to bigger questions.
+different personality to tackle bigger problems. You need the same habit
+applied to bigger questions.
 
 ## Read, Ask, Try, Observe
 
@@ -289,17 +253,12 @@ Observe what happened.
 
 Then decide what to do next.
 
-That is how you stop treating the machine like a mystery.
+That is how you stop treating the machine like a mystery. That is how you stop
+treating AI like magic. And that is how reading the manual turns from something
+somebody assigned you into something that gives you power.
 
-That is how you stop treating AI like magic.
-
-And that is how reading the manual turns from something somebody assigned you
-into something that gives you power.
-
-Do one more tiny round before you leave this chapter.
-
-Pick either `fd` or `rg` from the same `Shell Tools` section and ask AI one
-clean question about it.
+Do one more tiny round before you leave this chapter. Pick either `fd` or `rg`
+from the same `Shell Tools` section and ask AI one clean question about it.
 
 Not ten questions.
 
@@ -309,9 +268,8 @@ Then try one small version of the answer.
 
 That is enough.
 
-Part 3 is where we are going to talk about AI more directly.
-
-But now you have already seen the important part:
+Part 3 is where we are going to talk about AI more directly. But now you have
+already seen the important part:
 
 AI works better when it is standing on something real.
 

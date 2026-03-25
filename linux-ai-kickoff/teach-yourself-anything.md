@@ -3,198 +3,124 @@
 Maybe you have felt this already.
 
 You watch other people move through the world like doors are open for them and
-closed for you.
+closed for you. They learn faster. They build things faster. They figure out
+confusing systems faster. They seem to know where to start, what to click,
+what to read, what to ask, what to try next.
 
-They learn faster. They build things faster. They figure out confusing systems
-faster. They seem to know where to start, what to click, what to read, what to
-ask, what to try next.
+From the outside, it can look like they have something you do not. More
+talent. More confidence. More connections. Better timing. Better luck.
 
-From the outside, it can look like they have something you do not.
-
-More talent. More confidence. More connections. Better timing. Better luck.
-
-Sometimes that is true.
-
-Most of the time, though, what you are really seeing is something less magical
-and more useful.
-
-They have tools that are set up well.
-
-They know how to use those tools.
-
-And they have learned how to figure things out instead of waiting for somebody
-to tell them what to do next.
+Sometimes that is true. Most of the time, though, what you are really seeing is
+something less magical and more useful: they have tools that are set up well,
+they know how to use those tools, and they have learned how to figure things
+out instead of waiting for somebody to tell them what to do next.
 
 That last part matters most.
 
-This book is not really about Linux.
+This book is not really about Linux. It is not really about AI either. Linux is
+one tool. AI is another. The real subject is what happens when a person learns
+how to direct both of them well.
 
-It is not really about AI either.
-
-Linux is one tool. AI is another.
-
-The real subject is what happens when a person learns how to direct both of
-them well.
-
-That is when the world starts to change shape.
-
-Not because a machine became the hero.
+That is when the world starts to change shape. Not because a machine became the
+hero.
 
 Because you did.
 
 ## You Are Not Too Late
 
-There is a lot of bad energy in the air right now around AI.
+There is a lot of bad energy in the air right now around AI. Some people talk
+about it like it is a magic key. Some people talk about it like it is the end
+of human work.
 
-Some people talk about it like it is a magic key.
+Both reactions make people passive. One makes you worship the tool. The other
+makes you fear it. Neither teaches you how to use it.
 
-Some people talk about it like it is the end of human work.
+The truth is simpler and more useful than either story. The future does not
+belong to AI. It belongs to humans who learn to use AI effectively.
 
-Both reactions make people passive.
-
-One makes you worship the tool.
-
-The other makes you fear it.
-
-Neither teaches you how to use it.
-
-The truth is simpler and more useful than either story.
-
-The future does not belong to AI.
-
-It belongs to humans who learn to use AI effectively.
-
-That means the question is not, "Will AI matter?"
-
-Of course it will.
-
-The question is, "Will you learn how to work with it in a way that makes you
-more capable?"
+That means the question is not, "Will AI matter?" Of course it will. The
+question is, "Will you learn how to work with it in a way that makes you more
+capable?"
 
 That is what this book is for.
 
-If you have felt behind, you are not the only one.
+If you have felt behind, you are not the only one. If you have felt like other
+people got the map and you did not, you are not imagining things. But you are
+not too late.
 
-If you have felt like other people got the map and you did not, you are not
-imagining things.
+You do not need to become a computer scientist before you start. You do not
+need a perfect plan before you begin. You do not need permission.
 
-But you are not too late.
-
-You do not need to become a computer scientist before you start.
-
-You do not need a perfect plan before you begin.
-
-You do not need permission.
-
-You need a machine that opens doors.
-
-You need a way of using AI that helps you learn instead of making you more
-dependent.
-
-And you need a path.
+You need a machine that opens doors. You need a way of using AI that helps you
+learn instead of making you more dependent. And you need a path.
 
 That is what we are building here.
 
 ## What This Book Is Actually About
 
-The machine matters.
+The machine matters. So does the software. So do the manuals. But none of that
+is the point.
 
-So does the software.
-
-So do the manuals.
-
-But none of that is the point.
-
-The point is self-direction.
-
-The point is that you can learn how to take a problem, a question, or a goal
-and move it forward without sitting around waiting for somebody smarter,
-older, richer, or more official to tell you what the next move is.
+The point is self-direction. The point is that you can learn how to take a
+problem, a question, or a goal and move it forward without sitting around
+waiting for somebody smarter, older, richer, or more official to tell you what
+the next move is.
 
 That could mean learning Linux well enough to stop being intimidated by your
-own computer.
+own computer. It could mean using AI to understand something you were sure was
+over your head. It could mean making one small tool that saves you time every
+day. It could mean learning the basics of coding, writing, automation,
+research, freelance work, or online business.
 
-It could mean using AI to understand something you were sure was over your
-head.
+The exact door is not the same for everybody. That is why the title of this
+book is *Teach Yourself Anything*.
 
-It could mean making one small tool that saves you time every day.
+Not because the machine does the work for you. Not because AI hands you instant
+mastery. Because once you know how to use these tools properly, your range gets
+bigger.
 
-It could mean learning the basics of coding, writing, automation, research,
-freelance work, or online business.
-
-The exact door is not the same for everybody.
-
-That is why the title of this book is *Teach Yourself Anything*.
-
-Not because the machine does the work for you.
-
-Not because AI hands you instant mastery.
-
-Because once you know how to use these tools properly, your range gets bigger.
-
-You stop seeing every new thing as a wall.
-
-You start seeing it as something you can figure out in pieces.
-
-That is a much more important shift than "learning Linux."
-
-It is also a much more durable one.
+You stop seeing every new thing as a wall. You start seeing it as something you
+can figure out in pieces. That is a much more important shift than "learning
+Linux," and it is a much more durable one.
 
 ## The Two Tools
 
 This book is built around two foundational tools.
 
-The first is a Linux machine.
+The first is a Linux machine. In this case, that machine is set up around
+Omarchy. If you do not know what that means yet, that is fine. You do not need
+to know right now. We will get there.
 
-In this case, that machine is set up around Omarchy. If you do not know what
-that means yet, that is fine. You do not need to know right now. We will get
-there.
+The reason the machine matters is not because Linux is cool. It matters because
+a well-set-up machine gives you a place to work, organize, experiment, break
+things, fix them, and build habits that compound over time.
 
-The reason the machine matters is not because Linux is cool.
-
-It matters because a well-set-up machine gives you a place to work, organize,
-experiment, break things, fix them, and build habits that compound over time.
-
-The second tool is AI.
-
-Not AI as a toy.
-
-Not AI as a vending machine where you shove in a request and hope something
-useful falls out.
-
-And definitely not AI as some all-knowing superbeing.
+The second tool is AI. Not AI as a toy. Not AI as a vending machine where you
+shove in a request and hope something useful falls out. And definitely not AI
+as some all-knowing superbeing.
 
 AI is better understood as something closer to a tutor, a coach, a helper, and
 sometimes a wildly confident idiot that still needs supervision.
 
-Later in the book we are going to use two mental models for this.
-
-One is that AI works better when you treat it like a team you direct. Pick the
-right hero. Give them the backstory. Give them a mission. Stay in charge.
-
-The other is that AI is more like a horse than a car. It has power. It can
-take you farther than you could go on foot. But it has a nature. It will drift
-if you do not guide it.
+Later in the book we are going to use two mental models for this. One is that
+AI works better when you treat it like a team you direct: pick the right hero,
+give them the backstory, give them a mission, stay in charge. The other is
+that AI is more like a horse than a car. It has power. It can take you farther
+than you could go on foot. But it has a nature. It will drift if you do not
+guide it.
 
 Those two models will save you a lot of frustration.
 
 ## How To Use This Book
 
-Do not read this book like a lecture.
+Do not read this book like a lecture. Use it like training.
 
-Use it like training.
+Every chapter should leave you with something real: a note, a habit, a cleaner
+way of thinking, a working file, a solved problem, a useful setup, a small
+tool, a better question, or a clearer next move.
 
-Every chapter should leave you with something real.
-
-A note. A habit. A cleaner way of thinking. A working file. A solved problem.
-A useful setup. A small tool. A better question. A clearer next move.
-
-That matters because confidence is built from evidence.
-
-Not from positive thinking.
-
-You do not become more confident by repeating that you are capable.
-
+That matters because confidence is built from evidence, not from positive
+thinking. You do not become more confident by repeating that you are capable.
 You become more confident by doing small things that prove it.
 
 So here is how to use the book well:
@@ -205,54 +131,31 @@ So here is how to use the book well:
 4. Use AI to explain, clarify, and help you iterate.
 5. Do not panic when something breaks.
 
-That last one is important.
-
-You are going to break things.
+That last one is important. You are going to break things.
 
 Good.
 
-That is part of the point.
+That is part of the point. If you only ever use tools in ways that cannot go
+wrong, you never learn how they actually work.
 
-If you only ever use tools in ways that cannot go wrong, you never learn how
-they actually work.
-
-This book is not trying to turn you into a perfect operator.
-
-It is trying to make you someone who can stay in the room when confusion shows
-up.
-
-That is a much more powerful skill.
+This book is not trying to turn you into a perfect operator. It is trying to
+make you someone who can stay in the room when confusion shows up. That is a
+much more powerful skill.
 
 ## Read The Manual. Then Make It Yours.
 
-One of the habits I want this book to build into you is simple:
+One of the habits I want this book to build into you is simple: read the
+manual.
 
-read the manual.
+Not because manuals are sacred. Not because you should suffer through
+documentation to prove character. Read the manual because it gives you
+leverage. It shows you what the tool can really do. It keeps you from
+depending on whatever the AI happened to say five minutes ago. It gives you a
+source of truth.
 
-Not because manuals are sacred.
-
-Not because you should suffer through documentation to prove character.
-
-Read the manual because it gives you leverage.
-
-It shows you what the tool can really do.
-
-It keeps you from depending on whatever the AI happened to say five minutes
-ago.
-
-It gives you a source of truth.
-
-Then use AI the smart way.
-
-Ask it to explain what the manual means.
-
-Ask it to compare options.
-
-Ask it what to try first.
-
-Ask it what a command is actually doing.
-
-Ask it to quiz you so you know whether you understand it.
+Then use AI the smart way. Ask it to explain what the manual means. Ask it to
+compare options. Ask it what to try first. Ask it what a command is actually
+doing. Ask it to quiz you so you know whether you understand it.
 
 That is a better pattern than asking AI to replace your brain.
 
@@ -264,10 +167,9 @@ That is how you get more capable instead of more dependent.
 
 Before you move into the rest of the book, make one small note.
 
-Use any note app you want. It does not need to be fancy.
-
-If you want to make the thread easier to follow, give it a simple name like
-`starter note` and keep it somewhere easy to reopen.
+Use any note app you want. It does not need to be fancy. If you want to make
+the thread easier to follow, give it a simple name like `starter note` and keep
+it somewhere easy to reopen.
 
 Write three things:
 
@@ -275,11 +177,7 @@ Write three things:
 2. One problem I want to make easier
 3. One door I would walk through if I knew how
 
-Keep it short.
-
-Do not try to sound impressive.
-
-Write the truth.
+Keep it short. Do not try to sound impressive. Write the truth.
 
 Maybe it is:
 
@@ -298,17 +196,9 @@ Good.
 Small is where this starts.
 
 By the end of this book, I do not want you to just know a little more about
-Linux or AI.
-
-I want you to feel different in front of a problem.
-
-Less frozen.
-
-Less passive.
-
-Less likely to think, "I guess this just is not for me."
-
-More likely to think, "I can figure this out."
+Linux or AI. I want you to feel different in front of a problem: less frozen,
+less passive, less likely to think, "I guess this just is not for me," and more
+likely to think, "I can figure this out."
 
 That is the shift.
 
@@ -324,29 +214,22 @@ And it starts now.
 
 # You're Not Stuck
 
-A lot of people say they feel stuck when what they really mean is this:
+A lot of people say they feel stuck when what they really mean is this: too
+many things feel possible, not enough things feel reachable, and they have no
+clean idea what to do first.
 
-too many things feel possible, not enough things feel reachable, and they have
-no clean idea what to do first.
+That is a miserable feeling. It can make you look checked out from the outside
+and feel checked out from the inside.
 
-That is a miserable feeling.
-
-It can make you look checked out from the outside.
-
-It can make you feel checked out from the inside.
-
-But most of the time, that is not what is going on.
-
-Most of the time, you are not stuck because you are incapable.
-
-You are stuck because your attention is scattered, your next move is fuzzy, and
-every option feels big enough to fail at.
+But most of the time, that is not what is going on. Most of the time, you are
+not stuck because you are incapable. You are stuck because your attention is
+scattered, your next move is fuzzy, and every option feels big enough to fail
+at.
 
 That is different.
 
-If the problem were that you had no ability, this book would not help much.
-
-If the problem is that you do not yet have a map, that is fixable.
+If the problem were that you had no ability, this book would not help much. If
+the problem is that you do not yet have a map, that is fixable.
 
 That is what we are going to work on.
 
@@ -364,51 +247,32 @@ When people talk about being stuck, they often talk in huge, blurry sentences.
 
 "I know I should do something with AI."
 
-Every one of those sentences points at something real.
+Every one of those sentences points at something real. Every one of them is
+also too big to act on.
 
-Every one of them is also too big to act on.
+That is why they become background noise. Your brain cannot grab them. There is
+no first move. There is only pressure.
 
-That is why they become background noise.
-
-Your brain cannot grab them.
-
-There is no first move.
-
-There is only pressure.
-
-Pressure without a first move turns into drift.
-
-Drift turns into guilt.
-
-Guilt makes it even harder to choose well.
+Pressure without a first move turns into drift. Drift turns into guilt. Guilt
+makes it even harder to choose well.
 
 That cycle can last for years if nobody teaches you how to break it.
 
-So let me say something plainly:
-
-you do not need to solve your whole life.
-
-You need to choose one direction worth moving in.
+So let me say something plainly: you do not need to solve your whole life. You
+need to choose one direction worth moving in.
 
 That is a much smaller job.
 
 ## A Missing Map Is Not A Broken Person
 
-Some people were given maps early.
+Some people were given maps early. They had adults around them who understood
+careers, school, business, technology, or money well enough to help them
+sequence the next move.
 
-They had adults around them who understood careers, school, business,
-technology, or money well enough to help them sequence the next move.
+Some people had none of that. They had pressure, responsibility, noise, and
+maybe a lot of opinions from people who were not building much themselves.
 
-Some people had none of that.
-
-They had pressure, responsibility, noise, and maybe a lot of opinions from
-people who were not building much themselves.
-
-That matters.
-
-It does not decide your future forever.
-
-But it matters.
+That matters. It does not decide your future forever. But it matters.
 
 If nobody taught you how to narrow a goal, test a direction, read a manual,
 learn from a mistake, or use a powerful tool without becoming dependent on it,
@@ -416,24 +280,14 @@ then of course you feel behind.
 
 You are missing process, not worth.
 
-That difference matters more than it sounds.
+That difference matters more than it sounds. If you think the problem is your
+worth, you stop. If you understand the problem is process, you can build one.
 
-If you think the problem is your worth, you stop.
+This book is part of that process. Not because it is going to hand you your
+future, but because it is going to help you become a person who can make a
+move, learn from it, and make the next one with more confidence.
 
-If you understand the problem is process, you can build one.
-
-This book is part of that process.
-
-Not because it is going to hand you your future.
-
-Because it is going to help you become a person who can make a move, learn from
-it, and make the next one with more confidence.
-
-That is how a path gets built.
-
-Not all at once.
-
-One real step at a time.
+That is how a path gets built. Not all at once. One real step at a time.
 
 ## Stop Trying To Pick A Whole New Life
 
@@ -448,49 +302,31 @@ locking themselves into an entire identity.
 
 No.
 
-You are not picking a whole identity.
+You are not picking a whole identity. You are picking the next useful door.
 
-You are picking the next useful door.
-
-That door might lead somewhere big.
-
-It might lead somewhere small.
-
-It might lead somewhere different than you expected.
+That door might lead somewhere big. It might lead somewhere small. It might
+lead somewhere different than you expected.
 
 That is fine.
 
-The point is not perfect prediction.
+The point is not perfect prediction. The point is forward motion.
 
-The point is forward motion.
+Think of it this way. If you are standing in a dark hallway, you do not need a
+blueprint of the whole building. You need to open one door. Then you can see
+the next part.
 
-Think of it this way.
-
-If you are standing in a dark hallway, you do not need a blueprint of the whole
-building.
-
-You need to open one door.
-
-Then you can see the next part.
-
-That is how this works in real life too.
-
-You do not need to know what your life is "supposed" to become.
-
-You need to know what would be useful, interesting, or relieving to move on
-next.
+That is how this works in real life too. You do not need to know what your
+life is "supposed" to become. You need to know what would be useful,
+interesting, or relieving to move on next.
 
 That is enough.
 
 ## Pick One Door
 
-Go back to the note you made in the introduction.
+Go back to the note you made in the introduction. If it helps, think of it as
+your `starter note`.
 
-If it helps, think of it as your `starter note`.
-
-We are going to keep building on it through Part 1.
-
-You wrote:
+We are going to keep building on it through Part 1. You wrote:
 
 - one thing you want to learn
 - one problem you want to make easier
@@ -498,18 +334,12 @@ You wrote:
 
 Now narrow it.
 
-Pick one.
-
-Not the most impressive one.
-
-Not the one that sounds smartest.
-
-Not the one you think you should say if somebody important looked over your
+Pick one. Not the most impressive one. Not the one that sounds smartest. Not
+the one you think you should say if somebody important looked over your
 shoulder.
 
-Pick the one that feels real.
-
-The one that would actually change something for you if you moved it forward.
+Pick the one that feels real, the one that would actually change something for
+you if you moved it forward.
 
 Maybe it is:
 
@@ -522,17 +352,11 @@ Maybe it is:
 
 That is your door.
 
-You do not need three.
-
-You do not need a ten-year plan.
-
-You need one.
+You do not need three. You do not need a ten-year plan. You need one.
 
 ## Write It So It Cannot Hide
 
-Here is the rule:
-
-if your goal can hide inside vague language, it will.
+Here is the rule: if your goal can hide inside vague language, it will.
 
 So write it plainly.
 
@@ -554,15 +378,8 @@ Better:
 
 "I want to automate one boring task I keep doing by hand."
 
-Notice what changed.
-
-These are still modest.
-
-They are still imperfect.
-
-They are still early.
-
-But now they are real enough to work with.
+Notice what changed. These are still modest. They are still imperfect. They are
+still early. But now they are real enough to work with.
 
 That is what we need.
 
@@ -576,11 +393,8 @@ After that, write one more line:
 
 **It would matter because:**
 
-That second line matters because it keeps the goal connected to your real life.
-
-Not to some abstract idea of success.
-
-Not to what people online clap for.
+That second line matters because it keeps the goal connected to your real life,
+not to some abstract idea of success and not to what people online clap for.
 
 To your life.
 
@@ -588,50 +402,28 @@ That is where the energy comes from.
 
 ## What Happens Next
 
-Once you have one real door, tools become more useful.
+Once you have one real door, tools become more useful. Without a direction,
+every tool becomes another distraction. With a direction, tools become
+leverage.
 
-Without a direction, every tool becomes another distraction.
+That is why we are doing this before we get deeper into the machine. If I hand
+you Linux and AI before you know what you want to move on, the whole thing
+turns into random motion. You click things. You try things. You collect
+fragments. You do not build momentum.
 
-With a direction, tools become leverage.
+Once you know your door, the machine starts to matter differently. Now it is
+not just "a Linux setup." Now it is a place where you can work on something
+that matters to you. Now AI is not just some wild new toy. Now it is a tool
+you can direct in service of a real goal.
 
-That is why we are doing this before we get deeper into the machine.
-
-If I hand you Linux and AI before you know what you want to move on, the whole
-thing turns into random motion.
-
-You click things.
-
-You try things.
-
-You collect fragments.
-
-You do not build momentum.
-
-Once you know your door, the machine starts to matter differently.
-
-Now it is not just "a Linux setup."
-
-Now it is a place where you can work on something that matters to you.
-
-Now AI is not just some wild new toy.
-
-Now it is a tool you can direct in service of a real goal.
-
-That shift is important.
-
-It is the difference between dabbling and building.
+That shift is important. It is the difference between dabbling and building.
 
 ## One Direction Is Enough
 
-You do not need certainty right now.
+You do not need certainty right now. You do not need a cleaned-up identity. You
+do not need to impress anyone.
 
-You do not need a cleaned-up identity.
-
-You do not need to impress anyone.
-
-You need one direction that is real enough to act on.
-
-That is all.
+You need one direction that is real enough to act on. That is all.
 
 If you have that, you are not stuck.
 
@@ -641,9 +433,7 @@ That is different.
 
 And different in a good way.
 
-Hold onto your one sentence.
-
-We are going to use it.
+Hold onto your one sentence. We are going to use it.
 
 In the next chapter, we are going to talk about what this machine actually
 gives you when you stop treating it like an object on your desk and start
@@ -657,17 +447,13 @@ Now that you have picked one door, we can ask a better question.
 
 What does this machine actually do for you?
 
-Not in the abstract.
-
-Not in some "power user" way.
-
-Not in a way that is mostly about looking impressive online.
+Not in the abstract. Not in some "power user" way. Not in a way that is mostly
+about looking impressive online.
 
 I mean for your real life, your real goals, and your real next move.
 
-That question matters because a lot of people get trapped here too.
-
-They start caring about the setup for its own sake.
+That question matters because a lot of people get trapped here too. They start
+caring about the setup for its own sake.
 
 The keyboard.
 
@@ -681,14 +467,11 @@ The dotfiles.
 
 The arguments about which tool is better.
 
-That can all be fun if you already know what you are doing.
+That can all be fun if you already know what you are doing. It can also become
+another way to avoid building anything real.
 
-It can also become another way to avoid building anything real.
-
-This machine is not valuable because it looks advanced.
-
-It is valuable because it reduces friction between you and the work you want to
-do.
+This machine is not valuable because it looks advanced. It is valuable because
+it reduces friction between you and the work you want to do.
 
 That is the whole point.
 
@@ -700,36 +483,21 @@ Not hard work.
 
 Friction.
 
-The wrong file in the wrong place.
+The wrong file in the wrong place. A machine that feels cluttered and
+confusing. Tools that do not cooperate. No clean place to keep notes. No
+repeatable way to do something twice. No confidence that if something breaks,
+you can understand what happened.
 
-A machine that feels cluttered and confusing.
-
-Tools that do not cooperate.
-
-No clean place to keep notes.
-
-No repeatable way to do something twice.
-
-No confidence that if something breaks, you can understand what happened.
-
-That kind of friction eats people alive.
-
-Not in one dramatic moment.
+That kind of friction eats people alive. Not in one dramatic moment.
 
 In little pieces.
 
-It makes every task feel heavier than it should.
+It makes every task feel heavier than it should. It makes learning feel harder
+than it is. It makes simple goals feel like big projects.
 
-It makes learning feel harder than it is.
-
-It makes simple goals feel like big projects.
-
-That is why your environment matters.
-
-Not because environment setup is a cool hobby.
-
-Because a better environment changes how hard it is to begin, continue, and
-repeat useful work.
+That is why your environment matters. Not because environment setup is a cool
+hobby. Because a better environment changes how hard it is to begin, continue,
+and repeat useful work.
 
 And if you are trying to build a new direction in your life, that matters a
 lot.
@@ -758,23 +526,18 @@ It gives you:
 
 That is more important than it sounds.
 
-A lot of people think productivity comes from discipline alone.
-
-Discipline matters.
+A lot of people think productivity comes from discipline alone. Discipline
+matters.
 
 But environment matters too.
 
-If your setup fights you, you spend your discipline budget on nonsense.
+If your setup fights you, you spend your discipline budget on nonsense. If your
+setup supports you, more of your energy goes into actual progress.
 
-If your setup supports you, more of your energy goes into actual progress.
-
-This is one reason Linux matters in this book.
-
-Not because Linux makes you special.
-
-Not because using a terminal turns you into some chosen technical class.
-
-Because a machine you can understand, shape, and trust becomes a serious asset.
+This is one reason Linux matters in this book. Not because Linux makes you
+special. Not because using a terminal turns you into some chosen technical
+class. Because a machine you can understand, shape, and trust becomes a serious
+asset.
 
 That is leverage.
 
@@ -797,21 +560,17 @@ Or:
 "If I cannot explain everything under the hood yet, maybe this is not really
 for me."
 
-That one can trap you fast.
+That one can trap you fast. Because it sounds humble, but it is really just
+another way of staying out of the arena.
 
-Because it sounds humble, but it is really just another way of staying out of
-the arena.
-
-You do not need total understanding before you get value.
-
-You need enough understanding to use the tool on purpose, learn as you go, and
-stay in charge when you need to.
+You do not need total understanding before you get value. You need enough
+understanding to use the tool on purpose, learn as you go, and stay in charge
+when you need to.
 
 That is a much more achievable standard.
 
-The machine is not asking you to become an identity.
-
-It is offering you a better place to work.
+The machine is not asking you to become an identity. It is offering you a
+better place to work.
 
 Take the offer.
 
@@ -900,10 +659,8 @@ We are doing this now because a machine without a purpose becomes another
 distraction.
 
 You can waste a lot of time polishing a workspace that never serves any real
-work.
-
-You can also waste a lot of time dismissing a good setup because you think it
-has to justify itself in some grand way.
+work. You can also waste a lot of time dismissing a good setup because you
+think it has to justify itself in some grand way.
 
 It does not.
 
@@ -944,34 +701,24 @@ As a place where effort compounds instead of disappearing.
 
 Hold onto your leverage list.
 
-In the next chapter, we are going to take the next step:
-
-using that direction and that leverage without waiting for permission, perfect
-clarity, or somebody else's blessing.
+In the next chapter, we are going to take the next step: using that direction
+and that leverage without waiting for permission, perfect clarity, or somebody
+else's blessing.
 
 ---
 
 # Learning Without Permission
 
-By now you have three things.
-
-You have a door.
-
-You have a sense of what this machine can do for you.
-
-And you have a little more clarity than you had when you started.
+By now you have three things. You have a door, you have a sense of what this
+machine can do for you, and you have a little more clarity than you had when
+you started.
 
 That is good.
 
 It is also not enough.
 
-Because there is another trap waiting here.
-
-It looks responsible on the surface.
-
-It sounds mature.
-
-It even sounds humble sometimes.
+Because there is another trap waiting here. It looks responsible on the
+surface. It sounds mature. It even sounds humble sometimes.
 
 But it keeps people stuck for years.
 
@@ -997,19 +744,13 @@ Sometimes it looks smarter than that.
 
 "I am not ready to put something real on the line yet."
 
-Some caution is healthy.
+Some caution is healthy. Real life has consequences. You might have a job,
+family responsibilities, money pressure, or limited time. This book is not
+asking you to pretend those things are fake.
 
-Real life has consequences.
-
-You might have a job, family responsibilities, money pressure, or limited time.
-
-This book is not asking you to pretend those things are fake.
-
-But there is a difference between being careful and being parked.
-
-Careful means you are moving with awareness.
-
-Parked means you are standing still while explaining it beautifully.
+But there is a difference between being careful and being parked. Careful means
+you are moving with awareness. Parked means you are standing still while
+explaining it beautifully.
 
 That second one is deadly.
 
@@ -1018,9 +759,8 @@ That second one is deadly.
 If your standard is "I will begin once I feel fully ready," you give yourself a
 target that can keep moving forever.
 
-Ready is one of those words that can keep moving forever.
-
-The more serious something feels, the easier it is to keep redefining ready.
+Ready is one of those words that can keep moving forever. The more serious
+something feels, the easier it is to keep redefining ready.
 
 Ready after one more article.
 
@@ -1030,67 +770,39 @@ Ready after one more opinion.
 
 Ready after one more month.
 
-That kind of waiting feels safe because nothing visible is being risked.
-
-But something is being spent.
-
-Time.
-
-Momentum.
-
-Confidence.
-
-Trust in yourself.
+That kind of waiting feels safe because nothing visible is being risked. But
+something is being spent: time, momentum, confidence, and trust in yourself.
 
 The longer you spend circling without acting, the easier it becomes to believe
 you are the kind of person who circles without acting.
 
-That is one reason small missions matter so much.
-
-They cut through the theater.
-
+That is one reason small missions matter so much. They cut through the theater.
 They turn "someday" into a thing you can actually do.
 
 ## Self-Direction Is Not Recklessness
 
-When I say do not wait for permission, I do not mean become reckless.
+When I say do not wait for permission, I do not mean become reckless. I do not
+mean quit your job tomorrow because you watched three videos about AI. I do not
+mean pick a giant life goal and announce it to the world before you have done
+one hour of real work.
 
-I do not mean quit your job tomorrow because you watched three videos about AI.
-
-I do not mean pick a giant life goal and announce it to the world before you
-have done one hour of real work.
-
-I mean this:
-
-take ownership of the next move.
+I mean this: take ownership of the next move.
 
 That is all.
 
-Self-direction is not drama.
-
-It is not rebellion for the sake of rebellion.
-
-It is not pretending you need nobody.
+Self-direction is not drama. It is not rebellion for the sake of rebellion. It
+is not pretending you need nobody.
 
 It is the ability to say:
 
 "This is the next useful thing for me to do, and I am going to do it."
 
-That could be tiny.
+That could be tiny. Read one manual section. Make one folder for the work. Ask
+AI to explain one concept you keep avoiding. Try one command and understand
+what it does. Write one note that turns a vague goal into a real mission.
 
-Read one manual section.
-
-Make one folder for the work.
-
-Ask AI to explain one concept you keep avoiding.
-
-Try one command and understand what it does.
-
-Write one note that turns a vague goal into a real mission.
-
-Small self-direction is still self-direction.
-
-In fact, it is usually the version that works.
+Small self-direction is still self-direction. In fact, it is usually the
+version that works.
 
 ## A Mission Beats A Mood
 
@@ -1098,38 +810,25 @@ A lot of people are waiting to feel motivated enough to start.
 
 That is backwards.
 
-Motivation usually follows motion.
+Motivation usually follows motion, not the other way around. That is why you
+need a mission, not a mood.
 
-Not the other way around.
-
-That is why you need a mission, not a mood.
-
-A mood is unstable.
-
-A mission can survive a bad day.
+A mood is unstable. A mission can survive a bad day.
 
 A mood says, "I feel inspired right now."
 
 A mission says, "Here is the thing I am trying to do, why it matters, and what
 success looks like."
 
-You can work with that.
-
-You can return to that.
-
-You can finish that.
-
-And when you finish something real, even something small, your confidence gets
-heavier in a good way.
+You can work with that. You can return to that. You can finish that. And when
+you finish something real, even something small, your confidence gets heavier
+in a good way.
 
 It stops being theory.
 
 ## Write One Mission
 
-Take your chosen door from Chapter 1.
-
-Take your leverage list from Chapter 2.
-
+Take your chosen door from Chapter 1. Take your leverage list from Chapter 2.
 Both should live in the same Part 1 note now.
 
 Now turn them into one mission.
@@ -1171,11 +870,7 @@ If your door is using AI better:
 **Success looks like:** I complete one real task using AI as a tutor and can explain what I learned.  
 **First move:** Pick one problem and write the first useful question I would ask.
 
-Notice what these have in common.
-
-They are not giant.
-
-They are not glamorous.
+Notice what these have in common. They are not giant. They are not glamorous.
 
 They are real.
 
@@ -1183,21 +878,16 @@ That is what matters.
 
 ## The First Move Should Feel Almost Too Small
 
-Experts usually pick first moves that are too big.
-
-Beginners often do the same thing because big moves feel more serious.
+Experts usually pick first moves that are too big. Beginners often do the same
+thing because big moves feel more serious.
 
 But serious is not the goal.
 
 Finished is better.
 
-A good first move should feel almost embarrassingly small.
-
-That is not because you are weak.
-
-It is because small moves create traction.
-
-Traction is what gets you out of drift.
+A good first move should feel almost embarrassingly small. That is not because
+you are weak. It is because small moves create traction, and traction is what
+gets you out of drift.
 
 If your mission is too big, you start negotiating with it.
 
@@ -1213,19 +903,9 @@ When things calm down.
 
 That is how the old pattern sneaks back in.
 
-So make the first move smaller.
-
-Not "learn Linux."
-
-"Read one section and try one thing."
-
-Not "build an app."
-
-"Describe the smallest useful version."
-
-Not "use AI better."
-
-"Ask one clean question about one real problem."
+So make the first move smaller. Not "learn Linux." "Read one section and try
+one thing." Not "build an app." "Describe the smallest useful version." Not
+"use AI better." "Ask one clean question about one real problem."
 
 That is how you start.
 
@@ -1235,15 +915,8 @@ This is the part some people do not like hearing.
 
 No one is coming to hand you the perfect map.
 
-You may get help.
-
-You may get advice.
-
-You may get lucky.
-
-You may meet generous people.
-
-I hope you do.
+You may get help. You may get advice. You may get lucky. You may meet generous
+people. I hope you do.
 
 But even then, at some point, it still comes back to you choosing a mission and
 making the next move.
@@ -1252,18 +925,11 @@ That is not bad news.
 
 That is adult news.
 
-And once you accept it, it becomes power.
+And once you accept it, it becomes power. Because if the next move is yours,
+you do not have to wait around for someone else to become clearer before your
+life does.
 
-Because if the next move is yours, you do not have to wait around for someone
-else to become clearer before your life does.
-
-Write your mission now.
-
-Keep it plain.
-
-Keep it small.
-
-Keep it real.
+Write your mission now. Keep it plain. Keep it small. Keep it real.
 
 In Part 2, we are going to start using the machine more directly. That will
 matter a lot more because now it is serving a mission you actually own.
@@ -1285,32 +951,23 @@ your first reaction may be something like this:
 
 That is normal.
 
-A system like Omarchy feels different right away.
+A system like Omarchy feels different right away. Not bad. Just different.
 
-Not bad.
-
-Just different.
-
-And when something is different, people often make one of two mistakes.
-
-They either panic and decide it is not for them.
-
-Or they try to absorb the whole thing at once and drown in details.
+And when something is different, people often make one of two mistakes. They
+either panic and decide it is not for them, or they try to absorb the whole
+thing at once and drown in details.
 
 We are not going to do either.
 
-You do not need to understand the whole machine today.
-
-You just need a few reliable ways in.
+You do not need to understand the whole machine today. You just need a few
+reliable ways in.
 
 That is enough to begin.
 
 ## If You Are Not On Omarchy
 
-This chapter uses Omarchy as the concrete machine.
-
-If that is not the machine in front of you, keep the method and translate the
-surface.
+This chapter uses Omarchy as the concrete machine. If that is not the machine
+in front of you, keep the method and translate the surface.
 
 The keys and menus may differ.
 
@@ -1323,25 +980,17 @@ time.
 ## Strange Does Not Mean Wrong
 
 Part of what makes Omarchy feel unusual at first is that it is built around the
-keyboard.
+keyboard. That can feel hostile for about five minutes. Then, if you stick with
+it, it starts to feel fast.
 
-That can feel hostile for about five minutes.
-
-Then, if you stick with it, it starts to feel fast.
-
-The point is not to be clever.
-
-The point is to reduce friction.
+The point is not to be clever. The point is to reduce friction.
 
 A keyboard-first setup means you can open things, move, search, switch, and
-control the environment without constantly breaking your flow.
+control the environment without constantly breaking your flow. That is useful
+once the pattern clicks.
 
-That is useful once the pattern clicks.
-
-You do not need it all to click today.
-
-You just need to meet the machine in a way that leaves you less intimidated
-than you were ten minutes ago.
+You do not need it all to click today. You just need to meet the machine in a
+way that leaves you less intimidated than you were ten minutes ago.
 
 That is the win for this chapter.
 
@@ -1357,18 +1006,14 @@ Treat these as your three main doors:
 2. the Omarchy menu
 3. the hotkey sheet
 
-That is enough for now.
+That is enough for now. If you learn those three, you are not wandering blind
+anymore.
 
-If you learn those three, you are not wandering blind anymore.
+You have a way to find apps. You have a way to reach setup and install
+surfaces. You have a way to check the keyboard map when you forget something.
 
-You have a way to find apps.
-
-You have a way to reach setup and install surfaces.
-
-You have a way to check the keyboard map when you forget something.
-
-That is already a huge step up from feeling like the system is just happening to
-you.
+That is already a huge step up from feeling like the system is just happening
+to you.
 
 ## First Door: The Launcher
 
@@ -1380,23 +1025,17 @@ Open it with:
 `Super + Space`
 
 If you are new to this language, `Super` usually means the key that plays the
-role of the Windows key on many keyboards.
+role of the Windows key on many keyboards. Learn that once here. From this
+point on, when the book says `Super`, that is the key it means.
 
-Learn that once here.
-
-From this point on, when the book says `Super`, that is the key it means.
-
-Do not worry about memorizing everything else yet.
-
-Just hit `Super + Space` and see the launcher appear.
+Do not worry about memorizing everything else yet. Just hit `Super + Space` and
+see the launcher appear.
 
 That matters because it gives you an immediate answer to a beginner question:
 
 "How do I get to anything?"
 
-The launcher is not the whole system.
-
-It is just one reliable door.
+The launcher is not the whole system. It is just one reliable door.
 
 That is enough.
 
@@ -1406,24 +1045,16 @@ Now open the Omarchy menu:
 
 `Super + Alt + Space`
 
-This matters for a different reason.
-
-The launcher helps you find apps.
-
-The Omarchy menu helps you shape the system.
+This matters for a different reason. The launcher helps you find apps. The
+Omarchy menu helps you shape the system.
 
 This is where the machine starts to feel less like a sealed object and more
 like something you can work with on purpose.
 
-You do not need to start changing a bunch of things right now.
+You do not need to start changing a bunch of things right now. Just notice that
+the menu exists. Notice that there is a control surface.
 
-Just notice that the menu exists.
-
-Notice that there is a control surface.
-
-That means the machine is not a black box.
-
-It has handles.
+That means the machine is not a black box. It has handles.
 
 That matters.
 
@@ -1436,25 +1067,18 @@ Now open the hotkey sheet:
 The Omarchy manual's `Hotkeys` section is long. That is good news later, but
 too much news on day one.
 
-For now, the important thing is simpler:
+For now, the important thing is simpler: you do not have to remember the whole
+keyboard map from memory. There is a place to look.
 
-you do not have to remember the whole keyboard map from memory.
-
-There is a place to look.
-
-That is a powerful difference.
-
-A lot of overwhelm comes from feeling like you are supposed to already know.
+That is a powerful difference. A lot of overwhelm comes from feeling like you
+are supposed to already know.
 
 You are not.
 
 You are supposed to know where to check.
 
-That is one of the themes of this whole book.
-
-Not instant mastery.
-
-Reliable orientation.
+That is one of the themes of this whole book. Not instant mastery. Reliable
+orientation.
 
 ## Open The Two Core Apps
 
@@ -1471,15 +1095,13 @@ Then open a browser:
 
 That is enough for today.
 
-You are not trying to become fluent.
-
-You are teaching your nervous system something important:
+You are not trying to become fluent. You are teaching your nervous system
+something important:
 
 "I can open the tools I need. I am not trapped in here."
 
-That feeling matters more than people think.
-
-If the machine stops feeling like a mystery box, curiosity has room to show up.
+That feeling matters more than people think. If the machine stops feeling like
+a mystery box, curiosity has room to show up.
 
 And curiosity is a much better learning engine than intimidation.
 
@@ -1499,20 +1121,15 @@ AI harnesses.
 
 Development environments.
 
-All useful.
+All useful. None necessary for this chapter.
 
-None necessary for this chapter.
-
-This is important because many people sabotage themselves by trying to absorb an
-entire system before they have even built a first relationship with it.
+This is important because many people sabotage themselves by trying to absorb
+an entire system before they have even built a first relationship with it.
 
 Do not do that.
 
-Ignore most of the machine for now.
-
-Learn the few surfaces that let you keep moving.
-
-You can always come back.
+Ignore most of the machine for now. Learn the few surfaces that let you keep
+moving. You can always come back.
 
 In fact, you should come back.
 
@@ -1528,11 +1145,8 @@ Do this once, slowly:
 4. Open a terminal with `Super + Return`
 5. Open a browser with `Super + Shift + Return`
 
-That is your mission for this chapter.
-
-Not "learn Omarchy."
-
-Not "master Linux."
+That is your mission for this chapter. Not "learn Omarchy." Not "master
+Linux."
 
 Just this.
 
@@ -1544,23 +1158,13 @@ That matters.
 
 One more habit starts here.
 
-Keep the Omarchy manual close.
-
-Not because you are failing if you need it.
-
+Keep the Omarchy manual close. Not because you are failing if you need it.
 Because needing it is normal.
 
-The chapter got you oriented.
+The chapter got you oriented. The manual keeps the orientation alive.
 
-The manual keeps the orientation alive.
-
-That is what good documentation does.
-
-It keeps you from having to pretend.
-
-It lets you learn in layers.
-
-It gives you a place to return when you forget.
+That is what good documentation does. It keeps you from having to pretend. It
+lets you learn in layers. It gives you a place to return when you forget.
 
 That is not weakness.
 
@@ -1568,27 +1172,19 @@ That is how adults learn real systems.
 
 ## Good. That Is Enough.
 
-If you want to go exploring now, I understand.
-
-You probably will.
+If you want to go exploring now, I understand. You probably will.
 
 That is fine.
 
 But do not miss the point of what just happened.
 
-You met the machine without needing to understand all of it.
-
-You learned the main doors.
-
-You opened the core apps.
-
-You stayed oriented.
+You met the machine without needing to understand all of it. You learned the
+main doors. You opened the core apps. You stayed oriented.
 
 That is the real win.
 
-In the next chapter, we are going to go one step further.
-
-Not just meeting the machine.
+In the next chapter, we are going to go one step further. Not just meeting the
+machine.
 
 Moving through it with more confidence.
 
@@ -1832,17 +1428,12 @@ feels slippery.
 For a lot of people, the terminal feels like the line between "normal computer
 use" and "real computer people."
 
-Part of that is visual.
+Part of that is visual. Part of it is that a text interface does not give you
+many comforting clues at first.
 
-Part of it is that a text interface does not give you many comforting clues at
-first.
-
-The terminal is not a secret club.
-
-It is just a direct interface.
-
-Instead of clicking on things and hoping you landed in the right place, you
-tell the machine exactly what you want, and it tells you exactly what happened.
+The terminal is not a secret club. It is just a direct interface. Instead of
+clicking on things and hoping you landed in the right place, you tell the
+machine exactly what you want, and it tells you exactly what happened.
 
 That can feel harsher at first.
 
@@ -1853,12 +1444,9 @@ must be advanced.
 
 Sometimes plain just means honest.
 
-This chapter is not about becoming a shell wizard.
-
-It is about crossing one threshold:
-
-the terminal stops feeling like a wall and starts feeling like a place you can
-ask simple questions and get useful answers.
+This chapter is not about becoming a shell wizard. It is about crossing one
+threshold: the terminal stops feeling like a wall and starts feeling like a
+place you can ask simple questions and get useful answers.
 
 That is enough for now.
 
@@ -1882,22 +1470,16 @@ preferred terminal under `Install > Terminal` in the Omarchy menu, and the
 If the shortcut does not work, open the launcher with `Super + Space` or the
 Omarchy menu with `Super + Alt + Space` and start the terminal from there.
 
-What matters right now is simpler than the exact terminal app.
-
-You opened a place where the machine is waiting on you.
+What matters right now is simpler than the exact terminal app. You opened a
+place where the machine is waiting on you.
 
 That is what the prompt is.
 
-It is not an error.
-
-It is not a warning.
-
-It is the machine saying, "What do you want to do?"
+It is not an error. It is not a warning. It is the machine saying, "What do
+you want to do?"
 
 You will usually see a blinking cursor after something like `$` or
-`username@machine`.
-
-That blinking cursor is where your typing begins.
+`username@machine`. That blinking cursor is where your typing begins.
 
 That is a different relationship than a lot of people are used to.
 
@@ -1905,9 +1487,8 @@ And it is a good one.
 
 ## The Terminal Gets Easier When You Know The Questions
 
-You do not need a big command vocabulary on day one.
-
-You need a few questions that remove confusion.
+You do not need a big command vocabulary on day one. You need a few questions
+that remove confusion.
 
 Here are the first three:
 
@@ -1915,10 +1496,9 @@ Here are the first three:
 2. What is here?
 3. How do I move?
 
-That is already enough to make the terminal feel less mysterious.
-
-Most beginner stress comes from not knowing where they are, not knowing what
-they are looking at, and not knowing how to leave.
+That is already enough to make the terminal feel less mysterious. Most beginner
+stress comes from not knowing where they are, not knowing what they are looking
+at, and not knowing how to leave.
 
 So that is what we fix first.
 
@@ -1928,26 +1508,18 @@ Use:
 
 `pwd`
 
-That stands for "print working directory."
-
-You do not need to memorize the name.
-
-You just need to know what question it answers:
+That stands for "print working directory." You do not need to memorize the
+name. You just need to know what question it answers:
 
 "What folder am I currently in?"
 
 When you run `pwd`, the terminal prints the full path to the place you are
-standing.
-
-Think of it like checking the name of the room before you start moving
-furniture around.
+standing. Think of it like checking the name of the room before you start
+moving furniture around.
 
 That matters because a lot of terminal mistakes are not really command
-mistakes.
-
-They are location mistakes.
-
-People run the right command in the wrong place.
+mistakes. They are location mistakes. People run the right command in the wrong
+place.
 
 So get in the habit of asking where you are.
 
@@ -1969,20 +1541,12 @@ richer or cleaner than old screenshots you see elsewhere.
 
 That is fine.
 
-The point is still the same.
+The point is still the same. You are asking the machine to show you what is in
+front of you. Files. Folders. Maybe hidden structure later on.
 
-You are asking the machine to show you what is in front of you.
-
-Files.
-
-Folders.
-
-Maybe hidden structure later on.
-
-Right now, this is not about decoding every line of terminal output.
-
-It is about replacing the vague feeling of "I am somewhere in the computer"
-with something concrete.
+Right now, this is not about decoding every line of terminal output. It is
+about replacing the vague feeling of "I am somewhere in the computer" with
+something concrete.
 
 Run `pwd`.
 
@@ -1998,22 +1562,18 @@ Use:
 
 `cd`
 
-That means "change directory."
-
-If `pwd` tells you where you are, `cd` is how you go somewhere else on purpose.
+That means "change directory." If `pwd` tells you where you are, `cd` is how
+you go somewhere else on purpose.
 
 Start with one safe move:
 
 `cd ~`
 
-The `~` is shorthand for your home folder.
+The `~` is shorthand for your home folder. That is one of the few symbols worth
+learning early because you will see it a lot.
 
-That is one of the few symbols worth learning early because you will see it a
-lot.
-
-If `pwd` already shows your home folder, `cd ~` may not change anything.
-
-That is normal.
+If `pwd` already shows your home folder, `cd ~` may not change anything. That
+is normal.
 
 Now run:
 
@@ -2029,26 +1589,17 @@ Then run:
 
 again and notice that the listing changed.
 
-That is the pattern.
+That is the pattern. Move. Check where you are. Look around.
 
-Move.
-
-Check where you are.
-
-Look around.
-
-This is how the terminal stops feeling abstract.
-
-You just moved on purpose instead of guessing.
+This is how the terminal stops feeling abstract. You just moved on purpose
+instead of guessing.
 
 You can also use:
 
 `cd ..`
 
-to move up one directory level.
-
-That is often enough to get unstuck when you realize you wandered somewhere you
-did not mean to be.
+to move up one directory level. That is often enough to get unstuck when you
+realize you wandered somewhere you did not mean to be.
 
 The Omarchy manual also points out that Omarchy uses Zoxide to make `cd`
 smarter over time. Once you have visited a place before, a helper called
@@ -2081,17 +1632,13 @@ Try this:
 4. Press `Ctrl + R`
 5. Type `pwd` or `ls`
 
-You should see matching commands appear in a small search view.
+You should see matching commands appear in a small search view. When the
+command you want is highlighted, press `Enter` to run it again. If the search
+feels confusing, press `Esc` or `Ctrl + C` to back out.
 
-When the command you want is highlighted, press `Enter` to run it again.
-
-If the search feels confusing, press `Esc` or `Ctrl + C` to back out.
-
-That is a tiny thing, but it changes the feeling of the terminal.
-
-You do not have to hold every command in your head.
-
-The shell can help you reach back for what you just did.
+That is a tiny thing, but it changes the feeling of the terminal. You do not
+have to hold every command in your head. The shell can help you reach back for
+what you just did.
 
 That is not cheating.
 
@@ -2104,32 +1651,22 @@ You just reused something that worked without having to memorize it.
 This is one of the bigger points hiding inside the manual.
 
 The terminal is not one pure, sacred language that you have to approach on its
-terms forever.
+terms forever. It can be improved. It can be shaped.
 
-It can be improved.
-
-It can be shaped.
-
-Omarchy already does some of that for you.
-
-The `Shell Tools` section shows useful helpers for searching, listing, and
-jumping around. The `Shell Functions` section shows that Omarchy already ships
-with plain-language helpers for recurring work, like `compress` and
-`decompress`.
+Omarchy already does some of that for you. The `Shell Tools` section shows
+useful helpers for searching, listing, and jumping around. The `Shell
+Functions` section shows that Omarchy already ships with plain-language helpers
+for recurring work, like `compress` and `decompress`.
 
 That matters because it changes your mental model.
 
-That does not mean you need to start inventing your own shell setup today.
+That does not mean you need to start inventing your own shell setup today. It
+means the terminal is not frozen in some hostile form forever. It can be made
+more humane around real work.
 
-It means the terminal is not frozen in some hostile form forever.
-
-It can be made more humane around real work.
-
-That said, this is also where judgment matters.
-
-Not every helper in the manual is a day-one command.
-
-Some are clearly for later, and some have real consequences if used carelessly.
+That said, this is also where judgment matters. Not every helper in the manual
+is a day-one command. Some are clearly for later, and some have real
+consequences if used carelessly.
 
 Good.
 
@@ -2137,14 +1674,11 @@ That is normal.
 
 Every powerful tool has ranges.
 
-Your job is not to run everything.
+Your job is not to run everything. Your job is to learn which small, safe moves
+give you confidence and which things can wait.
 
-Your job is to learn which small, safe moves give you confidence and which
-things can wait.
-
-For now, stay with `pwd`, `ls`, `cd`, and `Ctrl + R`.
-
-Every command in this chapter is safe to try.
+For now, stay with `pwd`, `ls`, `cd`, and `Ctrl + R`. Every command in this
+chapter is safe to try.
 
 If a command changes files and you do not understand it yet, stop and read
 first.
@@ -2168,10 +1702,8 @@ That is enough for this chapter.
 You can now open a terminal, orient yourself, move safely, and reuse a prior
 command without having to remember it perfectly.
 
-You are not trying to become impressive.
-
-You are trying to make the terminal feel like a place where you can orient
-yourself instead of freeze.
+You are not trying to become impressive. You are trying to make the terminal
+feel like a place where you can orient yourself instead of freeze.
 
 That is a real shift.
 
@@ -2193,22 +1725,19 @@ All useful.
 
 None necessary for this win.
 
-Do not turn this into a homework assignment.
-
-The goal today is smaller and better:
-
-open the terminal, ask a few good questions, move on purpose, and prove to
-yourself that nothing terrible happens when you work in text for five minutes.
+Do not turn this into a homework assignment. The goal today is smaller and
+better: open the terminal, ask a few good questions, move on purpose, and prove
+to yourself that nothing terrible happens when you work in text for five
+minutes.
 
 That is enough to open the next door.
 
 Once the terminal stops feeling hostile, the manual stops feeling like it was
 written for somebody else.
 
-In the next chapter, we are going to use the manual more directly.
-
-We will pick one small, safe thing, look up the right section, and use the
-manual to change or understand it on purpose.
+In the next chapter, we are going to use the manual more directly. We will pick
+one small, safe thing, look up the right section, and use the manual to change
+or understand it on purpose.
 
 Not as punishment.
 
@@ -2228,20 +1757,15 @@ Somebody telling you to go figure it out alone.
 
 That is not what I mean.
 
-I mean this:
+I mean this: if you want to stop guessing, stop starting from guesses.
 
-if you want to stop guessing, stop starting from guesses.
-
-The manual is not where you go because AI failed you.
-
-The manual is where you go so AI has something real to stand on.
+The manual is not where you go because AI failed you. The manual is where you
+go so AI has something real to stand on.
 
 That is a very different relationship.
 
-The habit we want is simple:
-
-read the source first, use AI to clarify it, try one small thing, then look at
-what happened.
+The habit we want is simple: read the source first, use AI to clarify it, try
+one small thing, then look at what happened.
 
 That loop will take you a long way.
 
@@ -2262,21 +1786,15 @@ question.
 
 "How does Omarchy work?"
 
-Those are bigger than one manual section can answer well.
-
-A manual is much better at helping with something smaller.
+Those are bigger than one manual section can answer well. A manual is much
+better at helping with something smaller.
 
 For example:
 
 "How do I find files faster without clicking around?"
 
-That is a good manual question.
-
-It is narrow.
-
-It is practical.
-
-And it gives you a clear way to tell whether the answer helped.
+That is a good manual question. It is narrow. It is practical. And it gives you
+a clear way to tell whether the answer helped.
 
 So that is the one we are going to use.
 
@@ -2298,9 +1816,8 @@ Put them side by side.
 If the browser shortcut is different on your machine or you forget it, open the
 launcher with `Super + Space`, start the browser from there, and keep going.
 
-This matters more than it sounds like it should.
-
-You want the source and the machine visible at the same time.
+This matters more than it sounds like it should. You want the source and the
+machine visible at the same time.
 
 Read.
 
@@ -2311,18 +1828,14 @@ Observe.
 That rhythm is the whole skill.
 
 It is also one reason keyboard-first systems get so powerful once they click.
-
 You can move between reading and doing without turning it into a production.
 
 ## Read The Right Section First
 
 Now open the Omarchy manual's `Shell Tools` section.
 
-Do not read the whole manual.
-
-Do not skim six chapters.
-
-Read the part that matches the problem you actually have.
+Do not read the whole manual. Do not skim six chapters. Read the part that
+matches the problem you actually have.
 
 In this case, you are looking for ways to find things faster.
 
@@ -2332,16 +1845,10 @@ That section gives you several candidates:
 - `fd` for finding files by name
 - `rg` for searching text inside files
 
-That is already useful.
+That is already useful. It is also already a small win. You stopped guessing
+and narrowed the problem.
 
-It is also already a small win.
-
-You stopped guessing and narrowed the problem.
-
-Notice what just happened.
-
-You stopped asking the whole world for an answer.
-
+Notice what just happened. You stopped asking the whole world for an answer.
 You narrowed the question and found the official section that speaks to it.
 
 That is not glamorous.
@@ -2368,11 +1875,8 @@ That is a much better AI question than:
 
 Why?
 
-Because now the AI is working from a real source and a real problem.
-
-It is not inventing a starting point for you.
-
-It is helping you interpret one.
+Because now the AI is working from a real source and a real problem. It is not
+inventing a starting point for you. It is helping you interpret one.
 
 That is how you keep AI in the role of tutor instead of oracle.
 
@@ -2389,38 +1893,29 @@ That pattern matters.
 For this chapter, use `ff`.
 
 The manual says it gives you fuzzy finding of files in the current tree with a
-preview on the right.
-
-That makes it a good first experiment because it is useful and low-risk.
+preview on the right. That makes it a good first experiment because it is
+useful and low-risk.
 
 First, in the terminal, run:
 
 `cd ~`
 
-Your home directory is your personal top-level folder.
-
-The current tree just means whatever files and folders are underneath the place
-you are standing right now.
+Your home directory is your personal top-level folder. The current tree just
+means whatever files and folders are underneath the place you are standing
+right now.
 
 Then type:
 
 `ff`
 
-`ff` opens a searchable file picker.
-
-You do not type a full command after that.
-
-You just start typing partial letters and the list filters live.
+`ff` opens a searchable file picker. You do not type a full command after
+that. You just start typing partial letters and the list filters live.
 
 Start typing a few letters from a file name you think might be in that tree.
-
 Watch what happens.
 
-You should see the list narrow as you type.
-
-If your setup shows a preview area on the right, good.
-
-If it looks a little different, that is okay too.
+You should see the list narrow as you type. If your setup shows a preview area
+on the right, good. If it looks a little different, that is okay too.
 
 Success here is simpler: `ff` opened, responded to your typing, and gave you an
 interactive result instead of a blank wall.
@@ -2478,9 +1973,8 @@ need yet but probably will later:
 - understanding how Omarchy manages programming environments
 - using `gh auth login` when you need GitHub CLI
 
-You do not need to do those things now.
-
-You just need to see that the method scales.
+You do not need to do those things now. You just need to see that the method
+scales.
 
 Small tool today.
 
@@ -2489,9 +1983,8 @@ Bigger system choice later.
 Same loop.
 
 That matters because a lot of confidence comes from realizing you do not need a
-different personality to tackle bigger problems.
-
-You need the same habit applied to bigger questions.
+different personality to tackle bigger problems. You need the same habit
+applied to bigger questions.
 
 ## Read, Ask, Try, Observe
 
@@ -2507,17 +2000,12 @@ Observe what happened.
 
 Then decide what to do next.
 
-That is how you stop treating the machine like a mystery.
+That is how you stop treating the machine like a mystery. That is how you stop
+treating AI like magic. And that is how reading the manual turns from something
+somebody assigned you into something that gives you power.
 
-That is how you stop treating AI like magic.
-
-And that is how reading the manual turns from something somebody assigned you
-into something that gives you power.
-
-Do one more tiny round before you leave this chapter.
-
-Pick either `fd` or `rg` from the same `Shell Tools` section and ask AI one
-clean question about it.
+Do one more tiny round before you leave this chapter. Pick either `fd` or `rg`
+from the same `Shell Tools` section and ask AI one clean question about it.
 
 Not ten questions.
 
@@ -2527,9 +2015,8 @@ Then try one small version of the answer.
 
 That is enough.
 
-Part 3 is where we are going to talk about AI more directly.
-
-But now you have already seen the important part:
+Part 3 is where we are going to talk about AI more directly. But now you have
+already seen the important part:
 
 AI works better when it is standing on something real.
 
@@ -3139,51 +2626,33 @@ Press the pedal.
 
 Get the same kind of response every time.
 
-That is how most machines work.
-
-You give an input.
-
-They give a predictable output.
+That is how most machines work. You give an input. They give a predictable
+output.
 
 AI is not like that.
 
 Last chapter, you learned how to pick the right hero, give it backstory, give
-it a mission, and stay in charge.
+it a mission, and stay in charge. That helps a lot.
 
-That helps a lot.
+It still does not make AI behave like a machine with perfect steering. It is
+closer to a horse than a car.
 
-It still does not make AI behave like a machine with perfect steering.
+That does not mean it is alive in the same way a horse is. It means your
+relationship to it is closer to guidance than button pressing.
 
-It is closer to a horse than a car.
+It has tendencies. It fills gaps. It gets carried away. It can be useful,
+responsive, and powerful. It can also start heading somewhere you did not mean
+to go.
 
-That does not mean it is alive in the same way a horse is.
-
-It means your relationship to it is closer to guidance than button pressing.
-
-It has tendencies.
-
-It fills gaps.
-
-It gets carried away.
-
-It can be useful, responsive, and powerful.
-
-It can also start heading somewhere you did not mean to go.
-
-That is why correction is part of the work.
-
-Not because you failed.
-
-Because that is the nature of the tool.
+That is why correction is part of the work. Not because you failed. Because
+that is the nature of the tool.
 
 That is good news, because steering can be learned.
 
 When I say `drift`, I mean the answer starts moving away from your actual goal.
 
 By the end of this chapter, you should be able to spot one example of AI drift
-and redirect it cleanly.
-
-You do not need to rescue the whole conversation.
+and redirect it cleanly. You do not need to rescue the whole conversation.
 
 One clean redirect is enough.
 
@@ -3195,20 +2664,13 @@ Car thinking sounds like this:
 - `I already told it what I wanted. Why is it changing the task?`
 - `Why is it so confident about something I didn't ask for?`
 
-Those are normal reactions.
-
-Especially if you came in expecting machine behavior.
+Those are normal reactions, especially if you came in expecting machine
+behavior.
 
 With a car, if you turn right, the car does not decide that left is more
-interesting today.
-
-With AI, something closer to that happens all the time.
-
-It keeps generating.
-
-It guesses at missing context.
-
-It tries to be helpful past the edge of what you asked.
+interesting today. With AI, something closer to that happens all the time. It
+keeps generating. It guesses at missing context. It tries to be helpful past
+the edge of what you asked.
 
 Sometimes that produces something great.
 
@@ -3217,9 +2679,8 @@ Sometimes it produces drift.
 Drift means the AI starts moving away from the goal, level, or answer shape you
 actually asked for.
 
-If you expect car behavior, drift feels like betrayal.
-
-If you expect horse behavior, drift feels like something to notice and guide.
+If you expect car behavior, drift feels like betrayal. If you expect horse
+behavior, drift feels like something to notice and guide.
 
 That is a much calmer and more useful posture.
 
@@ -3240,33 +2701,25 @@ It has motion.
 
 It has its own tendencies.
 
-You do not control it by assuming it will obey like a machine.
+You do not control it by assuming it will obey like a machine. You learn how to
+guide it.
 
-You learn how to guide it.
+That is the useful part of the metaphor. The practical skill is simple: notice
+drift, name it, and redirect it.
 
-That is the useful part of the metaphor.
+Not that AI is magic. Not that AI is conscious. Not that it deserves
+reverence. Just that using it well requires attention, direction, and
+correction.
 
-The practical skill is simple: notice drift, name it, and redirect it.
-
-Not that AI is magic.
-
-Not that AI is conscious.
-
-Not that it deserves reverence.
-
-Just that using it well requires attention, direction, and correction.
-
-That is why "one perfect prompt" is such a misleading fantasy.
-
-You are not trying to discover the secret button sequence.
+That is why "one perfect prompt" is such a misleading fantasy. You are not
+trying to discover the secret button sequence.
 
 You are trying to get better at steering.
 
 ## What Drift Looks Like
 
-Drift does not always mean total nonsense.
-
-A lot of the time it looks more like this:
+Drift does not always mean total nonsense. A lot of the time it looks more like
+this:
 
 - it answers a bigger question than the one you asked
 - it gets too technical for your level
@@ -3276,19 +2729,9 @@ A lot of the time it looks more like this:
 
 Drift means the answer has started moving away from your actual goal.
 
-That last one catches a lot of people.
-
-You ask for one small step.
-
-It gives you a whole system.
-
-You ask for a plain explanation.
-
-It gives you a lecture.
-
-You ask for help deciding.
-
-It starts making the decision for you.
+That last one catches a lot of people. You ask for one small step. It gives you
+a whole system. You ask for a plain explanation. It gives you a lecture. You
+ask for help deciding. It starts making the decision for you.
 
 That is drift.
 
@@ -3298,9 +2741,7 @@ Not proof that AI is worthless.
 
 Just a sign that it needs steering again.
 
-Drift is information.
-
-It tells you what to clarify next.
+Drift is information. It tells you what to clarify next.
 
 ## Watch It Drift
 
@@ -3314,29 +2755,19 @@ But imagine the answer comes back like this:
 
 `You should start by designing a complete automation system with a folder structure, logging, error handling, and a long-term roadmap for future tools.`
 
-That answer is not random.
-
-It is trying to be helpful.
+That answer is not random. It is trying to be helpful.
 
 It is also drifting.
 
-You did not ask for a complete automation system.
-
-You asked for the next smallest step.
+You did not ask for a complete automation system. You asked for the next
+smallest step.
 
 Here is the correction:
 
 `Too big. I do not want a full system yet. Give me one step I can finish in 15 minutes on my current machine.`
 
-That is good steering.
-
-You named the drift.
-
-You restated the real goal.
-
-You shrank the task.
-
-You told it what shape of answer you wanted.
+That is good steering. You named the drift. You restated the real goal. You
+shrunk the task. You told it what shape of answer you wanted.
 
 That is the skill.
 
@@ -3351,9 +2782,7 @@ Also a good prompt.
 But now imagine the answer turns into shell history, environment variables, and
 Unix background you did not ask for.
 
-That is a different kind of drift.
-
-Not too big this time.
+That is a different kind of drift. Not too big this time.
 
 Too technical.
 
@@ -3361,11 +2790,8 @@ Here is the correction:
 
 `Too technical. Explain it like I'm brand new, and only use words you would say out loud to a beginner. Keep it to three short paragraphs and one example.`
 
-Again, notice what you are doing.
-
-You are not giving up.
-
-You are not deciding the tool is broken.
+Again, notice what you are doing. You are not giving up. You are not deciding
+the tool is broken.
 
 You are steering it back toward usefulness.
 
@@ -3383,27 +2809,19 @@ No.
 
 Correction is part of using it right.
 
-A lot of the time, noticing the miss is the skill.
-
-That is why this chapter matters.
+A lot of the time, noticing the miss is the skill. That is why this chapter
+matters.
 
 If you expect one-shot perfection, you will either get frustrated or start
-believing bad answers too quickly.
+believing bad answers too quickly. And even if you catch the drift a little
+late, that still counts as steering.
 
-And even if you catch the drift a little late, that still counts as steering.
+If you expect guidance to be normal, you stay awake. You stay grounded. And you
+keep your judgment.
 
-If you expect guidance to be normal, you stay awake.
-
-You stay grounded.
-
-And you keep your judgment.
-
-That matters far beyond AI.
-
-It is the same posture you need with tools, plans, advice, and other people.
-
-Learning how to redirect unclear help is part of learning how to direct work in
-general.
+That matters far beyond AI. It is the same posture you need with tools, plans,
+advice, and other people. Learning how to redirect unclear help is part of
+learning how to direct work in general.
 
 Take the help.
 
@@ -3411,20 +2829,16 @@ Stay in charge.
 
 ## Four Good Redirects
 
-When AI drifts, you do not need a giant theory.
-
-You usually need one of four moves:
+When AI drifts, you do not need a giant theory. You usually need one of four
+moves:
 
 1. Name the problem: `Too broad.` `Too technical.` `That is not the question I asked.`
 2. Restate the real goal: `I want the next smallest step, not the full system.`
 3. Shrink the scope: `Give me one thing I can do in 15 minutes.`
 4. Redirect the answer shape: `Use plain English.` `Compare only these two options.` `Give me one example, not a lecture.`
 
-That is enough to rescue a lot of weak interactions.
-
-It is not the full loop yet.
-
-It is the correction move inside the bigger loop.
+That is enough to rescue a lot of weak interactions. It is not the full loop
+yet. It is the correction move inside the bigger loop.
 
 And the more you practice it, the calmer you get when drift shows up.
 
@@ -3438,11 +2852,8 @@ Not total nonsense.
 
 Just off.
 
-Maybe it was too big.
-
-Maybe it was too technical.
-
-Maybe it answered the wrong question.
+Maybe it was too big. Maybe it was too technical. Maybe it answered the wrong
+question.
 
 First, name the drift in plain language.
 
@@ -3472,21 +2883,16 @@ better.
 
 ## What This Opens
 
-Once you stop expecting car behavior, AI gets a lot less confusing.
+Once you stop expecting car behavior, AI gets a lot less confusing. You stop
+waiting for perfect obedience. You start paying attention to direction.
 
-You stop waiting for perfect obedience.
-
-You start paying attention to direction.
-
-That makes you harder to fool and easier to help.
-
-And it makes the whole relationship more productive.
+That makes you harder to fool and easier to help. And it makes the whole
+relationship more productive.
 
 It also makes you more self-directed, because you stop waiting for the tool to
 lead and start learning how to lead the work.
 
 In the next chapter, we are going to turn that posture into a practical loop:
-
 ask, refine, test, repeat.
 
 That is how you stop hoping for one great answer and start building progress on
@@ -6016,17 +5422,12 @@ The job is to keep choosing the next real move.
 
 # You Can Keep Going
 
-This book was never really about Linux.
+This book was never really about Linux. It was never really about AI either.
 
-It was never really about AI either.
+Those two things matter. But they matter because of what they let a person do.
 
-Those two things matter.
-
-But they matter because of what they let a person do.
-
-What this book has really been about is agency.
-
-Not the fake kind that lives in motivational quotes.
+What this book has really been about is agency. Not the fake kind that lives in
+motivational quotes.
 
 The real kind.
 
@@ -6041,15 +5442,12 @@ By now, you should have more than ideas.
 
 You should have evidence.
 
-If you only finished part of the artifact chain, that still counts.
+If you only finished part of the artifact chain, that still counts. Partial
+proof is still proof.
 
-Partial proof is still proof.
-
-You have a machine that feels less mysterious than it did before.
-
-You have used the manual instead of treating confusion like a wall.
-
-You have learned how to ask AI for help without handing it the wheel.
+You have a machine that feels less mysterious than it did before. You have used
+the manual instead of treating confusion like a wall. You have learned how to
+ask AI for help without handing it the wheel.
 
 You have built and kept real things:
 
@@ -6067,64 +5465,45 @@ That is not nothing.
 
 That is a record of becoming somebody who can move.
 
-Confidence built that way is different.
-
-It does not depend on mood nearly as much.
-
-It does not disappear the moment something gets confusing.
+Confidence built that way is different. It does not depend on mood nearly as
+much. It does not disappear the moment something gets confusing.
 
 It has somewhere to stand.
 
 ## The Thesis Still Holds
 
-There is a lot of noise around AI.
-
-Some people still talk like the future belongs to the machine.
+There is a lot of noise around AI. Some people still talk like the future
+belongs to the machine.
 
 I do not believe that.
 
 I think it belongs to people who learn how to use AI well.
 
 That line matters even more at the end of the book than it did at the
-beginning.
+beginning, because now you should understand what "use AI effectively" really
+means.
 
-Because now you should understand what "use AI effectively" really means.
+It does not mean worship it. It does not mean outsource your judgment. It does
+not mean ask it to live your life for you.
 
-It does not mean worship it.
-
-It does not mean outsource your judgment.
-
-It does not mean ask it to live your life for you.
-
-It means learning how to direct it, question it, correct it, and learn with
-it.
-
-It means treating it more like a team you direct than a vending machine.
-
-It means remembering that it is more like a horse than a car: powerful,
+It means learning how to direct it, question it, correct it, and learn with it.
+It means treating it more like a team you direct than a vending machine. It
+means remembering that it is more like a horse than a car: powerful,
 responsive, useful, and absolutely in need of guidance.
 
-The machine matters.
-
-The AI matters.
+The machine matters. The AI matters.
 
 But the person in charge matters most.
 
 ## What Will Change, And What Will Not
 
-The exact tools will change.
-
-Omarchy will change.
-
-Models will change.
-
-Editors, shells, websites, and workflows will change too.
+The exact tools will change. Omarchy will change. Models will change. Editors,
+shells, websites, and workflows will change too.
 
 That is normal.
 
-Do not build your whole identity on any one tool.
-
-Build it on the habits underneath the tool.
+Do not build your whole identity on any one tool. Build it on the habits
+underneath the tool.
 
 Those are more durable.
 
@@ -6137,9 +5516,8 @@ Things that will still matter:
 - keeping notes you can trust
 - building small proof instead of waiting for big certainty
 
-That is why this book is not just a setup manual.
-
-If it only taught one stack, it would get old fast.
+That is why this book is not just a setup manual. If it only taught one stack,
+it would get old fast.
 
 What makes it worth anything is that it teaches a way of moving.
 
@@ -6149,47 +5527,32 @@ One important thing before we close.
 
 Do not turn this book into another authority you have to obey forever.
 
-Use what helped.
+Use what helped. Adapt what needs adapting. Throw out what does not fit your
+actual life.
 
-Adapt what needs adapting.
-
-Throw out what does not fit your actual life.
-
-Your machine might not stay the same.
-
-Your direction might change.
-
-Your curriculum should change when reality teaches you something new.
+Your machine might not stay the same. Your direction might change. Your
+curriculum should change when reality teaches you something new.
 
 That is not drift.
 
 That is growth.
 
-The point was never to become a perfect follower of somebody else's system.
-
-The point was to become somebody who can build and revise their own.
+The point was never to become a perfect follower of somebody else's system. The
+point was to become somebody who can build and revise their own.
 
 ## The Door Is Wider Now
 
-Maybe your path stays close to tech.
-
-Maybe you build more tools.
-
-Maybe you get deep into automation, coding, systems, or troubleshooting.
-
-Maybe you use these same skills for writing, research, freelancing, small
-business work, teaching, or a topic that has almost nothing to do with tech on
-the surface.
+Maybe your path stays close to tech. Maybe you build more tools. Maybe you get
+deep into automation, coding, systems, or troubleshooting. Maybe you use these
+same skills for writing, research, freelancing, small business work, teaching,
+or a topic that has almost nothing to do with tech on the surface.
 
 That is fine.
 
 In some ways, it is the whole point.
 
-Linux and AI are not the destination.
-
-They are two of the most useful levers you can learn to pull.
-
-Once you know how to use them well, more doors open.
+Linux and AI are not the destination. They are two of the most useful levers
+you can learn to pull. Once you know how to use them well, more doors open.
 
 Not all at once.
 
@@ -6205,19 +5568,13 @@ Not everything.
 
 Just the next honest move.
 
-Open `next-three-moves.md`.
-
-Read the move you already named.
-
-Do Move 1.
-
-Keep the note about what happened.
+Open `next-three-moves.md`. Read the move you already named. Do Move 1. Keep
+the note about what happened.
 
 Then choose the next move from evidence.
 
-That pattern will take you farther than most people realize.
-
-Not because it is flashy.
+That pattern will take you farther than most people realize. Not because it is
+flashy.
 
 Because it works.
 
@@ -6230,34 +5587,17 @@ I was that kid too.
 
 I learned on an Apple IIe.
 
-No polished roadmap.
+No polished roadmap. No infinite pool of helpers. Just curiosity, manuals,
+trial and error, and a machine that slowly stopped feeling like magic once I
+stayed with it long enough.
 
-No infinite pool of helpers.
-
-Just curiosity, manuals, trial and error, and a machine that slowly stopped
-feeling like magic once I stayed with it long enough.
-
-The tools are better now.
-
-In some ways, much better.
+The tools are better now. In some ways, much better.
 
 But the deeper pattern is not new.
 
-You meet a machine.
-
-You stop treating confusion like proof that you do not belong.
-
-You read the real source.
-
-You try things.
-
-You break things.
-
-You fix them.
-
-You keep notes.
-
-You make the next move.
+You meet a machine. You stop treating confusion like proof that you do not
+belong. You read the real source. You try things. You break things. You fix
+them. You keep notes. You make the next move.
 
 That part is not theory to me.
 

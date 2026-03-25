@@ -15,51 +15,33 @@ Press the pedal.
 
 Get the same kind of response every time.
 
-That is how most machines work.
-
-You give an input.
-
-They give a predictable output.
+That is how most machines work. You give an input. They give a predictable
+output.
 
 AI is not like that.
 
 Last chapter, you learned how to pick the right hero, give it backstory, give
-it a mission, and stay in charge.
+it a mission, and stay in charge. That helps a lot.
 
-That helps a lot.
+It still does not make AI behave like a machine with perfect steering. It is
+closer to a horse than a car.
 
-It still does not make AI behave like a machine with perfect steering.
+That does not mean it is alive in the same way a horse is. It means your
+relationship to it is closer to guidance than button pressing.
 
-It is closer to a horse than a car.
+It has tendencies. It fills gaps. It gets carried away. It can be useful,
+responsive, and powerful. It can also start heading somewhere you did not mean
+to go.
 
-That does not mean it is alive in the same way a horse is.
-
-It means your relationship to it is closer to guidance than button pressing.
-
-It has tendencies.
-
-It fills gaps.
-
-It gets carried away.
-
-It can be useful, responsive, and powerful.
-
-It can also start heading somewhere you did not mean to go.
-
-That is why correction is part of the work.
-
-Not because you failed.
-
-Because that is the nature of the tool.
+That is why correction is part of the work. Not because you failed. Because
+that is the nature of the tool.
 
 That is good news, because steering can be learned.
 
 When I say `drift`, I mean the answer starts moving away from your actual goal.
 
 By the end of this chapter, you should be able to spot one example of AI drift
-and redirect it cleanly.
-
-You do not need to rescue the whole conversation.
+and redirect it cleanly. You do not need to rescue the whole conversation.
 
 One clean redirect is enough.
 
@@ -71,20 +53,13 @@ Car thinking sounds like this:
 - `I already told it what I wanted. Why is it changing the task?`
 - `Why is it so confident about something I didn't ask for?`
 
-Those are normal reactions.
-
-Especially if you came in expecting machine behavior.
+Those are normal reactions, especially if you came in expecting machine
+behavior.
 
 With a car, if you turn right, the car does not decide that left is more
-interesting today.
-
-With AI, something closer to that happens all the time.
-
-It keeps generating.
-
-It guesses at missing context.
-
-It tries to be helpful past the edge of what you asked.
+interesting today. With AI, something closer to that happens all the time. It
+keeps generating. It guesses at missing context. It tries to be helpful past
+the edge of what you asked.
 
 Sometimes that produces something great.
 
@@ -93,9 +68,8 @@ Sometimes it produces drift.
 Drift means the AI starts moving away from the goal, level, or answer shape you
 actually asked for.
 
-If you expect car behavior, drift feels like betrayal.
-
-If you expect horse behavior, drift feels like something to notice and guide.
+If you expect car behavior, drift feels like betrayal. If you expect horse
+behavior, drift feels like something to notice and guide.
 
 That is a much calmer and more useful posture.
 
@@ -116,33 +90,25 @@ It has motion.
 
 It has its own tendencies.
 
-You do not control it by assuming it will obey like a machine.
+You do not control it by assuming it will obey like a machine. You learn how to
+guide it.
 
-You learn how to guide it.
+That is the useful part of the metaphor. The practical skill is simple: notice
+drift, name it, and redirect it.
 
-That is the useful part of the metaphor.
+Not that AI is magic. Not that AI is conscious. Not that it deserves
+reverence. Just that using it well requires attention, direction, and
+correction.
 
-The practical skill is simple: notice drift, name it, and redirect it.
-
-Not that AI is magic.
-
-Not that AI is conscious.
-
-Not that it deserves reverence.
-
-Just that using it well requires attention, direction, and correction.
-
-That is why "one perfect prompt" is such a misleading fantasy.
-
-You are not trying to discover the secret button sequence.
+That is why "one perfect prompt" is such a misleading fantasy. You are not
+trying to discover the secret button sequence.
 
 You are trying to get better at steering.
 
 ## What Drift Looks Like
 
-Drift does not always mean total nonsense.
-
-A lot of the time it looks more like this:
+Drift does not always mean total nonsense. A lot of the time it looks more like
+this:
 
 - it answers a bigger question than the one you asked
 - it gets too technical for your level
@@ -152,19 +118,9 @@ A lot of the time it looks more like this:
 
 Drift means the answer has started moving away from your actual goal.
 
-That last one catches a lot of people.
-
-You ask for one small step.
-
-It gives you a whole system.
-
-You ask for a plain explanation.
-
-It gives you a lecture.
-
-You ask for help deciding.
-
-It starts making the decision for you.
+That last one catches a lot of people. You ask for one small step. It gives you
+a whole system. You ask for a plain explanation. It gives you a lecture. You
+ask for help deciding. It starts making the decision for you.
 
 That is drift.
 
@@ -174,9 +130,7 @@ Not proof that AI is worthless.
 
 Just a sign that it needs steering again.
 
-Drift is information.
-
-It tells you what to clarify next.
+Drift is information. It tells you what to clarify next.
 
 ## Watch It Drift
 
@@ -190,29 +144,19 @@ But imagine the answer comes back like this:
 
 `You should start by designing a complete automation system with a folder structure, logging, error handling, and a long-term roadmap for future tools.`
 
-That answer is not random.
-
-It is trying to be helpful.
+That answer is not random. It is trying to be helpful.
 
 It is also drifting.
 
-You did not ask for a complete automation system.
-
-You asked for the next smallest step.
+You did not ask for a complete automation system. You asked for the next
+smallest step.
 
 Here is the correction:
 
 `Too big. I do not want a full system yet. Give me one step I can finish in 15 minutes on my current machine.`
 
-That is good steering.
-
-You named the drift.
-
-You restated the real goal.
-
-You shrank the task.
-
-You told it what shape of answer you wanted.
+That is good steering. You named the drift. You restated the real goal. You
+shrunk the task. You told it what shape of answer you wanted.
 
 That is the skill.
 
@@ -227,9 +171,7 @@ Also a good prompt.
 But now imagine the answer turns into shell history, environment variables, and
 Unix background you did not ask for.
 
-That is a different kind of drift.
-
-Not too big this time.
+That is a different kind of drift. Not too big this time.
 
 Too technical.
 
@@ -237,11 +179,8 @@ Here is the correction:
 
 `Too technical. Explain it like I'm brand new, and only use words you would say out loud to a beginner. Keep it to three short paragraphs and one example.`
 
-Again, notice what you are doing.
-
-You are not giving up.
-
-You are not deciding the tool is broken.
+Again, notice what you are doing. You are not giving up. You are not deciding
+the tool is broken.
 
 You are steering it back toward usefulness.
 
@@ -259,27 +198,19 @@ No.
 
 Correction is part of using it right.
 
-A lot of the time, noticing the miss is the skill.
-
-That is why this chapter matters.
+A lot of the time, noticing the miss is the skill. That is why this chapter
+matters.
 
 If you expect one-shot perfection, you will either get frustrated or start
-believing bad answers too quickly.
+believing bad answers too quickly. And even if you catch the drift a little
+late, that still counts as steering.
 
-And even if you catch the drift a little late, that still counts as steering.
+If you expect guidance to be normal, you stay awake. You stay grounded. And you
+keep your judgment.
 
-If you expect guidance to be normal, you stay awake.
-
-You stay grounded.
-
-And you keep your judgment.
-
-That matters far beyond AI.
-
-It is the same posture you need with tools, plans, advice, and other people.
-
-Learning how to redirect unclear help is part of learning how to direct work in
-general.
+That matters far beyond AI. It is the same posture you need with tools, plans,
+advice, and other people. Learning how to redirect unclear help is part of
+learning how to direct work in general.
 
 Take the help.
 
@@ -287,20 +218,16 @@ Stay in charge.
 
 ## Four Good Redirects
 
-When AI drifts, you do not need a giant theory.
-
-You usually need one of four moves:
+When AI drifts, you do not need a giant theory. You usually need one of four
+moves:
 
 1. Name the problem: `Too broad.` `Too technical.` `That is not the question I asked.`
 2. Restate the real goal: `I want the next smallest step, not the full system.`
 3. Shrink the scope: `Give me one thing I can do in 15 minutes.`
 4. Redirect the answer shape: `Use plain English.` `Compare only these two options.` `Give me one example, not a lecture.`
 
-That is enough to rescue a lot of weak interactions.
-
-It is not the full loop yet.
-
-It is the correction move inside the bigger loop.
+That is enough to rescue a lot of weak interactions. It is not the full loop
+yet. It is the correction move inside the bigger loop.
 
 And the more you practice it, the calmer you get when drift shows up.
 
@@ -314,11 +241,8 @@ Not total nonsense.
 
 Just off.
 
-Maybe it was too big.
-
-Maybe it was too technical.
-
-Maybe it answered the wrong question.
+Maybe it was too big. Maybe it was too technical. Maybe it answered the wrong
+question.
 
 First, name the drift in plain language.
 
@@ -348,21 +272,16 @@ better.
 
 ## What This Opens
 
-Once you stop expecting car behavior, AI gets a lot less confusing.
+Once you stop expecting car behavior, AI gets a lot less confusing. You stop
+waiting for perfect obedience. You start paying attention to direction.
 
-You stop waiting for perfect obedience.
-
-You start paying attention to direction.
-
-That makes you harder to fool and easier to help.
-
-And it makes the whole relationship more productive.
+That makes you harder to fool and easier to help. And it makes the whole
+relationship more productive.
 
 It also makes you more self-directed, because you stop waiting for the tool to
 lead and start learning how to lead the work.
 
 In the next chapter, we are going to turn that posture into a practical loop:
-
 ask, refine, test, repeat.
 
 That is how you stop hoping for one great answer and start building progress on
