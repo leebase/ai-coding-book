@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-03-25 - Sprint 19 Chapter 16 Drafted
+
+Completed Part 5 Chapter 1, `Pick a Direction`, with the full sprint artifact
+set:
+
+- `chapters/briefs/ch-16-pick-a-direction-brief.md`
+- `chapters/reviews/ch-16-pick-a-direction-review.md`
+- `chapters/part-5/ch-16-pick-a-direction.md`
+
+This chapter starts Part 5 by helping the reader step back from the Part 4
+launchpad work and read real signals from what they actually built, fixed, and
+kept. The review pass tightened the evidence-based framing, added a fallback
+for readers with no obvious "most alive" signal yet, kept the AI step optional
+and coach-like, and anchored the chapter's outcome to a kept `direction.md`
+note in the existing launchpad folder so Chapter 17 has a real handoff object.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-5/ch-16-pick-a-direction.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-16-pick-a-direction-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-16-pick-a-direction-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 19 complete
+
+---
+
 ## 2026-03-25 - Sprint 18 Chapter 15 Drafted
 
 Completed Part 4 Chapter 4, `Ship a Small Win`, with the full sprint artifact
