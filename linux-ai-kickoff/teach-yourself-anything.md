@@ -1305,6 +1305,21 @@ You just need a few reliable ways in.
 
 That is enough to begin.
 
+## If You Are Not On Omarchy
+
+This chapter uses Omarchy as the concrete machine.
+
+If that is not the machine in front of you, keep the method and translate the
+surface.
+
+The keys and menus may differ.
+
+The real skill does not.
+
+Use the appendix, `Translate This Book To Your Machine`, to get AI to map each
+Omarchy-specific step to Windows, macOS, or another Linux setup one move at a
+time.
+
 ## Strange Does Not Mean Wrong
 
 Part of what makes Omarchy feel unusual at first is that it is built around the
@@ -1364,8 +1379,12 @@ Open it with:
 
 `Super + Space`
 
-If you are new to this language, `Super` usually means the key that feels like
-the Windows key on many keyboards.
+If you are new to this language, `Super` usually means the key that plays the
+role of the Windows key on many keyboards.
+
+Learn that once here.
+
+From this point on, when the book says `Super`, that is the key it means.
 
 Do not worry about memorizing everything else yet.
 
@@ -1849,9 +1868,6 @@ The Omarchy manual's `Terminal` section says you open a terminal with:
 
 `Super + Return`
 
-If `Super` is unfamiliar, it usually means the key that feels like the Windows
-key on many keyboards.
-
 That is your first move.
 
 Open one.
@@ -2274,9 +2290,6 @@ with:
 and the terminal opens with:
 
 `Super + Return`
-
-If `Super` is unfamiliar, it usually means the key that feels like the Windows
-key on many keyboards.
 
 Open both.
 
@@ -3831,6 +3844,13 @@ That is what this chapter is for.
 By the end of it, you should have one launchpad folder for one real goal, plus
 one plain-language mission note inside it.
 
+And here is an important rule for the rest of the book:
+
+if you have to choose between finishing the next chapter and doing the next
+mission, do the mission.
+
+The book will still be here when you get back.
+
 ## Why A Launchpad Matters
 
 Most people who want to change their life keep everything in their head.
@@ -4781,6 +4801,8 @@ Examples of good small wins:
 - a `homepage-copy.md` file with the first words for a portfolio page
 - a `task-breakdown.md` file describing the exact repeated task you want to automate
 - a `topic-outline.md` file with the first useful structure for a notes system
+- a `household-schedule.md` file with the three most important tasks for tomorrow
+- a `troubleshooting-log.md` file that records how you fixed something in the house so you can do it faster next time
 
 That is enough.
 
@@ -4889,6 +4911,9 @@ If you wrote the first useful version of your homepage copy, keep it.
 If you described the repeated task clearly enough to automate later, keep it.
 
 If you made the first outline you can build from, keep it.
+
+If you made tomorrow's household schedule clearer or captured one real fix you
+do not want to forget, keep that too.
 
 Kept beats perfect.
 
@@ -6196,6 +6221,48 @@ Not because it is flashy.
 
 Because it works.
 
+## I Was Not Handed A Map Either
+
+One reason I believe this so strongly is that I was not handed a clean path
+myself.
+
+I was that kid too.
+
+I learned on an Apple IIe.
+
+No polished roadmap.
+
+No infinite pool of helpers.
+
+Just curiosity, manuals, trial and error, and a machine that slowly stopped
+feeling like magic once I stayed with it long enough.
+
+The tools are better now.
+
+In some ways, much better.
+
+But the deeper pattern is not new.
+
+You meet a machine.
+
+You stop treating confusion like proof that you do not belong.
+
+You read the real source.
+
+You try things.
+
+You break things.
+
+You fix them.
+
+You keep notes.
+
+You make the next move.
+
+That part is not theory to me.
+
+It is autobiography.
+
 ## Last Thing
 
 Some of what made you feel stuck may have been real.
@@ -6213,3 +6280,125 @@ You also needed a way to make the next move.
 Now you have something better than a map.
 
 You have practice making one.
+
+---
+
+# Appendix: Translate This Book To Your Machine
+
+This book uses Omarchy as the concrete machine because concrete is easier to
+learn from than abstract.
+
+That is a strength.
+
+It is also a limit.
+
+If you are on Windows, macOS, or a different Linux setup, do not throw the
+book out.
+
+Keep the method.
+
+Translate the surface.
+
+The keys, app names, menus, and defaults may change.
+
+The real pattern does not:
+
+1. find the right tool
+2. read the real docs
+3. ask AI to clarify the exact step
+4. try one small thing
+5. observe what happened
+
+That is what matters.
+
+## When To Use This Appendix
+
+Use this appendix any time a chapter gives Omarchy-specific instructions that
+do not match your machine.
+
+Examples:
+
+- a hotkey does nothing
+- an app name is different
+- a menu path is not present
+- a command exists on Omarchy but not on your system
+
+Do not ask AI for "the Windows version of the whole book."
+
+Ask it to translate one exact move at a time.
+
+That keeps the answer grounded.
+
+## The Prompt
+
+Paste this into your AI tool and fill in the brackets:
+
+`Be a patient system translator. I am reading Teach Yourself Anything. Translate the following Omarchy-specific instructions to my machine without changing the goal. My system: [Windows / macOS / Ubuntu / Fedora / other]. My skill level: beginner. Chapter excerpt: [paste the exact lines from the book]. For your answer: 1. Name the closest equivalent app, shortcut, menu, or command on my system. 2. Give me the smallest exact steps to do it. 3. Tell me what success should look like. 4. Tell me what to do if that tool or shortcut is missing. 5. Point me to the official docs or manual I should read next. Keep it practical, plain English, and one beginner step at a time.` 
+
+That prompt matters because it keeps AI in translation mode instead of
+hallucination mode.
+
+You are not asking it to invent a world.
+
+You are asking it to map one real instruction onto your real machine.
+
+## How To Use The Answer Well
+
+Do this in order:
+
+1. paste the exact book excerpt, not a fuzzy summary
+2. tell AI your actual machine and version if you know it
+3. read the translation
+4. check the official docs it points you to
+5. try the smallest step on the real machine
+
+If the answer looks too big, tell AI to shrink it.
+
+Try:
+
+`Make that smaller. Give me only the first safe step and what I should expect to see.`
+
+That is usually enough to get moving again.
+
+## What To Read Instead Of The Omarchy Manual
+
+If you are not on Omarchy, you still need a source of truth.
+
+That might be:
+
+- the official Windows help docs
+- Apple's macOS user guide or Terminal guide
+- your Linux distro docs
+- the docs for the exact terminal, editor, or shell tool you are using
+
+The rule stays the same:
+
+manual first, AI second.
+
+Not because AI is bad.
+
+Because AI gets much better when it has something real to stand on.
+
+## One Example Of The Pattern
+
+Suppose the book says:
+
+`Open the launcher with Super + Space.`
+
+If you are on another system, do not ask:
+
+`What is the Mac version of Omarchy?`
+
+Ask:
+
+`Translate "Open the launcher with Super + Space" for macOS. I am a beginner. Tell me the closest equivalent, the exact first step, what success looks like, and the official docs I should read next.`
+
+That is a good question.
+
+It is small.
+
+It has a visible outcome.
+
+And it keeps the real subject of the book intact:
+
+learning how to figure things out on purpose.

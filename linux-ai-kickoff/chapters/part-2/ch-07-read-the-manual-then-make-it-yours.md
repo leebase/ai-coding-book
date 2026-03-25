@@ -73,9 +73,6 @@ and the terminal opens with:
 
 `Super + Return`
 
-If `Super` is unfamiliar, it usually means the key that feels like the Windows
-key on many keyboards.
-
 Open both.
 
 Put them side by side.

@@ -27,6 +27,13 @@ That is what this chapter is for.
 By the end of it, you should have one launchpad folder for one real goal, plus
 one plain-language mission note inside it.
 
+And here is an important rule for the rest of the book:
+
+if you have to choose between finishing the next chapter and doing the next
+mission, do the mission.
+
+The book will still be here when you get back.
+
 ## Why A Launchpad Matters
 
 Most people who want to change their life keep everything in their head.

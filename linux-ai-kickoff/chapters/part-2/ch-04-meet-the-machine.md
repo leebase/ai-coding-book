@@ -27,6 +27,21 @@ You just need a few reliable ways in.
 
 That is enough to begin.
 
+## If You Are Not On Omarchy
+
+This chapter uses Omarchy as the concrete machine.
+
+If that is not the machine in front of you, keep the method and translate the
+surface.
+
+The keys and menus may differ.
+
+The real skill does not.
+
+Use the appendix, `Translate This Book To Your Machine`, to get AI to map each
+Omarchy-specific step to Windows, macOS, or another Linux setup one move at a
+time.
+
 ## Strange Does Not Mean Wrong
 
 Part of what makes Omarchy feel unusual at first is that it is built around the
@@ -86,8 +101,12 @@ Open it with:
 
 `Super + Space`
 
-If you are new to this language, `Super` usually means the key that feels like
-the Windows key on many keyboards.
+If you are new to this language, `Super` usually means the key that plays the
+role of the Windows key on many keyboards.
+
+Learn that once here.
+
+From this point on, when the book says `Super`, that is the key it means.
 
 Do not worry about memorizing everything else yet.
 

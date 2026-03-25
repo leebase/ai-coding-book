@@ -43,6 +43,7 @@
 | Sprint 23 - Full continuity pass | Complete | 100% |
 | Sprint 24 - Technical accuracy and source pass | Complete | 100% |
 | Sprint 25 - Copyedit and voice pass | Complete | 100% |
+| Post-production review follow-up | Complete | 100% |
 
 ---
 
@@ -66,6 +67,13 @@ place, with `TeachYourselfAnything.png` embedded as the cover in all three
 publication formats. The PDF path uses a PDF-specific raw LaTeX cover page so
 the cover leads the document correctly.
 
+The first external review has now been applied as a targeted polish pass. Part
+2 now explains `Super` once and trusts the reader after that, Chapter 4 now
+points non-Omarchy readers to a new appendix for machine translation, Chapter
+12 explicitly tells the reader to do the mission instead of just finishing the
+book if they have to choose, Chapter 15 has more hands-on real-life examples,
+and the conclusion now names the Apple IIe origin story directly.
+
 The current focus is human review of both the manuscript and the exported
 artifacts and, after approval, merge.
 
@@ -84,6 +92,7 @@ artifacts and, after approval, merge.
 | Working manuscript shape: 19 files | Enough room for transformation without turning into a reference tome | 2026-03-22 |
 | Part 4 project thread: personal launchpad | Keeps the practical work real, small, and broadly accessible | 2026-03-22 |
 | Local export pipeline lives in `linux-ai-kickoff/` | Keeps this book's build path self-contained and dependency-light | 2026-03-25 |
+| External review follow-up should be targeted, not a rewrite | Preserve the book's strengths while taking obvious polish wins | 2026-03-25 |
 
 ---
 
@@ -103,8 +112,8 @@ artifacts and, after approval, merge.
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
 | 1 | Human review of the exported EPUB, DOCX, and PDF | Lee | Artifacts feel publication-ready |
-| 2 | Human review of the working branch | Lee | Approval path is clear before merge |
-| 3 | Decide whether any chapter titles need final tightening | Lee + AI | Titles feel publication-ready |
+| 2 | Decide whether the new appendix and conclusion note are exactly right | Lee + AI | Cross-platform and autobiographical framing feel final |
+| 3 | Human review of the working branch | Lee | Approval path is clear before merge |
 | 4 | Revisit the subtitle against the finished manuscript | Lee + AI | Subtitle matches the actual tone of the book |
 | 5 | Merge `codex/teach-yourself-anything` after approval | Lee + AI | Finished manuscript lands on the main line cleanly |
 
@@ -123,6 +132,7 @@ artifacts and, after approval, merge.
 | `build-*.py` | Local publication/export scripts | Done |
 | `teach-yourself-anything.md` | Assembled manuscript | Done |
 | `teach-yourself-anything.epub/.docx/.pdf` | Built export artifacts | Done |
+| `chapters/appendices/` | Cross-platform support appendix | Done |
 | `context.md` | This file | Done |
 | `sprint-plan.md` | Tactical execution | Done |
 | `result-review.md` | Running log of completed setup work | Done |

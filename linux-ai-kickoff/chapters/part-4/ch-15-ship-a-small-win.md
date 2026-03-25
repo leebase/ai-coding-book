@@ -90,6 +90,8 @@ Examples of good small wins:
 - a `homepage-copy.md` file with the first words for a portfolio page
 - a `task-breakdown.md` file describing the exact repeated task you want to automate
 - a `topic-outline.md` file with the first useful structure for a notes system
+- a `household-schedule.md` file with the three most important tasks for tomorrow
+- a `troubleshooting-log.md` file that records how you fixed something in the house so you can do it faster next time
 
 That is enough.
 
@@ -198,6 +200,9 @@ If you wrote the first useful version of your homepage copy, keep it.
 If you described the repeated task clearly enough to automate later, keep it.
 
 If you made the first outline you can build from, keep it.
+
+If you made tomorrow's household schedule clearer or captured one real fix you
+do not want to forget, keep that too.
 
 Kept beats perfect.
 

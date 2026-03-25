@@ -205,6 +205,48 @@ Not because it is flashy.
 
 Because it works.
 
+## I Was Not Handed A Map Either
+
+One reason I believe this so strongly is that I was not handed a clean path
+myself.
+
+I was that kid too.
+
+I learned on an Apple IIe.
+
+No polished roadmap.
+
+No infinite pool of helpers.
+
+Just curiosity, manuals, trial and error, and a machine that slowly stopped
+feeling like magic once I stayed with it long enough.
+
+The tools are better now.
+
+In some ways, much better.
+
+But the deeper pattern is not new.
+
+You meet a machine.
+
+You stop treating confusion like proof that you do not belong.
+
+You read the real source.
+
+You try things.
+
+You break things.
+
+You fix them.
+
+You keep notes.
+
+You make the next move.
+
+That part is not theory to me.
+
+It is autobiography.
+
 ## Last Thing
 
 Some of what made you feel stuck may have been real.

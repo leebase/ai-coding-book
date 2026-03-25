@@ -39,9 +39,6 @@ The Omarchy manual's `Terminal` section says you open a terminal with:
 
 `Super + Return`
 
-If `Super` is unfamiliar, it usually means the key that feels like the Windows
-key on many keyboards.
-
 That is your first move.
 
 Open one.

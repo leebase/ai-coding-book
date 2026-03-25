@@ -4,6 +4,61 @@
 
 ---
 
+## 2026-03-25 - Review Polish Pass Applied And Outputs Rebuilt
+
+Applied the first external review as a targeted polish pass instead of a
+rewrite. The main changes were:
+
+- consolidating the `Super` explanation into Chapter 4
+- adding a new appendix,
+  `chapters/appendices/appendix-translate-this-book-to-your-machine.md`, so
+  non-Omarchy readers can translate one concrete step at a time with AI
+- pointing Chapter 4 to that appendix at the start of Part 2
+- adding an explicit "do the mission over finishing the next chapter" rule in
+  Chapter 12
+- strengthening the conclusion with a short Apple IIe autobiographical note
+- widening Chapter 15's kept-artifact examples to include household and
+  troubleshooting use cases
+
+After those source edits, rebuilt:
+
+- `teach-yourself-anything.md`
+- `teach-yourself-anything.epub`
+- `teach-yourself-anything.docx`
+- `teach-yourself-anything.pdf`
+
+### How to Verify
+
+1. Confirm the source edits exist:
+
+```bash
+rg -n "Translate This Book To Your Machine|Apple IIe|household-schedule|troubleshooting-log" \
+  linux-ai-kickoff/chapters \
+  linux-ai-kickoff/teach-yourself-anything.md
+```
+
+2. Confirm Part 2 now explains `Super` once and then trusts it:
+
+```bash
+rg -n "From this point on, when the book says `Super`|If .*Super" \
+  linux-ai-kickoff/chapters/part-2
+```
+
+3. Confirm the appendix made it into the EPUB nav:
+
+```bash
+unzip -p linux-ai-kickoff/teach-yourself-anything.epub EPUB/nav.xhtml | rg "Appendix: Translate This Book To Your Machine"
+```
+
+4. Confirm the rebuilt DOCX contains the new review-driven strings:
+
+```bash
+unzip -p linux-ai-kickoff/teach-yourself-anything.docx word/document.xml | \
+  rg "Appendix: Translate This Book To Your Machine|household-schedule|Apple IIe"
+```
+
+---
+
 ## 2026-03-25 - Export Pipeline And Renamed Book Artifacts Built
 
 Built a local publication/export pipeline for `Teach Yourself Anything` inside

@@ -99,6 +99,10 @@ SECTION_SPECS = [
         path=BOOK_DIR / "chapters/part-5/ch-18-keep-going-without-permission.md",
     ),
     SectionSpec(title="You Can Keep Going", path=BOOK_DIR / "chapters/conclusion.md"),
+    SectionSpec(
+        title="Appendix: Translate This Book To Your Machine",
+        path=BOOK_DIR / "chapters/appendices/appendix-translate-this-book-to-your-machine.md",
+    ),
 ]
 
 

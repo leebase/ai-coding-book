@@ -48,6 +48,46 @@ Use a **local manuscript assembly + format-specific export pipeline** inside
 
 ---
 
+## 2026-03-25 - Review Polish Follow-Up Locked
+
+### Decision
+
+Apply the first external review as a **targeted polish pass**, not a rewrite.
+
+The accepted changes are:
+
+- explain `Super` once in Chapter 4, then trust the reader afterward
+- add a platform-translation appendix for Windows, macOS, and other Linux
+  setups
+- point non-Omarchy readers to that appendix at the start of Part 2
+- give Part 4 one explicit "do the mission over finishing the book" line
+- make the conclusion more personal by naming the Apple IIe origin story
+- widen Chapter 15's examples to include hands-on household use cases
+
+### Rationale
+
+- The review mostly validated the book's existing structure and voice.
+- The highest-value improvements were all small but real reader-friction fixes.
+- These changes preserve the manuscript's shape while making it more flexible,
+  grounded, and personal.
+
+### Alternatives Rejected
+
+- Treating the review as grounds for another large rewrite pass: too much churn
+  for too little gain.
+- Ignoring the review because the book already works: would leave a few
+  obvious polish wins on the table.
+
+### Consequences
+
+- The core manuscript remains the same book, just sharper in a few places.
+- The book now has a portable appendix that protects the broader thesis from
+  being trapped inside Omarchy-specific keys.
+- The conclusion now makes the author's own path explicit instead of only
+  implied.
+
+---
+
 ## 2026-03-22 - Book Architecture Locked
 
 ### Decision
@@ -145,6 +185,12 @@ Organize the body into five parts:
 | File | Working Title | Purpose | Visible Outcome |
 |------|---------------|---------|-----------------|
 | `chapters/conclusion.md` | You Can Keep Going | Restate the thesis and point outward | Reader leaves with a durable sense of ownership |
+
+### Appendix
+
+| File | Working Title | Purpose | Visible Outcome |
+|------|---------------|---------|-----------------|
+| `chapters/appendices/appendix-translate-this-book-to-your-machine.md` | Translate This Book To Your Machine | Help non-Omarchy readers translate the method to their own system | Reader has a reusable AI prompt for translating one concrete step at a time |
 
 ---
 
