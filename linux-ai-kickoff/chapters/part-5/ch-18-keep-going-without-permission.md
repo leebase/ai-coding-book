@@ -33,8 +33,8 @@ It means you stop waiting for:
 before you do the next real piece of work.
 
 By the end of this chapter, you should have a `next-three-moves.md` file in the
-same launchpad folder, with three concrete moves in order and Move 1 either
-started now or scheduled.
+same launchpad goal folder, with three concrete moves in order and Move 1
+either started now or scheduled.
 
 ## Do Not Rebuild The Whole Future
 

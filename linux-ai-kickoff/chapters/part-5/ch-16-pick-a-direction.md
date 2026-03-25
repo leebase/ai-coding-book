@@ -231,9 +231,9 @@ you did the work of this chapter.
 
 ## What This Opens
 
-Now you do not just have proof that you can do things.
+Proof is good.
 
-You have the beginning of a map.
+The beginning of a map is better.
 
 In the next chapter, we are going to build that map into a simple curriculum of
 missions, docs, and tools you can keep using on your own.

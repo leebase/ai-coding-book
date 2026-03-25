@@ -506,17 +506,17 @@ good chapters.
 
 ---
 
-## Sprint 25 - Copyedit and Voice Pass
+## Sprint 25 - Copyedit and Voice Pass (COMPLETE)
 
 **Goal:** Tighten the writing while preserving Lee voice and reader dignity.
 
 | Task | Status |
 |------|--------|
-| Remove repetition | Not started |
-| Tighten transitions | Not started |
-| Strengthen weak endings | Not started |
-| Check against `lee-voice.md` | Not started |
-| Confirm tone remains direct and human | Not started |
+| Remove repetition | Done |
+| Tighten transitions | Done |
+| Strengthen weak endings | Done |
+| Check against `lee-voice.md` | Done |
+| Confirm tone remains direct and human | Done |
 
 **Done when:** The manuscript feels clean, intentional, and alive.
 

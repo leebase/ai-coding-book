@@ -67,9 +67,7 @@ Some people still talk like the future belongs to the machine.
 
 I do not believe that.
 
-The future does not belong to AI.
-
-It belongs to humans who learn to use AI effectively.
+I think it belongs to people who learn how to use AI well.
 
 That line matters even more at the end of the book than it did at the
 beginning.

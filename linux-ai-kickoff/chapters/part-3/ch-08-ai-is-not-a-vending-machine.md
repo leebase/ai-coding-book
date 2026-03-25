@@ -263,7 +263,7 @@ It is not where you throw a wish and hope for a prize.
 It is a tool that becomes much more useful when you give it context, limits,
 and a job.
 
-That is where we are headed next.
+You can now turn a vague ask into a more usable question.
 
 The next chapter will make that more explicit by teaching you how to pick the
 right kind of helper for the job instead of just asking the void.

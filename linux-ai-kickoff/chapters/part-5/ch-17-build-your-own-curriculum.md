@@ -29,8 +29,8 @@ Now we are going to answer the next question:
 what should I do next so that direction becomes real?
 
 By the end of this chapter, you should have one small `curriculum.md` file in
-the same launchpad folder with a few missions, a few docs, and a few tools you
-can keep using.
+the same launchpad goal folder with a few missions, a few docs, and a few
+tools you can keep using.
 
 ## A Curriculum Is Just A Path You Can Follow
 
@@ -115,7 +115,7 @@ For this book, I want you to build your curriculum from three kinds of things:
 2. docs
 3. tools
 
-That is enough.
+Three buckets are plenty.
 
 Here is the plain-English version:
 
@@ -282,7 +282,7 @@ Use this shape:
 [the first mission you will do next]
 ```
 
-That is enough.
+You do not need more structure than that.
 
 A small curriculum you use is worth much more than a brilliant one you never
 touch.
@@ -400,7 +400,7 @@ They do not try to make you "job-ready" by next month.
 
 They give you a runway.
 
-That is enough.
+That gives you room to move.
 
 ## Let The Curriculum Change
 
@@ -449,9 +449,9 @@ The curriculum matters most once it turns into motion.
 
 ## What This Opens
 
-Now you do not just have a direction.
+A direction is good.
 
-You have a way to keep going.
+A usable path is better.
 
 In the next chapter, we are going to make that even more direct by talking
 about how to keep moving without waiting for permission from a class, a boss,

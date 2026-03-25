@@ -4,6 +4,29 @@
 
 ---
 
+## 2026-03-25 - Sprint 25 Copyedit and Voice Pass Applied
+
+Ran the final polish pass across the manuscript. This pass focused on the
+highest-value remaining soft spots after continuity and source truth were
+already handled: repeated cadences, a few weak chapter endings, a couple of
+slightly fuzzy artifact references, and the last places where the book's voice
+was more patterned than invisible.
+
+The main changes were tying Chapter 12 more explicitly back to the Part 1
+`starter note`, tightening Chapter 17 and Chapter 18 to the same launchpad
+goal folder wording, sharpening the endings of Chapter 5 and Chapter 8, varying
+the Part 5 closing cadence, and softening the conclusion's repeated thesis
+wording so the close lands more like ownership than slogan.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/reviews/copyedit-and-voice-pass-review.md`
+2. Read `linux-ai-kickoff/chapters/part-4/ch-12-build-your-launchpad.md`, `linux-ai-kickoff/chapters/part-5/ch-17-build-your-own-curriculum.md`, and `linux-ai-kickoff/chapters/part-5/ch-18-keep-going-without-permission.md` and confirm the artifact wording is fully aligned
+3. Read `linux-ai-kickoff/chapters/part-2/ch-05-move-through-it.md`, `linux-ai-kickoff/chapters/part-3/ch-08-ai-is-not-a-vending-machine.md`, and `linux-ai-kickoff/chapters/conclusion.md` and confirm the closing lines are tighter
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 25 complete
+
+---
+
 ## 2026-03-25 - Sprint 24 Technical Accuracy and Source Pass Applied
 
 Ran a source-truth pass on the Omarchy-dependent material and re-checked the

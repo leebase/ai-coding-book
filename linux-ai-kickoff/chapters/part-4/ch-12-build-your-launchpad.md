@@ -66,6 +66,10 @@ Pick one.
 
 Something real enough that you would like your machine to help you move on it.
 
+If the `starter note` from Part 1 still feels true, use that same door here.
+
+You are giving it a home now, not starting your life over.
+
 Examples:
 
 - build a tiny portfolio site

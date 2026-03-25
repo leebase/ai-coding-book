@@ -222,6 +222,8 @@ last chapter.
 
 That is progress.
 
+You can now move through the machine without losing yourself every two minutes.
+
 And it matters because the next chapter brings in the terminal more directly.
 
 It is much easier to meet the terminal when the rest of the system no longer
