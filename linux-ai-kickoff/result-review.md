@@ -4,6 +4,32 @@
 
 ---
 
+## 2026-03-25 - Sprint 16 Chapter 13 Drafted
+
+Completed Part 4 Chapter 2, `Make One Useful Tool`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-13-make-one-useful-tool-brief.md`
+- `chapters/reviews/ch-13-make-one-useful-tool-review.md`
+- `chapters/part-4/ch-13-make-one-useful-tool.md`
+
+This chapter turns the launchpad into leverage with one tiny helper the reader
+can actually reuse. It keeps the same goal folder and `mission.md` from Chapter
+12, uses the Omarchy manual before AI clarification, and builds a small sourced
+helper that drops the reader into the goal folder and prints the mission note.
+The review pass also fixed the shell-behavior mismatch between `bash` and
+`source`, added a concrete edit/save path, and made the failure path more real
+for beginners.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-4/ch-13-make-one-useful-tool.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-13-make-one-useful-tool-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-13-make-one-useful-tool-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 16 complete
+
+---
+
 ## 2026-03-25 - Sprint 15 Chapter 12 Drafted
 
 Completed Part 4 Chapter 1, `Build Your Launchpad`, with the full sprint

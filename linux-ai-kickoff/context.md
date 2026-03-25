@@ -33,18 +33,19 @@
 | Sprint 13 - Part 3 Chapter 3 | Complete | 100% |
 | Sprint 14 - Part 3 Chapter 4 | Complete | 100% |
 | Sprint 15 - Part 4 Chapter 1 | Complete | 100% |
-| Sprint 16 - Part 4 Chapter 2 | Not started | 0% |
+| Sprint 16 - Part 4 Chapter 2 | Complete | 100% |
+| Sprint 17 - Part 4 Chapter 3 | Not started | 0% |
 
 ---
 
 ## What's Happening Now
 
 This book has moved well past concept setup and into sustained drafting. Part 1
-and Part 2 are complete, Part 3 is complete, and Part 4 has now started with a
-real kept artifact: the launchpad folder and mission note.
+and Part 2 are complete, Part 3 is complete, and Part 4 now has two kept
+artifacts: the launchpad itself and one small helper the reader can reuse.
 
-The current focus is to start Sprint 16 and turn that launchpad into leverage
-with one useful helper the reader actually uses.
+The current focus is to start Sprint 17 and teach recovery through one real
+break or friction point inside that same launchpad workspace.
 
 ---
 
@@ -69,8 +70,8 @@ with one useful helper the reader actually uses.
 2. Do any of the working chapter titles need stronger wording before publication?
 3. Do any of the Part 3 chapter titles need stronger wording before the part is
    refined as a whole?
-4. What is the cleanest first helper tool for Chapter 13: alias, shell script,
-   or another tiny utility?
+4. What is the cleanest real break for Chapter 14: a wrong path, missing file,
+   or another small friction point inside the launchpad?
 
 ---
 
@@ -78,8 +79,8 @@ with one useful helper the reader actually uses.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Lock the Chapter 13 helper-tool example | AI | Sprint 16 starts with a clear practical scope |
-| 2 | Draft Part 4 Chapter 2 brief | AI | Sprint 16 starts with a clear mission and outline |
+| 1 | Lock the Chapter 14 break/fix example | AI | Sprint 17 starts with a clear practical scope |
+| 2 | Draft Part 4 Chapter 3 brief | AI | Sprint 17 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after more of Part 4 exists | Lee + AI | Subtitle matches the actual tone of the manuscript |
 

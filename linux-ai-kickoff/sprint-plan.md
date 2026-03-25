@@ -358,18 +358,18 @@ oracle.
 
 ---
 
-## Sprint 16 - Part 4 Chapter 2
+## Sprint 16 - Part 4 Chapter 2 (COMPLETE)
 
 **Goal:** Build the second mission on top of the first without losing
 confidence.
 
 | Task | Status |
 |------|--------|
-| Define mission escalation | Not started |
-| Draft chapter | Not started |
-| Check visible outcome and difficulty ramp | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
+| Define mission escalation | Done |
+| Draft chapter | Done |
+| Check visible outcome and difficulty ramp | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader feels challenged, but not buried.
 
