@@ -244,17 +244,17 @@ daily use.
 
 ---
 
-## Sprint 9 - Part 2 Chapter 3
+## Sprint 9 - Part 2 Chapter 3 (COMPLETE)
 
 **Goal:** Teach terminal and file-navigation basics in service of real agency.
 
 | Task | Status |
 |------|--------|
-| Identify core command set | Not started |
-| Draft chapter | Not started |
-| Ensure commands are framed by purpose | Not started |
-| Run command-safety and friction reviews | Not started |
-| Revise chapter | Not started |
+| Identify core command set | Done |
+| Draft chapter | Done |
+| Ensure commands are framed by purpose | Done |
+| Run command-safety and friction reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The terminal feels like a tool the reader can approach, not a
 wall.

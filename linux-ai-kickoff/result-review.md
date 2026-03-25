@@ -4,6 +4,32 @@
 
 ---
 
+## 2026-03-25 - Sprint 9 Chapter 6 Drafted
+
+Completed Part 2 Chapter 3, `The Terminal Is Not a Wall`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-06-the-terminal-is-not-a-wall-brief.md`
+- `chapters/reviews/ch-06-the-terminal-is-not-a-wall-review.md`
+- `chapters/part-2/ch-06-the-terminal-is-not-a-wall.md`
+
+This chapter is grounded in the Omarchy manual's `Terminal`, `Shell Tools`,
+and `Shell Functions` sections. It keeps the command set deliberately small and
+safe: open the terminal, ask where you are, see what is there, move on purpose,
+and reuse a prior command without memorizing it. The review pass also tightened
+the beginner experience by defining `Super`, adding a fallback open path,
+explaining what the prompt looks like, and making the `Ctrl + R` interaction
+fully followable.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-2/ch-06-the-terminal-is-not-a-wall.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-06-the-terminal-is-not-a-wall-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-06-the-terminal-is-not-a-wall-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 9 complete
+
+---
+
 ## 2026-03-25 - Sprint 8 Chapter 5 Drafted
 
 Completed Part 2 Chapter 2, `Move Through It`, with the full sprint artifact

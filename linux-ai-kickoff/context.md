@@ -11,7 +11,7 @@
 | **Title** | Teach Yourself Anything |
 | **Phase** | Drafting |
 | **Mode** | 2 (Collaborative) |
-| **Last Updated** | 2026-03-22 |
+| **Last Updated** | 2026-03-25 |
 
 ### Sprint Status
 
@@ -26,7 +26,8 @@
 | Sprint 6 - Part 1 Chapter 3 | Complete | 100% |
 | Sprint 7 - Part 2 Chapter 1 | Complete | 100% |
 | Sprint 8 - Part 2 Chapter 2 | Complete | 100% |
-| Sprint 9 - Part 2 Chapter 3 | Not started | 0% |
+| Sprint 9 - Part 2 Chapter 3 | Complete | 100% |
+| Sprint 10 - Part 2 Chapter 4 | Not started | 0% |
 
 ---
 
@@ -38,8 +39,9 @@ custom agents exist, the sprint plan now covers the full production of the
 book from architecture through publication QA, and the architecture file now
 locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to start Sprint 9 and bring the reader into the terminal
-from a stronger base of orientation, movement, and system confidence.
+The current focus is to start Sprint 10 and teach the manual-first loop more
+directly now that the reader can open the terminal, orient themselves, and
+move with basic confidence.
 
 ---
 
@@ -62,8 +64,9 @@ from a stronger base of orientation, movement, and system confidence.
 
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
-3. Which exact terminal actions should be foregrounded first in Chapter 6?
-4. How much shell detail can Chapter 6 carry before it stops feeling welcoming?
+3. What is the strongest Chapter 7 example flow for the read-docs -> ask-AI ->
+   try-it loop?
+4. How explicit should the AI role be in Chapter 7 before Part 3 begins?
 
 ---
 
@@ -71,8 +74,8 @@ from a stronger base of orientation, movement, and system confidence.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Map the exact Omarchy-manual anchors for Chapter 6 | AI | Sprint 9 starts from primary sources |
-| 2 | Draft Part 2 Chapter 3 brief | AI | Sprint 9 starts with a clear mission and outline |
+| 1 | Map the exact Omarchy-manual example flow for Chapter 7 | AI | Sprint 10 starts from primary sources |
+| 2 | Draft Part 2 Chapter 4 brief | AI | Sprint 10 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after Part 2 has more prose | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
