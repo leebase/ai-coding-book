@@ -426,17 +426,17 @@ one correct path.
 
 ---
 
-## Sprint 20 - Part 5 Chapter 2
+## Sprint 20 - Part 5 Chapter 2 (COMPLETE)
 
 **Goal:** Teach the reader how to keep building their own learning path.
 
 | Task | Status |
 |------|--------|
-| Draft chapter | Not started |
-| Show how to choose the next mission | Not started |
-| Show how manuals and AI keep working beyond the book | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
+| Draft chapter | Done |
+| Show how to choose the next mission | Done |
+| Show how manuals and AI keep working beyond the book | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader has a usable model for continuing on their own.
 

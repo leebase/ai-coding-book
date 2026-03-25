@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-03-25 - Sprint 20 Chapter 17 Drafted
+
+Completed Part 5 Chapter 2, `Build Your Own Curriculum`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-17-build-your-own-curriculum-brief.md`
+- `chapters/reviews/ch-17-build-your-own-curriculum-review.md`
+- `chapters/part-5/ch-17-build-your-own-curriculum.md`
+
+This chapter turns the reader's `direction.md` note into a kept
+`curriculum.md` roadmap inside the same launchpad folder. The review pass
+tightened the chapter so "curriculum" stays small and usable instead of
+school-like, required each mission to point to a supporting doc, tool, and
+done signal, widened the examples beyond tech-only paths, and ended with a
+real start-now nudge so the chapter lands on motion instead of planning.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-5/ch-17-build-your-own-curriculum.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-17-build-your-own-curriculum-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-17-build-your-own-curriculum-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 20 complete
+
+---
+
 ## 2026-03-25 - Sprint 19 Chapter 16 Drafted
 
 Completed Part 5 Chapter 1, `Pick a Direction`, with the full sprint artifact
