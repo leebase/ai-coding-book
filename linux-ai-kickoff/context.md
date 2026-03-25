@@ -30,21 +30,20 @@
 | Sprint 10 - Part 2 Chapter 4 | Complete | 100% |
 | Sprint 11 - Part 3 Chapter 1 | Complete | 100% |
 | Sprint 12 - Part 3 Chapter 2 | Complete | 100% |
-| Sprint 13 - Part 3 Chapter 3 | Not started | 0% |
+| Sprint 13 - Part 3 Chapter 3 | Complete | 100% |
+| Sprint 14 - Part 3 Chapter 4 | Not started | 0% |
 
 ---
 
 ## What's Happening Now
 
-This book has now moved from loose concept notes into a structured workspace.
-The title is `Teach Yourself Anything`, the core thesis is locked, the first
-custom agents exist, the sprint plan now covers the full production of the
-book from architecture through publication QA, and the architecture file now
-locks the working manuscript shape, chapter map, and Part 4 project thread.
+This book has moved well past concept setup and into sustained drafting. Part 1
+and Part 2 are complete, and Part 3 now has its first three chapters drafted:
+AI is not a vending machine, pick the right hero, and the horse-not-car model.
 
-The current focus is to start Sprint 13 and teach the Horse-Not-Car model now
-that the reader understands how to choose a helper, provide context, assign a
-mission, and stay in charge.
+The current focus is to start Sprint 14 and turn those Part 3 mental models
+into the practical loop of ask, refine, test, and repeat without collapsing
+the chapter into generic debugging advice.
 
 ---
 
@@ -67,10 +66,10 @@ mission, and stay in charge.
 
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
-3. How literal should the horse metaphor be in Chapter 10 before it starts to
-   feel too clever?
-4. Which drift examples best show guidance and correction without turning into
-   a bug-hunt chapter?
+3. Do any of the Part 3 chapter titles need stronger wording before the part is
+   fully drafted?
+4. Which Chapter 11 examples best show the full ask/refine/test/repeat loop
+   without turning into a generic bug-hunt chapter?
 
 ---
 
@@ -78,10 +77,10 @@ mission, and stay in charge.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Lock the Chapter 10 drift examples and metaphor framing | AI | Sprint 13 starts with a clear Horse-Not-Car frame |
-| 2 | Draft Part 3 Chapter 3 brief | AI | Sprint 13 starts with a clear mission and outline |
+| 1 | Lock the Chapter 11 example thread and loop shape | AI | Sprint 14 starts with a clear practical scope |
+| 2 | Draft Part 3 Chapter 4 brief | AI | Sprint 14 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
-| 4 | Revisit the subtitle after Part 3 has more prose | Lee + AI | Subtitle matches the actual tone of the manuscript |
+| 4 | Revisit the subtitle after Part 3 is complete | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
 ---
 

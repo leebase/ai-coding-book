@@ -310,17 +310,17 @@ oracle.
 
 ---
 
-## Sprint 13 - Part 3 Chapter 3
+## Sprint 13 - Part 3 Chapter 3 (COMPLETE)
 
 **Goal:** Teach the Horse-Not-Car model and why correction is normal.
 
 | Task | Status |
 |------|--------|
-| Draft the metaphor cleanly | Not started |
-| Show where AI drifts | Not started |
-| Show how a human guides and corrects it | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
+| Draft the metaphor cleanly | Done |
+| Show where AI drifts | Done |
+| Show how a human guides and corrects it | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader understands why supervision is part of the work.
 

@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-03-25 - Sprint 13 Chapter 10 Drafted
+
+Completed Part 3 Chapter 3, `The Horse, Not the Car`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-10-the-horse-not-the-car-brief.md`
+- `chapters/reviews/ch-10-the-horse-not-the-car-review.md`
+- `chapters/part-3/ch-10-the-horse-not-the-car.md`
+
+This chapter turns the horse-not-car mental model into a practical reader tool.
+It explains why AI drift is normal, names a few common forms of drift in plain
+language, and teaches four clean redirect moves so the reader can steer the
+interaction back toward usefulness. The review pass also tightened the agency
+frame by making steering feel learnable, treating drift as useful information,
+and keeping the full ask-refine-test-repeat loop reserved for Chapter 11.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-3/ch-10-the-horse-not-the-car.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-10-the-horse-not-the-car-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-10-the-horse-not-the-car-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 13 complete
+
+---
+
 ## 2026-03-25 - Sprint 12 Chapter 9 Drafted
 
 Completed Part 3 Chapter 2, `Pick the Right Hero`, with the full sprint
