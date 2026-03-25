@@ -127,7 +127,7 @@ Now make it real.
 Do this chapter the book's way:
 
 1. read the `Terminal` and `Shell Tools` sections of [The Omarchy Manual](https://learn.omacom.io/2/the-omarchy-manual)
-2. ask AI to clarify anything about `mkdir`, `cd`, `pwd`, or `touch` that still
+2. ask AI to clarify anything about `mkdir`, `cd`, or `pwd` that still
    feels fuzzy
 3. then run the smallest real steps
 
@@ -190,7 +190,8 @@ Now open `mission.md` in whatever editor you already have available.
 
 If you do not already have an editor open, use the application launcher
 (`Super + Space`) and open the editor you have on this machine, then open
-`mission.md` there.
+`mission.md` there. If you need the launcher shortcut again, check the
+`Navigation` and `Hotkeys` sections of [The Omarchy Manual](https://learn.omacom.io/2/the-omarchy-manual).
 
 Do not turn this into an editor debate.
 
