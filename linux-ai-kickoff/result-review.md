@@ -4,6 +4,50 @@
 
 ---
 
+## 2026-03-25 - EPUB XML Parse Error Fixed
+
+Fixed the EPUB exporter after a reader hit this XML error:
+`PCDATA invalid Char value 12`.
+
+The root cause was a literal form-feed character getting carried into the EPUB
+XHTML from the shared cover/title-page export markdown. The fix was to make
+`build-epub.py` export from the assembled manuscript directly while still using
+the EPUB cover metadata path. That removes the invalid character and also
+cleans up the duplicated title entries at the top of the EPUB TOC.
+
+### How to Verify
+
+1. Rebuild the EPUB:
+
+```bash
+python3 linux-ai-kickoff/build-epub.py
+```
+
+2. Confirm no XHTML or package file contains a form-feed character:
+
+```bash
+python3 - <<'PY'
+from pathlib import Path
+import zipfile
+path = Path('linux-ai-kickoff/teach-yourself-anything.epub')
+with zipfile.ZipFile(path) as zf:
+    found = [
+        name for name in zf.namelist()
+        if name.endswith(('.xhtml', '.html', '.opf', '.ncx')) and b'\\x0c' in zf.read(name)
+    ]
+print(found or 'no-form-feed')
+PY
+```
+
+3. Inspect the EPUB nav and confirm it starts at the actual book body instead
+   of duplicate title-page entries:
+
+```bash
+unzip -p linux-ai-kickoff/teach-yourself-anything.epub EPUB/nav.xhtml | sed -n '1,40p'
+```
+
+---
+
 ## 2026-03-25 - Review Polish Pass Applied And Outputs Rebuilt
 
 Applied the first external review as a targeted polish pass instead of a

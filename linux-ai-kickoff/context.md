@@ -74,6 +74,12 @@ points non-Omarchy readers to a new appendix for machine translation, Chapter
 book if they have to choose, Chapter 15 has more hands-on real-life examples,
 and the conclusion now names the Apple IIe origin story directly.
 
+The EPUB build path has also been corrected after a reader hit an XML parse
+error caused by a literal form-feed character in one of the generated XHTML
+files. `build-epub.py` now exports from the assembled manuscript directly
+instead of the cover/title-page helper source, which removes the invalid
+character and also cleans up the duplicated top-of-TOC title entries.
+
 The current focus is human review of both the manuscript and the exported
 artifacts and, after approval, merge.
 

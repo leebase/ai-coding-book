@@ -8,14 +8,14 @@ from datetime import datetime
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
-from build_common import AUTHOR, BOOK_DIR, COVER_PATH, EPUB_PATH, PUBLISHER, SUBTITLE, TITLE, assemble_export_markdown
+from build_common import AUTHOR, BOOK_DIR, COVER_PATH, EPUB_PATH, PUBLISHER, SUBTITLE, TITLE, assemble_manuscript
 
 
 def main() -> None:
     copyright_year = datetime.now().year
     with TemporaryDirectory() as temp_dir:
         source_path = Path(temp_dir) / "teach-yourself-anything-export.md"
-        source_path.write_text(assemble_export_markdown(), encoding="utf-8")
+        source_path.write_text(assemble_manuscript(), encoding="utf-8")
         cmd = [
             "pandoc",
             str(source_path),
