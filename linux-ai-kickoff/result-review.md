@@ -4,6 +4,32 @@
 
 ---
 
+## 2026-03-25 - Sprint 17 Chapter 14 Drafted
+
+Completed Part 4 Chapter 3, `Fix What Breaks`, with the full sprint artifact
+set:
+
+- `chapters/briefs/ch-14-fix-what-breaks-brief.md`
+- `chapters/reviews/ch-14-fix-what-breaks-review.md`
+- `chapters/part-4/ch-14-fix-what-breaks.md`
+
+This chapter turns recovery into a real skill instead of a scary interruption.
+It uses the same `start-goal.sh` helper from Chapter 13, introduces one small
+wrong-path failure, and walks the reader through reading the error literally,
+checking the real files, asking AI with exact evidence, fixing one line, and
+testing again. The review pass also made the exercise reliable by giving the
+reader a safe intentional break if their real helper already works, and it kept
+the Omarchy manual in the troubleshooting loop as a lookup aid.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-4/ch-14-fix-what-breaks.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-14-fix-what-breaks-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-14-fix-what-breaks-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 17 complete
+
+---
+
 ## 2026-03-25 - Sprint 16 Chapter 13 Drafted
 
 Completed Part 4 Chapter 2, `Make One Useful Tool`, with the full sprint

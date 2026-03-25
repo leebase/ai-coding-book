@@ -34,18 +34,19 @@
 | Sprint 14 - Part 3 Chapter 4 | Complete | 100% |
 | Sprint 15 - Part 4 Chapter 1 | Complete | 100% |
 | Sprint 16 - Part 4 Chapter 2 | Complete | 100% |
-| Sprint 17 - Part 4 Chapter 3 | Not started | 0% |
+| Sprint 17 - Part 4 Chapter 3 | Complete | 100% |
+| Sprint 18 - Part 4 Chapter 4 | Not started | 0% |
 
 ---
 
 ## What's Happening Now
 
 This book has moved well past concept setup and into sustained drafting. Part 1
-and Part 2 are complete, Part 3 is complete, and Part 4 now has two kept
-artifacts: the launchpad itself and one small helper the reader can reuse.
+and Part 2 are complete, Part 3 is complete, and Part 4 now has a launchpad, a
+small helper, and one repaired break inside the same workspace.
 
-The current focus is to start Sprint 17 and teach recovery through one real
-break or friction point inside that same launchpad workspace.
+The current focus is to start Sprint 18 and turn that repaired workspace into a
+small win the reader actually keeps.
 
 ---
 
@@ -70,8 +71,9 @@ break or friction point inside that same launchpad workspace.
 2. Do any of the working chapter titles need stronger wording before publication?
 3. Do any of the Part 3 chapter titles need stronger wording before the part is
    refined as a whole?
-4. What is the cleanest real break for Chapter 14: a wrong path, missing file,
-   or another small friction point inside the launchpad?
+4. What is the cleanest small kept win for Chapter 15 to ship from the existing
+   launchpad: a polished helper, a small workflow, or another lightweight
+   system?
 
 ---
 
@@ -79,8 +81,8 @@ break or friction point inside that same launchpad workspace.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Lock the Chapter 14 break/fix example | AI | Sprint 17 starts with a clear practical scope |
-| 2 | Draft Part 4 Chapter 3 brief | AI | Sprint 17 starts with a clear mission and outline |
+| 1 | Lock the Chapter 15 kept-win example | AI | Sprint 18 starts with a clear practical scope |
+| 2 | Draft Part 4 Chapter 4 brief | AI | Sprint 18 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after more of Part 4 exists | Lee + AI | Subtitle matches the actual tone of the manuscript |
 

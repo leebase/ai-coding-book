@@ -375,17 +375,17 @@ confidence.
 
 ---
 
-## Sprint 17 - Part 4 Chapter 3
+## Sprint 17 - Part 4 Chapter 3 (COMPLETE)
 
 **Goal:** Teach problem solving through guided iteration on a real task.
 
 | Task | Status |
 |------|--------|
-| Define problem scenario | Not started |
-| Draft chapter | Not started |
-| Show AI helping without taking over | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
+| Define problem scenario | Done |
+| Draft chapter | Done |
+| Show AI helping without taking over | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The chapter proves the reader can work through friction.
 
