@@ -277,18 +277,18 @@ wall.
 
 ---
 
-## Sprint 11 - Part 3 Chapter 1
+## Sprint 11 - Part 3 Chapter 1 (COMPLETE)
 
 **Goal:** Introduce AI as tutor, coach, and collaborator instead of as a magic
 oracle.
 
 | Task | Status |
 |------|--------|
-| Lock chapter mission | Not started |
-| Draft chapter | Not started |
-| Introduce the tutor framing | Not started |
-| Run `pathfinder` and `confidence-auditor` reviews | Not started |
-| Revise chapter | Not started |
+| Lock chapter mission | Done |
+| Draft chapter | Done |
+| Introduce the tutor framing | Done |
+| Run `pathfinder` and `confidence-auditor` reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader understands the role AI should play in their learning.
 

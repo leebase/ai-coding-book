@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-03-25 - Sprint 11 Chapter 8 Drafted
+
+Completed Part 3 Chapter 1, `AI Is Not a Vending Machine`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-08-ai-is-not-a-vending-machine-brief.md`
+- `chapters/reviews/ch-08-ai-is-not-a-vending-machine-review.md`
+- `chapters/part-3/ch-08-ai-is-not-a-vending-machine.md`
+
+This chapter opens Part 3 by reframing AI as tutor, coach, and collaborator
+instead of as an answer machine. It teaches a small rewrite pattern the reader
+can use immediately: ground the situation, narrow the question, and ask for one
+kind of help. The review pass also made the examples more beginner-safe by
+swapping in self-contained scenarios, adding an annotated worked rewrite, and
+making the visible win more explicit.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-3/ch-08-ai-is-not-a-vending-machine.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-08-ai-is-not-a-vending-machine-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-08-ai-is-not-a-vending-machine-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 11 complete
+
+---
+
 ## 2026-03-25 - Sprint 10 Chapter 7 Drafted
 
 Completed Part 2 Chapter 4, `Read the Manual, Then Make It Yours`, with the

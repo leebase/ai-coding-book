@@ -28,7 +28,8 @@
 | Sprint 8 - Part 2 Chapter 2 | Complete | 100% |
 | Sprint 9 - Part 2 Chapter 3 | Complete | 100% |
 | Sprint 10 - Part 2 Chapter 4 | Complete | 100% |
-| Sprint 11 - Part 3 Chapter 1 | Not started | 0% |
+| Sprint 11 - Part 3 Chapter 1 | Complete | 100% |
+| Sprint 12 - Part 3 Chapter 2 | Not started | 0% |
 
 ---
 
@@ -40,9 +41,9 @@ custom agents exist, the sprint plan now covers the full production of the
 book from architecture through publication QA, and the architecture file now
 locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to start Sprint 11 and introduce AI as tutor, coach, and
-collaborator now that the reader has already seen AI work best when grounded by
-manuals and real questions.
+The current focus is to start Sprint 12 and teach the fuller Team-Captain model
+now that the reader understands AI needs context, limits, and a clear kind of
+help.
 
 ---
 
@@ -65,9 +66,9 @@ manuals and real questions.
 
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
-3. How much should Chapter 8 cover before the Team-Captain and Horse-Not-Car
-   chapters take over?
-4. What example set best shows AI as tutor instead of answer machine?
+3. How literal should the Team-Captain / hero metaphor be in Chapter 9?
+4. Which example set should carry from Chapter 8 into Chapters 9 and 10 for
+   continuity?
 
 ---
 
@@ -75,8 +76,8 @@ manuals and real questions.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Lock the Chapter 8 example set and mission | AI | Sprint 11 starts with a concrete AI-as-tutor frame |
-| 2 | Draft Part 3 Chapter 1 brief | AI | Sprint 11 starts with a clear mission and outline |
+| 1 | Lock the Chapter 9 model explanation and example set | AI | Sprint 12 starts with a clear Team-Captain frame |
+| 2 | Draft Part 3 Chapter 2 brief | AI | Sprint 12 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after Part 3 has more prose | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
