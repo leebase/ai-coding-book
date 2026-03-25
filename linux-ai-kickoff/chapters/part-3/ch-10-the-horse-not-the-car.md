@@ -106,7 +106,7 @@ with legs.
 
 Then you get on, and you realize:
 
-this is not a bicycle with a heartbeat.
+This is not a bicycle with a heartbeat.
 
 This is an animal.
 
@@ -121,6 +121,8 @@ You do not control it by assuming it will obey like a machine.
 You learn how to guide it.
 
 That is the useful part of the metaphor.
+
+The practical skill is simple: notice drift, name it, and redirect it.
 
 Not that AI is magic.
 
@@ -264,6 +266,8 @@ That is why this chapter matters.
 If you expect one-shot perfection, you will either get frustrated or start
 believing bad answers too quickly.
 
+And even if you catch the drift a little late, that still counts as steering.
+
 If you expect guidance to be normal, you stay awake.
 
 You stay grounded.
@@ -287,21 +291,10 @@ When AI drifts, you do not need a giant theory.
 
 You usually need one of four moves:
 
-1. Name the problem
-`Too broad.`
-`Too technical.`
-`That is not the question I asked.`
-
-2. Restate the real goal
-`I want the next smallest step, not the full system.`
-
-3. Shrink the scope
-`Give me one thing I can do in 15 minutes.`
-
-4. Redirect the answer shape
-`Use plain English.`
-`Compare only these two options.`
-`Give me one example, not a lecture.`
+1. Name the problem: `Too broad.` `Too technical.` `That is not the question I asked.`
+2. Restate the real goal: `I want the next smallest step, not the full system.`
+3. Shrink the scope: `Give me one thing I can do in 15 minutes.`
+4. Redirect the answer shape: `Use plain English.` `Compare only these two options.` `Give me one example, not a lecture.`
 
 That is enough to rescue a lot of weak interactions.
 
@@ -327,7 +320,9 @@ Maybe it was too technical.
 
 Maybe it answered the wrong question.
 
-Write one redirect using this pattern:
+First, name the drift in plain language.
+
+Then write one redirect using this pattern:
 
 `Too [problem]. What I actually need is [real goal]. Give me [smaller scope or answer shape].`
 
