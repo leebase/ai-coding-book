@@ -4,6 +4,26 @@
 
 ---
 
+## 2026-03-25 - Sprint 24 Technical Accuracy and Source Pass Applied
+
+Ran a source-truth pass on the Omarchy-dependent material and re-checked the
+book's core technical claims against the live Omarchy manual. The pass focused
+on the manual sections the manuscript relies on most: Welcome, Navigation,
+Hotkeys, Unified clipboard, Terminal, AI, Development Tools, and Shell Tools.
+
+The good news is that the book's core Omarchy guidance still lines up with the
+live manual. The only manuscript tweak needed was making Chapter 7's AI section
+more specific by naming the current Omarchy AI tools directly: OpenCode, Claude
+Code, and Voxtype.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/reviews/technical-accuracy-pass-review.md`
+2. Read `linux-ai-kickoff/chapters/part-2/ch-07-read-the-manual-then-make-it-yours.md` and confirm the AI paragraph now names OpenCode, Claude Code, and Voxtype
+3. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 24 complete
+
+---
+
 ## 2026-03-25 - Sprint 23 Full Continuity Pass Applied
 
 Ran a full-manuscript continuity pass and fixed the highest-value seams across

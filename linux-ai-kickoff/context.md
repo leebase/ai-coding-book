@@ -41,7 +41,8 @@
 | Sprint 21 - Part 5 Chapter 3 | Complete | 100% |
 | Sprint 22 - Conclusion | Complete | 100% |
 | Sprint 23 - Full continuity pass | Complete | 100% |
-| Sprint 24 - Technical accuracy and source pass | Not started | 0% |
+| Sprint 24 - Technical accuracy and source pass | Complete | 100% |
+| Sprint 25 - Copyedit and voice pass | Not started | 0% |
 
 ---
 
@@ -54,9 +55,8 @@ has a full closing artifact chain in the same workspace: `direction.md`,
 `curriculum.md`, `next-three-moves.md`, and a conclusion that points outward
 from proof instead of promise.
 
-The current focus is Sprint 24: verify the technical chapters against primary
-sources again, tighten any unsupported claims, and make sure the Omarchy
-manual-grounded material still reads as careful and current.
+The current focus is Sprint 25: tighten repetition, transitions, and chapter
+endings while keeping the Lee voice and the reader's dignity intact.
 
 ---
 
@@ -81,8 +81,8 @@ manual-grounded material still reads as careful and current.
 2. Do any of the working chapter titles need stronger wording before publication?
 3. Do any of the Part 3 chapter titles need stronger wording before the part is
    refined as a whole?
-4. Which technical claims or examples are most likely to drift as Omarchy and
-   surrounding tools evolve?
+4. Which repetitions or soft transitions still make the full draft feel less
+   sharp than it could?
 
 ---
 
@@ -90,8 +90,8 @@ manual-grounded material still reads as careful and current.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Re-check Omarchy-grounded chapters against the manual | AI | Technical claims are verified against primary source truth |
-| 2 | Tighten or remove unsupported technical phrasing | AI | The book does not rely on memory or vibes |
+| 1 | Run a full copyedit and voice pass | AI | Repetition, transitions, and weak endings are tightened |
+| 2 | Preserve Lee voice while trimming soft spots | AI | The manuscript stays direct, human, and confidence-building |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after Part 5 is complete | Lee + AI | Subtitle matches the actual tone of the manuscript |
 

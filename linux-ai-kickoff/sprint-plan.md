@@ -491,16 +491,16 @@ good chapters.
 
 ---
 
-## Sprint 24 - Technical Accuracy and Source Pass
+## Sprint 24 - Technical Accuracy and Source Pass (COMPLETE)
 
 **Goal:** Verify that all technical material is grounded in primary sources.
 
 | Task | Status |
 |------|--------|
-| Re-check Omarchy sections against the manual | Not started |
-| Re-check command examples for safety and framing | Not started |
-| Verify all linked sources are still correct | Not started |
-| Remove any unsupported technical claims | Not started |
+| Re-check Omarchy sections against the manual | Done |
+| Re-check command examples for safety and framing | Done |
+| Verify all linked sources are still correct | Done |
+| Remove any unsupported technical claims | Done |
 
 **Done when:** Technical confidence does not depend on memory or vibes.
 

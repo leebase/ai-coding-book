@@ -162,9 +162,10 @@ It is helping you interpret one.
 That is how you keep AI in the role of tutor instead of oracle.
 
 And this is also where the Omarchy manual's `AI` section quietly teaches a
-bigger lesson. Even when Omarchy gives you AI tools, the manual still tells you
-how to start them and where to be careful. The source gives the guardrails. AI
-helps you understand and apply them.
+bigger lesson. Even when Omarchy ships with tools like OpenCode, Claude Code,
+and Voxtype, the manual still tells you how to start them and where to be
+careful. The source gives the guardrails. AI helps you understand and apply
+them.
 
 That pattern matters.
 
