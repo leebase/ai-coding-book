@@ -457,18 +457,18 @@ one correct path.
 
 ---
 
-## Sprint 22 - Conclusion
+## Sprint 22 - Conclusion (COMPLETE)
 
 **Goal:** Write a conclusion that restates the thesis, honors the reader's
 growth, and points toward continued self-direction.
 
 | Task | Status |
 |------|--------|
-| Draft conclusion | Not started |
-| Reassert the core thesis | Not started |
-| Avoid grandiosity or AI hype | Not started |
-| Run custom-agent reviews | Not started |
-| Revise conclusion | Not started |
+| Draft conclusion | Done |
+| Reassert the core thesis | Done |
+| Avoid grandiosity or AI hype | Done |
+| Run custom-agent reviews | Done |
+| Revise conclusion | Done |
 
 **Done when:** The book ends with grounded confidence and momentum.
 

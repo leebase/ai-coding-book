@@ -4,6 +4,30 @@
 
 ---
 
+## 2026-03-25 - Sprint 22 Conclusion Drafted
+
+Completed the conclusion, `You Can Keep Going`, with the full sprint artifact
+set:
+
+- `chapters/briefs/conclusion-brief.md`
+- `chapters/reviews/conclusion-review.md`
+- `chapters/conclusion.md`
+
+The conclusion closes the book by restating the thesis through the reader's
+proof rather than through recap. The review pass tightened the ending around
+the real artifact chain, softened lines that risked sounding too slogan-like or
+too dismissive of real constraints, and ended on `next-three-moves.md` so the
+book points outward through a concrete next move.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/conclusion.md`
+2. Read `linux-ai-kickoff/chapters/briefs/conclusion-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/conclusion-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 22 complete
+
+---
+
 ## 2026-03-25 - Sprint 21 Chapter 18 Drafted
 
 Completed Part 5 Chapter 3, `Keep Going Without Permission`, with the full
