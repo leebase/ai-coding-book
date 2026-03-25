@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-03-25 - Sprint 10 Chapter 7 Drafted
+
+Completed Part 2 Chapter 4, `Read the Manual, Then Make It Yours`, with the
+full sprint artifact set:
+
+- `chapters/briefs/ch-07-read-the-manual-then-make-it-yours-brief.md`
+- `chapters/reviews/ch-07-read-the-manual-then-make-it-yours-review.md`
+- `chapters/part-2/ch-07-read-the-manual-then-make-it-yours.md`
+
+This chapter teaches the book's manual-first loop directly with one safe
+Omarchy example: read the `Shell Tools` section, ask AI to explain the
+difference between `ff`, `fd`, and `rg`, then try one small `ff` experiment and
+observe what happens. The review pass tightened the beginner experience with a
+safer browser-launch fallback, an exact `cd ~` setup step, plainer `ff`
+language, and a stronger bridge into Part 3's AI chapters.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-2/ch-07-read-the-manual-then-make-it-yours.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-07-read-the-manual-then-make-it-yours-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-07-read-the-manual-then-make-it-yours-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 10 complete
+
+---
+
 ## 2026-03-25 - Sprint 9 Chapter 6 Drafted
 
 Completed Part 2 Chapter 3, `The Terminal Is Not a Wall`, with the full sprint

@@ -27,7 +27,8 @@
 | Sprint 7 - Part 2 Chapter 1 | Complete | 100% |
 | Sprint 8 - Part 2 Chapter 2 | Complete | 100% |
 | Sprint 9 - Part 2 Chapter 3 | Complete | 100% |
-| Sprint 10 - Part 2 Chapter 4 | Not started | 0% |
+| Sprint 10 - Part 2 Chapter 4 | Complete | 100% |
+| Sprint 11 - Part 3 Chapter 1 | Not started | 0% |
 
 ---
 
@@ -39,9 +40,9 @@ custom agents exist, the sprint plan now covers the full production of the
 book from architecture through publication QA, and the architecture file now
 locks the working manuscript shape, chapter map, and Part 4 project thread.
 
-The current focus is to start Sprint 10 and teach the manual-first loop more
-directly now that the reader can open the terminal, orient themselves, and
-move with basic confidence.
+The current focus is to start Sprint 11 and introduce AI as tutor, coach, and
+collaborator now that the reader has already seen AI work best when grounded by
+manuals and real questions.
 
 ---
 
@@ -64,9 +65,9 @@ move with basic confidence.
 
 1. What is the final subtitle?
 2. Do any of the working chapter titles need stronger wording before drafting starts?
-3. What is the strongest Chapter 7 example flow for the read-docs -> ask-AI ->
-   try-it loop?
-4. How explicit should the AI role be in Chapter 7 before Part 3 begins?
+3. How much should Chapter 8 cover before the Team-Captain and Horse-Not-Car
+   chapters take over?
+4. What example set best shows AI as tutor instead of answer machine?
 
 ---
 
@@ -74,10 +75,10 @@ move with basic confidence.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Map the exact Omarchy-manual example flow for Chapter 7 | AI | Sprint 10 starts from primary sources |
-| 2 | Draft Part 2 Chapter 4 brief | AI | Sprint 10 starts with a clear mission and outline |
+| 1 | Lock the Chapter 8 example set and mission | AI | Sprint 11 starts with a concrete AI-as-tutor frame |
+| 2 | Draft Part 3 Chapter 1 brief | AI | Sprint 11 starts with a clear mission and outline |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
-| 4 | Revisit the subtitle after Part 2 has more prose | Lee + AI | Subtitle matches the actual tone of the manuscript |
+| 4 | Revisit the subtitle after Part 3 has more prose | Lee + AI | Subtitle matches the actual tone of the manuscript |
 
 ---
 

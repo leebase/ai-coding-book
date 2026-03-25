@@ -261,17 +261,17 @@ wall.
 
 ---
 
-## Sprint 10 - Part 2 Chapter 4
+## Sprint 10 - Part 2 Chapter 4 (COMPLETE)
 
 **Goal:** Teach manual-first problem solving directly.
 
 | Task | Status |
 |------|--------|
-| Identify best Omarchy-manual example flow | Not started |
-| Draft chapter | Not started |
-| Show the read-docs -> ask-AI -> try-it loop | Not started |
-| Run `manual-guide` review | Not started |
-| Revise chapter | Not started |
+| Identify best Omarchy-manual example flow | Done |
+| Draft chapter | Done |
+| Show the read-docs -> ask-AI -> try-it loop | Done |
+| Run `manual-guide` review | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader sees RTFM as a skill and power move.
 
