@@ -4,6 +4,32 @@
 
 ---
 
+## 2026-03-25 - Sprint 15 Chapter 12 Drafted
+
+Completed Part 4 Chapter 1, `Build Your Launchpad`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-12-build-your-launchpad-brief.md`
+- `chapters/reviews/ch-12-build-your-launchpad-review.md`
+- `chapters/part-4/ch-12-build-your-launchpad.md`
+
+This chapter starts the practical half of the book with the first kept artifact
+instead of another drill. The reader chooses one real direction, uses AI to
+shrink it into a folder name and mission sentence, creates `~/launchpad` plus a
+goal folder, and adds a `mission.md` note they can keep building from. The
+review pass also restored the manual-first flow, made the file-creation path
+concrete for beginners, and clarified that Chapter 13 will keep using the same
+workspace instead of starting over.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-4/ch-12-build-your-launchpad.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-12-build-your-launchpad-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-12-build-your-launchpad-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 15 complete
+
+---
+
 ## 2026-03-25 - Sprint 14 Chapter 11 Drafted
 
 Completed Part 3 Chapter 4, `Ask, Refine, Test, Repeat`, with the full sprint

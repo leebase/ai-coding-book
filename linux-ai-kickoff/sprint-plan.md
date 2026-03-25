@@ -342,17 +342,17 @@ oracle.
 
 ---
 
-## Sprint 15 - Part 4 Chapter 1
+## Sprint 15 - Part 4 Chapter 1 (COMPLETE)
 
 **Goal:** Start the practical project thread with a small, meaningful win.
 
 | Task | Status |
 |------|--------|
-| Lock project-thread scope | Not started |
-| Define the first mission | Not started |
-| Draft chapter | Not started |
-| Run `mission-designer` review | Not started |
-| Revise chapter | Not started |
+| Lock project-thread scope | Done |
+| Define the first mission | Done |
+| Draft chapter | Done |
+| Run `mission-designer` review | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader completes a real task and feels momentum.
 
