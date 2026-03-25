@@ -294,17 +294,17 @@ oracle.
 
 ---
 
-## Sprint 12 - Part 3 Chapter 2
+## Sprint 12 - Part 3 Chapter 2 (COMPLETE)
 
 **Goal:** Teach the Team-Captain model.
 
 | Task | Status |
 |------|--------|
-| Draft the model explanation | Not started |
-| Create practical examples | Not started |
-| Show hero/backstory/mission/stay-in-charge sequence | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
+| Draft the model explanation | Done |
+| Create practical examples | Done |
+| Show hero/backstory/mission/stay-in-charge sequence | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The reader can direct AI with intent rather than vague requests.
 

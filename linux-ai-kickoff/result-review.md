@@ -4,6 +4,30 @@
 
 ---
 
+## 2026-03-25 - Sprint 12 Chapter 9 Drafted
+
+Completed Part 3 Chapter 2, `Pick the Right Hero`, with the full sprint
+artifact set:
+
+- `chapters/briefs/ch-09-pick-the-right-hero-brief.md`
+- `chapters/reviews/ch-09-pick-the-right-hero-review.md`
+- `chapters/part-3/ch-09-pick-the-right-hero.md`
+
+This chapter turns the book's Team-Captain mental model into a practical reader
+tool. It teaches four moves: pick the right helper role, give backstory, assign
+the mission, and stay in charge. The review pass tightened the metaphor,
+defined exactly what a Team-Captain prompt is, added a step-by-step built
+example, and made the final visible outcome more explicit.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-3/ch-09-pick-the-right-hero.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-09-pick-the-right-hero-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-09-pick-the-right-hero-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 12 complete
+
+---
+
 ## 2026-03-25 - Sprint 11 Chapter 8 Drafted
 
 Completed Part 3 Chapter 1, `AI Is Not a Vending Machine`, with the full sprint
