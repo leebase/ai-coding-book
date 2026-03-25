@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-03-25 - Sprint 21 Chapter 18 Drafted
+
+Completed Part 5 Chapter 3, `Keep Going Without Permission`, with the full
+sprint artifact set:
+
+- `chapters/briefs/ch-18-keep-going-without-permission-brief.md`
+- `chapters/reviews/ch-18-keep-going-without-permission-review.md`
+- `chapters/part-5/ch-18-keep-going-without-permission.md`
+
+This chapter closes Part 5 by turning `curriculum.md` into a near-term action
+plan the reader can carry on their own. The review pass kept "without
+permission" practical instead of dramatic, anchored the visible outcome to a
+kept `next-three-moves.md` note, added a stall-recovery loop for when the
+reader wobbles, and ended with Move 1 already started or scheduled so the part
+lands on motion instead of reflection.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/part-5/ch-18-keep-going-without-permission.md`
+2. Read `linux-ai-kickoff/chapters/briefs/ch-18-keep-going-without-permission-brief.md`
+3. Read `linux-ai-kickoff/chapters/reviews/ch-18-keep-going-without-permission-review.md`
+4. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 21 complete
+
+---
+
 ## 2026-03-25 - Sprint 20 Chapter 17 Drafted
 
 Completed Part 5 Chapter 2, `Build Your Own Curriculum`, with the full sprint

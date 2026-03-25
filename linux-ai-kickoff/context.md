@@ -38,7 +38,8 @@
 | Sprint 18 - Part 4 Chapter 4 | Complete | 100% |
 | Sprint 19 - Part 5 Chapter 1 | Complete | 100% |
 | Sprint 20 - Part 5 Chapter 2 | Complete | 100% |
-| Sprint 21 - Part 5 Chapter 3 | Not started | 0% |
+| Sprint 21 - Part 5 Chapter 3 | Complete | 100% |
+| Sprint 22 - Conclusion | Not started | 0% |
 
 ---
 
@@ -46,13 +47,12 @@
 
 This book has moved well past concept setup and into sustained drafting. Part 1
 and Part 2 are complete, Part 3 is complete, Part 4 is complete, and Part 5 is
-now underway. Chapters 16 and 17 are drafted and reviewed: the reader has
-stepped back from Part 4, saved a kept `direction.md` note, and turned it into
-one small `curriculum.md` roadmap in the same workspace.
+now complete. The reader has a full Part 5 artifact chain in the same
+workspace: `direction.md`, `curriculum.md`, and `next-three-moves.md`.
 
-The current focus is Sprint 21: end Part 5 with outward momentum and a clear
-next-three-moves shape without turning the chapter into empty motivation or
-repeating the same planning beat.
+The current focus is Sprint 22: write the conclusion so it points outward from
+proof and ownership instead of repeating the book's pep talk or summarizing too
+mechanically.
 
 ---
 
@@ -77,8 +77,8 @@ repeating the same planning beat.
 2. Do any of the working chapter titles need stronger wording before publication?
 3. Do any of the Part 3 chapter titles need stronger wording before the part is
    refined as a whole?
-4. What is the strongest Chapter 18 ending shape for "keep going without
-   permission" that feels active instead of speech-like?
+4. What is the strongest conclusion shape that restates the thesis without
+   flattening the lived progression of the book into summary language?
 
 ---
 
@@ -86,8 +86,8 @@ repeating the same planning beat.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft Part 5 Chapter 3 brief | AI | Sprint 21 starts with a clear mission and visible outcome |
-| 2 | Lock the Chapter 18 ending shape | AI | The chapter points outward with action, not speech |
+| 1 | Draft the conclusion brief | AI | Sprint 22 starts with a clear role and closing shape |
+| 2 | Lock the conclusion ending note | AI | The book ends on grounded ownership, not abstraction |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after Part 5 is complete | Lee + AI | Subtitle matches the actual tone of the manuscript |
 

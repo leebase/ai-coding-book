@@ -442,16 +442,16 @@ one correct path.
 
 ---
 
-## Sprint 21 - Part 5 Chapter 3
+## Sprint 21 - Part 5 Chapter 3 (COMPLETE)
 
 **Goal:** End Part 5 by opening the future rather than closing it down.
 
 | Task | Status |
 |------|--------|
-| Draft chapter | Not started |
-| Reconnect to inspiration, motivation, and empowerment | Not started |
-| Run custom-agent reviews | Not started |
-| Revise chapter | Not started |
+| Draft chapter | Done |
+| Reconnect to inspiration, motivation, and empowerment | Done |
+| Run custom-agent reviews | Done |
+| Revise chapter | Done |
 
 **Done when:** The book's final part points outward with energy.
 
