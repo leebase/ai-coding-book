@@ -65,7 +65,7 @@ the chapter into generic debugging advice.
 ## Open Questions
 
 1. What is the final subtitle?
-2. Do any of the working chapter titles need stronger wording before drafting starts?
+2. Do any of the working chapter titles need stronger wording before publication?
 3. Do any of the Part 3 chapter titles need stronger wording before the part is
    fully drafted?
 4. Which Chapter 11 examples best show the full ask/refine/test/repeat loop
