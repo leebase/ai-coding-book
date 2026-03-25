@@ -295,7 +295,7 @@ Your three moves could look like this:
   guide
   - When: after Move 2
   - Doc: your curriculum note
-  - Tool: the evidence from what felt alive in the writing
+  - Tool: note system
   - Done looks like: one named next mission
 
 Same pattern.

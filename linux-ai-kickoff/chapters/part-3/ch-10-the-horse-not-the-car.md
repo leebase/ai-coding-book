@@ -106,7 +106,7 @@ with legs.
 
 Then you get on, and you realize:
 
-This is not a bicycle with a heartbeat.
+This is not just transportation.
 
 This is an animal.
 

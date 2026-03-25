@@ -40,7 +40,8 @@
 | Sprint 20 - Part 5 Chapter 2 | Complete | 100% |
 | Sprint 21 - Part 5 Chapter 3 | Complete | 100% |
 | Sprint 22 - Conclusion | Complete | 100% |
-| Sprint 23 - Full continuity pass | Not started | 0% |
+| Sprint 23 - Full continuity pass | Complete | 100% |
+| Sprint 24 - Technical accuracy and source pass | Not started | 0% |
 
 ---
 
@@ -53,9 +54,9 @@ has a full closing artifact chain in the same workspace: `direction.md`,
 `curriculum.md`, `next-three-moves.md`, and a conclusion that points outward
 from proof instead of promise.
 
-The current focus is Sprint 23: read the manuscript as one book and remove
-continuity drift in tone, claims, transitions, mental-model buildup, and the
-practical artifact thread.
+The current focus is Sprint 24: verify the technical chapters against primary
+sources again, tighten any unsupported claims, and make sure the Omarchy
+manual-grounded material still reads as careful and current.
 
 ---
 
@@ -80,8 +81,8 @@ practical artifact thread.
 2. Do any of the working chapter titles need stronger wording before publication?
 3. Do any of the Part 3 chapter titles need stronger wording before the part is
    refined as a whole?
-4. Which continuity seams are most likely to show up now that the full draft is
-   assembled?
+4. Which technical claims or examples are most likely to drift as Omarchy and
+   surrounding tools evolve?
 
 ---
 
@@ -89,8 +90,8 @@ practical artifact thread.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Run a full continuity read across the manuscript | AI | Tone, claims, and artifact thread read as one book |
-| 2 | Log and fix the highest-value continuity seams | AI | Major drift is removed before the source/accuracy pass |
+| 1 | Re-check Omarchy-grounded chapters against the manual | AI | Technical claims are verified against primary source truth |
+| 2 | Tighten or remove unsupported technical phrasing | AI | The book does not rely on memory or vibes |
 | 3 | Tighten any chapter titles that still feel soft | Lee + AI | The architecture reads cleanly before drafting |
 | 4 | Revisit the subtitle after Part 5 is complete | Lee + AI | Subtitle matches the actual tone of the manuscript |
 

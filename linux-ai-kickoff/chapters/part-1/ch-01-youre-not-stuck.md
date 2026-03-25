@@ -7,9 +7,9 @@ no clean idea what to do first.
 
 That is a miserable feeling.
 
-It can make you look lazy from the outside.
+It can make you look checked out from the outside.
 
-It can make you feel lazy from the inside.
+It can make you feel checked out from the inside.
 
 But most of the time, that is not what is going on.
 
@@ -161,6 +161,10 @@ That is enough.
 ## Pick One Door
 
 Go back to the note you made in the introduction.
+
+If it helps, think of it as your `starter note`.
+
+We are going to keep building on it through Part 1.
 
 You wrote:
 

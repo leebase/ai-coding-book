@@ -160,6 +160,12 @@ launchpad work.
 Create a file called `direction.md` inside the same goal folder you used in
 Part 4 for the direction you want to test next.
 
+Keep `mission.md` too.
+
+`mission.md` is still the small real job you started with.
+
+`direction.md` names the larger path that job seems to point toward.
+
 Use this pattern:
 
 `A direction worth exploring next is [direction], because [real reason from my work].`

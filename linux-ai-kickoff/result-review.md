@@ -4,6 +4,32 @@
 
 ---
 
+## 2026-03-25 - Sprint 23 Full Continuity Pass Applied
+
+Ran a full-manuscript continuity pass and fixed the highest-value seams across
+the draft. The main changes were stabilizing the early Part 1 note thread as a
+named `starter note`, carrying that thread more explicitly through Chapters 1-3,
+clarifying how `mission.md` and `direction.md` relate at the Part 4 -> Part 5
+handoff, making the `curriculum.md` contract internally consistent, and paying
+the full artifact chain off more explicitly in the conclusion.
+
+The pass also cleaned up a few manuscript-level voice seams: several harsher
+lines in the introduction and Part 1 were softened, the early examples widened
+slightly so the book's broader "anything" promise appears sooner, and the
+reusable Team-Captain prompt in Chapter 9 is now explicitly something the
+reader keeps in their notes.
+
+### How to Verify
+
+1. Read `linux-ai-kickoff/chapters/reviews/full-continuity-pass-review.md`
+2. Read `linux-ai-kickoff/chapters/introduction.md` and confirm the `starter note` is named as a persistent thread
+3. Read `linux-ai-kickoff/chapters/part-1/ch-01-youre-not-stuck.md`, `linux-ai-kickoff/chapters/part-1/ch-02-what-this-machine-gives-you.md`, and `linux-ai-kickoff/chapters/part-1/ch-03-learning-without-permission.md` and confirm the same note is carried through Part 1
+4. Read `linux-ai-kickoff/chapters/part-5/ch-16-pick-a-direction.md` and confirm `mission.md` and `direction.md` are explicitly related
+5. Read `linux-ai-kickoff/chapters/part-5/ch-17-build-your-own-curriculum.md` and confirm the curriculum contract matches the template
+6. Confirm `linux-ai-kickoff/sprint-plan.md` marks Sprint 23 complete
+
+---
+
 ## 2026-03-25 - Sprint 22 Conclusion Drafted
 
 Completed the conclusion, `You Can Keep Going`, with the full sprint artifact

@@ -34,6 +34,8 @@ Here, `hero` just means the helper role you want the AI to play for this task.
 By the end of this chapter, you should have one reusable Team-Captain prompt for
 a real task you care about.
 
+Keep it in your notes so you can reuse and improve it.
+
 ## Same Machine, Different Heroes
 
 Imagine you are stuck on a small Linux question.
@@ -251,6 +253,8 @@ And that is a prompt you could actually use.
 ## Build One You Can Keep
 
 Now build one role prompt for a real task you actually care about.
+
+Save it in your notes after you write it.
 
 Use this pattern:
 

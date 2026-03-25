@@ -126,12 +126,14 @@ Here is the plain-English version:
 For your first version, keep it to:
 
 - 3 missions
-- 2 docs
-- 2 tools
+- about 2 docs you will keep reusing
+- about 2 tools you will keep reusing
 
 That is enough to begin.
 
 You can revise it after you actually use it.
+
+Those docs and tools can repeat across the three missions.
 
 ### Missions
 

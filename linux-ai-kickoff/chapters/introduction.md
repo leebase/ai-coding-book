@@ -258,13 +258,16 @@ That is a better pattern than asking AI to replace your brain.
 
 Manual first. AI second.
 
-That is how you get stronger instead of softer.
+That is how you get more capable instead of more dependent.
 
 ## Start Here
 
 Before you move into the rest of the book, make one small note.
 
 Use any note app you want. It does not need to be fancy.
+
+If you want to make the thread easier to follow, give it a simple name like
+`starter note` and keep it somewhere easy to reopen.
 
 Write three things:
 
@@ -286,6 +289,7 @@ Maybe it is:
 - understand how AI can help me work
 - make myself more employable
 - build something I can actually show people
+- understand a topic I care about well enough to teach it to someone else
 
 That note is small.
 

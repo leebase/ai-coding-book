@@ -37,6 +37,8 @@ You have learned how to ask AI for help without handing it the wheel.
 
 You have built and kept real things:
 
+- a starter note that turned into a clearer path
+- a mission note
 - a launchpad
 - a helper
 - a repaired break

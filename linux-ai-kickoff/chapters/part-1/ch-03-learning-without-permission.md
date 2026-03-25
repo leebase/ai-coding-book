@@ -62,7 +62,8 @@ That second one is deadly.
 
 ## Drift Loves Unclear Standards
 
-If your standard is "I will begin once I feel fully ready," you are in trouble.
+If your standard is "I will begin once I feel fully ready," you give yourself a
+target that can keep moving forever.
 
 Ready is one of those words that can keep moving forever.
 
@@ -175,6 +176,8 @@ It stops being theory.
 Take your chosen door from Chapter 1.
 
 Take your leverage list from Chapter 2.
+
+Both should live in the same Part 1 note now.
 
 Now turn them into one mission.
 

@@ -144,7 +144,7 @@ Or:
 "If I cannot explain everything under the hood yet, maybe this is not really
 for me."
 
-That one will hurt you fast.
+That one can trap you fast.
 
 Because it sounds humble, but it is really just another way of staying out of
 the arena.
@@ -208,7 +208,7 @@ That is what a setup is for.
 
 ## Write The Leverage List
 
-Open the note from Chapter 1 again.
+Open the same `starter note` from Chapter 1 again.
 
 Under your chosen door, write this line:
 
