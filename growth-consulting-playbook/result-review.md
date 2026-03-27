@@ -189,6 +189,32 @@ consulting systems across global firms, boutiques, practice building,
 commercialization, delivery, presales, and COE work, rather than from claiming
 to have run a global consultancy.
 
+## 2026-03-27 — Fifth Playbook Artifact Designed
+
+Created [offer-design-template.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/offer-design-template.md) as the operating tool for Chapter 9.
+
+This artifact helps the reader turn portfolio triage into concrete replacement
+offers built around capability, redesign, knowledge preservation, operating
+design, and decision acceleration.
+
+## 2026-03-27 — Chapter 9 Drafted
+
+Drafted [chapter-9-build-the-new-service-portfolio.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-9-build-the-new-service-portfolio.md).
+
+This chapter shifts the book from identifying the wrong work to designing what
+should replace it. It also deploys the `Rach 2` story as proof that multiplied
+expert capability changes what kind of offer a firm can credibly package and
+sell.
+
+Later the same day, Chapter 9 was tightened to give the `Rach 2` story a fuller
+sequence and to make the replacement offer categories more concrete.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The main carry-forward requirement is that
+Chapter 10 now has to prove the new offers can survive a redesigned engagement
+model rather than being pulled back into the old one.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).

@@ -522,6 +522,28 @@ Method signal:
 - Resume-backed experience should be distilled into positioning assets and
   calibration rules, not pasted into the manuscript as biography.
 
+## 2026-03-27 — Anchor Stories Should Arrive When the Book Starts Replacing, Not Just Warning
+
+Chapter 9 is the first place the manuscript spends one of the top-tier anchor
+stories at fuller strength.
+
+Why it matters:
+- The manuscript had been proving the case mostly through argument and
+  framework.
+- Once the book starts building the replacement model, the story layer becomes
+  more than color. It becomes proof that multiplied capability changes what one
+  person or one firm can credibly package and sell.
+
+What changed:
+- the `Rach 2` story was used in Chapter 9 as evidence of expert amplification
+- it was framed as a transferable pattern, not autobiography
+
+Method signal:
+- Anchor stories should be deployed where they unlock a decision or strengthen
+  the proof layer of a playbook move.
+- The right story at the right moment can do the work of several paragraphs of
+  abstract explanation.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.

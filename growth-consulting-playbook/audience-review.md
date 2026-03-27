@@ -960,3 +960,98 @@ This keeps the book sharp instead of diluted.
 
 - Chapter 8 passes the audience review process.
 - No immediate rewrite is required before moving to Chapter 9.
+
+---
+
+## 2026-03-27 — Chapter 9 Review: `Build the New Service Portfolio`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter turns vague "move upstream" language into a real offer-building
+  discussion, which large-firm readers will take seriously.
+- The replacement offer categories are adjacent enough to current consulting
+  work that they feel usable rather than performative.
+- The distinction between proof, entry, and pattern source is especially strong
+  for firms trying to move above delivery without abandoning delivery entirely.
+
+#### What This Audience Would Push Back On
+
+- Large firms will want later chapters to show how these offer types map onto
+  complex multi-line portfolios rather than single-firm pivots.
+- They will also expect the next chapter to show how the new offers are scoped
+  and delivered differently, not just named differently.
+
+#### Review Outcome
+
+- No blocker in Chapter 9.
+- The carry-forward requirement is engagement structure: the book now has to
+  show how the new offer survives contact with the old delivery model.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This chapter is highly usable for the core audience because it favors
+  adjacency over reinvention theater.
+- The offer-design questions and the "one adjacent move" rule are especially
+  strong for smaller firms under pressure.
+- The fuller `Rach 2` story works as proof that multiplied capability can
+  change what kind of offer a firm is justified in selling.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want Chapter 10 to show how to sell and deliver these
+  stronger offers without defaulting back to old hour-sale logic.
+- They will also want clearer examples over time of what the lightest viable
+  version of a new offer looks like.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The next chapter now has to make the delivery model catch up to the offer
+  model.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The chapter scales down well because it treats a solo practice as an offer
+  mix, not as a miniature firm that must imitate larger structures.
+- The offer-design questions are practical for independent repositioning.
+- The `Rach 2` proof point strengthens the solo-reader case that AI leverage
+  can justify a better category of work, not just more speed.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want Chapter 10 to show how the new offer gets
+  packaged and delivered without slipping back into custom labor every time.
+- They will also want the book to keep distinguishing between adjacent growth
+  and fantasy rebranding.
+
+#### Review Outcome
+
+- No blocker in Chapter 9.
+- Keep translating the new portfolio into concrete packaging and delivery moves
+  for a firm of one.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- the new service portfolio cannot be built from slogans
+- adjacent proof is a better design source than fantasy positioning
+- the offer categories are usable and defensible
+- the `Rach 2` story now serves as proof, not ornament
+
+#### Residual Risk
+
+- Chapter 10 now carries a very specific burden: it has to show how new offers
+  are delivered through a new engagement model instead of being dragged back
+  into the old one.
+
+#### Conclusion
+
+- Chapter 9 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 10.

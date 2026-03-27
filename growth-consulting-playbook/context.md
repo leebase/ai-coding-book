@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapters 1-8 approved |
+| **Status** | Introduction and Chapters 1-9 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -93,6 +93,13 @@ This chapter turns the back half of the manuscript toward service-line and
 revenue triage, helping the reader decide what to defend, redesign, sunset, or
 climb above. It has now also passed the three-lens audience review process.
 
+The fifth explicit playbook artifact now exists at
+`offer-design-template.md`, and Chapter 9 now exists at
+`chapters/chapter-9-build-the-new-service-portfolio.md`.
+This chapter turns portfolio triage into replacement-offer design, helping the
+reader sketch what the new business should actually sell. It has now also
+passed the three-lens audience review process.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -128,7 +135,7 @@ COE-building rather than in claimed managing-partner experience.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Design the Chapter 9 offer-design artifact | Lee + AI | A new-service design tool exists before prose |
-| 2 | Draft Chapter 9 — `Build the New Service Portfolio` | AI | The reader can sketch replacement offers |
-| 3 | Pressure-test Chapter 9 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 1 | Design the Chapter 10 engagement-redesign artifact | Lee + AI | The engagement redesign tool exists before prose |
+| 2 | Draft Chapter 10 — `Redesign the Engagement` | AI | The reader can reshape an existing engagement |
+| 3 | Pressure-test Chapter 10 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |
