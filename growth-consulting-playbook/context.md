@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapters 1-11 approved |
+| **Status** | Introduction and Chapters 1-12 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -115,6 +115,14 @@ mix, apprenticeship path, and internal operating discipline can make the new
 model repeatable. It has now also passed the three-lens audience review
 process.
 
+The eighth explicit playbook artifact now exists at
+`client-conversation-guide.md`, and Chapter 12 now exists at
+`chapters/chapter-12-the-client-conversation.md`.
+This chapter turns the manuscript outward again, showing how to reframe the AI
+conversation with a client from reduction to growth and use a better first
+phase to open better work. It has now also passed the three-lens audience
+review process.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -150,7 +158,7 @@ COE-building rather than in claimed managing-partner experience.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Design the Chapter 12 client-conversation artifact | Lee + AI | The conversation tool exists before prose |
-| 2 | Draft Chapter 12 — `The Client Conversation` | AI | The reader can reframe a client meeting immediately |
-| 3 | Pressure-test Chapter 12 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 1 | Draft Chapter 13 — `The New Consulting Firm` | AI | The reader can see the end-state model clearly |
+| 2 | Draft the conclusion and Act III reflection | AI | The manuscript has a complete close |
+| 3 | Do a manuscript-level consistency pass | AI | Repetition, cadence, and closing logic are tightened |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |

@@ -83,11 +83,21 @@ of the scaffolding can be shared: how engagements are framed, how knowledge is
 captured, how quality is reviewed, how AI is used, how deliverables are shaped,
 and how learning gets carried from one project into the next.
 
-I have spent a lot of my career building centers of excellence, and when
-AgentFlow emerged in my own work it was not really a brand-new instinct. It was
-the same pattern applied personally. The methodology was the COE. The books
-became the curriculum. The skills acted as governance. The point was not to
-replace judgment. It was to create a system that let judgment compound.
+I have spent a lot of my career building centers of excellence, solving
+recurring delivery problems, building tools around them, and enabling other
+people through documented methods. When I started developing software with AI
+and AI agents, I kept running into a new version of that same pattern. Context
+drift. Session loss. Uneven quality. False signals of completion. Tooling that
+was powerful but not yet dependable on its own.
+
+So I did what I had spent a career doing. I turned repeated problems into a
+more formal method. I called it AgentFlow.
+
+That is the part that matters here. AgentFlow was not really a brand-new
+instinct. It was the same COE pattern applied personally: the methodology was
+the COE, the books became the curriculum, and the skills acted as governance.
+The point was not to replace judgment. It was to create a system that let
+judgment compound.
 
 That pattern matters because it shows what a repeatable operating model really
 is. It is not a speech about excellence. It is a way of turning good work into

@@ -267,6 +267,32 @@ No immediate rewrite was required. The main carry-forward requirement is that
 Chapter 12 now has to turn the stronger internal model into client-facing
 language a buyer can hear and accept.
 
+## 2026-03-27 — Eighth Playbook Artifact Designed
+
+Created [client-conversation-guide.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/client-conversation-guide.md) as the operating tool for Chapter 12.
+
+This artifact helps the reader reframe AI conversations from reduction to
+growth, expose hidden loss, and open a better first engagement with a skeptical
+client sponsor.
+
+## 2026-03-27 — Chapter 12 Drafted
+
+Drafted [chapter-12-the-client-conversation.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-12-the-client-conversation.md).
+
+This chapter turns the manuscript outward again and uses the `Lewis and Clark`
+story as a real pattern for reframing a constrained AI conversation into a
+controlled first expedition with strategic follow-on value.
+
+Later the same day, Chapter 12 was tightened to make the Lewis and Clark story
+explicitly about employee amplification rather than cost reduction and to
+reduce one-sentence paragraph overuse.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The main carry-forward requirement is that
+Chapter 13 and the conclusion now have to synthesize the end-state firm and
+close the manuscript without leaning on more proof burden.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).

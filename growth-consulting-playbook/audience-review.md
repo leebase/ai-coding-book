@@ -1243,3 +1243,99 @@ This keeps the book sharp instead of diluted.
 
 - Chapter 11 passes the audience review process.
 - No immediate rewrite is required before moving to Chapter 12.
+
+---
+
+## 2026-03-27 — Chapter 12 Review: `The Client Conversation`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter respects the efficiency instinct instead of arguing past it, which
+  large-firm readers will recognize as realistic.
+- The five conversation moves are usable in real client meetings and do not
+  sound like abstract sales advice.
+- The `Lewis and Clark` story works well as a sponsor-facing pattern for
+  proposing a bounded first phase under enterprise constraints.
+
+#### What This Audience Would Push Back On
+
+- Large firms will want the final chapter to show what the winning model looks
+  like at scale once these conversations start converting into real portfolio
+  and operating shifts.
+- Some will want a bit more clarity later on how this conversation changes when
+  procurement, security, and executive sponsorship are all in the room at once.
+
+#### Review Outcome
+
+- No blocker in Chapter 12.
+- The carry-forward requirement is synthesis: the final chapter now has to show
+  what all of this becomes when it holds together.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This chapter is highly usable for the core audience because it turns the
+  growth thesis into live client language.
+- The explicit rejection of reduction-only framing is clear without sounding
+  naive.
+- The `Lewis and Clark` pattern gives smaller firms a realistic way to open a
+  better first engagement without promising a giant transformation.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will expect the final chapter to show what the steady-state
+  firm looks like after making these moves one by one.
+- They will also want confidence that the better conversation leads to a better
+  business, not just a more thoughtful meeting.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The final chapter now needs to show the resulting firm clearly enough to feel
+  attainable.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The conversation logic scales down well to an independent practice.
+- The chapter helps the solo reader avoid winning work by sounding merely
+  cheaper and faster.
+- The client-language framing keeps the independent included in a chapter that
+  could easily have tilted too institutional.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want the final chapter and conclusion to show
+  what the winning firm looks like when the firm is just one person or a very
+  small team.
+- They will also want the ending to preserve the human, witness-based voice
+  that has carried the manuscript so far.
+
+#### Review Outcome
+
+- No blocker in Chapter 12.
+- Keep the final synthesis visible to firms of one, not only to larger firms.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- the client conversation is where the internal work either converts or dies
+- validating the efficiency instinct is the right opening move
+- the `Lewis and Clark` story now clearly demonstrates the empowerment road
+- the conversation sequence is usable and credible
+
+#### Residual Risk
+
+- The final chapter and conclusion now carry the synthesis burden. They need to
+  show the end-state firm clearly and close in a way that feels earned rather
+  than merely summarized.
+
+#### Conclusion
+
+- Chapter 12 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 13.
