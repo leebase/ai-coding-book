@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction, Chapter 1, and Chapter 2 approved |
+| **Status** | Introduction and Chapters 1-3 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -48,6 +48,11 @@ three-lens audience review. It explains why cost-cutting feels like the
 responsible first move and sets up Chapter 3 on what actually gets lost when
 firms take that path too far.
 
+Chapter 3 at `chapters/chapter-3-what-gets-lost-when-you-cut-too-deep.md` has
+also passed the three-lens audience review. It makes hidden value visible,
+locks in `Knowledge Carriers` as a core concept, and raises the expectation
+that Chapter 4 will now pivot from consequence to choice.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -78,7 +83,7 @@ directory.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft Chapter 3 — `What Gets Lost When You Cut Too Deep` | AI | Knowledge, continuity, and tacit judgment are vivid on the page |
-| 2 | Pressure-test Chapter 3 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 1 | Draft Chapter 4 — `The Multiplier Model` | AI | The strategic fork is vivid, memorable, and clearly actionable |
+| 2 | Pressure-test Chapter 4 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
 | 3 | Test the `AI Dip and Divergence Curve` plus `Multiplier Model` as the signature diagram system | Lee + AI | The framing is clear enough for the introduction and proposal materials |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |

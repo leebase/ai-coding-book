@@ -35,6 +35,19 @@ The chapter then passed the three-lens audience review process in
 The main carry-forward requirement is to show, in later chapters, how firms at
 different scales resist reduction-only logic in real operating settings.
 
+## 2026-03-27 — Chapter 3 Drafted
+
+Drafted [chapter-3-what-gets-lost-when-you-cut-too-deep.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-3-what-gets-lost-when-you-cut-too-deep.md).
+
+This chapter makes hidden organizational value visible, introduces
+`Knowledge Carriers` as a durable concept, uses a lived management story as a
+transferable pattern, and begins the `Do Not Cut List`.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+The main carry-forward requirement is to pivot decisively in Chapter 4 from the
+cost of the trap to the strategic choice that follows from seeing it clearly.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).

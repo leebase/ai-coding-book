@@ -315,6 +315,26 @@ Method signal:
 - Reviews are helping identify not just weak spots, but the phrases and
   questions the book should keep returning to.
 
+## 2026-03-27 — The Process Is Compounding Instead of Churning
+
+By Chapter 3, a useful pattern is now visible:
+
+- draft from the locked concept package
+- pressure-test with outside critique
+- make one surgical refinement pass
+- run the three audience lenses
+- carry forward obligations rather than reopening everything
+
+Why it matters:
+- The manuscript is getting stronger chapter by chapter without losing voice.
+- Feedback is increasing precision rather than restarting direction.
+- AuthorFlow currently feels less like "generate and sort" and more like a
+  compounding editorial system.
+
+Method signal:
+- The process works best when each pass has a clear job and does not try to do
+  every kind of improvement at once.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.

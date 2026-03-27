@@ -286,6 +286,99 @@
 
 ---
 
+## 2026-03-27 — Chapter 3 Review: `What Gets Lost When You Cut Too Deep`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter makes hidden organizational value visible without sounding soft or
+  anti-discipline.
+- `Knowledge Carriers` now feels like a real management lens rather than a
+  slogan.
+- The Don-style story works because it translates cleanly into an operating
+  pattern large-firm leaders will recognize.
+
+#### What This Audience Would Push Back On
+
+- Large-firm readers will want later chapters to clarify how firms can identify
+  and protect Knowledge Carriers systematically rather than only intuitively.
+- Some will ask how this argument applies in environments where formal process
+  and documentation are stronger, even if still incomplete.
+
+#### Review Outcome
+
+- No blocker in Chapter 3.
+- The next chapters should start converting this human-risk insight into a more
+  explicit operating choice.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This chapter strongly fits the core audience because it names losses these
+  firms often feel before they can articulate them.
+- The continuity and tacit-judgment framing is especially credible for firms
+  that rely on a small number of key people to keep delivery coherent.
+- The `Do Not Cut List` starts to make the book feel more like a playbook.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will soon want a practical way to identify who belongs on
+  that list before a crisis forces the question.
+- They will also want to know how to make this argument inside a leadership
+  team that still wants immediate savings.
+
+#### Review Outcome
+
+- No blocker in Chapter 3.
+- The chapter raises demand for operating tools, which is the right outcome.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The chapter translates surprisingly well to a one-person practice because the
+  same hidden-value logic applies to client trust, remembered context, and the
+  invisible work that keeps engagements stable.
+- The personal voice helps the solo reader stay inside the book.
+- The distinction between visible output and deeper carried value is highly
+  relevant to independent positioning.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want later chapters to explain how a solo
+  operator identifies and protects their own equivalent of Knowledge Carrier
+  value in offer design.
+- They will also want the playbook language to keep scaling down cleanly from
+  firm decisions to personal practice choices.
+
+#### Review Outcome
+
+- No blocker in Chapter 3.
+- Keep translating organizational language into practice-level positioning.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- hidden value is real even when it is not legible
+- `Knowledge Carriers` is now a durable core concept
+- continuity is both a resilience asset and a growth asset
+- the `Do Not Cut List` is a promising playbook bridge
+
+#### Residual Risk
+
+- The chapter successfully deepens the problem. The next chapter now needs to
+  pivot decisively from consequences to choice.
+
+#### Conclusion
+
+- Chapter 3 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 4.
+
+---
+
 ## Big Consulting Review
 
 ### What Lands
