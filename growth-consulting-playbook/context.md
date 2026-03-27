@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapters 1-10 approved |
+| **Status** | Introduction and Chapters 1-11 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -107,6 +107,14 @@ This chapter turns the new offer model into a redesigned engagement structure
 built around outcomes, transfer, leverage, and follow-on value. It has now also
 passed the three-lens audience review process.
 
+The seventh explicit playbook artifact now exists at
+`operating-model-canvas.md`, and Chapter 11 now exists at
+`chapters/chapter-11-talent-and-operating-model.md`.
+This chapter turns the book toward sustainability, showing what kind of talent
+mix, apprenticeship path, and internal operating discipline can make the new
+model repeatable. It has now also passed the three-lens audience review
+process.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -142,7 +150,7 @@ COE-building rather than in claimed managing-partner experience.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Design the Chapter 11 operating-model artifact | Lee + AI | The talent and operating-model tool exists before prose |
-| 2 | Draft Chapter 11 — `Talent and Operating Model` | AI | The reader can redesign org and capability choices |
-| 3 | Pressure-test Chapter 11 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 1 | Design the Chapter 12 client-conversation artifact | Lee + AI | The conversation tool exists before prose |
+| 2 | Draft Chapter 12 — `The Client Conversation` | AI | The reader can reframe a client meeting immediately |
+| 3 | Pressure-test Chapter 12 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |

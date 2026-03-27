@@ -1149,3 +1149,97 @@ This keeps the book sharp instead of diluted.
 
 - Chapter 10 passes the audience review process.
 - No immediate rewrite is required before moving to Chapter 11.
+
+---
+
+## 2026-03-27 — Chapter 11 Review: `Talent and Operating Model`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter makes a credible case that the multiplier path requires a
+  different internal operating discipline, not just better rhetoric.
+- The three-group talent architecture gives large firms a useful way to think
+  about protected talent, multiplier roles, and apprenticeship nodes.
+- The `AgentFlow as personal COE` pattern works as proof that method,
+  curriculum, and governance have to compound together.
+
+#### What This Audience Would Push Back On
+
+- Large firms will want later chapters to show how these internal disciplines
+  interact with partner incentives, utilization pressure, and cross-practice
+  governance.
+- They will also expect the next chapter to turn this internal model into
+  client-facing language that can actually be sold.
+
+#### Review Outcome
+
+- No blocker in Chapter 11.
+- The carry-forward requirement is external framing: how this stronger internal
+- model gets translated into a client conversation.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This chapter fits the core audience because it keeps the operating-model move
+  practical rather than corporate.
+- The apprenticeship redesign argument is especially strong for firms whose old
+  developmental pyramid is weakening.
+- The advice for smaller firms stays realistic: one useful internal system is
+  better than a speech about culture.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want Chapter 12 to show how to explain these internal
+  investments without sounding expensive or abstract to clients.
+- They will also want confidence that method visibility and transfer can be
+  sold as strengths rather than as reduced need for the firm.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The next burden is client language, not internal logic.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The firm-of-one translation works because it treats operating discipline as a
+  personal system rather than borrowed bureaucracy.
+- The self-compounding practice line lands well.
+- The COE pattern gives the solo reader a way to think about method and
+  governance without pretending to be a large consultancy.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want Chapter 12 to show how to talk about method
+  and leverage in a way clients value rather than fear.
+- They will also want practical help making visible method feel premium instead
+  of generic.
+
+#### Review Outcome
+
+- No blocker in Chapter 11.
+- Keep translating internal discipline into client-facing value.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- the multiplier path is less forgiving and needs a stronger firm
+- apprenticeship has to be redesigned, not assumed
+- visible method is a strategic asset
+- internal discipline is now a revenue issue
+- the `AgentFlow as personal COE` story proves compounding, not just effort
+
+#### Residual Risk
+
+- Chapter 12 now has to turn the internal model into language a client can hear
+  and buy.
+
+#### Conclusion
+
+- Chapter 11 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 12.

@@ -242,6 +242,31 @@ No immediate rewrite was required. The main carry-forward requirement is that
 Chapter 11 now has to show what kind of operating model can make this approach
 repeatable.
 
+## 2026-03-27 — Seventh Playbook Artifact Designed
+
+Created [operating-model-canvas.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/operating-model-canvas.md) as the operating tool for Chapter 11.
+
+This artifact helps the reader think through protected talent, multiplier
+roles, apprenticeship, visible method, and internal operating discipline.
+
+## 2026-03-27 — Chapter 11 Drafted
+
+Drafted [chapter-11-talent-and-operating-model.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-11-talent-and-operating-model.md).
+
+This chapter shifts the manuscript from engagement design to repeatability,
+showing what kind of firm can actually sustain the multiplier model. It also
+deploys the `AgentFlow as personal COE` pattern as proof that method,
+curriculum, and governance are what make amplified work compound.
+
+Later the same day, Chapter 11 was tightened to remove the weakest opening
+orientation and make the internal-systems section more concrete.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The main carry-forward requirement is that
+Chapter 12 now has to turn the stronger internal model into client-facing
+language a buyer can hear and accept.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).
