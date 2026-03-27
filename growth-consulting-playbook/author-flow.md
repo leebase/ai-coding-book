@@ -335,6 +335,40 @@ Method signal:
 - The process works best when each pass has a clear job and does not try to do
   every kind of improvement at once.
 
+## 2026-03-27 — Framework Chapters Need the Same Discipline as Narrative Chapters
+
+Chapter 4 confirmed that AuthorFlow can handle a framework-heavy chapter
+without drifting into consultant fog or generic diagram language.
+
+What made that work:
+
+- the framework was earned by prior chapters before it was named
+- outside critique trimmed defensive framing and repeated logic
+- audience review tested whether the fork felt strategic at multiple scales
+
+Method signal:
+- A strong framework chapter should arrive as recognition, not announcement.
+- The system works best when frameworks are treated as arguments with
+  consequences, not as branded shapes.
+
+## 2026-03-27 — The Back Half of the Book Now Needs a Different Standard
+
+After Chapter 4, the manuscript has earned the right to become more operational.
+That means the evaluation standard changes.
+
+The right question for Chapters 5-12 is no longer:
+
+- does the argument make sense?
+
+It is:
+
+- what can the reader do next week because of this chapter?
+
+Method signal:
+- AuthorFlow should not apply the same drafting standard to the playbook half
+  of the manuscript as to the diagnostic half.
+- For playbook chapters, tool design should often precede prose.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.

@@ -48,6 +48,33 @@ The chapter then passed the three-lens audience review process in
 The main carry-forward requirement is to pivot decisively in Chapter 4 from the
 cost of the trap to the strategic choice that follows from seeing it clearly.
 
+## 2026-03-27 — Chapter 4 Drafted
+
+Drafted [chapter-4-the-multiplier-model.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-4-the-multiplier-model.md).
+
+This chapter introduces the book's core strategic fork, contrasts the
+Substitution Road and the Empowerment Road, and shows their different outcomes
+across 12, 24, and 36 months. It also scales the framework down to the
+independent consultant.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+The main carry-forward requirement is for the next chapters to convert the
+framework into concrete operating choices and playbook moves.
+
+## 2026-03-27 — Playbook Readiness Standard Added
+
+Created [playbook-readiness.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/playbook-readiness.md) to pressure-test Chapters 5-12 against the book's title promise.
+
+The key standard is now explicit:
+
+**After each remaining chapter, what can the reader do next week that they
+could not do before?**
+
+This matters because the main risk is no longer weak concept or weak prose. It
+is under-delivering on the `Playbook` promise by staying at framework level in
+the back half of the manuscript.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).

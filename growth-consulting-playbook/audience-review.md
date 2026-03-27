@@ -379,6 +379,100 @@
 
 ---
 
+## 2026-03-27 — Chapter 4 Review: `The Multiplier Model`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The strategic fork feels real rather than rhetorical.
+- The 12/24/36 month progression gives large-firm readers a planning frame, not
+  just a philosophy.
+- The distinction between faster proof and stronger options is exactly the kind
+  of tradeoff language this audience recognizes.
+
+#### What This Audience Would Push Back On
+
+- Large-firm readers will want later chapters to show how the empowerment road
+  works in firms with multiple business lines, layered governance, and mixed
+  delivery models.
+- Some will want more explicit operating moves for taking the multiplier road
+  beyond agreeing with the concept.
+
+#### Review Outcome
+
+- No blocker in Chapter 4.
+- The next chapters now owe the reader more operational specificity, which is
+  appropriate at this point in the book.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- The chapter is strong for the core audience because it turns the book's
+  argument into a concrete strategic choice.
+- The 12/24/36 month framing is especially useful for firms that need a way to
+  think beyond quarter-by-quarter pressure.
+- The empowerment road feels ambitious but not abstract.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want Chapter 5 onward to show what the first few
+  moves actually are if they want to choose the multiplier road now.
+- They will also want to know how to hold that line when near-term pressure is
+  still real.
+
+#### Review Outcome
+
+- No blocker in Chapter 4.
+- The book is now expected to start paying off the playbook promise more
+  directly.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The firm-of-one section keeps the solo reader inside the framework rather
+  than treating them as an afterthought.
+- The substitution-versus-multiplier choice translates cleanly to offer design
+  for an independent consultant.
+- The chapter helps solo operators see that AI can either cheapen their labor
+  or deepen their value proposition.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want later chapters to show how to turn the
+  empowerment road into a concrete positioning and packaging strategy.
+- They will also want examples of how to avoid training clients to buy them as
+  faster commodity labor.
+
+#### Review Outcome
+
+- No blocker in Chapter 4.
+- Keep translating framework into practice-level decisions as the playbook
+  chapters advance.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- the Multiplier Model is a durable core framework
+- the substitution road offers faster proof
+- the empowerment road offers stronger options
+- AI amplifies the strategy the firm chooses
+
+#### Residual Risk
+
+- The framework now lands. The next chapters need to show what it looks like to
+  actually choose it.
+
+#### Conclusion
+
+- Chapter 4 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 5.
+
+---
+
 ## Big Consulting Review
 
 ### What Lands

@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapters 1-3 approved |
+| **Status** | Introduction and Chapters 1-4 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -53,6 +53,16 @@ also passed the three-lens audience review. It makes hidden value visible,
 locks in `Knowledge Carriers` as a core concept, and raises the expectation
 that Chapter 4 will now pivot from consequence to choice.
 
+Chapter 4 at `chapters/chapter-4-the-multiplier-model.md` has now also passed
+the three-lens audience review. It locks the strategic fork and raises the
+expectation that Chapter 5 onward will begin paying off the playbook promise
+more directly.
+
+A new guardrail now exists at `playbook-readiness.md`, pressure-testing
+Chapters 5-12 against a stricter standard:
+
+What can the reader do next week because of this chapter?
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -83,7 +93,7 @@ directory.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft Chapter 4 — `The Multiplier Model` | AI | The strategic fork is vivid, memorable, and clearly actionable |
-| 2 | Pressure-test Chapter 4 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
-| 3 | Test the `AI Dip and Divergence Curve` plus `Multiplier Model` as the signature diagram system | Lee + AI | The framing is clear enough for the introduction and proposal materials |
+| 1 | Design the first explicit playbook artifact for Chapter 5 | Lee + AI | A concrete tool exists before prose begins |
+| 2 | Pressure-test Chapter 5 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 3 | Draft Chapter 5 — `Who AI Replaces, Who It Multiplies` | AI | The framework turns into concrete talent and role implications |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |
