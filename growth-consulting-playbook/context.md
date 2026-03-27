@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapters 1-9 approved |
+| **Status** | Introduction and Chapters 1-10 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -100,6 +100,13 @@ This chapter turns portfolio triage into replacement-offer design, helping the
 reader sketch what the new business should actually sell. It has now also
 passed the three-lens audience review process.
 
+The sixth explicit playbook artifact now exists at
+`engagement-redesign.md`, and Chapter 10 now exists at
+`chapters/chapter-10-redesign-the-engagement.md`.
+This chapter turns the new offer model into a redesigned engagement structure
+built around outcomes, transfer, leverage, and follow-on value. It has now also
+passed the three-lens audience review process.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -135,7 +142,7 @@ COE-building rather than in claimed managing-partner experience.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Design the Chapter 10 engagement-redesign artifact | Lee + AI | The engagement redesign tool exists before prose |
-| 2 | Draft Chapter 10 — `Redesign the Engagement` | AI | The reader can reshape an existing engagement |
-| 3 | Pressure-test Chapter 10 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 1 | Design the Chapter 11 operating-model artifact | Lee + AI | The talent and operating-model tool exists before prose |
+| 2 | Draft Chapter 11 — `Talent and Operating Model` | AI | The reader can redesign org and capability choices |
+| 3 | Pressure-test Chapter 11 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |

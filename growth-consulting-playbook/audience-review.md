@@ -1055,3 +1055,97 @@ This keeps the book sharp instead of diluted.
 
 - Chapter 9 passes the audience review process.
 - No immediate rewrite is required before moving to Chapter 10.
+
+---
+
+## 2026-03-27 — Chapter 10 Review: `Redesign the Engagement`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter makes a credible case that new offers cannot survive inside old
+  engagement structures.
+- The five shifts give large-firm readers a usable way to rethink scope,
+  transfer, leverage, and follow-on value.
+- The `Lewis and Clark` proposal works well here as proof that engagement logic
+  can be redesigned before the work begins.
+
+#### What This Audience Would Push Back On
+
+- Large firms will want later chapters to show how these redesign moves scale
+  across more complex staffing models and partner incentives.
+- They will also expect the next chapter to show what internal operating model
+  and talent system can actually support this kind of engagement consistently.
+
+#### Review Outcome
+
+- No blocker in Chapter 10.
+- The carry-forward requirement is now organizational: what kind of firm can
+  reliably deliver this model?
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This chapter is practical because it turns new offers into specific redesign
+  questions instead of vague delivery aspirations.
+- The distinction between direct work, joint work, and transferred work is
+  especially useful for smaller firms.
+- The `Lewis and Clark` proof point helps the chapter feel lived rather than
+  purely framework-driven.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want Chapter 11 to show what internal systems and
+  talent choices matter most when the firm cannot redesign everything at once.
+- They will also want confidence that the redesigned engagement can still be
+  sold and delivered without blowing up utilization logic overnight.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The next burden is operating discipline, not engagement logic.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The chapter scales down well because the engagement redesign questions still
+  apply cleanly to independent consulting.
+- The line between visible labor and visible leverage is strong for this
+  audience.
+- The `Lewis and Clark` story strengthens the solo-reader sense that a better
+  engagement can be designed from inside a constrained environment.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want Chapter 11 to show what internal discipline
+  replaces the structures larger firms take for granted.
+- They will also want help deciding what method should become visible and what
+  should remain proprietary.
+
+#### Review Outcome
+
+- No blocker in Chapter 10.
+- Keep translating engagement redesign into operating discipline for a firm of
+  one.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- a better offer delivered the old way becomes the old offer again
+- engagement redesign is structural, not cosmetic
+- direct, joint, and transferred work need to be chosen on purpose
+- the `Lewis and Clark` story proves the framework in a real setting
+
+#### Residual Risk
+
+- Chapter 11 now has to show the operating model that makes this sustainable,
+  not just possible.
+
+#### Conclusion
+
+- Chapter 10 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 11.

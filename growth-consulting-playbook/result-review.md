@@ -215,6 +215,33 @@ No immediate rewrite was required. The main carry-forward requirement is that
 Chapter 10 now has to prove the new offers can survive a redesigned engagement
 model rather than being pulled back into the old one.
 
+## 2026-03-27 — Sixth Playbook Artifact Designed
+
+Created [engagement-redesign.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/engagement-redesign.md) as the operating tool for Chapter 10.
+
+This artifact helps the reader redesign consulting engagements around outcomes,
+transfer, leverage, method visibility, and follow-on value rather than around
+staffed effort alone.
+
+## 2026-03-27 — Chapter 10 Drafted
+
+Drafted [chapter-10-redesign-the-engagement.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-10-redesign-the-engagement.md).
+
+This chapter shows how a better offer can still fail if it is delivered
+through the old model, and gives the reader a way to reshape scope, success,
+and knowledge transfer so the engagement strengthens the client instead of just
+servicing it.
+
+Later the same day, Chapter 10 was tightened by removing the weakest comparison
+lists and bringing in the `Lewis and Clark` proposal as proof of engagement
+redesign in a real constrained environment.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The main carry-forward requirement is that
+Chapter 11 now has to show what kind of operating model can make this approach
+repeatable.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).
