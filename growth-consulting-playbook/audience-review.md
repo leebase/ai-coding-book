@@ -473,6 +473,95 @@
 
 ---
 
+## 2026-03-27 — Chapter 5 Review: `Who AI Replaces, Who It Multiplies`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter delivers a real decision tool rather than another layer of
+  framework language.
+- The four-part role triage is clear, memorable, and usable in a talent review.
+- The seven diagnostic questions are strong enough to stop a decision room and
+  reframe the conversation around consequence instead of cost.
+
+#### What This Audience Would Push Back On
+
+- Large-firm readers will want later chapters to show how the framework works
+  at scale across multiple business lines and governance layers.
+- Some will want more guidance on how to run this process consistently rather
+  than relying on managerial instinct alone.
+
+#### Review Outcome
+
+- No blocker in Chapter 5.
+- The chapter successfully crosses into playbook mode.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This is a strong fit for the core audience because it is immediately usable.
+- The role triage and `Do Not Cut` screen help mid-market readers make better
+  talent decisions under pressure without pretending those decisions are simple.
+- The tone remains practical without becoming rigid or HR-like.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want subsequent chapters to keep this same level of
+  specificity, especially around productivity allocation and offer redesign.
+- They will also want examples of how this tool gets used inside a real partner
+  or leadership meeting.
+
+#### Review Outcome
+
+- No blocker in Chapter 5.
+- This chapter now sets the operational bar for the rest of the playbook half.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The chapter still scales down well because the categories translate into
+  offer design and self-positioning.
+- The distinction between `Compress` and `Multiply` is especially useful for an
+  independent consultant deciding what kind of value to sell.
+- The chapter helps solo operators see where they may be underpricing judgment
+  while overemphasizing throughput.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want later chapters to continue translating the
+  categories into packaging, client positioning, and practice design.
+- They will also want examples of what a solo `Multiply` strategy looks like in
+  practice.
+
+#### Review Outcome
+
+- No blocker in Chapter 5.
+- Keep the playbook language scaling cleanly down to firm-of-one decisions.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- the back half of the book has now entered true playbook mode
+- the four-part triage is a usable management tool
+- the seven diagnostic questions are strong and memorable
+- visible productivity still risks hiding carried value
+
+#### Residual Risk
+
+- The usability bar is now higher for every remaining chapter. The next playbook
+  chapters need to feel equally actionable.
+
+#### Conclusion
+
+- Chapter 5 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 6.
+
+---
+
 ## Big Consulting Review
 
 ### What Lands
@@ -590,3 +679,190 @@ Then write the book so:
 - independent consultants can still translate the core moves into practice
 
 This keeps the book sharp instead of diluted.
+
+---
+
+## 2026-03-27 — Chapter 6 Review: `The People You Didn't Know You Had`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter opens a credible offensive lane by shifting from risk avoidance
+  to capability discovery.
+- The distinction between underperformance and underexpression will resonate in
+  firms with deep talent benches and rigid role definitions.
+- The activation exercise is practical enough to use in a real talent review
+  without sounding like culture theater.
+
+#### What This Audience Would Push Back On
+
+- Large firms will want later chapters to show how latent-capability discovery
+  scales across multiple practices, geographies, and governance layers.
+- They will expect clearer guidance on how to institutionalize activation so it
+  does not depend on unusually perceptive leaders.
+
+#### Review Outcome
+
+- No blocker in Chapter 6.
+- Later chapters should show how discovery becomes operating rhythm, not just
+  individual management instinct.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This chapter fits the core audience well because it turns empowerment into a
+  manageable exercise rather than a vague aspiration.
+- The signals for latent capability feel observable in real firms where people
+  wear narrow titles but carry broader value.
+- The activation framing is modest and believable, which builds trust.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want the next chapters to show what to do with newly
+  surfaced capability when capacity and budget are still tight.
+- They will also want practical sequencing so this does not become another good
+  idea that loses to client work and internal urgency.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The carry-forward requirement is allocation: once value is found, the book
+  now has to show where it goes.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The solo-practice translation works because it turns the same chapter logic
+  inward without changing the voice.
+- The line about underestimating your own leverage because the current role is
+  too small is especially strong for independent readers.
+- The chapter keeps the book human without drifting away from business use.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want later chapters to convert this discovery
+  into offer redesign, packaging, and positioning moves.
+- They will also want examples of safe activation tests for a practice that has
+  no formal team structure.
+
+#### Review Outcome
+
+- No blocker in Chapter 6.
+- Keep translating capability discovery into one-person-practice decisions.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- underperformance and underexpression are meaningfully different
+- firms can keep the right people and still waste their upside
+- latent-capability discovery is now a real playbook move, not just a theme
+- the book's growth thesis is becoming more human without losing business rigor
+
+#### Residual Risk
+
+- Chapter 6 raises the bar for the second half of the manuscript: the next
+  chapters must show how discovered capability gets deployed, not merely
+  admired.
+
+#### Conclusion
+
+- Chapter 6 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 7.
+
+---
+
+## 2026-03-27 — Chapter 7 Review: `Every Engagement Needs a Growth Thesis`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter gives large firms a credible way to turn AI work into a portfolio
+  and engagement-level decision rather than a vague innovation theme.
+- The `Growth Allocation Decision` is concrete enough to survive partner,
+  practice, and executive conversations.
+- The distinction between helping a client optimize the present and helping the
+  client design the future will resonate strongly with this audience.
+
+#### What This Audience Would Push Back On
+
+- Large firms will want later chapters to distinguish between allocation at the
+  account level, practice level, and firm level.
+- They will also expect the next chapters to show how this logic translates
+  into service-line and engagement redesign, not just internal planning.
+
+#### Review Outcome
+
+- No blocker in Chapter 7.
+- Carry the allocation logic forward into portfolio and engagement structure in
+  the next chapters.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This chapter is highly usable for the core audience because it turns
+  reinvestment into a real management decision.
+- The question `What work will stop so this choice becomes real?` feels exactly
+  like the kind of discipline smaller firms need.
+- The five allocation paths are broad enough to be strategic but concrete
+  enough to use under pressure.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will now expect Chapter 8 to help them triage current
+  offers and revenue with the same level of specificity.
+- They will also want examples of how to make one primary allocation choice
+  without overcommitting the firm.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The usability bar is now set by this chapter and the next chapter has to meet
+  it.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The solo-operator translation is the strongest in the manuscript so far.
+- The chapter makes clear that a one-person practice also has to decide what
+  new capacity is for instead of letting the market turn it into cheaper labor.
+- The five allocation paths scale down cleanly to independent positioning
+  choices.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want Chapter 8 and later chapters to show how
+  allocation decisions change packaging, pricing, and offer design.
+- They will also want proof that internal capability work can pay off in a
+  practice with no formal team.
+
+#### Review Outcome
+
+- No blocker in Chapter 7.
+- Keep translating playbook moves into offer-level decisions for a firm of one.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- AI creates capacity, not growth by itself
+- growth has to be allocated rather than merely hoped for
+- the `Growth Allocation Decision` is a real playbook tool
+- firms need ownership, sacrifice, and ninety-day signals for reinvestment to
+  become real
+
+#### Residual Risk
+
+- The remaining playbook chapters now have to deliver the same level of
+  specificity when the focus shifts to service portfolio and offer design.
+
+#### Conclusion
+
+- Chapter 7 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 8.

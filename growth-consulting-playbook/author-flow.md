@@ -369,6 +369,96 @@ Method signal:
   of the manuscript as to the diagnostic half.
 - For playbook chapters, tool design should often precede prose.
 
+## 2026-03-27 — First Artifact-First Chapter Drafted
+
+After adding the playbook-readiness standard, the next move was not to draft
+Chapter 5 immediately. The first move was to design a tool:
+
+- `role-triage-framework.md`
+
+Only after the artifact existed was Chapter 5 drafted around it.
+
+Why it matters:
+- The chapter now gives the reader something usable in a talent review.
+- The prose is anchored to an operating tool rather than merely pointing toward
+  one.
+
+Method signal:
+- Artifact-first drafting is likely the right mode for at least some of the
+  playbook chapters.
+
+## 2026-03-27 — First Playbook Chapter Passed the Usability Test
+
+Chapter 5 was the first real test of whether the back half of the manuscript
+would actually deliver on the word `Playbook`.
+
+The chapter passed the audience review process not because it was merely
+well-argued, but because it gave readers something they could use in a talent
+review the same week.
+
+Method signal:
+- In the playbook half of the book, usefulness is now the leading quality test.
+- The remaining chapters should be judged against the usability bar Chapter 5
+  just established.
+
+## 2026-03-27 — Artifact-First Also Works for Human-Amplification Chapters
+
+Chapter 6 was also designed artifact-first, using a latent-capability
+activation exercise before drafting the prose.
+
+Why it matters:
+- Without a tool, the chapter risked becoming inspirational rather than
+  operational.
+- The artifact kept the chapter anchored in management action: discovery,
+  testing, and activation.
+
+Method signal:
+- Even chapters that sound more human or talent-oriented may need explicit
+  tools first if they are supposed to function as playbook chapters.
+
+## 2026-03-27 — Warmer Playbook Chapters Need Less Scaffolding on the Page
+
+Chapter 6 exposed a different drafting risk from the earlier chapters.
+
+Why it matters:
+- Once the manuscript moves from diagnosis into discovery and activation, the
+  prose can carry more warmth and curiosity.
+- If the chapter keeps too much visible framework scaffolding, it starts to
+  feel like an internal worksheet instead of a book.
+
+What changed:
+- the opening cadence was softened so the chapter could invite rather than only
+  warn
+- the activation setup was folded into the exercise itself
+- explicit local-tool references were removed from the prose
+
+Method signal:
+- Playbook chapters still need tools, but the tool should disappear into the
+  reading experience as much as possible.
+- The more human the chapter, the more the artifact has to support the prose
+  from underneath instead of announcing itself on the page.
+
+## 2026-03-27 — Allocation Chapters Need a Decision Before They Need a Draft
+
+Chapter 7 was built around the `Growth Allocation Decision`.
+
+Why it matters:
+- The manuscript had been repeating the right question for several chapters:
+  where does the productivity go?
+- Without an explicit decision tool, Chapter 7 could easily have become another
+  smart warning about reinvestment instead of a usable management move.
+
+What changed:
+- the decision was expressed as five concrete allocation paths
+- the chapter was anchored in ownership, tradeoffs, and ninety-day signals
+- the playbook standard shifted from discovery to deployment
+
+Method signal:
+- Once the back half of a book enters playbook mode, the artifact for each
+  chapter should answer a real meeting-room decision.
+- Drafting gets easier when the operational question is sharper than the prose
+  ambition.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.

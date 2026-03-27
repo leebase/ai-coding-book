@@ -75,6 +75,87 @@ This matters because the main risk is no longer weak concept or weak prose. It
 is under-delivering on the `Playbook` promise by staying at framework level in
 the back half of the manuscript.
 
+## 2026-03-27 — First Playbook Artifact Designed
+
+Created [role-triage-framework.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/role-triage-framework.md) as the first explicit back-half playbook tool.
+
+The framework sorts roles and people into four buckets:
+
+- `Compress`
+- `Augment`
+- `Multiply`
+- `Protect`
+
+It also includes a first-pass `Do Not Cut` screen and a set of diagnostic
+questions intended for real talent-review use.
+
+## 2026-03-27 — Chapter 5 Drafted
+
+Drafted [chapter-5-who-ai-replaces-who-it-multiplies.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-5-who-ai-replaces-who-it-multiplies.md).
+
+This chapter is the first one explicitly built around a playbook artifact
+instead of only around argument. It turns the Multiplier Model into a role
+triage decision process and begins translating the strategy into Monday-morning
+talent review moves.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+The main carry-forward requirement is now consistency: the remaining playbook
+chapters need to meet the same usability bar rather than slipping back into
+framework-only prose.
+
+## 2026-03-27 — Second Playbook Artifact Designed
+
+Created [latent-capability-activation.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/latent-capability-activation.md) as the operating tool for Chapter 6.
+
+This artifact focuses on surfacing underused people who may become more
+valuable once AI reduces friction, broadens range, and increases leverage.
+
+## 2026-03-27 — Chapter 6 Drafted
+
+Drafted [chapter-6-the-people-you-didnt-know-you-had.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-6-the-people-you-didnt-know-you-had.md).
+
+This chapter builds on the Multiplier Model and role triage by shifting from
+misclassification risk to latent-capability discovery. It introduces a
+repeatable activation exercise and begins making human amplification usable as a
+management move rather than just an inspiring idea.
+
+Later the same day, Chapter 6 was revised to reduce the framework-document
+feel, soften the opening cadence, fold the activation setup into the exercise,
+and make the chapter read more like book prose than internal scaffolding.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The main carry-forward requirement is that
+Chapter 7 now has to show where newly surfaced capability and freed capacity
+should actually go.
+
+## 2026-03-27 — Third Playbook Artifact Designed
+
+Created [growth-allocation-decision.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/growth-allocation-decision.md) as the operating tool for Chapter 7.
+
+This artifact turns the recurring book question, `Where does the productivity
+go?`, into a real allocation decision with five destination categories,
+decision questions, and failure signals.
+
+## 2026-03-27 — Chapter 7 Drafted
+
+Drafted [chapter-7-every-engagement-needs-a-growth-thesis.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-7-every-engagement-needs-a-growth-thesis.md).
+
+This chapter converts the argument about reinvestment into a practical
+management move: choosing where AI-freed capacity should go, assigning
+ownership, and testing whether the allocation is actually producing a stronger
+future rather than just a faster present.
+
+Later the same day, Chapter 7 was tightened to reduce repeated diagnostic
+ground and keep the chapter firmly in decision mode.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The main carry-forward requirement is that
+Chapter 8 now has to turn this allocation logic into service-line and offer
+triage with the same level of specificity.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).

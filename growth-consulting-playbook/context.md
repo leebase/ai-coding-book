@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapters 1-4 approved |
+| **Status** | Introduction and Chapters 1-7 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -63,6 +63,29 @@ Chapters 5-12 against a stricter standard:
 
 What can the reader do next week because of this chapter?
 
+The first explicit playbook artifact now exists at
+`role-triage-framework.md`. It is designed to support Chapter 5 and gives the
+back half of the manuscript its first real decision tool.
+
+Chapter 5 now exists at `chapters/chapter-5-who-ai-replaces-who-it-multiplies.md`.
+It turns the strategy into a role triage process built around four buckets:
+`Compress`, `Augment`, `Multiply`, and `Protect`.
+It has now also passed the three-lens audience review process.
+
+The second explicit playbook artifact now exists at
+`latent-capability-activation.md`, and Chapter 6 now exists at
+`chapters/chapter-6-the-people-you-didnt-know-you-had.md`.
+This chapter turns hidden human capability into a discovery and activation
+exercise rather than leaving it as a motivational theme. It has now also
+passed the three-lens audience review process.
+
+The third explicit playbook artifact now exists at
+`growth-allocation-decision.md`, and Chapter 7 now exists at
+`chapters/chapter-7-every-engagement-needs-a-growth-thesis.md`.
+This chapter turns the book's recurring question, `Where does the productivity
+go?`, into a concrete allocation decision instead of leaving it as a warning.
+It has now also passed the three-lens audience review process.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -93,7 +116,7 @@ directory.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Design the first explicit playbook artifact for Chapter 5 | Lee + AI | A concrete tool exists before prose begins |
-| 2 | Pressure-test Chapter 5 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
-| 3 | Draft Chapter 5 — `Who AI Replaces, Who It Multiplies` | AI | The framework turns into concrete talent and role implications |
+| 1 | Design the Chapter 8 portfolio-triage artifact | Lee + AI | The service-line decision tool exists before prose |
+| 2 | Draft Chapter 8 — `Stop Selling the Wrong Work` | AI | The reader can triage current revenue and offers |
+| 3 | Pressure-test Chapter 8 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |
