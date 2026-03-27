@@ -97,6 +97,101 @@
 
 ---
 
+## 2026-03-27 — Chapter 1 Review: `The Delivery Economy Is Ending`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter makes the repricing pressure feel structural rather than like
+  ordinary market softness.
+- The section on the old pyramid reads as economically literate rather than
+  anti-scale.
+- `Delivery still matters. Delivery alone does not.` is the right kind of
+  distinction for this audience.
+
+#### What This Audience Would Push Back On
+
+- Large-firm readers will want later chapters to separate premium integrated
+  delivery from labor-heavy implementation more explicitly.
+- Some will say the chapter describes pressure accurately but still understates
+  the protective force of brand, executive access, and cross-capability scale.
+
+#### Review Outcome
+
+- No blocker in Chapter 1.
+- Preserve the nuance that scale can delay margin pressure without eliminating
+  the underlying value migration.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- The chapter feels highly relevant to firms whose economics still rely on
+  implementation-heavy work.
+- The explanation of the old pyramid as both a pricing system and a
+  developmental system is especially useful here.
+- The tone still sounds like survival-minded strategy rather than analyst
+  distance.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want later chapters to show what a realistic first
+  repositioning step looks like when they cannot rebuild the whole portfolio at
+  once.
+- They will also want practical language for how to explain this shift inside a
+  firm before the firm has already redesigned pricing and staffing.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The practical burden now sits with Chapter 2 onward, not with this chapter.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The structural-vs-cyclical framing still applies to a one-person practice.
+- The chapter's emphasis on repricing and visible effort translates well to
+  solo operators selling delivery work.
+- The voice remains personal enough that an independent reader does not get
+  pushed out by firm-scale language.
+
+#### What This Audience Would Push Back On
+
+- Solo readers will soon want a more explicit statement that the same delivery
+  compression applies to their offer design, not just to larger consulting
+  organizations.
+- They will want later chapters to show how a one-person practice moves from
+  billed effort to higher-value judgment without sounding abstract.
+
+#### Review Outcome
+
+- No blocker in Chapter 1.
+- Keep translating firm-level concepts down to offer-level decisions for the
+  independent consultant.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- the chapter's structural-not-cyclical framing
+- the old pyramid as both pricing and apprenticeship system
+- the distinction between delivery pressure and total consulting collapse
+- the line `Delivery still matters. Delivery alone does not.`
+
+#### Residual Risk
+
+- The chapter earns trust by being precise; the next chapters now need to be
+  just as concrete about what firms actually do in response.
+
+#### Conclusion
+
+- Chapter 1 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 2.
+
+---
+
 ## Big Consulting Review
 
 ### What Lands

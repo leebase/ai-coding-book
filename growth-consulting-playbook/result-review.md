@@ -4,6 +4,23 @@
 
 ---
 
+## 2026-03-27 — Chapter 1 Drafted
+
+Drafted [chapter-1-the-delivery-economy-is-ending.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-1-the-delivery-economy-is-ending.md).
+
+This chapter makes the pressure on delivery economics feel structural rather
+than cyclical, separates repricing pressure from total consulting collapse, and
+frames the old consulting pyramid as both a pricing system and a developmental
+system that AI now destabilizes.
+
+It also sets up Chapter 2 cleanly by ending on the temptation to treat the
+first obvious savings as strategy.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+The main carry-forward requirement is to keep later chapters concrete about
+what firms at different scales actually do next.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).

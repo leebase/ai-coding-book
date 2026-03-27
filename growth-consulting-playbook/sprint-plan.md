@@ -8,11 +8,11 @@
 
 ## Current Phase
 
-**Phase 0 — Concept, Positioning, and Method Buildout**
+**Phase 1 — Early Manuscript Drafting**
 
-The book is still in pre-manuscript development. The current goal is to turn a
-strong idea plus a growing note pile into a locked concept, a differentiated
-position, and a usable table of contents.
+The planning package is now strong enough to support real chapter drafting. The
+current goal is to build the opening run of manuscript chapters while keeping
+the voice, audience fit, and practical spine intact.
 
 ---
 
@@ -166,6 +166,8 @@ book.
 | Decide chapter drafting order | ✅ Done |
 | Pick the first chapter or sample chapter to write | ✅ Done |
 | Draft the first sample chapter | ✅ Done |
+| Audience-review the first sample chapter | ✅ Done |
+| Draft Chapter 1 | ✅ Done |
 
 ### Sprint 5 Deliverables
 

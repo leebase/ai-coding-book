@@ -268,6 +268,39 @@ Method signal:
 - Audience review should not automatically force prose changes.
 - Sometimes the right output is confidence plus carry-forward constraints.
 
+## 2026-03-27 — Chapter 1 Confirmed the Book Can Sustain the Opening Voice
+
+After the introduction passed audience review, the next move was not more
+planning. It was to draft the first body chapter while the voice was still
+fresh.
+
+Chapter 1 had a narrower job than the introduction:
+
+- make delivery repricing feel structural, not cyclical
+- protect the manuscript from overclaiming "consulting is dead"
+- explain why pressure on routine delivery still destabilizes the larger model
+
+Method signal:
+- Once the opening chapter is approved, AuthorFlow should move quickly into the
+  first body chapter to prove the voice can hold through argument, not just
+  through framing.
+
+## 2026-03-27 — Audience Review on Body Chapters Surfaced Obligations, Not Damage
+
+Chapter 1 also passed the three audience lenses. The output pattern matched the
+introduction: the review did not reveal a broken chapter. It revealed what the
+next chapters now owe the reader.
+
+Those obligations were:
+
+- keep Big Consulting nuance around scale and integrated delivery
+- give mid-market readers sequencing and realistic first moves
+- keep translating firm-level ideas down to the independent consultant
+
+Method signal:
+- Audience review is proving most useful as a carry-forward constraint system
+  for multi-chapter nonfiction, not just as a tool for single-chapter revision.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.

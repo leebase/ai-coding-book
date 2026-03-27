@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | First sample chapter drafted |
+| **Status** | Introduction and Chapter 1 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -34,7 +34,14 @@ The newly added `notes/chatgpt-research.md` has been incorporated into the
 research-support layer, strengthening the migration-of-value framing and the
 caution against overstating the collapse of all delivery work.
 
-The first real manuscript draft now exists at `chapters/introduction-the-wrong-win.md`. It is intended as the voice-and-thesis test chapter and should be reviewed next through the three consulting audience lenses.
+The introduction at `chapters/introduction-the-wrong-win.md` has now passed the
+three-lens audience review process and can be treated as an approved opening
+chapter.
+
+Chapter 1 at `chapters/chapter-1-the-delivery-economy-is-ending.md` has now
+also passed the three-lens audience review. It makes delivery repricing feel
+structural rather than cyclical and sets up the logic for the reduction-first
+trap in Chapter 2.
 
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
@@ -66,7 +73,7 @@ directory.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Pressure-test the introduction through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
-| 2 | Test the `AI Dip and Divergence Curve` plus `Multiplier Model` as the signature diagram system | Lee + AI | The framing is clear enough for the introduction and proposal materials |
-| 3 | Decide which chapter to draft second | Lee + AI | The drafting order after the introduction is intentional |
+| 1 | Draft Chapter 2 — `The Easy Win` | AI | The contraction logic and temptation toward cuts are vivid on the page |
+| 2 | Pressure-test Chapter 2 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 3 | Test the `AI Dip and Divergence Curve` plus `Multiplier Model` as the signature diagram system | Lee + AI | The framing is clear enough for the introduction and proposal materials |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |
