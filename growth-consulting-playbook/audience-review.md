@@ -192,6 +192,100 @@
 
 ---
 
+## 2026-03-27 — Chapter 2 Review: `The Easy Win`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter explains why reduction-first behavior happens without turning
+  large-firm leaders into caricatures.
+- The three-part logic of proof, ownership, and psychology feels true to how
+  decisions actually get made.
+- The consultant incentive section is strong and will resonate with readers who
+  have sold or sponsored cost-reduction engagements.
+
+#### What This Audience Would Push Back On
+
+- Large-firm readers will want later chapters to distinguish between
+  reduction-first commodity work and more strategic transformation efforts that
+  do create durable value.
+- Some will want clearer acknowledgment that certain cuts are justified and not
+  every efficiency story is a trap.
+
+#### Review Outcome
+
+- No blocker in Chapter 2.
+- Keep later chapters precise about where the trap applies and where it does
+  not.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This is likely the strongest fit yet for the primary audience.
+- The chapter makes the pressure feel familiar at the operating level, not just
+  at the strategic level.
+- `Where does the productivity go?` lands as a genuinely useful management
+  question for firms that do not yet have a polished AI strategy.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want concrete examples in later chapters of how to
+  redirect capacity when the firm is still under margin pressure.
+- They will also want practical guidance for how to resist reduction-only logic
+  without sounding naive inside an executive meeting.
+
+#### Review Outcome
+
+- Strong fit for the core audience.
+- The next obligation is practical translation, not conceptual revision.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The chapter's logic applies cleanly to a solo practice: visible productivity
+  gains create pressure to lower price or sell the same work more cheaply.
+- The consultant incentive section feels especially relevant to independents who
+  are tempted to package AI-enabled labor substitution as their main offer.
+- The voice remains personal enough that a solo operator can still feel
+  included.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want later chapters to spell out what a growth
+  thesis looks like when the practice is one person wide.
+- They will also want guidance on how to avoid becoming cheaper labor with
+  better tooling.
+
+#### Review Outcome
+
+- No blocker in Chapter 2.
+- Continue translating firm-level dynamics into offer-level choices for the
+  solo consultant.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- the easy win is believable because part of it is real
+- cuts come first because they are easier to prove, own, and defend
+- the consultant incentive problem is a core part of the trap
+- `Where does the productivity go?` is a strong recurring diagnostic
+
+#### Residual Risk
+
+- The chapter raises the expectation that the book will now show how to resist
+  reduction-only logic in real operating settings.
+
+#### Conclusion
+
+- Chapter 2 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 3.
+
+---
+
 ## Big Consulting Review
 
 ### What Lands

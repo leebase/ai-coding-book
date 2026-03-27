@@ -301,6 +301,20 @@ Method signal:
 - Audience review is proving most useful as a carry-forward constraint system
   for multi-chapter nonfiction, not just as a tool for single-chapter revision.
 
+## 2026-03-27 — The Strongest Chapter Reviews Reinforced Recurring Questions
+
+Chapter 2 passed the audience review process without requiring structural
+revision. The useful output was not "rewrite this." It was confirmation that
+the chapter had surfaced a reusable management question:
+
+- Where does the productivity go?
+
+Method signal:
+- When a chapter produces a strong recurring question, AuthorFlow should mark
+  it as a likely refrain for the rest of the manuscript.
+- Reviews are helping identify not just weak spots, but the phrases and
+  questions the book should keep returning to.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.

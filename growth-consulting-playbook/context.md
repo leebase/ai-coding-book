@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapter 1 approved |
+| **Status** | Introduction, Chapter 1, and Chapter 2 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -43,6 +43,11 @@ also passed the three-lens audience review. It makes delivery repricing feel
 structural rather than cyclical and sets up the logic for the reduction-first
 trap in Chapter 2.
 
+Chapter 2 at `chapters/chapter-2-the-easy-win.md` has also passed the
+three-lens audience review. It explains why cost-cutting feels like the
+responsible first move and sets up Chapter 3 on what actually gets lost when
+firms take that path too far.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -73,7 +78,7 @@ directory.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft Chapter 2 — `The Easy Win` | AI | The contraction logic and temptation toward cuts are vivid on the page |
-| 2 | Pressure-test Chapter 2 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 1 | Draft Chapter 3 — `What Gets Lost When You Cut Too Deep` | AI | Knowledge, continuity, and tacit judgment are vivid on the page |
+| 2 | Pressure-test Chapter 3 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
 | 3 | Test the `AI Dip and Divergence Curve` plus `Multiplier Model` as the signature diagram system | Lee + AI | The framing is clear enough for the introduction and proposal materials |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |

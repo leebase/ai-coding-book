@@ -21,6 +21,20 @@ The chapter then passed the three-lens audience review process in
 The main carry-forward requirement is to keep later chapters concrete about
 what firms at different scales actually do next.
 
+## 2026-03-27 — Chapter 2 Drafted
+
+Drafted [chapter-2-the-easy-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-2-the-easy-win.md).
+
+This chapter explains why AI-driven cost reduction is so tempting by making the
+logic feel rational before critiquing it. It frames the easy win through proof,
+ownership, and psychology, exposes the consultant incentive problem, and turns
+`Where does the productivity go?` into a recurring practical question.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+The main carry-forward requirement is to show, in later chapters, how firms at
+different scales resist reduction-only logic in real operating settings.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).
