@@ -866,3 +866,97 @@ This keeps the book sharp instead of diluted.
 
 - Chapter 7 passes the audience review process.
 - No immediate rewrite is required before moving to Chapter 8.
+
+---
+
+## 2026-03-27 — Chapter 8 Review: `Stop Selling the Wrong Work`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter treats service-line pressure as a portfolio issue rather than a
+  vague market trend, which will resonate with large-firm leaders.
+- `Defend`, `Redesign`, `Sunset`, and `Climb Above` are usable categories for
+  real service-line discussion.
+- The distinction between delivery importance and business priority is strong
+  and credible for firms with mixed advisory and execution revenue.
+
+#### What This Audience Would Push Back On
+
+- Large firms will want later chapters to show how portfolio moves differ by
+  business line and how firms can climb above delivery without abandoning major
+  execution businesses entirely.
+- They will also expect explicit treatment of how premium advisory, managed
+  execution, and commodity implementation interact inside one portfolio.
+
+#### Review Outcome
+
+- No blocker in Chapter 8.
+- Later chapters should show what the replacement portfolio looks like in a
+  more segmented large-firm reality.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This chapter is highly useful for the core audience because it acknowledges
+  the practical tension between current revenue and future defensibility.
+- The boutique-firm guidance is strong because it emphasizes sequence over
+  wholesale reinvention.
+- The service-line questions are concrete enough to use without a formal
+  strategy function.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will now expect Chapter 9 to show what a realistic first
+  replacement offer looks like, not just what to stop leaning on.
+- They will also want examples of how to choose one adjacent move without
+  destabilizing too much revenue at once.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The carry-forward requirement is constructive replacement: once the wrong
+  work is visible, the book now has to help build the next offer.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The same trap translates well to a one-person practice, especially the idea
+  of getting trapped by your own competence.
+- The four buckets scale down cleanly to an independent offer mix.
+- The voice remains grounded enough that the solo operator still feels invited
+  into a chapter about portfolio strategy.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want Chapter 9 to convert this triage into offer
+  packaging and positioning choices they can actually make alone.
+- They will also want help deciding what it means to `Climb Above` when they do
+  not have multiple service lines yet.
+
+#### Review Outcome
+
+- No blocker in Chapter 8.
+- Keep translating portfolio moves into offer-level changes for a firm of one.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- busy work can still be the wrong work
+- current revenue and future reliance are not the same thing
+- service portfolio triage is now a real playbook move
+- `Necessity is not the same thing as defensibility.`
+
+#### Residual Risk
+
+- Chapter 9 now carries a clear burden: it has to replace what Chapter 8
+  identifies, not just praise the idea of new services.
+
+#### Conclusion
+
+- Chapter 8 passes the audience review process.
+- No immediate rewrite is required before moving to Chapter 9.

@@ -156,6 +156,39 @@ No immediate rewrite was required. The main carry-forward requirement is that
 Chapter 8 now has to turn this allocation logic into service-line and offer
 triage with the same level of specificity.
 
+## 2026-03-27 — Fourth Playbook Artifact Designed
+
+Created [service-portfolio-triage.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/service-portfolio-triage.md) as the operating tool for Chapter 8.
+
+This artifact sorts current consulting offers into four practical buckets:
+`Defend`, `Redesign`, `Sunset`, and `Climb Above`.
+
+## 2026-03-27 — Chapter 8 Drafted
+
+Drafted [chapter-8-stop-selling-the-wrong-work.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-8-stop-selling-the-wrong-work.md).
+
+This chapter turns the book from capacity-allocation logic into service
+portfolio triage, helping the reader decide which offers are getting harder to
+defend, which need reshaping, and which should no longer anchor the future of
+the firm.
+
+Later the same day, Chapter 8 was tightened to make the distinction between
+`Redesign` and `Climb Above` more practical and to end on a stronger note.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The main carry-forward requirement is that
+Chapter 9 now has to show what replacement offers actually look like.
+
+## 2026-03-27 — Author Positioning Clarified
+
+Created [author-positioning.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/author-positioning.md) and strengthened the `Why Lee Can Write It` section in [proposal-summary.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/proposal-summary.md).
+
+This clarifies that the book's authority comes from decades spent inside
+consulting systems across global firms, boutiques, practice building,
+commercialization, delivery, presales, and COE work, rather than from claiming
+to have run a global consultancy.
+
 ## 2026-03-27 — Introduction Drafted
 
 Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).

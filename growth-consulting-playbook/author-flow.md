@@ -459,6 +459,69 @@ Method signal:
 - Drafting gets easier when the operational question is sharper than the prose
   ambition.
 
+## 2026-03-27 — Business-Model Chapters Need Triage Tools, Not Just Better Warnings
+
+Chapter 8 was built around `Service Portfolio Triage`.
+
+Why it matters:
+- Once the manuscript moved from talent and capacity into revenue logic, the
+  risk changed again.
+- A chapter about the wrong work could easily have become another sharp essay
+  about commoditization without helping the reader sort current offers.
+
+What changed:
+- the artifact forced a four-bucket decision:
+  defend, redesign, sunset, climb above
+- the prose stayed focused on current revenue rather than abstract future-state
+  strategy
+- the chapter became usable in service-line discussions, not just interesting
+
+Method signal:
+- In the playbook half of a nonfiction book, business-model chapters should be
+  built around triage and choice, not just pattern recognition.
+
+## 2026-03-27 — Credibility Can Be Framed by Vantage, Not Inflated by Persona
+
+The manuscript now carries an explicit statement about where its authority
+comes from.
+
+Why it matters:
+- This book is not being written by someone claiming to have run a global
+  consultancy.
+- The more honest source of authority is decades spent inside consulting
+  systems close enough to see what they reward, what they miss, and what they
+  cut too easily.
+
+What changed:
+- the introduction now names the author's vantage point directly
+- the paragraph clarifies that the book speaks from lived proximity, not from
+  prestige signaling
+
+Method signal:
+- When a nonfiction book could trigger a credential objection, do not hide it
+  and do not overcompensate for it.
+- State the vantage point once, cleanly, then let the thinking and stories do
+  the heavier lifting.
+
+## 2026-03-27 — Resume Material Should Become Positioning, Not Resume Prose
+
+The resume added a useful calibration layer for the manuscript and proposal.
+
+Why it matters:
+- It confirmed that the most credible version of the book's authority is broad
+  lived experience across consulting systems, not prestige signaling.
+- It gave specific, defensible language around global firms, boutiques,
+  practice building, commercialization, delivery, presales, and COE work.
+
+What changed:
+- the introduction's credibility paragraph was tightened
+- a reusable `author-positioning.md` artifact now exists
+- the proposal summary now states the author's standing more concretely
+
+Method signal:
+- Resume-backed experience should be distilled into positioning assets and
+  calibration rules, not pasted into the manuscript as biography.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.

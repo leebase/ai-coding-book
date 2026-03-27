@@ -128,6 +128,16 @@ selling undifferentiated labor, or move your value up a level. In some ways,
 the choice is even sharper when the firm is just you, because there is nowhere
 to hide from commodity pressure and no one else to redefine the offer for you.
 
+One point is worth stating plainly. I have not run a global consulting firm,
+and I am not writing this book as a managing partner defending a résumé. I am
+writing it from more than three decades spent inside consulting systems across
+global firms, boutiques, and client-side transformations, as an architect,
+practice builder, presales leader, delivery lead, commercialization lead, and
+builder of centers of excellence. I have spent enough time close to the work to
+see what these firms reward, what they miss, and what they cut too easily.
+That is a different vantage point. For this argument, I think it is an honest
+one.
+
 The reason this book focuses on consulting is not that consulting is the only
 place this shift matters. It is that consulting is one of the first places
 where the old model breaks in a way smart people can no longer ignore.

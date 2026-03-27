@@ -97,13 +97,25 @@ Current length target:
 
 ## Why Lee Can Write It
 
-This book is not built only from commentary.
+Lee Harrington has spent more than three decades inside consulting systems
+across global firms, boutiques, startups, and client-side transformation work.
+His roles have included architect, delivery lead, presales leader, practice
+builder, commercialization lead, trainer, and builder of centers of
+excellence.
 
-It is grounded in:
+That mix matters for this book. Its authority does not come from running a
+global consultancy. It comes from long exposure to how consulting firms
+actually create value, what they misprice, what they cut too easily, and what
+changes when AI gives one capable practitioner much more leverage than the old
+model was built to recognize.
 
-- lived consulting experience
-- direct experience using AI to amplify thinking and output
-- repeated experience building systems, methods, and capability structures
+The book is also grounded in:
+
+- lived consulting experience across multiple firm types
+- direct experience using AI to amplify thinking, proposals, methods, and
+  output
+- repeated experience building systems, practices, enablement programs, and
+  capability structures
 - practical understanding of how underused talent becomes visible when given
   leverage
 - a live methodology, `AuthorFlow`, for turning point of view, story, research,

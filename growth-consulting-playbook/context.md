@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapters 1-7 approved |
+| **Status** | Introduction and Chapters 1-8 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -86,8 +86,20 @@ This chapter turns the book's recurring question, `Where does the productivity
 go?`, into a concrete allocation decision instead of leaving it as a warning.
 It has now also passed the three-lens audience review process.
 
+The fourth explicit playbook artifact now exists at
+`service-portfolio-triage.md`, and Chapter 8 now exists at
+`chapters/chapter-8-stop-selling-the-wrong-work.md`.
+This chapter turns the back half of the manuscript toward service-line and
+revenue triage, helping the reader decide what to defend, redesign, sunset, or
+climb above. It has now also passed the three-lens audience review process.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
+
+An explicit author-positioning note now exists at `author-positioning.md`,
+grounding the book's authority in decades spent inside consulting systems
+across global firms, boutiques, presales, delivery, commercialization, and
+COE-building rather than in claimed managing-partner experience.
 
 ---
 
@@ -116,7 +128,7 @@ directory.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Design the Chapter 8 portfolio-triage artifact | Lee + AI | The service-line decision tool exists before prose |
-| 2 | Draft Chapter 8 — `Stop Selling the Wrong Work` | AI | The reader can triage current revenue and offers |
-| 3 | Pressure-test Chapter 8 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 1 | Design the Chapter 9 offer-design artifact | Lee + AI | A new-service design tool exists before prose |
+| 2 | Draft Chapter 9 — `Build the New Service Portfolio` | AI | The reader can sketch replacement offers |
+| 3 | Pressure-test Chapter 9 through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |
