@@ -218,6 +218,56 @@ package:
 - chapter outline
 - proposal summary
 
+## 2026-03-27 — First Draft Needed a Cadence Pass, Not Just a Tone Pass
+
+After the first introduction draft, feedback identified a specific prose risk:
+too many one-sentence paragraphs. The voice was strong, but the rhythm was
+starting to feel choppy and over-managed.
+
+The revision approach was not "make it more formal." It was:
+
+- keep a few short paragraphs for emphasis
+- let more ideas develop inside fuller paragraphs
+- reduce connective over-explaining
+- sharpen headers and promises
+- integrate the human dimension without making it feel bolted on
+
+Method signal:
+- AuthorFlow needs a cadence check in addition to a tone check.
+- Human voice is not just word choice; it is paragraph shape and pacing.
+
+## 2026-03-27 — Late-Stage Prose Gains Came from Removing Politeness
+
+One of the final editorial passes on the introduction was not about structure.
+It was about conviction. A few lingering softeners and "book-ish" bridge lines
+were still making the prose slightly too well-behaved.
+
+The useful moves were:
+
+- remove qualifiers in claims that were already earned
+- cut throat-clearing before concrete promises
+- replace tidy closers with lines that stay inside the reader's real world
+
+Method signal:
+- The last improvement in strong nonfiction prose may come from subtraction,
+  especially from removing politeness the argument no longer needs.
+
+## 2026-03-27 — Audience Review Became a Confidence Gate, Not a Rewrite Reflex
+
+The introduction was reviewed through the three explicit consulting lenses:
+
+- Big Consulting
+- mid-market consulting
+- the individual consultant
+
+The result was not three competing rewrites. It was a cleaner outcome:
+the chapter passed, and the useful output was a list of obligations for later
+chapters.
+
+Method signal:
+- Audience review should not automatically force prose changes.
+- Sometimes the right output is confidence plus carry-forward constraints.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.
@@ -276,6 +326,22 @@ What changed:
 Method signal:
 - Pressure testing is most useful when it turns vagueness into sharper structure
   rather than merely generating more labels.
+
+## 2026-03-27 — First Prose Was Used as a Voice-and-Thesis Test
+
+The first drafted chapter was `Introduction — The Wrong Win`.
+
+Why it matters:
+- It tested the target voice under real conditions instead of leaving tone as a
+  planning abstraction.
+- It forced the thesis, the dip/divergence framing, and the book's intended
+  audience to coexist on the page.
+
+Method signal:
+- In AuthorFlow, the first prose artifact should be chosen for diagnostic value,
+  not just chronology.
+- A good first chapter reveals whether the voice, argument, and structure can
+  survive actual writing.
 
 ---
 

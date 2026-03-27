@@ -4,6 +4,23 @@
 
 ---
 
+## 2026-03-27 — Introduction Drafted
+
+Created the first real manuscript draft at [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/introduction-the-wrong-win.md).
+
+The chapter establishes the `Efficiency Trap`, introduces the `AI Dip and Divergence Curve`, frames the book as a repositioning playbook for consulting leaders, and tests the target voice before later chapters are drafted.
+
+Later the same day, the introduction was revised to reduce one-sentence
+paragraph overuse, sharpen the section framing, strengthen the contraction
+stakes, give the individual consultant slightly more explicit acknowledgment,
+and make the human dimension feel integrated instead of tacked on.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The main carry-forward requirement is to
+keep later chapters scale-aware for Big Consulting, mid-market firms, and
+independent consultants.
+
 ## 2026-03-27 — Signature Visual and Playbook Modules Sharpened
 
 Integrated pressure-test feedback into the planning package by elevating the `AI Dip and Divergence Curve`, making `Knowledge Carriers` the dominant knowledge-risk phrase, and naming three concrete playbook modules:

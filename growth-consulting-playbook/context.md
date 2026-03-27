@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Pre-draft planning package assembled |
+| **Status** | First sample chapter drafted |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -33,6 +33,8 @@ The sprint plan is now expanded into a real multi-sprint roadmap. The pre-draft 
 The newly added `notes/chatgpt-research.md` has been incorporated into the
 research-support layer, strengthening the migration-of-value framing and the
 caution against overstating the collapse of all delivery work.
+
+The first real manuscript draft now exists at `chapters/introduction-the-wrong-win.md`. It is intended as the voice-and-thesis test chapter and should be reviewed next through the three consulting audience lenses.
 
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
@@ -64,7 +66,7 @@ directory.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Begin drafting `Introduction — The Wrong Win` | AI | A first sample chapter exists in the book's target voice |
+| 1 | Pressure-test the introduction through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
 | 2 | Test the `AI Dip and Divergence Curve` plus `Multiplier Model` as the signature diagram system | Lee + AI | The framing is clear enough for the introduction and proposal materials |
-| 3 | Pressure-test the introduction through the three audience lenses | AI | Scale-specific objections and weak spots are visible |
+| 3 | Decide which chapter to draft second | Lee + AI | The drafting order after the introduction is intentional |
 | 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |

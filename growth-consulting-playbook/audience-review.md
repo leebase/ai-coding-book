@@ -4,6 +4,99 @@
 
 ---
 
+## 2026-03-27 — Introduction Review: `The Wrong Win`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The pressure on routine delivery economics feels credible.
+- The distinction between reduction-first and multiplier paths feels serious,
+  not anti-automation.
+- The tone is authoritative without sounding like prestige-consulting mimicry.
+
+#### What This Audience Would Push Back On
+
+- Large-firm readers will want later chapters to acknowledge that scale,
+  integrated delivery, and client access still matter even as generic delivery
+  gets repriced.
+- They will expect the playbook to distinguish between elite advisory, managed
+  execution, and labor-heavy implementation rather than treating "consulting" as
+  one uniform revenue model.
+
+#### Review Outcome
+
+- No blocker in the introduction.
+- Carry the scale-and-segmentation nuance into later chapters so large-firm
+  readers feel understood rather than flattened.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This reader will recognize the margin pressure and contraction risk fast.
+- `Don't eat the seed corn` and `Knowledge Carriers` both land as usable ideas,
+  not abstract framing.
+- The introduction sounds like it understands firm survival, not just strategy.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want the later playbook chapters to show sequence:
+  what to do first, what to stop selling first, and how to reposition without
+  a huge internal AI budget.
+- They will want proof that the multiplier route is achievable before the firm
+  has already completed a transformation.
+
+#### Review Outcome
+
+- Strong fit for the current primary audience.
+- The burden now shifts to later chapters to stay practical enough to earn the
+  introduction's promise.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The independent consultant is now explicitly invited into the book.
+- The line about there being nowhere to hide from commodity pressure rings true.
+- The voice feels personal enough that a solo operator can still see themselves
+  in the argument.
+
+#### What This Audience Would Push Back On
+
+- The introduction tells the solo reader they are included, but later chapters
+  will need at least a few clearly translatable moves for a one-person practice.
+- The reader will want examples of repositioning an individual offer, not just
+  redesigning a firm.
+
+#### Review Outcome
+
+- No blocker in the introduction.
+- Keep translating major concepts down to the solo-practice level as the book
+  develops.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- `The Efficiency Trap`
+- `The AI Dip and Divergence Curve`
+- `Knowledge Carriers`
+- the shift from labor sale to judgment, context, and growth design
+- the book's human, reflective voice
+
+#### Residual Risk
+
+- The introduction now earns trust, but later chapters must cash it in with
+  scale-aware examples and concrete action patterns.
+
+#### Conclusion
+
+- The introduction passes the audience review process.
+- No immediate rewrite is required before moving to the next drafting step.
+
+---
+
 ## Big Consulting Review
 
 ### What Lands

@@ -165,6 +165,7 @@ book.
 | Confirm voice rules and chapter drafting standards | ✅ Done |
 | Decide chapter drafting order | ✅ Done |
 | Pick the first chapter or sample chapter to write | ✅ Done |
+| Draft the first sample chapter | ✅ Done |
 
 ### Sprint 5 Deliverables
 
