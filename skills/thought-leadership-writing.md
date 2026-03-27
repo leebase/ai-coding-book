@@ -30,3 +30,12 @@ thesis-driven nonfiction book.
 - Quote or paraphrase only what advances the argument
 - Distinguish fact, interpretation, and forecast
 - If the evidence is thin, narrow the claim
+
+## Tone Discipline
+
+- Write as a person, not a firm
+- Prefer lived recognition to prestige signaling
+- If a sentence sounds like it came from a keynote slide, cut it
+- Keep the prose human enough that a reader can feel judgment, invitation, and
+  reflection on the page
+- If the passage makes the reader feel managed rather than understood, rewrite it

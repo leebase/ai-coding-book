@@ -39,7 +39,7 @@ Load the relevant skill file when the trigger applies. Do not try to remember â€
 | You are closing a sprint or preparing a release | `skills/code-review.md` |
 | You are writing or planning a tutorial or chapter | `skills/tutorial-writer/tutorial-writer.md` |
 | You are writing a book chapter | `skills/ebook-writer.md` |
-| You are planning or writing a thesis-driven nonfiction / business book | `skills/thought-leadership-book.md` |
+| You are planning or writing a thesis-driven nonfiction / business book | `skills/thought-leadership-book.md` (`AuthorFlow`) |
 | You are synthesizing citable research for argument support | `skills/research-synthesis.md` |
 | You are turning lived experience into reusable story material | `skills/story-mining.md` |
 | You are designing named frameworks, diagnostics, or visual models | `skills/framework-design.md` |
@@ -131,7 +131,7 @@ The `Mode` field in `context.md` controls how independently you work:
 
 ---
 
-## Thesis-Driven Nonfiction Workflow
+## AuthorFlow
 
 Use this workflow for projects where the job is argument, positioning, evidence,
 and framework design rather than tutorial instruction.
@@ -139,6 +139,10 @@ and framework design rather than tutorial instruction.
 ### Required skill
 
 Load `skills/thought-leadership-book.md`.
+
+For standalone books using this method, create and maintain an `author-flow.md`
+file in the book directory as a running log of how the method is actually being
+used.
 
 ### Default sequence
 
@@ -149,6 +153,8 @@ Load `skills/thought-leadership-book.md`.
 5. Pressure-test title, subtitle, audience, and promise
 6. Stop for human approval on the thinking
 7. Draft prose only after the argument is sharp
+8. Review the draft through three audience lenses: Big Consulting, mid-market consulting, and the individual consultant
+9. Run an explicit tone pass so the prose stays human, reflective, and inviting instead of drifting into consultant-brand voice
 
 ### Preferred agents
 
@@ -157,6 +163,9 @@ Load `skills/thought-leadership-book.md`.
 - `agents/story-miner.md`
 - `agents/positioning-editor.md`
 - `agents/argument-writer.md`
+- `agents/big-consulting-reviewer.md`
+- `agents/mid-market-consulting-reviewer.md`
+- `agents/independent-consultant-reviewer.md`
 
 ### Default artifacts
 
@@ -168,6 +177,7 @@ Favor:
 - story bank
 - framework notes
 - positioning notes
+- author-flow log
 
 Do not let note accumulation replace selection. If the core argument cannot be
 stated cleanly, keep refining the thinking instead of drafting chapters.

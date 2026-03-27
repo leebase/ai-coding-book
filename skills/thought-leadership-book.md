@@ -3,7 +3,12 @@
 This skill coordinates planning and drafting for a thesis-driven nonfiction or
 business book.
 
+This workflow is also referred to as **AuthorFlow**.
+
 Do not jump into prose because the idea feels exciting. Lock the argument first.
+
+Maintain an `author-flow.md` file in the active book directory so the method can
+be studied and reused later.
 
 ## The Team
 
@@ -18,6 +23,11 @@ constraints.
 | framework-designer | `agents/thesis-architect.md` | Creates named models, diagnostics, and decision tools |
 | positioning-editor | `agents/positioning-editor.md` | Clarifies title, audience, promise, and differentiation |
 | argument-writer | `agents/argument-writer.md` | Drafts the prose once the thinking is locked |
+| big-consulting-reviewer | `agents/big-consulting-reviewer.md` | Reviews for large-firm credibility and scale realism |
+| mid-market-consulting-reviewer | `agents/mid-market-consulting-reviewer.md` | Reviews for mid-market practicality and economics |
+| independent-consultant-reviewer | `agents/independent-consultant-reviewer.md` | Reviews for solo and small-shop relevance |
+
+Every drafting stage should also load `skills/consulting-book-voice.md`.
 
 ## Stage 1: Frame the Thesis
 
@@ -87,12 +97,40 @@ and Positioning Notes. Revise the thinking before drafting prose.
 **Produce**: Draft
 
 Write only after the argument is sharp enough to survive summary.
+The draft must sound human, reflective, and inviting rather than corporate or
+slide-deck polished.
 
-## Stage 7: Refine
+## Stage 7: Audience Review
+
+**Roles**:
+- big-consulting-reviewer
+- mid-market-consulting-reviewer
+- independent-consultant-reviewer
+
+**Load**:
+- `agents/big-consulting-reviewer.md`
+- `agents/mid-market-consulting-reviewer.md`
+- `agents/independent-consultant-reviewer.md`
+
+**Produce**: Audience Review Notes
+
+- What lands for Big Consulting?
+- What lands for mid-market firms?
+- What lands for the individual consultant?
+- Where does the draft overfit one audience and lose the others?
+- What scale assumptions need to be made explicit?
+
+## Stage 8: Refine
 
 **Role**: argument-writer
 **Load**: `agents/argument-writer.md`
 **Produce**: Final Draft
 
-Tighten language, remove drift, and make sure every section still serves the
-claim rather than the note pile.
+Tighten language, address audience-review findings, remove drift, and make sure
+every section still serves the claim rather than the note pile.
+
+Before marking prose done, run an explicit tone pass:
+
+- remove consulting cliches
+- replace abstract prestige language with observed language
+- make sure the reader feels guided by a person rather than addressed by a firm
