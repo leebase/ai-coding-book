@@ -39,6 +39,11 @@ Load the relevant skill file when the trigger applies. Do not try to remember â€
 | You are closing a sprint or preparing a release | `skills/code-review.md` |
 | You are writing or planning a tutorial or chapter | `skills/tutorial-writer/tutorial-writer.md` |
 | You are writing a book chapter | `skills/ebook-writer.md` |
+| You are planning or writing a thesis-driven nonfiction / business book | `skills/thought-leadership-book.md` |
+| You are synthesizing citable research for argument support | `skills/research-synthesis.md` |
+| You are turning lived experience into reusable story material | `skills/story-mining.md` |
+| You are designing named frameworks, diagnostics, or visual models | `skills/framework-design.md` |
+| You are shaping title, subtitle, audience, or proposal positioning | `skills/book-positioning.md` |
 
 Skills are short, focused, and task-specific. They contain the judgment, not just the steps.
 
@@ -53,6 +58,12 @@ Skills are short, focused, and task-specific. They contain the judgment, not jus
 3. Confirm the objective â€” proceed only when you are oriented
 
 Agents drift. This rule prevents it.
+
+### For standalone book directories
+
+If you are working inside a standalone book directory such as
+`growth-consulting-playbook/`, also re-read that directory's local
+`context.md`, `result-review.md`, and `sprint-plan.md` before continuing.
 
 ---
 
@@ -117,6 +128,49 @@ The `Mode` field in `context.md` controls how independently you work:
 - **Specific**: Include file paths, line numbers, exact commands
 - **Actionable**: Provide clear next steps
 - **Honest**: Flag concerns or blockers immediately
+
+---
+
+## Thesis-Driven Nonfiction Workflow
+
+Use this workflow for projects where the job is argument, positioning, evidence,
+and framework design rather than tutorial instruction.
+
+### Required skill
+
+Load `skills/thought-leadership-book.md`.
+
+### Default sequence
+
+1. Frame the thesis before drafting
+2. Synthesize source-backed research and name the gaps
+3. Mine lived stories into transferable patterns
+4. Design named frameworks and diagnostics
+5. Pressure-test title, subtitle, audience, and promise
+6. Stop for human approval on the thinking
+7. Draft prose only after the argument is sharp
+
+### Preferred agents
+
+- `agents/thesis-architect.md`
+- `agents/research-synthesizer.md`
+- `agents/story-miner.md`
+- `agents/positioning-editor.md`
+- `agents/argument-writer.md`
+
+### Default artifacts
+
+Create or update planning artifacts that keep thinking separate from prose.
+Favor:
+
+- thesis brief
+- research support memo
+- story bank
+- framework notes
+- positioning notes
+
+Do not let note accumulation replace selection. If the core argument cannot be
+stated cleanly, keep refining the thinking instead of drafting chapters.
 
 ---
 
