@@ -70,8 +70,13 @@ introduction at `chapters/introduction-the-wrong-win.md` has been drafted from
 the doctrine sheet and proof map. A dedicated credibility strategy now also
 exists to keep the authority posture honest and consistent.
 
-The next step is to pressure-test the introduction through the new
-enterprise-side reviewer lenses, then tighten it before drafting Chapter 1.
+The introduction review has now been captured, the planning milestone has been
+committed and pushed, and Chapter 1 at
+`chapters/chapter-1-the-efficiency-story-everybody-understands.md` has been
+drafted.
+
+The next step is to review Chapter 1 for pacing and repetition against the
+introduction, then draft Chapter 2.
 
 ---
 
@@ -103,11 +108,11 @@ enterprise-side reviewer lenses, then tighten it before drafting Chapter 1.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Review the introduction through the three enterprise-side reviewer lenses | AI | Review feedback is captured and the opening is adjusted |
-| 2 | Tighten the introduction based on reviewer feedback | AI | The opening feels sharp, credible, and distinct |
-| 3 | Draft Chapter 1 | AI | `chapters/chapter-1-the-efficiency-story-everybody-understands.md` exists |
-| 4 | Expand the story bank with any missing enterprise-side seed-corn stories | Lee + AI | The book has enough lived proof for the opening half |
-| 5 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
+| 1 | Review Chapter 1 against the introduction for repetition and pacing | AI | The opening sequence feels cumulative, not circular |
+| 2 | Draft Chapter 2 | AI | `chapters/chapter-2-what-gets-lost-when-you-cut-too-deep.md` exists |
+| 3 | Expand the story bank with any missing enterprise-side seed-corn stories | Lee + AI | The book has enough lived proof for the opening half |
+| 4 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
+| 5 | Run the first two chapters through the enterprise-side reviewers | AI | Early manuscript feedback is captured before the reframe section starts |
 
 ---
 

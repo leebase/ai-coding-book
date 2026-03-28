@@ -114,8 +114,8 @@ the paired-book concept in prose.
 |------|--------|
 | Create `chapters/` directory and chapter file list | ✅ Done |
 | Draft introduction | ✅ Done |
-| Review introduction through enterprise-side lenses | ⬜ Not started |
-| Draft Chapter 1 | ⬜ Not started |
+| Review introduction through enterprise-side lenses | ✅ Done |
+| Draft Chapter 1 | ✅ Done |
 | Draft Chapter 2 | ⬜ Not started |
 | Draft Act I reflection or fold it into adjacent chapters | ⬜ Not started |
 

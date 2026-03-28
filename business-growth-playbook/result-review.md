@@ -118,3 +118,25 @@ hold.
 
 The introduction was also updated to state this stance explicitly once, early,
 and then move on.
+
+## 2026-03-28 — Chapter 1 Drafted
+
+Drafted
+[chapter-1-the-efficiency-story-everybody-understands.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-1-the-efficiency-story-everybody-understands.md).
+
+What this chapter now does:
+
+- explains why reduction-first AI strategy feels rational, legible, and
+  institutionally rewarded
+- distinguishes good reduction, necessary reduction, and dangerous reduction
+- shows how boards, CFOs, and vendor narratives all reinforce the same narrow
+  definition of success
+- introduces `capacity misallocation` as the failure mode where real gains are
+  harvested without a larger allocation strategy
+
+Why it matters:
+
+- The manuscript now moves beyond introduction-level doctrine into the first
+  real argument chapter.
+- The opening sequence can now be tested for pacing and repetition risk against
+  Chapter 2 rather than only in theory.

@@ -278,3 +278,78 @@ growth promise visible.
 
 The introduction passes the CFO tension test. It does not let the reader relax
 into a savings-only story, but it also does not insult the savings instinct.
+
+---
+
+## 2026-03-28 — Chapter 1 Review: `The Efficiency Story Everybody Understands`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- The chapter explains why smart leaders keep choosing the reduction-first path
+  without sounding surprised or judgmental.
+- `Good reduction, necessary reduction, dangerous reduction` is a usable
+  distinction for real operating conversations.
+- The chapter deepens the institutional pressure logic instead of merely
+  replaying the introduction.
+
+#### What This Lens Would Push Back On
+
+- Some of the middle sections still reinforce the same system-pressure point,
+  so the manuscript needs to stay disciplined about not re-deriving this logic
+  again in later chapters.
+- Chapter 2 now has to escalate clearly into consequence rather than circling
+  back into explanation.
+
+#### Review Outcome
+
+Strong Chapter 1 for the primary audience. It reads like someone who has been
+in these rooms and understands why the first answer wins.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter respects commercial reality instead of treating savings instinct
+  as moral failure.
+- `Efficiency has a default story and growth requires an explicit one` is a
+  high-value line for this audience.
+- The chapter's core distinction between a saving and a strategy is memorable
+  and practical.
+
+#### What This Lens Would Push Back On
+
+- The chapter is strongest when it translates system logic into future business
+  consequences, so later chapters should keep that growth language close at
+  hand.
+- The reader will now expect Chapter 2 to make invisible losses more concrete
+  and person-shaped.
+
+#### Review Outcome
+
+The chapter works well for this audience and gives the book a strong business
+logic spine.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter repeatedly respects the cost case before challenging it.
+- The distinctions between good, necessary, and dangerous reduction protect the
+  book from sounding anti-efficiency.
+- `A saving is not automatically a strategy` is the right kind of pressure
+  statement for this reader.
+
+#### What This Lens Would Push Back On
+
+- The chapter correctly frames the problem but does not yet fully satisfy the
+  demand for a structured economic case. That burden now sits heavily on
+  Chapter 7.
+- `capacity misallocation` lands conceptually here, but later chapters still
+  need to prove it with more concrete consequences.
+
+#### Review Outcome
+
+The chapter passes the CFO credibility test. It is skeptical of savings-only
+logic without sounding naive about cost pressure.
