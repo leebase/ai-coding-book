@@ -119,6 +119,22 @@ drafted. It takes the next practical step by showing leaders how to identify
 underused high-ceiling people already inside the organization and what signals
 to use before they make staffing or investment decisions.
 
+Chapter 6 at
+`chapters/chapter-6-every-ai-program-needs-a-growth-thesis.md` has now also
+been drafted. It is the first explicit capacity-allocation chapter and makes
+the book's economic challenge concrete: every AI program needs a clear answer
+for what stronger business the capacity is supposed to fund.
+
+That chapter has also now been tightened from review feedback so the growth
+thesis definition is sharper, the four-part framework is more operational, and
+the human-amplification logic stays connected to the allocation logic.
+
+Chapter 7 at
+`chapters/chapter-7-stop-funding-the-wrong-work.md` has now also been drafted.
+It turns the growth thesis into a portfolio filter by naming common forms of AI
+theater, distinguishing useful work from strategic work, and giving leaders a
+review structure for what to keep, redesign, or stop funding.
+
 The latest drafting correction from Lee is also now explicit:
 
 - this book should read as a handbook, not only as a strategy argument
@@ -128,9 +144,9 @@ The latest drafting correction from Lee is also now explicit:
 - research should be added selectively for authority and spice, with exact
   sourcing and no hallucinated references
 
-The next step is to review Chapter 4 for handbook usefulness and then continue
-the reframe section with Chapter 6. After that, the early chapters can start
-getting any additional research inserts only if they clearly improve the prose.
+The next step is to review Chapters 6 and 7 together for economic sharpness and
+portfolio usability, then continue into Chapter 8 on where reinvested capacity
+should go.
 
 ---
 
@@ -165,8 +181,8 @@ getting any additional research inserts only if they clearly improve the prose.
 | 1 | Review the opening sequence across Introduction, Chapter 1, and Chapter 2 | AI | The first act feels cumulative, not repetitive |
 | 2 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
 | 3 | Run the opening sequence through the enterprise-side reviewers | AI | Early manuscript feedback is captured before the reframe section starts |
-| 4 | Review Chapters 4 and 5 for handbook usefulness | AI | Practical guidance is clear enough for Monday-morning use |
-| 5 | Draft Chapter 6 | AI | `chapters/chapter-6-every-ai-program-needs-a-growth-thesis.md` exists |
+| 4 | Review Chapters 6 and 7 for economic sharpness and portfolio usability | AI | Allocation and portfolio chapters feel practical and credible together |
+| 5 | Draft Chapter 8 | AI | `chapters/chapter-8-build-the-capacity-portfolio.md` exists |
 | 6 | Begin selective research insertion pass on later chapters | AI | Later manuscript has exact, verified support without losing voice |
 
 ---

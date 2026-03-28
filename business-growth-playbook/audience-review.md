@@ -575,3 +575,151 @@ argument commercially relevant.
 
 The chapter passes this lens well. It makes a people-investment argument
 without sounding soft.
+
+---
+
+## 2026-03-28 — Chapter 6 Review: `Every AI Program Needs a Growth Thesis`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- `Every serious AI program needs a growth thesis` feels like a usable standard,
+  not just a chapter title.
+- The MicroStrategy table-smack story resets the chapter at the right level:
+  business value before technical motion.
+- The four-part growth-thesis framework is practical enough to use in planning
+  and governance conversations.
+- The harvest / strengthen / build pattern is simple enough to carry into a
+  real leadership meeting.
+
+#### What This Lens Would Push Back On
+
+- The chapter is stronger after the latest tightening, but later revisions
+  should keep an eye on list density.
+- Chapter 7 needs to use this thesis as an assumption, not re-argue it at
+  length.
+
+#### Review Outcome
+
+This chapter is the control center of the manuscript. It turns the book's core
+argument into a management standard.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter makes the strategic question concrete:
+  what stronger business are we trying to build with the gains?
+- The sentence-completion test is one of the most reusable tools in the
+  manuscript so far.
+- The chapter respects savings pressure while still making the larger growth
+  case.
+
+#### What This Lens Would Push Back On
+
+- The categories of growth thesis are useful, but later chapters should keep
+  translating them into customer, market, and operating examples.
+- Chapter 8 now needs to go deeper into destination categories so this chapter
+  does not have to carry that whole burden alone.
+
+#### Review Outcome
+
+Strong chapter. It makes the book's growth promise feel real rather than merely
+aspirational.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter handles the economic objection correctly by admitting that some
+  gains should be harvested.
+- The structured tradeoff logic is credible without resorting to fake
+  spreadsheets.
+- `The problem is that they are often measured more carefully than the options
+  being destroyed` is the right pressure line for this reader.
+
+#### What This Lens Would Push Back On
+
+- The chapter should remain disciplined about not over-expanding into too many
+  examples or categories.
+- The next portfolio chapter now has to show the practical implications of the
+  growth thesis rather than revisit the rationale.
+
+#### Review Outcome
+
+The chapter clears the financial-credibility bar. It gives a cost-focused
+reader something rigorous to argue with rather than something easy to dismiss.
+
+---
+
+## 2026-03-28 — Chapter 7 Review: `Stop Funding the Wrong Work`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- `Most AI portfolios drift toward theater` is a strong and believable framing
+  for the primary reader.
+- The chapter is at its best when it names real patterns like pilot collections
+  with no transfer model and outsourced learning.
+- The three-level portfolio filter is practical enough for actual portfolio
+  discussions.
+- Bringing the Chapter 6 growth thesis explicitly into the Monday-morning
+  review makes the chapter feel cumulative rather than repetitive.
+
+#### What This Lens Would Push Back On
+
+- The chapter is still dense and will likely benefit from later trimming once
+  the full manuscript exists.
+- It should avoid accreting more frameworks; the current tool set is enough.
+
+#### Review Outcome
+
+Strong portfolio chapter. It helps leaders challenge current spend, not just
+future aspirations.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- `Useful is not the same as strategic` is one of the strongest lines in the
+  book.
+- The chapter makes clear that activity, demos, and local convenience are not
+  the same as future-building value.
+- The internal-capability test is a strong companion to the Chapter 6 growth
+  thesis test.
+
+#### What This Lens Would Push Back On
+
+- The chapter now needs Chapter 8 to provide a positive answer about where the
+  recovered capacity and budget should go.
+- One or two later customer-facing examples of wrong work versus strategic work
+  would make the book even stronger for market-facing leaders.
+
+#### Review Outcome
+
+The chapter works well. It gives commercially accountable readers a cleaner
+portfolio language than "promising AI initiative."
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter does not attack AI investment in general. It attacks weak
+  investment logic.
+- The three-level filter gives this reader a disciplined way to challenge spend
+  without sounding anti-innovation.
+- The chapter's willingness to say that some currently funded work is wrong is
+  exactly the kind of trusted-advisor authority the book needs.
+
+#### What This Lens Would Push Back On
+
+- The chapter should not add much more research; this is a lived-pattern
+  chapter and works best that way.
+- The next chapter needs to show concrete positive destination categories so
+  this chapter does not feel purely subtractive.
+
+#### Review Outcome
+
+The chapter passes this lens well. It is direct, credible, and boardroom-usable.

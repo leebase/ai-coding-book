@@ -274,3 +274,47 @@ Why it matters:
   aspirational.
 - The manuscript is behaving more clearly like a handbook for leaders, not just
   an argument about what they should believe.
+
+## 2026-03-28 — Chapter 6 Drafted
+
+Drafted
+[chapter-6-every-ai-program-needs-a-growth-thesis.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-6-every-ai-program-needs-a-growth-thesis.md).
+
+What this chapter now does:
+
+- forces the book's central allocation question:
+  where does the capacity actually go
+- uses the MicroStrategy table-smack story shape to show that the first
+  question is business value, not available data or technical motion
+- defines what a real growth thesis contains and what a savings-only thesis
+  looks like
+- makes the structured economic case for harvest / strengthen / build instead
+  of immediate extraction alone
+- adds a handbook test and a Monday-morning capacity review
+
+Why it matters:
+
+- The manuscript has now crossed into the economic center of the book.
+- The reader is no longer only being asked to see people differently; they are
+  being asked to allocate gains differently.
+
+## 2026-03-28 — Chapter 7 Drafted
+
+Drafted
+[chapter-7-stop-funding-the-wrong-work.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-7-stop-funding-the-wrong-work.md).
+
+What this chapter now does:
+
+- turns the growth thesis into a portfolio filter
+- defines several forms of AI theater and wrong-work funding patterns
+- adds a three-level portfolio test around thesis fit, internal capability, and
+  reusable leverage
+- distinguishes useful work from strategic work
+- gives leaders a Monday-morning portfolio review to sort work into keep,
+  redesign, or stop
+
+Why it matters:
+
+- The playbook now moves from thesis and allocation into real funding choices.
+- The manuscript is helping leaders not just imagine a better future, but stop
+  financing the wrong one.

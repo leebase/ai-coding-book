@@ -384,6 +384,86 @@ Method signal:
 
 - A thought-leadership handbook becomes real when its hopeful chapters can be
   used, not just admired.
+
+## 2026-03-28 — Chapter 6 Forced the Book to Make an Economic Argument
+
+Chapter 6 was the point where the book could no longer rely on diagnosis,
+identity shift, or talent language alone.
+
+It had to answer:
+
+- where the capacity goes
+- how a leader should think about harvest versus reinvestment
+- what makes a growth thesis more than a slogan
+
+What worked:
+
+- treating the chapter as an allocation chapter, not an inspiration chapter
+- using the MicroStrategy story shape to force business value to come before
+  technical motion
+- adding a simple harvest / strengthen / build pattern instead of fake
+  precision
+
+Why it matters:
+
+- This is the chapter where the book starts earning the right to challenge a
+  CFO instinct rather than only naming it.
+- The manuscript is now moving from "who to bet on" to "what those bets are
+  for."
+
+Method signal:
+
+- When a handbook reaches its economic center, structured tradeoffs matter more
+  than elegant slogans.
+
+## 2026-03-28 — Chapter 6 Tightened from Review Feedback
+
+The first draft of Chapter 6 worked, but the review feedback pointed to a final
+important refinement:
+
+- make the growth-thesis definition sharper
+- give the four-part framework slightly more operating weight
+- keep one bridge back to the human-amplification logic so the chapter does not
+  feel detached from Chapters 4 and 5
+
+Why it matters:
+
+- This keeps the chapter from becoming a smart abstract allocation essay.
+- It preserves the book's pattern of translating doctrine into deployable
+  leadership tools.
+
+Method signal:
+
+- When a core chapter is already strong, refinement should increase usability
+  rather than add new conceptual mass.
+
+## 2026-03-28 — Chapter 7 Turned the Growth Thesis into a Portfolio Filter
+
+Chapter 7 had one main job:
+
+stop the manuscript from staying at the level of good intentions.
+
+What the chapter needed to do:
+
+- identify the kinds of AI work that look modern but do not build the future
+- give leaders a way to sort useful work from strategic work
+- turn the growth thesis from a statement into a funding filter
+
+What worked:
+
+- naming AI theater as real activity with weak future-building value
+- using a three-level portfolio filter instead of a long taxonomy
+- ending with a one-page-style portfolio review
+
+Why it matters:
+
+- The manuscript is now teaching leaders how to stop financing the wrong work,
+  not just how to admire the right language.
+
+Method signal:
+
+- Portfolio chapters should help the reader stop doing something, not only
+  start doing something.
 - This creates a reusable tutorial trail for how AuthorFlow moves from concept
   package into drafting readiness.
 

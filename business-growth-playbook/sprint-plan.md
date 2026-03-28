@@ -146,6 +146,7 @@ leader can use in staffing, role, and program conversations.
 | Draft Chapter 4 | ✅ Done |
 | Review Chapter 4 for handbook usefulness | ⬜ Not started |
 | Draft Chapter 5 | ✅ Done |
+| Draft Chapter 6 | ✅ Done |
 | Add research support and reference ledger | ✅ Done |
 
 ### Sprint 4 Exit Criteria
@@ -171,6 +172,24 @@ turning the book into a literature review.
 - Every inserted research claim is logged and verified
 - Research strengthens authority without changing the book's voice
 - The manuscript remains handbook-first and story-backed
+
+## Sprint 6 — Capacity Allocation and Portfolio Turn (ACTIVE 🔄)
+
+**Goal**: Turn the manuscript from talent recognition into explicit resource
+allocation and portfolio decisions.
+
+| Task | Status |
+|------|--------|
+| Draft Chapter 6 | ✅ Done |
+| Review Chapter 6 for economic sharpness | ⬜ Not started |
+| Draft Chapter 7 | ✅ Done |
+| Draft Chapter 8 | ⬜ Not started |
+
+### Sprint 6 Exit Criteria
+
+- The book has a clear answer to where capacity goes
+- The economic case is structured without becoming spreadsheet theater
+- The manuscript is ready to move from thesis into portfolio choices
 
 ---
 
