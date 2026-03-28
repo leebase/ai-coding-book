@@ -318,3 +318,65 @@ Why it matters:
 - The playbook now moves from thesis and allocation into real funding choices.
 - The manuscript is helping leaders not just imagine a better future, but stop
   financing the wrong one.
+
+## 2026-03-28 — Chapter 8 Drafted
+
+Drafted
+[chapter-8-build-the-capacity-portfolio.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-8-build-the-capacity-portfolio.md).
+
+What this chapter now does:
+
+- defines the main destination categories for reinvested capacity:
+  growth, capability, resilience, and new value
+- distinguishes Chapter 8 clearly from Chapter 6 by focusing on destination
+  categories rather than thesis logic
+- adds practical selection logic for choosing among destinations
+- ties the Rach 2 "range" insight to portfolio-level decisions
+- gives leaders a Monday-morning capacity portfolio session
+
+Why it matters:
+
+- The book now has a positive answer to the portfolio question, not just a
+  negative filter.
+- Chapters 6-8 now form a usable operating system: thesis, filter, portfolio.
+
+## 2026-03-28 — Chapter 9 Drafted
+
+Drafted
+[chapter-9-redesign-the-program.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-9-redesign-the-program.md).
+
+What this chapter now does:
+
+- turns the Lewis and Clark pattern into a concrete execution model
+- explains why broad early rollouts underperform
+- defines who should be chosen for the first expedition
+- defines what protection, mission, and coaching structure the expedition needs
+- explains how learning transfers back into the institution and why that beats
+  committee-scale rollout
+
+Why it matters:
+
+- The manuscript now has a distinctive execution chapter, not just a strategy
+  chapter.
+- The book is increasingly reading like a leadership operating system for real
+  AI programs, not just a diagnosis and allocation framework.
+
+## 2026-03-28 — Chapter 10 Drafted
+
+Drafted
+[chapter-10-talent-and-operating-model.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-10-talent-and-operating-model.md).
+
+What this chapter now does:
+
+- explains why heroics do not scale
+- turns coaching, apprenticeship, and transfer into part of the economic case
+- uses GPLee as a cultural-spread proof point
+- connects Lewis and Clark transfer logic to COE-building logic
+- uses AgentFlow as a personal-COE analogue for how systems preserve learning
+
+Why it matters:
+
+- The manuscript now has a systems chapter that explains how amplified work
+  compounds instead of staying isolated.
+- The book's operating-system claim is now visible not only in the allocation
+  model but in the capability model too.

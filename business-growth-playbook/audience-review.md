@@ -723,3 +723,230 @@ portfolio language than "promising AI initiative."
 #### Review Outcome
 
 The chapter passes this lens well. It is direct, credible, and boardroom-usable.
+
+---
+
+## 2026-03-28 — Chapter 8 Review: `Build the Capacity Portfolio`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- `A serious growth thesis needs a capacity portfolio, not just a belief in
+  reinvestment` is the right next move after Chapter 7.
+- `Capacity is not one thing` is a valuable clarification because it turns
+  reinvestment into a more concrete operating decision.
+- The four destination categories create a usable map for where strengthen and
+  build choices can actually go.
+- The top-three-bets discipline keeps the chapter from becoming a vague wish
+  list.
+
+#### What This Lens Would Push Back On
+
+- The framework is strong, but later revision should add a little more concrete
+  "what this looks like" texture inside the destination categories.
+- `New value` is the least naturally concrete of the four and will need careful
+  guarding against abstraction.
+
+#### Review Outcome
+
+Strong portfolio-composition chapter. It makes reinvestment a real management
+choice rather than a slogan.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter gives a clearer answer to where recovered capacity can create a
+  stronger business.
+- The growth and new-value categories keep the book connected to market-facing
+  ambition rather than only internal transformation logic.
+- The "most dangerous gap" question is the right kind of prioritization rule
+  for a commercially pressured leader.
+
+#### What This Lens Would Push Back On
+
+- Later passes should keep translating the destination categories into customer,
+  revenue, and offer examples so the framework keeps its commercial bite.
+- A little less callback language and a little more fresh example language
+  would make the chapter even stronger.
+
+#### Review Outcome
+
+The chapter completes the positive side of the portfolio argument well. It
+helps this reader think in deliberate destination choices instead of generic
+reinvestment language.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter is structured enough to be discussed in real planning
+  conversations without sounding soft.
+- Resilience is framed as a serious use of capacity rather than as a feel-good
+  insurance bucket.
+- The destination map is a practical way to challenge whether reinvestment is
+  actually specific or only rhetorical.
+
+#### What This Lens Would Push Back On
+
+- The chapter does not need additional research support; the framework itself
+  is carrying the load well.
+- Future revisions may want one short example of a misallocated portfolio so
+  the categories feel even more concrete.
+
+#### Review Outcome
+
+This chapter gives financially literate readers a better challenge than "just
+reinvest the gains." It asks for an actual destination logic.
+
+---
+
+## 2026-03-28 — Chapter 9 Review: `Redesign the Program`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- The chapter correctly treats Lewis and Clark as a program-design model, not a
+  decorative metaphor.
+- `A representative pilot and a high-learning pilot are not the same thing` is
+  one of the most useful distinctions in the manuscript.
+- The six design decisions make the first serious program much more executable.
+- Protection, coaching, and transfer are all treated as design requirements
+  rather than as optional polish.
+
+#### What This Lens Would Push Back On
+
+- The manuscript should stay careful not to overstate the historical proof
+  status of Lewis and Clark in Lee's own client work; the proposal was strong
+  and well received, but it was not deployed.
+- A later revision would benefit from one brief in-motion example so the
+  chapter carries a little more lived texture alongside the framework.
+
+#### Review Outcome
+
+Strong execution chapter. It turns the book from an allocation system into a
+real first-program design.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter is convincing on why broad rollout often produces motion without
+  deep learning.
+- The mission criteria keep the first expedition tied to real business
+  relevance instead of detached experimentation.
+- The transfer section helps this reader see the difference between an
+  impressive pilot and a compounding capability.
+
+#### What This Lens Would Push Back On
+
+- The chapter's structure is dense, so later edits should preserve breathing
+  room and keep the most decision-relevant lines easy to carry.
+- The next chapter needs to show how this first expedition stops being a
+  one-off story and becomes organizational normal.
+
+#### Review Outcome
+
+The chapter is strong and practical. It helps a business leader imagine
+launching a serious first program without defaulting to rollout theater.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter makes a disciplined case that concentrated learning can be a
+  better use of early spend than broad distribution.
+- Protection is framed as part of the experimental design, which gives it a
+  serious justification.
+- Transfer is treated as the test that determines whether the first phase
+  created institutional value.
+
+#### What This Lens Would Push Back On
+
+- This chapter works best as a design chapter and should stay light on research
+  rather than trying to over-prove itself externally.
+- The strongest remaining pressure point is whether leaders can explain why a
+  small first cohort is not elitism but disciplined learning design.
+
+#### Review Outcome
+
+The chapter is credible for a skeptical executive because it is clear about
+what the first phase is buying: learning quality, not broad symbolic coverage.
+
+---
+
+## 2026-03-28 — Chapter 10 Review: `Talent and Operating Model`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- `Heroics prove possibility. Systems create repeatability.` is the right
+  thesis for this chapter and for the whole back half of the book.
+- Coaching, apprenticeship, transfer, and COE logic now fit together as a real
+  operating-model answer rather than as adjacent good ideas.
+- The chapter's reframing of a COE as a transfer mechanism is especially
+  strong.
+- The GPLee clarification makes the cultural-spread proof feel earned rather
+  than insider-coded.
+
+#### What This Lens Would Push Back On
+
+- The chapter is conceptually dense and will benefit from later trimming or one
+  additional concrete spread example.
+- The Lewis and Clark thread should continue as an anchor, but not become a
+  claim of already-completed deployment where that would overstate the proof.
+
+#### Review Outcome
+
+Strong systems chapter. It explains how the organization stops admiring early
+success and starts compounding it.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter makes clear that capability spread is a business issue, not only
+  a talent-program issue.
+- Apprenticeship as a seed-corn problem is a strong bridge back to the earlier
+  doctrine.
+- The operating-model checklist and symptom list are practical enough to use in
+  real management review.
+
+#### What This Lens Would Push Back On
+
+- The GPLee and AgentFlow sections now work better, but they should always stay
+  in service of the broader organizational lesson rather than becoming personal
+  methodology admiration.
+- The next chapter has to help this reader defend the operating-model agenda to
+  peers who still think mainly in savings terms.
+
+#### Review Outcome
+
+The chapter lands well. It translates amplified work from impressive people
+into a system the business can actually sustain.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- `Coaching is part of the economic case` is the correct challenge line for
+  this audience.
+- The chapter gives a serious explanation for why hero dependence is not
+  capability.
+- The symptom list is useful because it turns an operating-model discussion
+  into something a leader can diagnose.
+
+#### What This Lens Would Push Back On
+
+- The chapter should resist adding more frameworks; the current checklist is
+  enough.
+- It will need Chapter 11 to provide sharper language for defending coaching,
+  apprenticeship, and transfer in front of cost pressure.
+
+#### Review Outcome
+
+This chapter clears the rigor bar. It explains why the system around amplified
+people is part of the return, not a soft extra.

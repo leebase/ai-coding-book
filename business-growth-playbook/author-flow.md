@@ -464,6 +464,112 @@ Method signal:
 
 - Portfolio chapters should help the reader stop doing something, not only
   start doing something.
+
+## 2026-03-28 — Chapter 8 Completed the Positive Side of the Portfolio Logic
+
+After Chapter 7's negative filter, Chapter 8 had to answer a different
+question:
+
+once leaders stop funding the wrong work, where should the living capacity
+actually go?
+
+What worked:
+
+- giving the portfolio four clear destination categories
+- keeping Chapter 8 distinct from Chapter 6 by focusing on categories and
+  choices, not on the thesis argument again
+- tying the earlier "range" idea to portfolio decisions
+- ending with a top-three-bets exercise so the chapter stays handbook-like
+
+Why it matters:
+
+- Chapters 6-8 now act more like an executive operating system than three
+  adjacent idea chapters.
+
+Method signal:
+
+- When adjacent chapters risk collapse into each other, give each one a
+  different job:
+  thesis, filter, destination.
+
+## 2026-03-28 — Chapter 9 Moved the Book from Allocation into Program Design
+
+Chapter 9 had to do something the earlier playbook chapters did not:
+
+turn a strategic argument into a first-phase execution design.
+
+What worked:
+
+- treating Lewis and Clark as an operating model instead of a metaphor
+- making the chapter answer six concrete design questions
+- framing protection and coaching as part of the experimental design rather
+  than as nice-to-have support
+- keeping the contrast with committee-scale rollout very explicit
+
+Why it matters:
+
+- This is one of the most proprietary chapters in the manuscript.
+- It is where the book starts to tell leaders not only what to believe and fund
+  but how to structure the first serious move.
+
+Method signal:
+
+- Distinctive stories become most valuable when they are translated into design
+  decisions the reader can actually run.
+
+## 2026-03-28 — Chapter 10 Turned Expeditions into a Capability System
+
+Chapter 10 had a different job from Chapter 9.
+
+Chapter 9 answered:
+
+- how to run the first serious expedition
+
+Chapter 10 had to answer:
+
+- how the organization stops depending on one successful expedition or a few
+  heroes
+
+What worked:
+
+- framing heroics as proof rather than as solution
+- making coaching, apprenticeship, and transfer part of the operating model
+- connecting Lewis and Clark to COE logic
+- using AgentFlow as a personal-scale analogy for how systems preserve learning
+
+Why it matters:
+
+- This chapter makes the manuscript's "operating system" claim much more
+  believable.
+- It explains how amplified capability compounds rather than resetting each
+  time the organization starts a new wave.
+
+Method signal:
+
+- Execution chapters should be followed by compounding-system chapters, not by
+  more isolated examples.
+
+## 2026-03-28 — GPLee Reframed as Cultural Spread, Not Insider Label
+
+Lee clarified an important factual and rhetorical point:
+
+- `GPLee` was an internal nickname from being an early adopter and influencer
+  around GenAI
+- the important proof was not the nickname itself
+- the important proof was that direct reports later produced exceptional
+  self-reviews and explicitly said they had used ChatGPT the way Lee had taught
+  them
+
+Why it matters:
+
+- external readers need the pattern, not the insider shorthand
+- this turns the story into proof that coached capability can spread culturally
+  through a team
+
+Method signal:
+
+- when a personal label appears in a business book, translate it into the
+  pattern it proves unless the label itself carries broad reader meaning.
 - This creates a reusable tutorial trail for how AuthorFlow moves from concept
   package into drafting readiness.
 

@@ -183,7 +183,9 @@ allocation and portfolio decisions.
 | Draft Chapter 6 | ✅ Done |
 | Review Chapter 6 for economic sharpness | ⬜ Not started |
 | Draft Chapter 7 | ✅ Done |
-| Draft Chapter 8 | ⬜ Not started |
+| Draft Chapter 8 | ✅ Done |
+| Draft Chapter 9 | ✅ Done |
+| Draft Chapter 10 | ✅ Done |
 
 ### Sprint 6 Exit Criteria
 

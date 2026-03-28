@@ -135,6 +135,30 @@ It turns the growth thesis into a portfolio filter by naming common forms of AI
 theater, distinguishing useful work from strategic work, and giving leaders a
 review structure for what to keep, redesign, or stop funding.
 
+Chapter 8 at
+`chapters/chapter-8-build-the-capacity-portfolio.md` has now also been
+drafted. It answers the positive follow-on question from Chapters 6 and 7 by
+defining the main destination categories for reinvested capacity and giving
+leaders a practical way to choose among them.
+
+Chapter 9 at
+`chapters/chapter-9-redesign-the-program.md` has now also been drafted. It
+turns the Lewis and Clark pattern into a real execution model for the first
+serious AI program: who gets chosen, what protection they need, what mission
+they are sent on, how coaching works, and how learning transfers back into the
+institution.
+
+Chapter 10 at
+`chapters/chapter-10-talent-and-operating-model.md` has now also been drafted.
+It answers how amplified work stops being a few hero stories and becomes an
+operating system through coaching, apprenticeship, transfer, and capability
+infrastructure.
+
+That chapter has also now been tightened so `GPLee` is explained as an internal
+nickname around early GenAI adoption and, more importantly, as a proof point
+for cultural spread through coaching rather than as unexplained insider
+shorthand.
+
 The latest drafting correction from Lee is also now explicit:
 
 - this book should read as a handbook, not only as a strategy argument
@@ -144,9 +168,9 @@ The latest drafting correction from Lee is also now explicit:
 - research should be added selectively for authority and spice, with exact
   sourcing and no hallucinated references
 
-The next step is to review Chapters 6 and 7 together for economic sharpness and
-portfolio usability, then continue into Chapter 8 on where reinvested capacity
-should go.
+The next step is to review Chapters 9 and 10 together for operating-model
+clarity and system-compounding logic, then continue into Chapter 11 on the
+leadership conversation.
 
 ---
 
@@ -181,8 +205,8 @@ should go.
 | 1 | Review the opening sequence across Introduction, Chapter 1, and Chapter 2 | AI | The first act feels cumulative, not repetitive |
 | 2 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
 | 3 | Run the opening sequence through the enterprise-side reviewers | AI | Early manuscript feedback is captured before the reframe section starts |
-| 4 | Review Chapters 6 and 7 for economic sharpness and portfolio usability | AI | Allocation and portfolio chapters feel practical and credible together |
-| 5 | Draft Chapter 8 | AI | `chapters/chapter-8-build-the-capacity-portfolio.md` exists |
+| 4 | Review Chapters 9 and 10 for operating-model clarity and system-compounding logic | AI | Program and operating-model chapters feel distinct, practical, and cumulative |
+| 5 | Draft Chapter 11 | AI | `chapters/chapter-11-the-leadership-conversation.md` exists |
 | 6 | Begin selective research insertion pass on later chapters | AI | Later manuscript has exact, verified support without losing voice |
 
 ---
