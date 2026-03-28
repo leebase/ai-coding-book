@@ -140,3 +140,47 @@ Why it matters:
   real argument chapter.
 - The opening sequence can now be tested for pacing and repetition risk against
   Chapter 2 rather than only in theory.
+
+## 2026-03-28 — Chapter 2 Drafted
+
+Drafted
+[chapter-2-what-gets-lost-when-you-cut-too-deep.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-2-what-gets-lost-when-you-cut-too-deep.md).
+
+What this chapter now does:
+
+- makes invisible loss concrete and person-shaped rather than abstract
+- establishes `Knowledge Carriers` in enterprise-side language
+- uses the Don story as the main proof that visible diagnosis can hide the real
+  value at risk
+- argues that continuity is not only defensive, but a growth asset
+- begins the logic of a business-side `Do Not Cut List`
+
+Why it matters:
+
+- The opening sequence now has a real escalation:
+  - Introduction = wrong win
+  - Chapter 1 = why smart leaders choose it
+  - Chapter 2 = what that choice actually removes
+- The manuscript now has enough opening material to test for pace, repetition,
+  and proof strength before the reframe section begins.
+
+## 2026-03-28 — Chapter 3 Drafted
+
+Drafted
+[chapter-3-the-multiplier-model.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-3-the-multiplier-model.md).
+
+What this chapter now does:
+
+- introduces the book's central strategic fork for enterprise leaders
+- contrasts the extraction path with the investment path
+- makes `Efficiency Extractor` versus `Capacity Investor` the leadership mirror
+- uses the Rach 2 proof point to show that amplification changes range, not
+  just speed
+- turns the book from warning into a concrete choice about what AI becomes
+  inside the business
+
+Why it matters:
+
+- The manuscript now has its first true reframe chapter.
+- The book is no longer only diagnosing the trap; it is starting to define the
+  better path with enough specificity to support the rest of the playbook.

@@ -63,7 +63,7 @@ cannot carry the human claim cleanly on their own.
 
 ## Part II — The Reframe
 
-### Chapter 4 — The Multiplier Model
+### Chapter 3 — The Multiplier Model
 
 **Job:** Introduce the central strategic fork for enterprise leaders.
 
@@ -73,7 +73,7 @@ cannot carry the human claim cleanly on their own.
 - connect the fork to `Efficiency Extractor` versus `Capacity Investor`
 - show medium-term divergence between the two paths
 
-### Chapter 5 — Who AI Replaces, Who It Multiplies
+### Chapter 4 — Who AI Replaces, Who It Multiplies
 
 **Job:** Reframe talent value after AI.
 
@@ -83,7 +83,7 @@ cannot carry the human claim cleanly on their own.
 - show which people and capabilities become more valuable
 - make the role of amplified humans explicit
 
-### Chapter 6 — The People You Didn't Know You Had
+### Chapter 5 — The People You Didn't Know You Had
 
 **Job:** Show that AI can surface underused capability inside the organization.
 
@@ -99,7 +99,7 @@ cannot carry the human claim cleanly on their own.
 - use lived examples of expanded range rather than generic empowerment talk
 - make this a load-bearing proof chapter for the hopeful thesis
 
-### Chapter 7 — Every AI Program Needs a Growth Thesis
+### Chapter 6 — Every AI Program Needs a Growth Thesis
 
 **Job:** Force the reader to answer where the capacity goes.
 
@@ -134,7 +134,7 @@ something Chapters 4-7 cannot carry themselves.
 
 ## Part III — The Capacity Playbook
 
-### Chapter 8 — Stop Funding the Wrong Work
+### Chapter 7 — Stop Funding the Wrong Work
 
 **Job:** Help leaders distinguish between AI spend that extracts cost and AI
 spend that builds the future.
@@ -146,7 +146,7 @@ spend that builds the future.
 - show what should lose funding priority when growth is the real goal
 - make the reader more dangerous in portfolio conversations
 
-### Chapter 9 — Build the Capacity Portfolio
+### Chapter 8 — Build the Capacity Portfolio
 
 **Job:** Show where AI-created capacity can be invested.
 
@@ -156,7 +156,7 @@ spend that builds the future.
 - connect capacity investment to growth, resilience, capability, and new value
 - keep the guidance concrete enough for Monday-morning decisions
 
-### Chapter 10 — Redesign the Program
+### Chapter 9 — Redesign the Program
 
 **Job:** Show how leaders structure pilots, partner work, and governance for
 amplification rather than mere extraction.
@@ -174,7 +174,7 @@ amplification rather than mere extraction.
   rollout
 - explain what leaders should measure, protect, and transfer
 
-### Chapter 11 — Talent and Operating Model
+### Chapter 10 — Talent and Operating Model
 
 **Job:** Describe the kind of enterprise system that can actually compound
 amplified people.
@@ -189,7 +189,7 @@ amplified people.
   heroics and may fit better here than in Chapter 10
 - make the case that systems beat isolated heroics
 
-### Chapter 12 — The Leadership Conversation
+### Chapter 11 — The Leadership Conversation
 
 **Job:** Give the reader language for boards, CFOs, peer executives, and
 partners.
@@ -207,7 +207,7 @@ partners.
 
 ## Part IV — The Future You Choose
 
-### Chapter 13 — The Amplified Enterprise
+### Chapter 12 — The Amplified Enterprise
 
 **Job:** Synthesize what an organization looks like when it chooses amplified
 humans over simple extraction.

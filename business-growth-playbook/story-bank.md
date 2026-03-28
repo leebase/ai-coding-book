@@ -268,18 +268,18 @@ memoir-heavy.
 | Story | Best Chapter Job |
 |-------|------------------|
 | Lewis and Clark AI Expedition | Introduction; Chapter 10; Chapter 13 |
-| The Rach 2 Day | Introduction; Chapter 4; Chapter 9 |
-| Saving Don / Knowledge Carrier Forensics | Chapter 2; Chapter 5 |
-| GPLee and the Annual Reviews | Chapter 6; Chapter 11 |
-| AgentFlow as a Personal COE | Chapter 11 |
-| Saturday in the Life of the AI Enhanced | Chapter 4; Chapter 13 |
-| Coding Clarity Story | Chapter 10; Chapter 11 |
-| MicroStrategy Table Smack | Chapter 7 |
-| The Neighbor Analogy | Chapter 7; Chapter 10 |
+| The Rach 2 Day | Introduction; Chapter 3; Chapter 8 |
+| Saving Don / Knowledge Carrier Forensics | Chapter 2; Chapter 4 |
+| GPLee and the Annual Reviews | Chapter 5; Chapter 10 |
+| AgentFlow as a Personal COE | Chapter 10 |
+| Saturday in the Life of the AI Enhanced | Chapter 3; Chapter 12 |
+| Coding Clarity Story | Chapter 9; Chapter 10 |
+| MicroStrategy Table Smack | Chapter 6 |
+| The Neighbor Analogy | Chapter 6; Chapter 9 |
 | The Divine Struggle | Act II reflection or Chapter 13 if needed |
 | The Eternal Now | Act II reflection or Conclusion if needed |
 | The Songs | Act II reflection or Conclusion if needed |
-| AI Slop++ and the Nightly Audio System | Chapter 9; Chapter 13 |
+| AI Slop++ and the Nightly Audio System | Chapter 8; Chapter 12 |
 
 ---
 

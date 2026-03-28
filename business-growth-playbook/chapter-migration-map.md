@@ -143,7 +143,7 @@ What changes:
 - keep the reflection grounded in the book's explicit human stance
 - use it to widen the future being argued for, not to drift into memoir
 
-## Chapter 4 — The Multiplier Model
+## Chapter 3 — The Multiplier Model
 
 **Current status:** `Reframe`
 
@@ -158,7 +158,7 @@ What changes:
   capacity
 - connect explicitly to `Efficiency Extractor` versus `Capacity Investor`
 
-## Chapter 5 — Who AI Replaces, Who It Multiplies
+## Chapter 4 — Who AI Replaces, Who It Multiplies
 
 **Current status:** `Reframe`
 
@@ -174,7 +174,7 @@ What changes:
   leverage review
 - emphasize who should be amplified, coached, or redeployed
 
-## Chapter 6 — The People You Didn't Know You Had
+## Chapter 5 — The People You Didn't Know You Had
 
 **Current status:** `Transfer`
 
@@ -189,7 +189,7 @@ What changes:
 - make enterprise manager application more direct
 - connect the story set to coaching, sponsorship, and tool access
 
-## Chapter 7 — Every Engagement Needs a Growth Thesis
+## Chapter 6 — Every Engagement Needs a Growth Thesis
 
 **Current status:** `Reframe`
 
@@ -221,7 +221,7 @@ What changes:
 - use as proof that AI can deepen expression and articulation, not only
   enterprise output
 
-## Chapter 8 — Stop Selling the Wrong Work
+## Chapter 7 — Stop Funding the Wrong Work
 
 **Current status:** `Replace`
 
@@ -238,7 +238,7 @@ Job:
 - help leaders distinguish between AI spend that extracts cost and AI spend that
   expands capability, resilience, or growth
 
-## Chapter 9 — Build the New Service Portfolio
+## Chapter 8 — Build the Capacity Portfolio
 
 **Current status:** `Replace`
 
@@ -259,7 +259,7 @@ Job:
   - team capability building
   - strategic experiments
 
-## Chapter 10 — Redesign the Engagement
+## Chapter 9 — Redesign the Program
 
 **Current status:** `Reframe`
 
@@ -278,7 +278,7 @@ Anchor story candidate:
 - Lewis and Clark expedition as bounded first phase with explicit empowerment
   logic
 
-## Chapter 11 — Talent and Operating Model
+## Chapter 10 — Talent and Operating Model
 
 **Current status:** `Reframe`
 
@@ -295,7 +295,7 @@ What changes:
 - bring in GPLee and AgentFlow-as-personal-COE material as evidence that
   capability systems matter more than isolated experts
 
-## Chapter 12 — The Client Conversation
+## Chapter 11 — The Leadership Conversation
 
 **Current status:** `Replace`
 
@@ -325,7 +325,7 @@ What changes:
 
 - make the closing reflection reinforce the book's explicit human future
 
-## Chapter 13 — The New Consulting Firm
+## Chapter 12 — The Amplified Enterprise
 
 **Current status:** `Replace`
 
@@ -335,7 +335,7 @@ Why:
 
 Enterprise-side replacement candidate:
 
-- `Chapter 13 — The Amplified Enterprise`
+- `Chapter 12 — The Amplified Enterprise`
 
 Job:
 
@@ -365,27 +365,26 @@ What changes:
 
 - Introduction — The Wrong Win
 - Chapter 1 — The Efficiency Story Everybody Understands
-- Chapter 2 — The Easy Win
-- Chapter 3 — What Gets Lost When You Cut Too Deep
+- Chapter 2 — What Gets Lost When You Cut Too Deep
 
 ### Part II — The Reframe
 
-- Chapter 4 — The Multiplier Model
-- Chapter 5 — Who AI Replaces, Who It Multiplies
-- Chapter 6 — The People You Didn't Know You Had
-- Chapter 7 — Every AI Program Needs a Growth Thesis
+- Chapter 3 — The Multiplier Model
+- Chapter 4 — Who AI Replaces, Who It Multiplies
+- Chapter 5 — The People You Didn't Know You Had
+- Chapter 6 — Every AI Program Needs a Growth Thesis
 
 ### Part III — The Capacity Playbook
 
-- Chapter 8 — Stop Funding the Wrong Work
-- Chapter 9 — Build the Capacity Portfolio
-- Chapter 10 — Redesign the Program
-- Chapter 11 — Talent and Operating Model
-- Chapter 12 — The Leadership Conversation
+- Chapter 7 — Stop Funding the Wrong Work
+- Chapter 8 — Build the Capacity Portfolio
+- Chapter 9 — Redesign the Program
+- Chapter 10 — Talent and Operating Model
+- Chapter 11 — The Leadership Conversation
 
 ### Part IV — The Future You Choose
 
-- Chapter 13 — The Amplified Enterprise
+- Chapter 12 — The Amplified Enterprise
 - Conclusion — Don't Cut Your Way to the Future
 
 ---

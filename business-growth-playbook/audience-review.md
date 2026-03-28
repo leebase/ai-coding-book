@@ -353,3 +353,78 @@ logic spine.
 
 The chapter passes the CFO credibility test. It is skeptical of savings-only
 logic without sounding naive about cost pressure.
+
+---
+
+## 2026-03-28 — Chapter 3 Review: `The Multiplier Model`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- The chapter makes the strategic fork clear without making the investment path
+  sound soft or easy.
+- `Efficiency Extractor` versus `Capacity Investor` works as a usable
+  leadership mirror.
+- The twelve-month comparison gives the reader a realistic way to think in
+  operating time rather than only in slogans.
+
+#### What This Lens Would Push Back On
+
+- The opening takes a little too long to get to the fork, given how much trap
+  logic the reader has already absorbed in the prior chapters.
+- The next chapter now has to feel like the first real operating chapter rather
+  than another conceptual extension of the reframe.
+
+#### Review Outcome
+
+Strong turn chapter. It credibly shifts the book from critique to alternative.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- `The extraction path produces faster proof. The investment path produces
+  stronger options.` is one of the most commercially useful lines in the
+  manuscript so far.
+- The chapter frames AI as a force inside the business rather than a software
+  category, which raises the level of the leadership conversation.
+- The Rach 2 section shows what multiplication looks like in lived terms rather
+  than leaving the better path abstract.
+
+#### What This Lens Would Push Back On
+
+- The investment path still needs a little more organizational-scale texture,
+  not just individual-scale proof.
+- The rest of the manuscript now has to translate the better path into concrete
+  decisions quickly, or this chapter will feel smarter than the chapters that
+  follow it.
+
+#### Review Outcome
+
+The chapter works well for growth-minded operators and sets up the need for a
+ practical playbook.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter preserves the book's anti-incomplete-thinking stance rather than
+  slipping into anti-efficiency rhetoric.
+- `That path is not softer than extraction. It is harder.` is the right
+  credibility move for this audience.
+- The two-path framing clarifies that the question is allocation of gains, not
+  whether gains exist.
+
+#### What This Lens Would Push Back On
+
+- The extraction path section could be more concise because the reader already
+  understands that logic from the earlier chapters.
+- The investment path still needs more organizational and eventually economic
+  specificity in the chapters that follow.
+
+#### Review Outcome
+
+The chapter passes the credibility test as a reframe chapter. It does not yet
+close the economic argument, but it is not supposed to. It sets the right
+standard for the chapters that must.

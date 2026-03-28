@@ -1,34 +1,26 @@
 # Introduction — The Wrong Win
 
-The first AI win is easy to recognize.
-
-A team that used to need three weeks now needs five days. A manager who used to
+The first AI win is easy to recognize. A team that used to need three weeks now
+needs five days. A manager who used to
 wait for analysis until Friday gets it by lunch. A proposal that used to take a
 weekend gets turned around in an afternoon. A COO looks at the new velocity,
 looks at the budget, and sees a clean line from productivity to savings.
 
-Of course they do.
-
-That is the first story the market knows how to tell. AI made us faster. We
-took out cost. We became more efficient. We proved value.
-
+Of course they do. That is the first story the market knows how to tell. AI
+made us faster. We took out cost. We became more efficient. We proved value.
 Sometimes that story is even true.
 
 The problem is not that efficiency is fake. The problem is that efficiency is
-too small a definition of success for what AI is actually making possible.
-
-That is the wrong win.
-
-It can also become a costly one.
+too small a definition of success for what AI is actually making possible. That
+is the wrong win, and it can also become a costly one.
 
 This book is for leaders who can already feel that tension. You may be under
 pressure to show AI ROI quickly. Your board understands savings. Your CFO can
 put labor reduction into a model. Vendors are happy to tell you that automation
 is the cleanest path to value. Your peers want proof, not philosophy.
 
-All of that is real.
-
-But if the first use of new AI capability is only to remove cost, something
+All of that is real. But if the first use of new AI capability is only to
+remove cost, something
 important can happen inside the organization without showing up immediately on a
 spreadsheet. You can improve the quarter while weakening the future. You can
 take out friction without asking what that freed capacity should become. You
@@ -45,9 +37,8 @@ authority, but it is real. I have seen enough versions of this decision to know
 what usually gets measured, what usually gets missed, and what tends to happen
 later.
 
-That is why this book keeps coming back to one question:
-
-What do we do with the capacity AI creates?
+That is why this book keeps coming back to one question: What do we do with the
+capacity AI creates?
 
 Not the productivity. Not the demo. Not the vendor claim. The capacity.
 
@@ -58,11 +49,8 @@ range your organization can hold if you choose to invest in it. Once that new
 capacity exists, the central decision is no longer whether AI works. It is
 where the gains go.
 
-Some leaders will use that capacity mainly to shrink cost.
-
-Some will use it to build a stronger business.
-
-Those are not the same future.
+Some leaders will use that capacity mainly to shrink cost. Some will use it to
+build a stronger business. Those are not the same future.
 
 ## The Efficiency Trap
 
@@ -86,19 +74,14 @@ gain becomes the only category of gain the organization knows how to measure,
 then AI gets trapped inside an efficiency story before the larger opportunity
 ever has a chance to matter.
 
-This book calls that mistake the Efficiency Trap.
-
-The trap is not that automation works poorly. Often it works very well.
-
-The trap is that the organization starts mistaking visible savings for the full
-harvest.
+This book calls that mistake the Efficiency Trap. The trap is not that
+automation works poorly. Often it works very well. The trap is that the
+organization starts mistaking visible savings for the full harvest.
 
 ## Don't Eat Your Seed Corn
 
 There is an older phrase that names the danger better than most management
-language does.
-
-Don't eat your seed corn.
+language does: Don't eat your seed corn.
 
 If you eat the seed corn, you solve the immediate problem and weaken the next
 harvest. You use what should have funded the future to relieve the pressure of
@@ -109,9 +92,7 @@ The same thing happens when leaders use AI-created leverage mainly to strip
 cost out of a business without deciding what kind of stronger organization that
 leverage could have funded instead.
 
-The immediate savings may be real.
-
-So is the loss.
+The immediate savings may be real. So is the loss.
 
 A spreadsheet can show salary cost. It cannot show you the person who knows why
 the client always objects late. It cannot show you the operator who can smell a
@@ -128,12 +109,8 @@ buy with the capacity it now has.
 ## Capacity, Not Just Productivity
 
 `Productivity` is useful language, but it is not enough for this book.
-
-Productivity tells you something got faster.
-
-Capacity tells you that a new strategic asset now exists.
-
-That distinction matters.
+Productivity tells you something got faster. Capacity tells you that a new
+strategic asset now exists. That distinction matters.
 
 If one skilled operator can now do the work that used to consume two or three
 people's worth of time, the leadership question is not only whether the work
@@ -160,20 +137,16 @@ who was never given enough leverage to become what they might have become.
 
 ## What Abundance Actually Comes From
 
-This book makes a stronger claim than "do not cut too deeply."
-
-It argues that AI does not create abundance by itself.
-
-Abundance comes from empowered humans.
+This book makes a stronger claim than "do not cut too deeply." It argues that
+AI does not create abundance by itself. Abundance comes from empowered humans.
 
 That line matters because the dominant AI story still leans in another
 direction. The loudest narrative in the market is usually some version of this:
 AI gets better, labor matters less, the future belongs to the companies that
 can replace more people faster than their competitors.
 
-I do not think that is a good future.
-
-I also do not think it is the deepest source of value.
+I do not think that is a good future, and I do not think it is the deepest
+source of value.
 
 The better future is one where AI increases the range of capable people. I have
 seen what that looks like when one high performer is suddenly able to produce
@@ -215,19 +188,15 @@ how to work with new leverage. Build in security mitigations from the start.
 Make the first phase small enough to control, serious enough to matter, and
 explicit enough to learn from.
 
-That was not a cost program.
-
-It was an amplification program.
+That was not a cost program. It was an amplification program.
 
 The point was not to make one workflow cheaper and then declare victory. The
 point was to see what happened when capable people were given meaningful
 leverage under conditions the organization could trust. The point was to find
 out whether the future got bigger when the people got stronger.
 
-That is the pattern this book wants leaders to see.
-
-Not enterprise theater. Not abstract transformation slogans. Not vague "start
-small" advice.
+That is the pattern this book wants leaders to see: not enterprise theater, not
+abstract transformation slogans, not vague "start small" advice.
 
 A real expedition:
 
@@ -243,11 +212,8 @@ to small trusted teams with unusual range.
 
 ## What This Book Promises
 
-This is not a book about prompts, vendors, or AI fashion.
-
-It is a book about leadership under leverage.
-
-It is for enterprise transformation and operations leaders, business unit
+This is not a book about prompts, vendors, or AI fashion. It is a book about
+leadership under leverage. It is for enterprise transformation and operations leaders, business unit
 leaders, and executive sponsors who need a better answer than "prove savings
 and move on."
 

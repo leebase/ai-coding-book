@@ -59,7 +59,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   Saving Don / Knowledge Carrier forensics.
 
-## Chapter 4 — The Multiplier Model
+## Chapter 3 — The Multiplier Model
 
 - Reader should believe:
   AI creates a real fork in leadership behavior.
@@ -68,7 +68,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   Rach 2 Day plus a medium-term comparison of the two paths.
 
-## Chapter 5 — Who AI Replaces, Who It Multiplies
+## Chapter 4 — Who AI Replaces, Who It Multiplies
 
 - Reader should believe:
   some work compresses, but some people become more valuable.
@@ -77,7 +77,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   Knowledge Carrier logic plus enterprise examples of leverage.
 
-## Chapter 6 — The People You Didn't Know You Had
+## Chapter 5 — The People You Didn't Know You Had
 
 - Reader should believe:
   latent high-ceiling people already exist inside many organizations.
@@ -86,7 +86,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   coached-range-expansion stories and a practical diagnostic.
 
-## Chapter 7 — Every AI Program Needs a Growth Thesis
+## Chapter 6 — Every AI Program Needs a Growth Thesis
 
 - Reader should believe:
   capacity must be allocated, not merely celebrated.
@@ -96,7 +96,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   MicroStrategy table smack plus a structured reinvestment argument.
 
-## Chapter 8 — Stop Funding the Wrong Work
+## Chapter 7 — Stop Funding the Wrong Work
 
 - Reader should believe:
   some AI investments produce theater rather than future-building.
@@ -105,7 +105,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   concrete categories of work to stop funding or lower in priority.
 
-## Chapter 9 — Build the Capacity Portfolio
+## Chapter 8 — Build the Capacity Portfolio
 
 - Reader should believe:
   there are concrete destinations for reinvested capacity.
@@ -114,7 +114,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   destination categories with examples and tradeoffs.
 
-## Chapter 10 — Redesign the Program
+## Chapter 9 — Redesign the Program
 
 - Reader should believe:
   bounded, trusted, high-leverage expeditions outperform diffuse rollout
@@ -125,7 +125,7 @@ Each major chapter should prove something specific:
   five-high-performers pattern with explicit mission, protections, and learning
   transfer.
 
-## Chapter 11 — Talent and Operating Model
+## Chapter 10 — Talent and Operating Model
 
 - Reader should believe:
   amplified people do not compound by magic; they require systems.
@@ -135,7 +135,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   GPLee plus capability-system examples.
 
-## Chapter 12 — The Leadership Conversation
+## Chapter 11 — The Leadership Conversation
 
 - Reader should believe:
   leaders must define the mandate before partners, peers, or finance functions
@@ -146,7 +146,7 @@ Each major chapter should prove something specific:
 - Best proof shape:
   board/CFO/partner language plus a simple partner-evaluation framework.
 
-## Chapter 13 — The Amplified Enterprise
+## Chapter 12 — The Amplified Enterprise
 
 - Reader should believe:
   a stronger organizational future is both imaginable and practical.

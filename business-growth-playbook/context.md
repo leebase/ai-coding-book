@@ -75,8 +75,17 @@ committed and pushed, and Chapter 1 at
 `chapters/chapter-1-the-efficiency-story-everybody-understands.md` has been
 drafted.
 
-The next step is to review Chapter 1 for pacing and repetition against the
-introduction, then draft Chapter 2.
+Chapter 1 has now been reviewed through the enterprise-side lenses, committed,
+and pushed. Chapter 2 at
+`chapters/chapter-2-what-gets-lost-when-you-cut-too-deep.md` has also been
+drafted.
+
+The opening sequence has now been drafted and Chapter 3 at
+`chapters/chapter-3-the-multiplier-model.md` has been added as the first true
+reframe chapter.
+
+The next step is to review the opening sequence for pacing and repetition, then
+continue the reframe section with Chapter 4 and Chapter 5.
 
 ---
 
@@ -108,11 +117,11 @@ introduction, then draft Chapter 2.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Review Chapter 1 against the introduction for repetition and pacing | AI | The opening sequence feels cumulative, not circular |
-| 2 | Draft Chapter 2 | AI | `chapters/chapter-2-what-gets-lost-when-you-cut-too-deep.md` exists |
-| 3 | Expand the story bank with any missing enterprise-side seed-corn stories | Lee + AI | The book has enough lived proof for the opening half |
-| 4 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
-| 5 | Run the first two chapters through the enterprise-side reviewers | AI | Early manuscript feedback is captured before the reframe section starts |
+| 1 | Review the opening sequence across Introduction, Chapter 1, and Chapter 2 | AI | The first act feels cumulative, not repetitive |
+| 2 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
+| 3 | Run the opening sequence through the enterprise-side reviewers | AI | Early manuscript feedback is captured before the reframe section starts |
+| 4 | Draft Chapter 4 | AI | `chapters/chapter-4-who-ai-replaces-who-it-multiplies.md` exists |
+| 5 | Draft Chapter 5 | AI | `chapters/chapter-5-the-people-you-didnt-know-you-had.md` exists |
 
 ---
 

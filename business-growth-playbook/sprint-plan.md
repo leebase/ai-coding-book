@@ -116,7 +116,8 @@ the paired-book concept in prose.
 | Draft introduction | ✅ Done |
 | Review introduction through enterprise-side lenses | ✅ Done |
 | Draft Chapter 1 | ✅ Done |
-| Draft Chapter 2 | ⬜ Not started |
+| Draft Chapter 2 | ✅ Done |
+| Draft Chapter 3 | ✅ Done |
 | Draft Act I reflection or fold it into adjacent chapters | ⬜ Not started |
 
 ### Sprint 3 Deliverables
