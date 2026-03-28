@@ -42,6 +42,12 @@ handle, improve how work flows, preserve the judgment and continuity that
 matter most, and redirect the freed capacity into deeper customer value,
 stronger internal capability, faster learning, and new growth.
 
+That is not just an appealing theory. It is broadly consistent with the best
+early field evidence. In customer support, consulting, and software
+development, the strongest studies so far point to heterogeneous gains: AI
+often amplifies workers unevenly rather than acting like a clean substitute for
+everyone at once.
+
 Same pressure. Same technological moment. Different governing idea.
 
 That is the fork.
@@ -188,6 +194,13 @@ That is the heart of the multiplier argument.
 
 The gain was not just speed. It was range.
 
+That is also why the recent field experiments matter. In customer support,
+consulting, and software development, researchers are finding that generative
+AI does not affect everyone in the same way. The biggest gains often show up
+where the worker-tool fit is strong and where less experienced people can draw
+on patterns they did not previously have at hand. That does not weaken the
+multiplier case. It sharpens it. Leverage changes the shape of capability.
+
 And the strategic question was not, "How do we remove a person because this
 person got faster?" The strategic question was, "What can we now do because a
 capable person has just become more powerful?"
@@ -218,6 +231,12 @@ practical operating choice: keep the right people, redesign the workflow around
 leverage, raise the range of trusted operators, reinvest capacity deliberately,
 and convert the gains into stronger customer value, stronger internal systems,
 or stronger growth.
+
+The jagged-frontier research matters here too. These tools can help
+substantially on tasks that fit them and disappoint badly on tasks that do not.
+That makes leadership judgment more important, not less. Someone still has to
+decide where to trust the tool, where to redesign the workflow, and where human
+judgment remains the real bottleneck.
 
 That path is not softer than extraction.
 

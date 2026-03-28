@@ -43,6 +43,11 @@ slightly different name.
 
 This is not sentimentality. It is operational reality.
 
+Research on tacit knowledge and organizational forgetting points in the same
+direction. The exact terms are different, but the core point is similar:
+important organizational value often sits in forms that are hard to codify and
+easy to underestimate until performance starts degrading.
+
 Organizations run on more than formal authority and visible output. They also
 run on informal coherence. Someone knows how a certain customer actually makes
 decisions, not how the account plan says they make decisions. Someone knows
@@ -81,6 +86,11 @@ Sometimes the most valuable person is the one whose best work looks like:
 
 Those contributions are easy to undervalue because they often appear as the
 absence of failure.
+
+That is one reason older research on knowledge-intensive firms still matters
+here. Studies of tacit knowledge capture have shown that firm performance can
+depend heavily on knowledge that does not travel cleanly through documents
+alone. The label in this book is mine. The underlying economic reality is not.
 
 ## A Person Can Look Replaceable Right Before You Need Exactly Them
 
@@ -174,6 +184,12 @@ What stays invisible is the silence of what was never written down in the first
 place. The system answers more quickly and leaders conclude the system knows
 more completely. Those are not the same thing.
 
+That distinction is worth making carefully. Some recent work argues that AI can
+help codify forms of knowledge that were previously more local or tacit. I
+think that is true as far as it goes. But it does not erase the practical
+reality that organizations can still lose context, judgment, and continuity
+faster than they realize when the people holding them leave.
+
 ## Continuity Is Not Just Defensive
 
 One reason this chapter matters is that continuity is usually framed as a
@@ -196,6 +212,11 @@ matters, and will not make them pay twice for the same lesson.
 
 When leaders cut too deeply, they do not just reduce cost. They often reduce
 the quality of future growth.
+
+And there is empirical support for the forgetting side of that warning. In
+operations research, organizational forgetting has been shown to erode quality
+gains over time. Different context, same lesson: what a system once learned is
+not automatically retained just because the organization once knew it.
 
 ## The Beginning of the Do Not Cut List
 

@@ -155,6 +155,12 @@ This is where the argument becomes more uncomfortable. Reduction-first logic
 survives not only because it is legible, but because many management systems
 reward it more quickly than they reward reinvestment.
 
+Recent research argues that AI development and deployment can be pulled toward
+automation-first uses by incentives, ideology, and path dependence. That is a
+useful way to say something operators already feel in practice: the system does
+not need to hate people in order to underinvest in them. It only has to reward
+the faster story first.
+
 If a leader can show:
 
 - lower run cost
@@ -222,6 +228,12 @@ It names the failure mode where a business takes a real gain and sends all of
 it into the easiest bucket to defend. Money is saved. Applause may follow. But
 no one can point to what the new capacity actually built, because the
 organization never really decided that it should build anything.
+
+That risk gets easier to miss when adoption itself becomes the headline. Early
+survey research shows how quickly generative AI has already entered real work,
+along with measurable time savings. But fast adoption and early savings do not
+tell leaders where the gains should go. That is still a management decision,
+and often the least developed one.
 
 The result is a company that gets better at proving efficiency and weaker at
 expanding possibility.

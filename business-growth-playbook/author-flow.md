@@ -258,6 +258,132 @@ Why it matters:
 
 - A companion book stops being an idea when it has its own operating memory,
   tactical plan, and draftable table of contents.
+
+## 2026-03-28 — "Handbook" Became a Drafting Constraint, Not Just a Positioning Word
+
+Lee clarified that this book should read as a handbook.
+
+Why it matters:
+
+- The manuscript cannot stop at elegant doctrine and strong contrasts.
+- Each chapter now has to produce a usable management move, diagnostic, or
+  operating question that a leader could carry into a real staffing, funding,
+  or program conversation.
+- This especially affects the middle chapters, where the risk is drifting into
+  persuasive nonfiction when the promise is really a business handbook.
+
+Method signal:
+
+- When the human names the form more precisely, treat it as a drafting
+  constraint immediately.
+- In practice, that means turning framework chapters into chapters with
+  reusable tests, Monday-morning moves, and decision lenses.
+
+## 2026-03-28 — Research Added as Reinforcement, Not as Driver
+
+Lee asked for research support to be added carefully:
+
+- not enough to turn the book into a study review
+- enough to add authority and texture
+- with exact sourcing and no hallucinated references
+
+Artifacts added:
+
+- `research-support.md`
+- `reference-ledger.md`
+
+Why it matters:
+
+- This creates a clean separation between doctrine, lived proof, and external
+  support.
+- It gives the manuscript a way to use research as spice instead of as the main
+  ingredient.
+- It lowers the risk of fuzzy-memory citations, which is especially important
+  in a book making contrarian claims to executives.
+
+Method signal:
+
+- In an AuthorFlow project, research support should be curated to the thesis,
+  not accumulated for its own sake.
+- A reference ledger is worth maintaining when the author wants authority
+  without drift into literature-summary mode.
+
+## 2026-03-28 — Early Chapters Received a Light Research Layer
+
+The introduction and Chapters 1-4 were updated with short, verified research
+references.
+
+What changed in practice:
+
+- adoption-speed context was added early
+- augmentation studies were used to support heterogeneous gains rather than
+  simplistic replacement claims
+- tacit-knowledge and organizational-forgetting research was used to support
+  the invisible-loss argument
+- incentive-bias research was used to reinforce the pressure thesis
+
+Why it matters:
+
+- The manuscript now has more authority without becoming less personal.
+- The experience of the chapter did not change from "handbook" to "study
+  review," which was the core risk Lee wanted to avoid.
+
+Method signal:
+
+- The right amount of research in a thought-leadership handbook is often one
+  well-placed paragraph, not a page of proof.
+
+## 2026-03-28 — Research Trimmed Back Toward Voice
+
+After the first insertion pass, the next judgment call was not "add more" but
+"keep control of the tone."
+
+What changed:
+
+- named scholars were removed from most in-chapter mentions
+- research references were kept where they sharpened authority
+- citations were translated back into Lee's operational meaning immediately
+
+Why it matters:
+
+- the manuscript's authority comes primarily from lived pattern recognition and
+  trusted-advisor clarity
+- research works best here when it nods at the pattern instead of speaking for
+  it
+
+Method signal:
+
+- in a handbook like this, research should validate the lived pattern without
+  becoming the dominant voice on the page
+
+## 2026-03-28 — Chapter 5 Locked the "Handbook of Human Amplification" Direction
+
+Chapter 5 forced an important choice:
+
+Would the hopeful side of the book remain inspirational language, or would it
+become operational?
+
+The chapter was written as a practical talent-diagnostic chapter instead of a
+general essay about hidden potential.
+
+What that required:
+
+- defining repeatable signals of an underused high-ceiling person
+- adding a simple multiplier-candidate test
+- ending with a Monday-morning talent scan
+- keeping the chapter disciplined against romanticizing everyone as hidden
+  greatness
+
+Why it matters:
+
+- The book's human stance is now more credible because it produces management
+  behavior, not just aspiration.
+- "Amplify people" is starting to mean something operational on the page.
+
+Method signal:
+
+- A thought-leadership handbook becomes real when its hopeful chapters can be
+  used, not just admired.
 - This creates a reusable tutorial trail for how AuthorFlow moves from concept
   package into drafting readiness.
 

@@ -65,6 +65,28 @@ The recurring doctrine is now stable enough to guide chapter architecture:
 - `capacity misallocation`
 - Lewis and Clark / five high performers as the organization-design proof point
 
+The research support layer is now also in place:
+
+- `research-support.md`
+- `reference-ledger.md`
+
+These exist to let the manuscript start incorporating carefully verified
+research without drifting into a study-review book. The current rule is:
+
+- research should reinforce the doctrine, not replace the lived proof
+- only exact, logged references should appear in manuscript claims
+- no unverified statistics or fuzzy-memory citations
+
+That research layer has now started to enter the prose in a light way across
+the introduction and Chapters 1-4. The current pattern is working:
+
+- short, high-value references
+- no citation dumping
+- no shift into study-review voice
+- only support where it sharpens credibility or consequence
+- minimal name-dropping inside chapter prose unless the names themselves add
+  real value
+
 The outline has now been tightened with enterprise-side feedback, and the
 introduction at `chapters/introduction-the-wrong-win.md` has been drafted from
 the doctrine sheet and proof map. A dedicated credibility strategy now also
@@ -84,8 +106,31 @@ The opening sequence has now been drafted and Chapter 3 at
 `chapters/chapter-3-the-multiplier-model.md` has been added as the first true
 reframe chapter.
 
-The next step is to review the opening sequence for pacing and repetition, then
-continue the reframe section with Chapter 4 and Chapter 5.
+Chapter 4 at
+`chapters/chapter-4-who-ai-replaces-who-it-multiplies.md` has now also been
+drafted as the first real handbook-style chapter in the playbook section of the
+argument. It shifts the manuscript from a conceptual reframe into practical
+classification guidance: what work compresses, what people multiply, and how a
+leader begins to tell the difference.
+
+Chapter 5 at
+`chapters/chapter-5-the-people-you-didnt-know-you-had.md` has now also been
+drafted. It takes the next practical step by showing leaders how to identify
+underused high-ceiling people already inside the organization and what signals
+to use before they make staffing or investment decisions.
+
+The latest drafting correction from Lee is also now explicit:
+
+- this book should read as a handbook, not only as a strategy argument
+- chapters should produce practical management moves, not just conceptual
+  agreement
+- one-sentence paragraphs should be used sparingly rather than as the default
+- research should be added selectively for authority and spice, with exact
+  sourcing and no hallucinated references
+
+The next step is to review Chapter 4 for handbook usefulness and then continue
+the reframe section with Chapter 6. After that, the early chapters can start
+getting any additional research inserts only if they clearly improve the prose.
 
 ---
 
@@ -120,8 +165,9 @@ continue the reframe section with Chapter 4 and Chapter 5.
 | 1 | Review the opening sequence across Introduction, Chapter 1, and Chapter 2 | AI | The first act feels cumulative, not repetitive |
 | 2 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
 | 3 | Run the opening sequence through the enterprise-side reviewers | AI | Early manuscript feedback is captured before the reframe section starts |
-| 4 | Draft Chapter 4 | AI | `chapters/chapter-4-who-ai-replaces-who-it-multiplies.md` exists |
-| 5 | Draft Chapter 5 | AI | `chapters/chapter-5-the-people-you-didnt-know-you-had.md` exists |
+| 4 | Review Chapters 4 and 5 for handbook usefulness | AI | Practical guidance is clear enough for Monday-morning use |
+| 5 | Draft Chapter 6 | AI | `chapters/chapter-6-every-ai-program-needs-a-growth-thesis.md` exists |
+| 6 | Begin selective research insertion pass on later chapters | AI | Later manuscript has exact, verified support without losing voice |
 
 ---
 

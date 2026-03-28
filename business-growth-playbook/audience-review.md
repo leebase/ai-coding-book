@@ -428,3 +428,150 @@ The chapter works well for growth-minded operators and sets up the need for a
 The chapter passes the credibility test as a reframe chapter. It does not yet
 close the economic argument, but it is not supposed to. It sets the right
 standard for the chapters that must.
+
+---
+
+## 2026-03-28 — Chapter 4 Review: `Who AI Replaces, Who It Multiplies`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- The chapter clearly marks the turn from reframe into handbook.
+- `start by classifying the work, not the job title` is a usable operating
+  rule.
+- The chapter gives this reader a practical lens for separating compressed work
+  from multiplied people before reorg or staffing moves happen.
+- The four-question classification test is simple enough to use in a real
+  operating conversation.
+
+#### What This Lens Would Push Back On
+
+- The chapter is insight-dense and will benefit from later trimming once the
+  full manuscript exists.
+- It should resist adding much more research or additional categories because
+  the current utility comes from clarity, not completeness.
+
+#### Review Outcome
+
+Strong first handbook chapter. It gives the primary reader a real diagnostic,
+not just a point of view.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter corrects a real executive error: confusing compressed work with
+  reduced human value.
+- `AI often replaces effort long before it replaces judgment` is a strong line
+  for growth-minded operators.
+- The hidden-multipliers-in-administrative-roles section makes the argument feel
+  commercially relevant rather than abstractly people-friendly.
+
+#### What This Lens Would Push Back On
+
+- The chapter should keep translating amplification into broader business range,
+  not only role analysis.
+- Chapter 5 needs to follow quickly with a people-specific diagnostic so the
+  reader can use this insight on named individuals.
+
+#### Review Outcome
+
+The chapter works well as a practical classification lens and earns the move
+into talent strategy.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter does not deny compression. That preserves credibility.
+- It distinguishes role-level overgeneralization from work-level redesign,
+  which is exactly the kind of nuance this reader needs.
+- The handbook rules make the chapter feel like disciplined management rather
+  than sentimental defense of labor.
+
+#### What This Lens Would Push Back On
+
+- The chapter still postpones the formal allocation question, which is right,
+  but Chapter 6 now needs to make the "what is this for?" move decisively.
+- The research is at the right level now and should not expand much further in
+  this chapter.
+
+#### Review Outcome
+
+The chapter passes the CFO credibility test and prepares the reader for a more
+explicit allocation chapter.
+
+---
+
+## 2026-03-28 — Chapter 5 Review: `The People You Didn't Know You Had`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- The five signals of an underused high-ceiling person are the strongest people
+  framework in the manuscript so far.
+- The chapter turns "amplify people" into a concrete talent-identification
+  discipline.
+- `Sometimes a person is not underperforming. They are under-deployed.` is a
+  memorable and operationally useful line.
+- The Monday-morning talent scan gives this reader something they could
+  actually run in one function next week.
+
+#### What This Lens Would Push Back On
+
+- The chapter should stay disciplined about not romanticizing hidden talent,
+  which the current `Trap to Avoid` section handles well.
+- Future chapters will need to show how amplified people are integrated into
+  program and portfolio decisions, not just identified.
+
+#### Review Outcome
+
+Strong handbook chapter. It changes how the primary reader is likely to look at
+people already inside the organization.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter makes the next source of advantage feel internal and practical:
+  not just hiring, but recognizing who the organization already has.
+- The person-level diagnostic is easy to imagine using in a staff discussion.
+- The added story about an under-deployed operator gives the framework enough
+  lived proof to feel earned.
+
+#### What This Lens Would Push Back On
+
+- The chapter still needs Chapter 6 to connect these people decisions to actual
+  business bets and growth choices.
+- The reader may want more examples over time of how these people affect
+  customers, products, or revenue-bearing work.
+
+#### Review Outcome
+
+The chapter is one of the manuscript's strongest so far and makes the human
+argument commercially relevant.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter stays practical rather than drifting into generic talent
+  celebration.
+- The threshold logic in the diagnostic and the disciplined talent scan make it
+  feel like controlled management, not wishful thinking.
+- The `Trap to Avoid` section preserves credibility by admitting that not every
+  role or person is a hidden multiplier.
+
+#### What This Lens Would Push Back On
+
+- The chapter intentionally stops before making the economic case for where the
+  investment should go. That now becomes Chapter 6's burden.
+- The reader will still want later chapters to tie this talent logic to
+  measurable business outcomes.
+
+#### Review Outcome
+
+The chapter passes this lens well. It makes a people-investment argument
+without sounding soft.

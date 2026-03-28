@@ -14,6 +14,11 @@ The problem is not that efficiency is fake. The problem is that efficiency is
 too small a definition of success for what AI is actually making possible. That
 is the wrong win, and it can also become a costly one.
 
+The speed of adoption makes that question urgent. Early workplace research
+already shows rapid adoption and meaningful time savings. That kind of adoption
+does not answer the strategic question. It makes the strategic question
+impossible to avoid.
+
 This book is for leaders who can already feel that tension. You may be under
 pressure to show AI ROI quickly. Your board understands savings. Your CFO can
 put labor reduction into a model. Vendors are happy to tell you that automation
@@ -67,6 +72,12 @@ The pressure is easy to recognize:
 That pressure makes the reduction-first path feel responsible. It is not the
 path of fools. It is the path of leaders working inside incentives that reward
 what is visible before they reward what is durable.
+
+Recent work on what some economists call pro-worker AI makes a related
+argument: incentives and path dependence can push firms toward automation-first
+choices even when more worker-amplifying uses are available. I do not need that
+research to believe the point. I have seen it. But it is useful to know that
+the pattern is visible beyond any one executive conference room.
 
 That is why the early AI era can be deceptive. It produces real wins, but it
 also narrows the imagination of the people receiving them. If the first visible
@@ -161,6 +172,13 @@ see, decide, act, and create.
 
 That is not sentimentality. It is a strategic view of where real advantage
 comes from once generic throughput gets cheaper everywhere.
+
+That is also more consistent with the best empirical evidence than the loudest
+replacement rhetoric suggests. Some of the strongest field studies so far show
+that generative AI often raises productivity unevenly, with especially large
+gains for less experienced workers and meaningful gains for already capable
+workers when the task fits the tool well. That is not the profile of a simple
+one-for-one replacement story. It is the profile of a leverage story.
 
 ## The Lewis and Clark Pattern
 

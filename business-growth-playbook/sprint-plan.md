@@ -118,12 +118,14 @@ the paired-book concept in prose.
 | Draft Chapter 1 | ✅ Done |
 | Draft Chapter 2 | ✅ Done |
 | Draft Chapter 3 | ✅ Done |
+| Draft Chapter 4 | ✅ Done |
 | Draft Act I reflection or fold it into adjacent chapters | ⬜ Not started |
 
 ### Sprint 3 Deliverables
 
 - introduction draft
 - opening trap sequence
+- opening reframe sequence
 - first enterprise-side audience review notes
 
 ### Sprint 3 Exit Criteria
@@ -132,6 +134,43 @@ the paired-book concept in prose.
 - The human-amplification thesis is visible from the opening
 - The business-side version no longer depends on summary language from the
   consulting manuscript
+
+## Sprint 4 — Handbook Turn and Reframe Buildout (ACTIVE 🔄)
+
+**Goal**: Turn the reframe into practical handbook guidance that a business
+leader can use in staffing, role, and program conversations.
+
+| Task | Status |
+|------|--------|
+| Tighten Chapter 3 from audience feedback if needed | ⬜ Not started |
+| Draft Chapter 4 | ✅ Done |
+| Review Chapter 4 for handbook usefulness | ⬜ Not started |
+| Draft Chapter 5 | ✅ Done |
+| Add research support and reference ledger | ✅ Done |
+
+### Sprint 4 Exit Criteria
+
+- The manuscript clearly behaves like a handbook, not just a thesis book
+- Chapter 4 gives the reader a usable classification lens
+- Chapter 5 starts turning that lens into a talent diagnostic
+
+## Sprint 5 — Research-Grounded Drafting (ACTIVE 🔄)
+
+**Goal**: Start weaving exact, verified research into the manuscript without
+turning the book into a literature review.
+
+| Task | Status |
+|------|--------|
+| Add `research-support.md` | ✅ Done |
+| Add `reference-ledger.md` | ✅ Done |
+| Identify safest early-chapter citation points | ✅ Done |
+| Insert research into Introduction and Chapters 1-4 | ✅ Done |
+
+### Sprint 5 Exit Criteria
+
+- Every inserted research claim is logged and verified
+- Research strengthens authority without changing the book's voice
+- The manuscript remains handbook-first and story-backed
 
 ---
 

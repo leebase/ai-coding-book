@@ -184,3 +184,93 @@ Why it matters:
 - The manuscript now has its first true reframe chapter.
 - The book is no longer only diagnosing the trap; it is starting to define the
   better path with enough specificity to support the rest of the playbook.
+
+## 2026-03-28 — Chapter 4 Drafted
+
+Drafted
+[chapter-4-who-ai-replaces-who-it-multiplies.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-4-who-ai-replaces-who-it-multiplies.md).
+
+What this chapter now does:
+
+- turns the reframe into a more explicit handbook chapter
+- distinguishes compressed work from multiplied people
+- shows why AI often compresses effort before it replaces judgment
+- gives leaders a practical classification test for identifying investment
+  candidates
+- bridges naturally into the underused-talent argument of Chapter 5
+
+Why it matters:
+
+- The manuscript is now moving from doctrine into reusable operating guidance.
+- The book's promise as a handbook is becoming visible in the prose, not just
+  in the outline.
+
+## 2026-03-28 — Research Backbone Added
+
+Added two new research-control artifacts:
+
+- [research-support.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/research-support.md)
+- [reference-ledger.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/reference-ledger.md)
+
+What these now do:
+
+- curate a small, primary-source-heavy support set for the book's strongest
+  doctrines
+- distinguish direct empirical support from the book's own managerial
+  inferences
+- log exact findings and safe manuscript uses for each source
+- create a hard rule that no study, number, or quote enters the manuscript
+  unless it is verified in the reference ledger
+
+Why it matters:
+
+- The book can now gain authority from research without becoming a study-review
+  book.
+- The sourcing discipline reduces hallucination risk and makes later citation
+  passes much safer.
+
+## 2026-03-28 — Early Research Insertion Pass Applied
+
+Added light, verified research reinforcement to the opening manuscript:
+
+- [introduction-the-wrong-win.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/introduction-the-wrong-win.md)
+- [chapter-1-the-efficiency-story-everybody-understands.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-1-the-efficiency-story-everybody-understands.md)
+- [chapter-2-what-gets-lost-when-you-cut-too-deep.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-2-what-gets-lost-when-you-cut-too-deep.md)
+- [chapter-3-the-multiplier-model.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-3-the-multiplier-model.md)
+- [chapter-4-who-ai-replaces-who-it-multiplies.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-4-who-ai-replaces-who-it-multiplies.md)
+
+What changed:
+
+- added adoption-speed context from Bick, Blandin, and Deming
+- added incentive-bias framing from Acemoglu, Autor, and Johnson
+- added augmentation / heterogeneous-gain support from Brynjolfsson, Li, and
+  Raymond, Dell'Acqua et al., and the software-developer field experiments
+- added tacit-knowledge and forgetting support in the chapter on invisible loss
+
+Why it matters:
+
+- The manuscript now carries a light authority layer without changing its
+  handbook voice.
+- The book is still led by doctrine and lived proof, but the strongest early
+  claims are no longer standing alone.
+
+## 2026-03-28 — Chapter 5 Drafted
+
+Drafted
+[chapter-5-the-people-you-didnt-know-you-had.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-5-the-people-you-didnt-know-you-had.md).
+
+What this chapter now does:
+
+- turns the latent-talent claim into a practical talent-diagnostic chapter
+- defines five signals of an underused high-ceiling person
+- adds a five-question multiplier-candidate test for leaders
+- emphasizes coaching, permission, and wider lanes rather than tool access
+  alone
+- gives the reader a Monday-morning talent scan to run inside one function
+
+Why it matters:
+
+- The hopeful side of the book is now becoming operational rather than merely
+  aspirational.
+- The manuscript is behaving more clearly like a handbook for leaders, not just
+  an argument about what they should believe.
