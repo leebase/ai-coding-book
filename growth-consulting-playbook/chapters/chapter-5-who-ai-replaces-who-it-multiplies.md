@@ -35,17 +35,17 @@ structures.
 
 The practical answer is a four-part role triage:
 
-- `Compress`
-- `Augment`
-- `Multiply`
-- `Protect`
+- Compress
+- Augment
+- Multiply
+- Protect
 
 The goal is not to make talent decisions automatic. The goal is to stop making
 them blind.
 
 ## Compress
 
-Use `Compress` for work that is routine, bounded, repeatable, legible, and only
+Use Compress for work that is routine, bounded, repeatable, legible, and only
 weakly tied to trust, continuity, or judgment.
 
 This is where AI is most likely to reduce the human labor required
@@ -65,7 +65,7 @@ That is not triage. That is panic with a dashboard.
 
 ## Augment
 
-Use `Augment` for roles that still matter but can now operate with more range,
+Use Augment for roles that still matter but can now operate with more range,
 speed, or coverage because AI changes the workflow.
 
 These are often people whose jobs still require judgment, but whose first pass,
@@ -92,7 +92,7 @@ are using AI to create local efficiency without changing the system around it.
 
 ## Multiply
 
-Use `Multiply` for people whose value expands materially when AI increases their
+Use Multiply for people whose value expands materially when AI increases their
 reach.
 
 These are not merely people who get faster. They are people who become more
@@ -121,9 +121,9 @@ What new value becomes available because this person now has leverage?
 
 ## Protect
 
-Use `Protect` for people whose visible output understates their strategic value.
+Use Protect for people whose visible output understates their strategic value.
 
-These are often `Knowledge Carriers`.
+These are often Knowledge Carriers.
 
 They hold continuity. They stabilize relationships. They connect functions that
 otherwise misread one another. They prevent expensive mistakes before those
@@ -152,8 +152,7 @@ The simplest way to use the model is to ask seven questions:
 6. Is the work compressing, or is the person becoming more leverageable?
 7. Are we measuring visible output while missing carried value?
 
-Those questions are now captured as a reusable tool in
-[role-triage-framework.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/role-triage-framework.md).
+Those questions are now captured in the Role Triage Framework in the appendix.
 
 For the book itself, what matters is simpler: this chapter should be usable in
 a talent review next week, not just memorable in a notebook.
@@ -175,7 +174,7 @@ Another warning sign is interruption visibility. If a role has weak dashboard
 visibility but everyone gets nervous when that person is unavailable, the firm
 should slow down before treating it as redundant.
 
-That is often a `Protect` or `Multiply` signal masquerading as an efficiency
+That is often a Protect or Multiply signal masquerading as an efficiency
 candidate.
 
 ## Why Seniority Is a Bad Shortcut
@@ -213,7 +212,7 @@ whether that role or person does any of the following:
 - catches expensive mistakes early
 - holds continuity across multiple moving parts
 
-If two or more are true, the default should not be `Compress`.
+If two or more are true, the default should not be Compress.
 
 The default should be:
 

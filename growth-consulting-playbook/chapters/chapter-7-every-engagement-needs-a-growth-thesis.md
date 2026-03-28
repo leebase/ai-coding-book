@@ -78,6 +78,25 @@ That is the Growth Allocation Decision.
 The point is not to turn judgment into a formula. It is to stop letting
 productivity gains vanish into the background noise of the firm.
 
+I have seen how badly this goes when the growth question never gets asked. I
+walked into a room once where fifteen people had built the wrong thing for
+understandable reasons. They had taken the data they had and built what
+amounted to prettier charts. The real business question had never been asked.
+So I told them, as directly as I could, that I had held their jobs before and
+made the same mistake myself. They had started with the available data instead
+of with the people who actually made the money.
+
+The room got very quiet. Then the leader at the table smacked it hard and said,
+"That's why we brought you here. That's why we are paying your rate. We needed
+to hear that."
+
+That is what a growth thesis often sounds like when it first enters the room.
+Not "how can we make prettier output from the data we already have?" but "how
+do the people doing the work actually create value, and what gets in the way?"
+Before a firm scopes an AI engagement, someone should spend real time with the
+end users who create the business result. The growth thesis lives there, not in
+the dashboard.
+
 ## Why Productivity So Often Disappears
 
 The failure mode here is familiar. A team saves time, nobody removes anything
@@ -175,8 +194,6 @@ What is this new capacity for?
 
 If you do not answer it, the market will answer it for you, and it will usually
 answer in favor of cheaper delivery.
-
-## The Management Shift This Chapter Requires
 
 The old habit is to celebrate the gain and move on.
 

@@ -91,6 +91,27 @@ client be stronger at by the end?
 
 That question changes scope immediately.
 
+It also changes who has to be in the room. My neighbor of more than three
+decades is a retail consultant. He can walk into a midsize retailer and
+diagnose where they are wasting money because he knows how that business
+actually works. I can walk into a Snowflake environment and optimize warehouse
+spend because I know that system deeply. Both kinds of expertise matter. The
+retailer who hires only my neighbor gets strong diagnosis and weak technical
+execution. The company that hires only me gets optimized spend on a warehouse
+full of the wrong priorities. The engagement that creates value needs both.
+
+That lesson got into me much earlier than most consulting frameworks did. At
+AT&T, during a strike, management had to go do union work. I spent two weeks in
+a call center and discovered a painful manual process. I built a simple
+spreadsheet that they loved. But the spreadsheet was not really the insight.
+The two weeks doing the work was the insight. If I had not been sent there, I
+would never have known what was actually worth improving.
+
+You cannot meaningfully improve what you have never done. That is why
+engagement redesign has to include proximity to the real work and the people
+who understand its pain from the inside, not just the people who know how to
+instrument it from above.
+
 ## Use AI for Leverage, Not Theater
 
 AI belongs inside the engagement, but not as a stage prop.

@@ -1339,3 +1339,95 @@ This keeps the book sharp instead of diluted.
 
 - Chapter 12 passes the audience review process.
 - No immediate rewrite is required before moving to Chapter 13.
+
+---
+
+## 2026-03-27 — Chapter 13 Review: `The New Consulting Firm`
+
+### Big Consulting Lens
+
+#### What Lands Immediately
+
+- The chapter gives a credible end-state picture without pretending large firms
+  can become something frictionless or pure.
+- The distinction between force multiplier and shrink ray is a strong summary
+  of the book's central strategic fork.
+- The witness-position paragraph improves credibility by naming the author's
+  vantage point rather than hiding it.
+
+#### What This Audience Would Push Back On
+
+- Large-firm readers will still want the final manuscript close to preserve the
+  nuance that scale can be an asset without becoming an excuse.
+- Some may want more explicit acknowledgment that the end-state firm still has
+  to manage tensions among advisory, execution, and governance at once.
+
+#### Review Outcome
+
+- No blocker in Chapter 13.
+- The remaining work is in the close, not the chapter's core synthesis.
+
+### Mid-Market Lens
+
+#### What Lands Immediately
+
+- This is a strong synthesis chapter for the core audience because it makes the
+  destination feel recognizable rather than abstract.
+- The boutique sequencing paragraph still lands especially well.
+- The forward-picture paragraph helps the reader imagine the firm they are
+  trying to build instead of just remembering the frameworks.
+
+#### What This Audience Would Push Back On
+
+- Mid-market readers will want the conclusion to keep the landing practical and
+  avoid drifting into pure inspiration.
+- They will also want the final close to preserve the same human but
+  unsentimental tone the manuscript has carried so far.
+
+#### Review Outcome
+
+- Strong fit for the primary audience.
+- The conclusion now needs to close the invitation without inflating it.
+
+### Individual Consultant Lens
+
+#### What Lands Immediately
+
+- The firm-of-one section still works and the witness paragraph strengthens the
+  connection to solo readers.
+- The human-flourishing paragraph broadens the ending in a way independents can
+  feel personally as well as professionally.
+- The chapter still keeps the logic of the book visible at one-person scale.
+
+#### What This Audience Would Push Back On
+
+- Independent consultants will want the final reflection and conclusion to
+  preserve the personal witness voice, not only the firm-level synthesis.
+- They will also want the close to make clear that the invitation applies to a
+  firm of one as much as to a larger consultancy.
+
+#### Review Outcome
+
+- No blocker in Chapter 13.
+- The last two pieces should keep the witness voice present enough to feel
+  earned.
+
+### Cross-Audience Readout
+
+#### What Survives All Three Lenses
+
+- the winning firm is now a recognizable destination, not just a list of traits
+- the witness position strengthens rather than weakens the ending
+- the human dimension gives the chapter more weight without drifting off topic
+- force multiplier versus shrink ray is a strong final binary
+
+#### Residual Risk
+
+- The close still has to land. The Act III reflection and conclusion now carry
+  the final emotional and thematic burden.
+
+#### Conclusion
+
+- Chapter 13 passes the audience review process.
+- No immediate rewrite is required before drafting the final reflection and
+  conclusion.

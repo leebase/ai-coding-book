@@ -58,33 +58,33 @@ old premium still makes sense.
 The practical move in this chapter is to sort the current portfolio into four
 buckets:
 
-1. `Defend`
-2. `Redesign`
-3. `Sunset`
-4. `Climb Above`
+1. Defend
+2. Redesign
+3. Sunset
+4. Climb Above
 
 The names are straightforward. The discipline is not.
 
-`Defend` means the offer is still genuinely differentiated. The client is
+Defend means the offer is still genuinely differentiated. The client is
 buying more than labor. The work still connects to trust, judgment, outcome
 ownership, or access to problems the client cannot easily solve alone.
 
-`Redesign` means the need is still real, but the offer shape is wrong. The firm
+Redesign means the need is still real, but the offer shape is wrong. The firm
 should keep the problem space while changing scope, deliverables, pricing, or
 the way value is explained.
 
-`Sunset` means the offer is increasingly commodity, increasingly price-exposed,
+Sunset means the offer is increasingly commodity, increasingly price-exposed,
 and no longer strategic enough to anchor the future. It may continue for a
 while. It should not keep owning the firm's attention.
 
-`Climb Above` means the current work still matters, but the more defensible
+Climb Above means the current work still matters, but the more defensible
 position is upstream. The firm should move from delivery into diagnosis,
 redesign, enablement, governance, capability building, or some other form of
 higher-order problem ownership.
 
-One practical distinction helps here. `Redesign` keeps you in essentially the
-same problem space but changes how the value is packaged and delivered. `Climb
-Above` uses the current work as proof and entry, then moves the client into a
+One practical distinction helps here. Redesign keeps you in essentially the
+same problem space but changes how the value is packaged and delivered. Climb
+Above uses the current work as proof and entry, then moves the client into a
  different level of problem ownership. If redesign is about reshaping the
  offer, climb above is about changing the altitude of the conversation.
 
@@ -144,7 +144,7 @@ A firm may still need to do implementation work, migration work, or execution
 support. The question is whether that work is the business or whether it is now
 the doorway into a more valuable business.
 
-That is where the distinction between `Redesign` and `Climb Above` becomes so
+That is where the distinction between Redesign and Climb Above becomes so
 important. Some offers should be reshaped. Others should become the entry point
 to a more strategic conversation. If the client still needs the same work but
 the current packaging is getting weak, redesign it. If the client is really
@@ -195,8 +195,6 @@ That is how a one-person practice stops being defined only by what it can
 deliver directly and starts being valued for how it helps clients think, decide,
 and build differently.
 
-## The Management Shift This Chapter Requires
-
 The old habit is to ask whether a service line is still producing revenue.
 
 The better habit is to ask whether that revenue is training the firm toward the
@@ -205,7 +203,7 @@ future or keeping it dependent on a past the market is already repricing.
 That is not a theoretical question. It is a portfolio decision.
 
 By this point, a consulting leader should be able to sort the current service
-portfolio into `Defend`, `Redesign`, `Sunset`, and `Climb Above`, identify
+portfolio into Defend, Redesign, Sunset, and Climb Above, identify
 which revenue lines are most exposed to delivery repricing, and choose where
 the firm should stop relying on visible effort as the business.
 

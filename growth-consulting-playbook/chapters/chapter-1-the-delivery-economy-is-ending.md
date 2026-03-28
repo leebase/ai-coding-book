@@ -50,6 +50,22 @@ for this the old way?
 
 Once that question takes hold, repricing follows.
 
+The timing still matters, and this is where many firms confuse a structural
+shift with instant maturity. AI is more like a horse than a car. A horse has
+opinions, moods, and a learning curve on both sides of the relationship. A
+good rider on a good horse is a sight to behold. Most other combinations are a
+disappointment. That is how new technologies usually behave in real
+organizations too. They get worse before they get better because the tools are
+still improving, the humans are still learning, and the operating model around
+them is still immature.
+
+Consulting leaders have seen this before. Plenty of firms adopted agile on
+troubled programs because they wanted to move faster. The first project was
+not better. Often the second one was not either. The learning curve was real.
+The same thing is happening here. The question is not whether AI will change
+consulting economics. It will. The question is whether your firm is developing
+riders or just buying horses.
+
 ## What Is Actually Being Repriced
 
 Sloppy claims make smart readers stop listening, so this needs to be precise.
@@ -203,7 +219,9 @@ delivery. It means refusing to confuse delivery with the full story of value.
 Some firms will make that move early. Others will keep trying to defend the old
 economics one statement of work at a time. They will tell themselves they are
 still selling expertise when the market increasingly experiences them as
-staffed effort with nicer branding.
+staffed effort with nicer branding. Some of them will also overclaim, talking
+as if the horse already rides itself because they bought access to a powerful
+tool. It does not.
 
 That tension gets us to the next chapter.
 

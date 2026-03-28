@@ -40,7 +40,7 @@ the old junior-heavy pyramid weakens, firms have to become more intentional
 about how they develop people into stronger operators. Otherwise they protect
 today's experts and accidentally run out of tomorrow's.
 
-This is where the `Do Not Cut List` becomes more concrete. Protect the people
+This is where the Do Not Cut List becomes more concrete. Protect the people
 who carry continuity. Protect the people who multiply others. Protect the parts
 of the system where judgment gets taught.
 
@@ -64,6 +64,19 @@ intentional transfer from experienced operators to newer ones. In other words,
 firms need to teach more of what they used to let people absorb indirectly.
 
 That is more demanding. It is also more honest.
+
+I saw a small version of that culture shift happen on one of my own teams when
+ChatGPT first arrived. I was pushing it hard, teaching people how to use it,
+doing lunch-and-learns, and talking about it enough that the team gave me the
+nickname GPLee. Then annual review season came around and I was blown away by
+the quality of Don and James's self-reviews. I asked how they had written them.
+They looked at me like the answer was obvious: "Duh, Lee. We used ChatGPT like
+you trained us to do."
+
+That moment mattered because it showed the difference between one person using
+AI well and a team internalizing a new way of working. Apprenticeship in this
+era is not only about tasks. It is also about modeling curiosity, judgment, and
+tool use well enough that people keep doing it when you are not in the room.
 
 ## Method Has to Become Visible
 
@@ -90,14 +103,25 @@ and AI agents, I kept running into a new version of that same pattern. Context
 drift. Session loss. Uneven quality. False signals of completion. Tooling that
 was powerful but not yet dependable on its own.
 
-So I did what I had spent a career doing. I turned repeated problems into a
-more formal method. I called it AgentFlow.
+Every meaningful piece of AgentFlow came from one of those scars. Product
+definition files exist because agents drifted scope on me. Design files exist
+because an agent made architectural decisions too silently. My testing rules
+exist because an agent once told me the work succeeded when the app did not
+really work. So I did what I had spent a career doing. I turned repeated
+problems into a more formal method. I called it AgentFlow.
 
 That is the part that matters here. AgentFlow was not really a brand-new
 instinct. It was the same COE pattern applied personally: the methodology was
 the COE, the books became the curriculum, and the skills acted as governance.
 The point was not to replace judgment. It was to create a system that let
 judgment compound.
+
+One of the strangest proofs of that for me was realizing I had written a book I
+could then read and learn from. The process was disciplined enough that it
+could help me come up to speed on the subject while I was still building the
+system around it. That is not an argument for pretending expertise does not
+matter. It is an argument for making method strong enough that learning
+compounds instead of resetting every time.
 
 That pattern matters because it shows what a repeatable operating model really
 is. It is not a speech about excellence. It is a way of turning good work into

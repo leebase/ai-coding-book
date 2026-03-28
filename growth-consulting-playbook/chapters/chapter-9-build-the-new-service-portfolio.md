@@ -107,7 +107,7 @@ This is one reason the old work still matters. Delivery should not always stay
 the business. It can still serve as proof, entry, and pattern source for the
 next business.
 
-That is what `Climb Above` was trying to protect in the last chapter.
+That is what Climb Above was trying to protect in the last chapter.
 
 ## What a Better Offer Actually Looks Like
 

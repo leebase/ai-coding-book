@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Growth Consulting Playbook |
 | **Subtitle** | How Firms Grow When Software Delivery No Longer Pays the Bills |
-| **Status** | Introduction and Chapters 1-12 approved |
+| **Status** | Introduction and Chapters 1-13 approved |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-27 |
 
@@ -123,6 +123,25 @@ conversation with a client from reduction to growth and use a better first
 phase to open better work. It has now also passed the three-lens audience
 review process.
 
+Chapter 13 now exists at `chapters/chapter-13-the-new-consulting-firm.md`.
+This chapter is the synthesis chapter: it shows what the winning
+post-delivery firm looks like when the playbook starts holding together across
+value, talent, portfolio, engagement model, and client relationships. It has
+now also passed the three-lens audience review process.
+
+An artifact cleanup pass has now also been run across the approved manuscript.
+Reader-facing backtick formatting on framework terms has been normalized,
+remaining local filesystem references have been removed from the manuscript,
+and repeated closing headers have been collapsed. The remaining prose-level
+cleanup candidates are now documented in `artifact-cleanup-report.md` for
+human review before any broader cadence edits are made.
+
+A targeted authenticity pass has also begun in Chapters 1, 7, 10, and 11,
+using the story inventory to add witnessed-consequence material rather than
+resume-style authority. The working rule is now explicit: stories should earn
+trust by proving the argument was learned in contact with reality, not by
+turning the book into autobiography.
+
 A draft cover image now exists at `TheGrowthConsultingPlaybook.png` in the book
 directory.
 
@@ -158,7 +177,9 @@ COE-building rather than in claimed managing-partner experience.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft Chapter 13 — `The New Consulting Firm` | AI | The reader can see the end-state model clearly |
+| 1 | Finish the targeted authenticity pass in Chapters 1, 7, 10, and 11 and review the additions | AI | The new stories feel like proof, not autobiography |
 | 2 | Draft the conclusion and Act III reflection | AI | The manuscript has a complete close |
-| 3 | Do a manuscript-level consistency pass | AI | Repetition, cadence, and closing logic are tightened |
-| 4 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |
+| 3 | Review `artifact-cleanup-report.md` and approve or reject the proposed prose-level changes for Artifacts 4-6 | Lee + AI | The remaining cleanup decisions are explicit |
+| 4 | Do a manuscript-level consistency pass | AI | Repetition, cadence, and closing logic are tightened |
+| 5 | Identify interview targets for the mid-market evidence gap | Lee + AI | A short list exists for future reporting |
+| 6 | Commit and push the closing batch | AI | The manuscript close is safely published on branch |

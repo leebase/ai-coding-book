@@ -197,8 +197,6 @@ The same principle holds:
 You may be underestimating your own leverage because the current role is too
 small.
 
-## The Management Shift This Chapter Requires
-
 The old management habit is to ask whether a person is succeeding in the role
 they already have.
 

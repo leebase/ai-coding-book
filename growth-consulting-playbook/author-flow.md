@@ -544,6 +544,63 @@ Method signal:
 - The right story at the right moment can do the work of several paragraphs of
   abstract explanation.
 
+## 2026-03-27 — Once the Offer Changes, the Engagement Has to Change with It
+
+Chapter 10 was built around `Engagement Redesign`.
+
+Why it matters:
+- The manuscript had reached the point where a stronger offer could still be
+  pulled back into the old business model by the old engagement structure.
+- This chapter needed to carry the playbook from portfolio logic into delivery
+  logic.
+
+What changed:
+- the artifact framed the redesign around outcomes, transfer, leverage, method,
+  and follow-on value
+- the chapter now answers how the new offer survives contact with real scoping,
+  staffing, and measurement
+
+Method signal:
+- In the back half of the book, each chapter should solve the next structural
+  failure mode created by the previous chapter's solution.
+
+## 2026-03-27 — Operating-Model Chapters Need a Method Story, Not Just a Talent List
+
+Chapter 11 was built around the `Operating Model Canvas`.
+
+Why it matters:
+- Once the manuscript reached sustainability and repeatability, pure framework
+-driven prose would not be enough.
+- The operating-model chapter needed proof that method, training, and
+  governance are not abstract support functions. They are how good work starts
+  compounding.
+
+What changed:
+- the `AgentFlow as personal COE` story was used as a transferable pattern
+- the chapter now links talent, apprenticeship, visible method, and governance
+  into one operating model rather than treating them as separate topics
+
+Method signal:
+- When a chapter is about internal operating discipline, use a story that
+  proves compounding, not just performance.
+
+## 2026-03-27 — Client-Conversation Chapters Need a Sponsor Pattern, Not Just Talking Points
+
+Chapter 12 was built around the `Client Conversation Guide`.
+
+Why it matters:
+- A chapter about client language can easily collapse into generic talk tracks.
+- The manuscript needed a real example of a sponsor conversation being
+  reframed from hype or efficiency into controlled strategic exploration.
+
+What changed:
+- the `Lewis and Clark` story became the central proof pattern
+- the chapter was structured around conversation moves and likely objections
+
+Method signal:
+- When a chapter is about conversation, use a story that proves reframing under
+  constraint, not just persuasion in the abstract.
+
 Why it matters:
 - This is the point where the book stops being an idea and becomes a draftable
   product.
@@ -650,3 +707,19 @@ Method signal:
 - how chapter outlining differs from book-level synthesis
 - which collaborator moves produce noise versus insight
 - what review loop is needed before prose is considered stable
+## 2026-03-27 — Story Authority Rule
+
+The manuscript should not rely on résumé claims or generic industry authority
+to justify why the reader should trust the voice. It should rely on stories as
+evidence of witnessed consequence.
+
+Working rule:
+
+- do not add stories to say "look at me"
+- add stories when they prove the argument cost something real to learn
+- prefer stories that show the author in contact with the failure mode,
+  judgment call, or operating constraint the chapter is naming
+- use biography as proof of pattern, not as memoir and not as substitute for
+  argument
+
+This is now the standard for any future authenticity or proof-layer pass.

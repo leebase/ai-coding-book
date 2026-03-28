@@ -4,6 +4,37 @@
 
 ---
 
+## 2026-03-27 — Manuscript Artifact Cleanup Pass
+
+Ran a targeted artifact cleanup pass across the reader-facing manuscript from
+the introduction through Chapter 13.
+
+Autonomous cleanup completed:
+- removed backtick formatting from framework terms such as Compress, Augment,
+  Multiply, Protect, Defend, Redesign, Sunset, Climb Above, Knowledge
+  Carriers, and Do Not Cut List
+- replaced the remaining local filesystem manuscript reference with an appendix
+  reference in Chapter 5
+- removed the repeated closing header "The Management Shift This Chapter
+  Requires" where it still appeared in Chapters 6-8
+
+The remaining non-autonomous items are now captured in
+[artifact-cleanup-report.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/artifact-cleanup-report.md),
+including flagged "By this point" constructions, backward-reference openings,
+and high-density "That is" clusters for human review before any further prose
+changes are made.
+
+## 2026-03-27 — Story Authority Rule Added
+
+Locked a new manuscript rule in `author-flow.md`: the book should not rely on
+industry-credential signaling to justify its authority. It should use stories
+as evidence of witnessed consequence.
+
+That means the right stories are not autobiography for its own sake. They are
+the places where the argument clearly cost something real to learn. A targeted
+authenticity pass is now underway in Chapters 1, 7, 10, and 11 using that
+standard.
+
 ## 2026-03-27 — Chapter 1 Drafted
 
 Drafted [chapter-1-the-delivery-economy-is-ending.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-1-the-delivery-economy-is-ending.md).
@@ -292,6 +323,24 @@ The chapter then passed the three-lens audience review process in
 No immediate rewrite was required. The main carry-forward requirement is that
 Chapter 13 and the conclusion now have to synthesize the end-state firm and
 close the manuscript without leaning on more proof burden.
+
+## 2026-03-27 — Chapter 13 Drafted
+
+Drafted [chapter-13-the-new-consulting-firm.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/chapters/chapter-13-the-new-consulting-firm.md).
+
+This chapter is the synthesis chapter for the whole manuscript. It shows what
+the winning post-delivery consulting firm looks like when the playbook starts
+holding together across value proposition, force multiplication, compounding
+method, talent development, client dependence, and firm scale.
+
+Later the same day, Chapter 13 was revised to add the witness-position
+paragraph, a human-flourishing moment, and a more concrete forward picture of
+the winning firm.
+
+The chapter then passed the three-lens audience review process in
+[audience-review.md](/Users/lee/projects/ai-coding-book/growth-consulting-playbook/audience-review.md).
+No immediate rewrite was required. The remaining work now sits in the final
+reflection, conclusion, and manuscript-level consistency pass.
 
 ## 2026-03-27 — Introduction Drafted
 
