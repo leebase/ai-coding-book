@@ -950,3 +950,150 @@ into a system the business can actually sustain.
 
 This chapter clears the rigor bar. It explains why the system around amplified
 people is part of the return, not a soft extra.
+
+---
+
+## 2026-03-28 — Chapter 11 Review: `The Leadership Conversation`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- The chapter correctly recognizes that building the system is not enough;
+  leaders also have to protect it from being collapsed back into a savings-only
+  story.
+- The board, CFO, peer, and partner split gives the chapter practical shape
+  instead of generic communication advice.
+- `efficiency and empowerment` is a strong twin-mandate line for this stage of
+  the manuscript.
+- The partner buyer's framework is one of the most reusable tools in the book.
+
+#### What This Lens Would Push Back On
+
+- The chapter should keep resisting the temptation to add more stakeholder
+  frameworks; the current set is enough.
+- The closing sequence now needs Chapter 12 and the conclusion to keep the
+  book from ending in pure political defense rather than future-state clarity.
+
+#### Review Outcome
+
+Strong leadership-defense chapter. It makes the operating system more
+survivable inside a real enterprise.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter gives a leader usable language for holding the line without
+  sounding doctrinaire.
+- The peer-executive section is especially important because it names the
+  scorecard conflict that can quietly kill capability-building.
+- The Monday-morning prep turns the chapter into something a real operator
+  could use before an actual meeting.
+
+#### What This Lens Would Push Back On
+
+- The board section is better after tightening, but later revision may still
+  trim it slightly for punch.
+- The final future-state chapter now has to show what all this protection and
+  alignment is in service of.
+
+#### Review Outcome
+
+The chapter works well. It helps a commercially accountable leader move from
+private belief to public defense.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The CFO section is respectful without surrendering the argument.
+- `It is a capital allocation claim` is exactly the right line for this
+  audience.
+- The chapter gives a disciplined way to explain why some gains should be
+  harvested and some should remain alive inside the business.
+
+#### What This Lens Would Push Back On
+
+- The chapter should stay light on research and keep its authority rooted in
+  lived executive-room fluency.
+- The conclusion now has to close the book without drifting into anti-cost
+  rhetoric.
+
+#### Review Outcome
+
+This chapter passes the pressure test. It equips the reader to defend capacity
+investment without sounding soft or evasive.
+
+---
+
+## 2026-03-28 — Chapter 12 Review: `The Amplified Enterprise`
+
+### Transformation / Operations Lens
+
+#### What Lands
+
+- The chapter synthesizes rather than summarizes.
+- `The amplified enterprise is one where capability compounds faster than cost
+  is extracted` is a strong crystallizing line.
+- Smaller teams with larger reach, faster learning, lower fragility, and more
+  credible growth make the future-state observable rather than dreamy.
+- The chapter is careful not to overstate Lewis and Clark as deployed proof.
+
+#### What This Lens Would Push Back On
+
+- The chapter should stay disciplined in the conclusion so the future-state
+  chapter remains the place where the positive destination is fully pictured.
+- A final edit may lightly trim repeated doctrine words where they are doing
+  reinforcement rather than fresh work.
+
+#### Review Outcome
+
+Strong synthesis chapter. It shows what the target organization looks like when
+the system becomes normal.
+
+### Business Unit / GM Lens
+
+#### What Lands
+
+- The chapter translates the thesis into a business the reader can actually
+  picture operating.
+- The growth section is especially strong because it makes growth credible only
+  when the operating system underneath it gets stronger.
+- The chapter's inside-the-company texture helps the vision feel lived rather
+  than merely strategic.
+
+#### What This Lens Would Push Back On
+
+- The conclusion now needs to keep the final choice sharp and not drift back
+  into broad reflection alone.
+- The future-state picture should stay practical in later revisions and resist
+  unnecessary uplift language.
+
+#### Review Outcome
+
+The chapter lands well for this reader. It makes the end state feel like a
+destination, not a dream.
+
+### CFO / Cost-Focused Lens
+
+#### What Lands
+
+- The chapter does not ask this reader to believe in a fantasy future. It
+  describes observable changes in fragility, learning, and growth credibility.
+- The resilience logic lands in its strongest form here:
+  a stronger enterprise is also a harder-to-break enterprise.
+- `This future is chosen, not granted` keeps the chapter accountable to
+  leadership behavior rather than technology optimism.
+
+#### What This Lens Would Push Back On
+
+- The conclusion should bring the altitude back down one more time and end in a
+  clear choice rather than a general uplift.
+- No additional research is needed here; the chapter is doing the right job as
+  synthesis and vision.
+
+#### Review Outcome
+
+This chapter clears the realism bar. It gives a skeptical executive a future
+state that still sounds like business, not fantasy.

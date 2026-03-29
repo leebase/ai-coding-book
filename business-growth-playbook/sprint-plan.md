@@ -186,12 +186,53 @@ allocation and portfolio decisions.
 | Draft Chapter 8 | ✅ Done |
 | Draft Chapter 9 | ✅ Done |
 | Draft Chapter 10 | ✅ Done |
+| Draft Chapter 11 | ✅ Done |
 
 ### Sprint 6 Exit Criteria
 
 - The book has a clear answer to where capacity goes
 - The economic case is structured without becoming spreadsheet theater
 - The manuscript is ready to move from thesis into portfolio choices
+
+## Sprint 7 — Leadership Defense and Future-State Finish (ACTIVE 🔄)
+
+**Goal**: Help the reader defend the system under real organizational pressure
+and then show what the amplified enterprise looks like when the model starts to
+become normal.
+
+| Task | Status |
+|------|--------|
+| Review Chapter 11 for board/CFO/partner sharpness | ✅ Done |
+| Draft Chapter 12 | ✅ Done |
+| Decide whether any act reflections still deserve standalone space | ⬜ Not started |
+| Draft conclusion | ✅ Done |
+
+### Sprint 7 Exit Criteria
+
+- The manuscript gives readers language they can actually use in pressure
+  conversations
+- The final future-state chapter synthesizes rather than merely repeats
+- The closing sequence feels like the end of a handbook, not the fade-out of a
+  manifesto
+
+## Sprint 8 — First-Draft Closure and Integration (ACTIVE 🔄)
+
+**Goal**: Lock the full first draft, tighten the closing sequence, and prepare
+the manuscript for a cross-book integration and continuity pass.
+
+| Task | Status |
+|------|--------|
+| Review the Chapter 11 / 12 / conclusion sequence as one unit | ⬜ Not started |
+| Commit and push the full first-draft milestone | ⬜ Not started |
+| Decide whether any act reflections still deserve standalone space | ⬜ Not started |
+| Plan the next continuity and integration pass | ⬜ Not started |
+
+### Sprint 8 Exit Criteria
+
+- The book has a complete first draft from introduction through conclusion
+- The closing sequence feels cumulative and sharp
+- The manuscript is ready for a continuity pass instead of continued skeleton
+  drafting
 
 ---
 

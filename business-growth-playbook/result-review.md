@@ -4,6 +4,74 @@
 
 ---
 
+## 2026-03-28 — Conclusion Drafted
+
+Drafted
+[conclusion-dont-cut-your-way-to-the-future.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/conclusion-dont-cut-your-way-to-the-future.md).
+
+What this chapter now does:
+
+- restates the wrong-win trap without re-deriving the entire manuscript
+- restates the brighter future in compact form
+- gathers the major failure modes into one closing logic
+- ends in a clear leadership choice rather than a vague inspirational close
+
+Why it matters:
+
+- The manuscript now has a full first-draft ending, not just an unfinished
+  final arc.
+- The book closes as a handbook with a choice, not as a manifesto with a fade.
+
+## 2026-03-28 — Chapter 11 Drafted
+
+Drafted
+[chapter-11-the-leadership-conversation.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-11-the-leadership-conversation.md).
+
+What this chapter now does:
+
+- gives the reader practical language for boards, CFOs, peer executives, and
+  outside partners
+- defines the twin mandate of efficiency plus empowerment as a leadership
+  position rather than a slogan
+- reframes the CFO discussion as a capital-allocation conversation, not a
+  soft plea against savings
+- adds an explicit buyer's framework for evaluating outside partners
+- gives the reader a Monday-morning leadership prep instead of another abstract
+  framework
+
+Why it matters:
+
+- The manuscript now has a defense-and-alignment chapter, not just a strategy
+  and execution system.
+- The book is better able to survive real organizational pressure because it
+  now tells the reader how to hold the surrounding conversations, not only how
+  to think privately.
+
+## 2026-03-28 — Chapter 12 Drafted
+
+Drafted
+[chapter-12-the-amplified-enterprise.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/chapters/chapter-12-the-amplified-enterprise.md).
+
+What this chapter now does:
+
+- shows the future organization in practical terms instead of ending only in
+  warning
+- elevates smaller, higher-trust teams with disproportionate reach as an
+  organizational pattern
+- makes amplified people, faster learning, lower fragility, and more credible
+  growth part of one coherent future-state picture
+- treats Lewis and Clark as an organization-design signal without overstating
+  it as already-deployed proof
+- gives the reader a Monday-morning future-state review rather than a vague
+  aspirational close
+
+Why it matters:
+
+- The manuscript now has a true synthesis chapter rather than only a set of
+  adjacent tools.
+- The book can now end by showing what the stronger enterprise looks like when
+  the system starts becoming normal.
+
 ## 2026-03-28 — Companion Book Workspace and Core Package Created
 
 Created the new standalone companion-book workspace at

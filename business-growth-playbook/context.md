@@ -159,6 +159,25 @@ nickname around early GenAI adoption and, more importantly, as a proof point
 for cultural spread through coaching rather than as unexplained insider
 shorthand.
 
+Chapter 11 at
+`chapters/chapter-11-the-leadership-conversation.md` has now also been
+drafted. It gives the reader practical language for boards, CFOs, peer
+executives, and outside partners so the capacity-investment agenda can survive
+real organizational pressure instead of collapsing back into a savings-only
+story.
+
+Chapter 12 at
+`chapters/chapter-12-the-amplified-enterprise.md` has now also been drafted.
+It synthesizes the book's system into a practical future-state picture:
+smaller high-trust teams with larger reach, stronger people, faster learning,
+lower fragility, and more credible growth.
+
+The conclusion at
+`chapters/conclusion-dont-cut-your-way-to-the-future.md` has now also been
+drafted. It closes the book by restating the trap, restating the brighter
+future, and turning the full manuscript into a final leadership choice rather
+than a final abstract reflection.
+
 The latest drafting correction from Lee is also now explicit:
 
 - this book should read as a handbook, not only as a strategy argument
@@ -168,9 +187,8 @@ The latest drafting correction from Lee is also now explicit:
 - research should be added selectively for authority and spice, with exact
   sourcing and no hallucinated references
 
-The next step is to review Chapters 9 and 10 together for operating-model
-clarity and system-compounding logic, then continue into Chapter 11 on the
-leadership conversation.
+The next step is to review the full closing sequence across Chapter 11, Chapter
+12, and the conclusion, then commit and push the full first-draft milestone.
 
 ---
 
@@ -205,8 +223,8 @@ leadership conversation.
 | 1 | Review the opening sequence across Introduction, Chapter 1, and Chapter 2 | AI | The first act feels cumulative, not repetitive |
 | 2 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
 | 3 | Run the opening sequence through the enterprise-side reviewers | AI | Early manuscript feedback is captured before the reframe section starts |
-| 4 | Review Chapters 9 and 10 for operating-model clarity and system-compounding logic | AI | Program and operating-model chapters feel distinct, practical, and cumulative |
-| 5 | Draft Chapter 11 | AI | `chapters/chapter-11-the-leadership-conversation.md` exists |
+| 4 | Review Chapter 11, Chapter 12, and the conclusion as one closing sequence | AI | The end of the book feels cumulative, sharp, and handbook-like |
+| 5 | Commit and push the full first-draft milestone | AI | Current manuscript state is checkpointed on `codex/growth-consulting-playbook` |
 | 6 | Begin selective research insertion pass on later chapters | AI | Later manuscript has exact, verified support without losing voice |
 
 ---
