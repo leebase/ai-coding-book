@@ -222,10 +222,11 @@ the manuscript for a cross-book integration and continuity pass.
 
 | Task | Status |
 |------|--------|
-| Review the Chapter 11 / 12 / conclusion sequence as one unit | ⬜ Not started |
-| Commit and push the full first-draft milestone | ⬜ Not started |
+| Review the Chapter 11 / 12 / conclusion sequence as one unit | ✅ Done |
+| Commit and push the full first-draft milestone | ✅ Done |
 | Decide whether any act reflections still deserve standalone space | ⬜ Not started |
-| Plan the next continuity and integration pass | ⬜ Not started |
+| Plan the next continuity and integration pass | ✅ Done |
+| Build final `.md`, `.epub`, `.docx`, and `.pdf` outputs | ✅ Done |
 
 ### Sprint 8 Exit Criteria
 

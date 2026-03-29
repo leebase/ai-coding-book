@@ -178,6 +178,16 @@ drafted. It closes the book by restating the trap, restating the brighter
 future, and turning the full manuscript into a final leadership choice rather
 than a final abstract reflection.
 
+The publication outputs have now also been generated from the completed draft:
+
+- `the-business-growth-playbook.md`
+- `the-business-growth-playbook.epub`
+- `the-business-growth-playbook.docx`
+- `the-business-growth-playbook.pdf`
+
+The build now runs through `build_outputs.py` in this directory and uses the
+final blue cover at `BusinessGrowthPlaybook.png`.
+
 The latest drafting correction from Lee is also now explicit:
 
 - this book should read as a handbook, not only as a strategy argument
@@ -187,8 +197,9 @@ The latest drafting correction from Lee is also now explicit:
 - research should be added selectively for authority and spice, with exact
   sourcing and no hallucinated references
 
-The next step is to review the full closing sequence across Chapter 11, Chapter
-12, and the conclusion, then commit and push the full first-draft milestone.
+The next step is no longer skeleton drafting. It is full-manuscript
+integration: continuity, trim, act-reflection decisions, and any executive
+summary artifacts that should sit alongside the finished book files.
 
 ---
 
@@ -223,9 +234,9 @@ The next step is to review the full closing sequence across Chapter 11, Chapter
 | 1 | Review the opening sequence across Introduction, Chapter 1, and Chapter 2 | AI | The first act feels cumulative, not repetitive |
 | 2 | Decide whether the Act I reflection survives as a standalone section | Lee + AI | The first-act pacing remains tight |
 | 3 | Run the opening sequence through the enterprise-side reviewers | AI | Early manuscript feedback is captured before the reframe section starts |
-| 4 | Review Chapter 11, Chapter 12, and the conclusion as one closing sequence | AI | The end of the book feels cumulative, sharp, and handbook-like |
-| 5 | Commit and push the full first-draft milestone | AI | Current manuscript state is checkpointed on `codex/growth-consulting-playbook` |
-| 6 | Begin selective research insertion pass on later chapters | AI | Later manuscript has exact, verified support without losing voice |
+| 4 | Run a full-manuscript continuity and trim pass | AI | Repetition, title drift, and paragraph-cadence issues are tightened across the whole book |
+| 5 | Decide whether any act reflections still belong | Lee + AI | The structure is as lean as the manuscript wants to be |
+| 6 | Create the executive one-page system summary if desired | AI | A deployable companion artifact exists next to the book outputs |
 
 ---
 

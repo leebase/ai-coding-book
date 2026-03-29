@@ -22,6 +22,44 @@ Why it matters:
   final arc.
 - The book closes as a handbook with a choice, not as a manifesto with a fade.
 
+## 2026-03-28 — Final Book Outputs Built
+
+Built the combined manuscript and publication files:
+
+- [the-business-growth-playbook.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/the-business-growth-playbook.md)
+- [the-business-growth-playbook.epub](/Users/lee/projects/ai-coding-book/business-growth-playbook/the-business-growth-playbook.epub)
+- [the-business-growth-playbook.docx](/Users/lee/projects/ai-coding-book/business-growth-playbook/the-business-growth-playbook.docx)
+- [the-business-growth-playbook.pdf](/Users/lee/projects/ai-coding-book/business-growth-playbook/the-business-growth-playbook.pdf)
+
+Also added the local builder:
+
+- [build_outputs.py](/Users/lee/projects/ai-coding-book/business-growth-playbook/build_outputs.py)
+
+What this now does:
+
+- assembles the full manuscript from introduction through conclusion in the
+  correct order
+- uses `BusinessGrowthPlaybook.png` as the cover for EPUB, DOCX, and PDF
+- builds bookstore-style publication outputs locally and reproducibly
+- leaves the project with a one-command regeneration path for future revision
+  passes
+
+How to verify:
+
+1. Rebuild the outputs:
+   - `uv run --no-project --with markdown --with python-docx --with reportlab python3 business-growth-playbook/build_outputs.py`
+2. Confirm the files exist:
+   - [the-business-growth-playbook.md](/Users/lee/projects/ai-coding-book/business-growth-playbook/the-business-growth-playbook.md)
+   - [the-business-growth-playbook.epub](/Users/lee/projects/ai-coding-book/business-growth-playbook/the-business-growth-playbook.epub)
+   - [the-business-growth-playbook.docx](/Users/lee/projects/ai-coding-book/business-growth-playbook/the-business-growth-playbook.docx)
+   - [the-business-growth-playbook.pdf](/Users/lee/projects/ai-coding-book/business-growth-playbook/the-business-growth-playbook.pdf)
+3. Inspect EPUB nav:
+   - `unzip -p business-growth-playbook/the-business-growth-playbook.epub EPUB/nav.xhtml`
+4. Inspect DOCX core metadata:
+   - `unzip -p business-growth-playbook/the-business-growth-playbook.docx docProps/core.xml`
+5. Confirm the PDF is valid:
+   - `file business-growth-playbook/the-business-growth-playbook.pdf`
+
 ## 2026-03-28 — Chapter 11 Drafted
 
 Drafted
