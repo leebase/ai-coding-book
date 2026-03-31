@@ -110,6 +110,11 @@ You have a plausible artifact with weak internal pressure.
 
 That matters because plausible artifacts train bad habits.
 
+That also fits the broader research caution around AI generation:
+
+these systems are very good at increasing volume and plausibility, much less
+reliable as a one-shot path to originality or quality.
+
 They teach the user to stop early.
 
 And stopping early is one of the easiest ways to become faster without becoming
@@ -197,6 +202,35 @@ That matters.
 Because the work was not generating language that sounded finished.
 
 The work was refusing to keep language that had not earned its place.
+
+One concrete version of that happened in this very book.
+
+At one point the structure language sounded clean enough to pass.
+
+The part names looked coherent.
+
+The summaries read well.
+
+But under pressure the real problem showed up:
+
+two planning documents were quietly carrying different structures for the same
+manuscript.
+
+The language was polished.
+
+The architecture was drifting.
+
+So the draft got cut back.
+
+The naming was simplified.
+
+One canonical structure was forced to own the shape.
+
+That is a forge move.
+
+Not because the first pass was useless.
+
+Because it was material, not yet product.
 
 They came from:
 
@@ -298,6 +332,10 @@ Your job is to find the real thing inside or beyond it.
 
 That is forging.
 
+Stereo gets the thought into the open.
+
+Forge shapes it into work you can trust.
+
 ## Why Friction Is Often Part of Value
 
 Some friction is waste.
@@ -344,6 +382,11 @@ You type:
 The model gives you something polished and upbeat. It sounds like leadership.
 It also sounds like it could have been sent by anyone.
 
+Something like:
+
+"Thank you all for your hard work this week. I know it was challenging, but I
+am confident we will come back stronger."
+
 Maybe that is good enough.
 
 Sometimes it will be.
@@ -365,6 +408,12 @@ You ask:
 - what would make this sound like I was actually there?
 
 Then you rewrite it in language you can mean.
+
+Maybe the revised version says:
+
+"This week was rough. Some of you carried more than you should have had to. I
+do not want to rush past that. Thank you for staying in it, and next week we
+need to fix what made this one harder than it had to be."
 
 That is different.
 
@@ -409,9 +458,10 @@ and extracted, you probably used a forge move.
 
 That does not mean every task needs five rounds of revision.
 
-It means that anything carrying your name, your judgment, your voice, or your
-responsibility should probably pass through some pressure before you call it
-done.
+Low-stakes throughput can use factory logic.
+
+Anything carrying your judgment, your voice, your relationship, or your
+responsibility should go through the forge.
 
 ## Do This Now
 
@@ -433,26 +483,13 @@ If nothing survives the pressure, that tells you something too.
 
 ## Common Failure Mode
 
-The common failure mode here is mistaking polish for completion.
+The common failure mode here is simple:
 
-The draft looks done, so the human exits early.
+the draft looks done, so the human exits early.
 
-That is the whole problem.
+The mitigation is simple too:
 
-## Risk and Mitigation
-
-The risk in this chapter is elegant slop.
-
-The mitigation is deliberate pressure:
-
-- narrow
-- contradict
-- rewrite
-- verify
-- extract
-
-That is how speed becomes leverage instead of laziness.
+put pressure on anything that carries your truth, your voice, your trust, or
+your name.
 
 That is how output becomes authorship.
-
-And that is how AI helps you make more without quietly making you thin.

@@ -198,6 +198,42 @@ log as part of the live method.
 
 ## Running Log
 
+## 2026-03-31 — Part I Became a Unit Once Chapter 4 Landed the Identity Stakes
+
+The first three chapters established relationship, dialogue, and craft.
+
+Chapter 4 had to answer a different question:
+
+what are those disciplines actually protecting?
+
+What changed:
+
+- the draft was built around the Hockey Stick Bet rather than around a general
+  argument about leverage
+- the chapter tied the first three frameworks together by naming their shared
+  destination: larger human use rather than merely better AI workflow
+- the supporting "expanded identity" pattern was used to widen the proof
+  without turning the chapter into a memoir montage
+- the ordinary example stayed manager-scale so the argument would feel
+  transferable, not only aspirational
+- later review showed that "theme-right" was not enough; the chapter needed one
+  more lived proof beat, so the Lewis and Clark offer became the real center of
+  gravity instead of the title change alone
+
+Why it matters:
+
+- AuthorFlow worked here as a sequencing discipline: the amplification chapter
+  got stronger because it arrived after executive authority, stereo dialogue,
+  and forge pressure were already on the page
+- this is the first moment where Part I can be reviewed as a designed opening
+  unit rather than a stack of good standalone chapters
+
+Method signal:
+
+- some chapters exist to introduce a framework; others exist to reveal what the
+  earlier frameworks were for
+- sequence is part of the argument, not just the table of contents
+
 ## 2026-03-31 — Chapter 3 Review Tightened Craft Without Reopening Framework Design
 
 Once Part I had three chapters, the next review question changed again.
@@ -213,6 +249,11 @@ What changed:
   revision, not just recommends it
 - a good coined warning, `elegant slop`, was moved earlier because it named the
   actual temptation more precisely than generic caution language
+- the chapter gained a micro before/after so the forge is visible, not just
+  described
+- the review also forced a better task-triage rule: not every draft needs the
+  forge, but anything carrying trust, judgment, voice, or responsibility
+  probably does
 - the review specifically did not trigger more framework inflation; `RBM` /
   `MoG` were held back on purpose
 

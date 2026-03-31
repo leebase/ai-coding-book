@@ -4,6 +4,33 @@
 
 ---
 
+## 2026-03-31 — Chapter 4 Drafted
+
+Drafted
+[chapter-4-expand-dont-replace.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-4-expand-dont-replace.md).
+
+What the chapter now does:
+
+- distinguishes healthy leverage from quiet self-erasure
+- names the replacement trap as surrender by accumulation rather than dramatic
+  failure
+- uses the Hockey Stick Bet as the anchor proof and the expanded-identity
+  pattern as the supporting proof
+- makes the Hockey Stick proof more concrete by centering the Lewis and Clark
+  offer rather than leaving the story at title level
+- gives the reader a practical expansion test and an ordinary manager-scale
+  example
+- turns the first three doctrine chapters into a larger human-development
+  argument
+- tightens the research paragraph and lands the ending on one clear closing
+  line
+
+Why it matters:
+
+- Part I now has its fourth and final doctrine chapter on the page.
+- The manuscript can now review the Introduction plus Chapters 1-4 as one
+  opening unit before moving into Part II.
+
 ## 2026-03-31 — Chapter 3 Tightened From Review
 
 Revised
@@ -15,9 +42,16 @@ The main tightening moves were:
 - replacing the slightly literary opening beat with plainer pressure language
 - moving the warning about elegant slop earlier into the chapter's logic
 - adding one concrete forge-scene detail from the real book-making process
+- adding a visible before/after inside the team-message example
+- clarifying that factory logic is fine for low-stakes throughput but not for
+  voice-bearing, trust-bearing, or responsibility-bearing work
+- adding one light research pulse around volume, plausibility, and one-shot
+  quality limits
 - making the friction section sound more confident and less pre-defensive
-- keeping `RBM` / `MoG` out of the chapter for now so Part I does not
-  overload itself too early
+- compressing the ending so the chapter closes on craft rather than repeated
+  warning language
+- keeping `RBM` / `MoG` out of the chapter for now so Part I does not overload
+  itself too early
 
 Why it matters:
 

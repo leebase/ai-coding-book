@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; Introduction and Chapters 1-3 drafted; Chapters 1-3 tightened from review; Part I drafting in progress |
+| **Status** | Concept package locked; Introduction and Chapters 1-4 drafted; Chapters 1-3 tightened from review; Part I draft complete pending unit pass |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -128,7 +128,8 @@ The manuscript is no longer empty. The opening chapter now exists at
 `chapters/introduction-this-is-not-about-going-faster.md`, and Chapter 1 now
 exists at `chapters/chapter-1-you-are-the-executive.md`. Chapter 2 now exists
 at `chapters/chapter-2-think-in-stereo.md`. Chapter 3 now exists at
-`chapters/chapter-3-forge-dont-factory.md`.
+`chapters/chapter-3-forge-dont-factory.md`. Chapter 4 now exists at
+`chapters/chapter-4-expand-dont-replace.md`.
 
 The proof layer did its job: the Introduction was drafted from the locked
 thesis, proof map, and research support map instead of improvising from a pile
@@ -149,9 +150,15 @@ review:
 - Chapter 3 now has a plainer opening, a more concrete forge-scene beat, and a
   stronger early warning against elegant slop
 
-Chapter 3, `Forge, Don't Factory`, is now materially stronger and ready for the
-same commit/push rhythm as the earlier Part I chapters. The next major move is
-Chapter 4 while Part I is still warm.
+Chapter 4, `Expand, Don't Replace`, is now on the page. It uses the Hockey
+Stick Bet and the expanded-identity pattern to distinguish healthy leverage
+from self-erasure, and it makes the first three doctrine chapters answer a
+larger human-development question instead of reading like isolated workflow
+moves.
+
+Part I is now drafted as a unit. The next major move is a voice and handbook
+usefulness pass across the Introduction plus Chapters 1-4 before the book moves
+into Part II.
 
 ---
 
@@ -191,10 +198,10 @@ Chapter 4 while Part I is still warm.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Commit and push the latest Part I review pass | Lee + AI | The refined Chapter 3 and synced memory docs are safely published |
-| 2 | Draft Chapter 4 — Expand, Don't Replace | Lee + AI | The amplification-vs-replacement distinction exists in finished chapter form |
+| 1 | Run a voice pass across the Introduction and Part I | Lee + AI | The opening unit sounds cumulative, distinct by chapter, and recognizably Lee |
+| 2 | Run a handbook-usefulness pass across the Introduction and Part I | Lee + AI | The opening unit teaches moves clearly enough to reuse, not just admire |
 | 3 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
-| 4 | Pressure-test whether Chapter 10 needs a stronger lived weakening story | Lee + AI | The risk chapter has vivid proof, not only warnings |
+| 4 | Draft Chapter 5 — Turn Curiosity into Output | Lee + AI | Part II begins with a concrete curiosity-to-artifact chapter |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---
