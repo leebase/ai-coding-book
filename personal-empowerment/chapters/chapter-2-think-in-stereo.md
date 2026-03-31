@@ -459,3 +459,6 @@ Think in Stereo.
 
 It is one of the fastest ways to turn fuzzy thought into something strong
 enough to use.
+
+And once it is in the open, the next job is to pressure it until it becomes
+work you can trust.

@@ -141,7 +141,7 @@ the book's doctrine.
 
 | Task | Status |
 |------|--------|
-| Draft `Chapter 5 — Turn Curiosity into Output` | ⬜ Not started |
+| Draft `Chapter 5 — Turn Curiosity into Output` | ✅ Done |
 | Draft `Chapter 6 — Think Better About Work and Learning` | ⬜ Not started |
 | Draft supporting examples and exercises for both chapters | ⬜ Not started |
 | Thread the Empowerment Loop explicitly through both chapters | ⬜ Not started |

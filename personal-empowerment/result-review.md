@@ -4,6 +4,56 @@
 
 ---
 
+## 2026-03-31 — Chapter 5 Drafted
+
+Drafted
+[chapter-5-turn-curiosity-into-output.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-5-turn-curiosity-into-output.md).
+
+What the chapter now does:
+
+- argues that curiosity often dies in the gap between interest and first
+  artifact
+- uses music creation as the anchor proof for lowered activation energy and
+  identity testing through output
+- grounds the music proof in one real making moment instead of only summarizing
+  the pattern
+- adds a backyard-garden example to keep the chapter ordinary and usable
+- distinguishes real contact from passive consumption about a domain
+- gives the reader a small domain-entry experiment instead of a grand ambition
+  speech
+- sharpens the action step by explicitly making small, ugly, incomplete first
+  artifacts acceptable
+
+Why it matters:
+
+- Part II has now started with a concrete application chapter rather than a
+  generic creativity essay.
+- The book now shows how the first four doctrine chapters cash out in a real
+  life expansion move.
+
+## 2026-03-31 — Part I Unit Pass Started
+
+Ran a first coherence pass across
+[introduction-this-is-not-about-going-faster.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/introduction-this-is-not-about-going-faster.md),
+[chapter-1-you-are-the-executive.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-1-you-are-the-executive.md),
+and
+[chapter-2-think-in-stereo.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-2-think-in-stereo.md)
+so Part I reads more like one ladder.
+
+What changed:
+
+- the Introduction now names the four-move sequence more explicitly:
+  authority, dialogue, craft, expansion
+- Chapter 1 got a less repetitive close in the exercise section
+- Chapter 2 now points more clearly into the forge chapter instead of ending as
+  a self-contained concept
+
+Why it matters:
+
+- The opening unit now does a slightly better job of showing progression rather
+  than merely presenting adjacent ideas.
+- Part I is moving from drafted chapters toward a designed reading experience.
+
 ## 2026-03-31 — Chapter 4 Drafted
 
 Drafted
@@ -17,13 +67,15 @@ What the chapter now does:
 - uses the Hockey Stick Bet as the anchor proof and the expanded-identity
   pattern as the supporting proof
 - makes the Hockey Stick proof more concrete by centering the Lewis and Clark
-  offer rather than leaving the story at title level
+  offer and the framing/rehearsal work around it rather than leaving the story
+  at title level
 - gives the reader a practical expansion test and an ordinary manager-scale
   example
+- defines expansion more behaviorally and adds a small replacement-vs-expansion
+  contrast block
 - turns the first three doctrine chapters into a larger human-development
   argument
-- tightens the research paragraph and lands the ending on one clear closing
-  line
+- tightens the research paragraph and points the ending forward into Chapter 5
 
 Why it matters:
 

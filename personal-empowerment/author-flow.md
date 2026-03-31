@@ -198,6 +198,67 @@ log as part of the live method.
 
 ## Running Log
 
+## 2026-03-31 — Part II Started by Turning Curiosity Into a Real Artifact Problem
+
+Once Part I established authority, dialogue, craft, and expansion, the next
+risk was that Part II could drift into generic "here are some use cases."
+
+Chapter 5 solved that by starting with a narrower question:
+
+why do so many real interests die before they become a first thing?
+
+What changed:
+
+- the chapter was built around the barrier between interest and first artifact
+  instead of around creativity as a vague virtue
+- music was used as the lived proof because it showed curiosity turning into
+  repeated contact rather than staying trapped in admiration
+- later review improved the music section by forcing one true detail onto the
+  page; the chapter got stronger as soon as the proof stopped sounding like a
+  summary and started sounding like a real making moment
+- the ordinary example stayed modest on purpose: a small backyard-garden plan,
+  not a dramatic reinvention story
+- the chapter's exercise asks for a tiny artifact by the end of the week, which
+  keeps the handbook practical instead of inspirational
+
+Why it matters:
+
+- this is the first real proof that Part II can stay concrete
+- the application section now begins with activation energy, not abstraction
+
+Method signal:
+
+- when a book moves from doctrine to application, the safest move is usually to
+  start with a small repeatable life pattern rather than the highest-stakes
+  domain
+- "ordinary but real" examples are doing important anti-drift work in this
+  manuscript
+
+## 2026-03-31 — Unit Pass Work Shifted From Chapter Quality to Chapter Sequencing
+
+Once Part I existed end to end, the next useful question was no longer whether
+each chapter worked alone.
+
+It was whether the reader could feel the ladder.
+
+What changed:
+
+- the Introduction now names the four opening moves more explicitly
+- Chapter 1 closes with less repeated cadence and more forward motion
+- Chapter 2 now hands off more clearly into the forge chapter instead of ending
+  as if dialogue were the whole method
+
+Why it matters:
+
+- AuthorFlow is not finished when every chapter is individually decent
+- the opening of a handbook has to teach sequence as well as concepts
+
+Method signal:
+
+- once a section exists as a unit, do at least one pass for progression and
+  handoff, not just sentence quality
+- a book can have good chapters and still need better ladders
+
 ## 2026-03-31 — Part I Became a Unit Once Chapter 4 Landed the Identity Stakes
 
 The first three chapters established relationship, dialogue, and craft.
@@ -219,6 +280,9 @@ What changed:
 - later review showed that "theme-right" was not enough; the chapter needed one
   more lived proof beat, so the Lewis and Clark offer became the real center of
   gravity instead of the title change alone
+- the later pass also forced more visible machinery onto the page:
+  operational definition, replacement-vs-expansion contrasts, and a forward
+  bridge into Chapter 5
 
 Why it matters:
 

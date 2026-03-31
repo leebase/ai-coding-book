@@ -246,6 +246,14 @@ you out.
 
 We are going to build that in four moves.
 
+Authority.
+
+Dialogue.
+
+Craft.
+
+Expansion.
+
 First, we will reframe the relationship.
 
 You are not here to become a better button-pusher. You are here to understand

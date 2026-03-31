@@ -430,7 +430,7 @@ You are probably receiving.
 
 Do not miss that.
 
-That is the difference.
+That is where management begins.
 
 ## Common Failure Mode
 

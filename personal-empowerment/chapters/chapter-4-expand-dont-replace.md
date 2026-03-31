@@ -105,6 +105,9 @@ Not less of you necessary.
 
 That is the standard.
 
+In this book, expansion means more range, more authorship, more courage, and
+more ability to act in rooms you could not previously enter well.
+
 If the tool is helping you think more clearly, try more boldly, learn more
 quickly, articulate more precisely, or enter domains that were previously too
 far away, that is expansion.
@@ -118,6 +121,11 @@ Healthy leverage often looks like this:
 - you can move faster without skipping formation
 - you can enter a new domain without outsourcing your mind
 - you can do more, but you are also becoming more
+
+Convenience is fine for disposable, low-stakes, non-formative work.
+
+Expansion matters most when the task carries judgment, trust, voice, learning,
+or identity.
 
 That is the goal.
 
@@ -189,10 +197,14 @@ But:
 
 That is expansion.
 
-And the proof was not only a title change.
+The concrete moment was not the title.
 
-The proof was that I became confident enough in the transformation to make a
-Lewis and Clark offer.
+It was the offer.
+
+I used AI to pressure-test the framing, sharpen the language, and rehearse the
+case until I could say something bolder than my old posture would have allowed.
+
+The offer was simple:
 
 Give me five high performers.
 
@@ -282,6 +294,15 @@ The other path makes you more capable in the next one.
 
 That is what this chapter is trying to protect.
 
+Here is the pattern in shorthand:
+
+- replacement writes the talk track for me
+- expansion role-plays objections so I learn to deliver it
+- replacement summarizes the book for me
+- expansion quizzes me until I can explain it
+- replacement writes the hard note for me
+- expansion helps me find the truth I need to say
+
 ## Why This Matters More Than Productivity
 
 There is a broader reason this distinction matters.
@@ -297,8 +318,8 @@ That is why the strongest version of this chapter is not really about software.
 It is about formation.
 
 Humans really do think with tools, surfaces, symbols, and systems outside the
-skull. That is one reason expansion is real. But the caution side is real too.
-If every hard move gets handed off too early, the person can accumulate
+skull. That is one reason expansion is real. But the caution side is real too:
+if every hard move gets handed off too early, the person can accumulate
 cognitive debt while still feeling efficient.
 
 That is the pairing to remember.
@@ -366,8 +387,6 @@ That might mean:
 - preparing for a harder role before you fully feel ready
 - expanding your range without surrendering your authorship
 
-This is not a demand to become superhuman.
-
 It is an invitation to notice the direction of the leverage.
 
 Is it making your life smaller and easier?
@@ -380,8 +399,6 @@ But if every use is convenience, you may be training yourself into a narrower
 life while congratulating yourself on efficiency.
 
 That is the warning.
-
-And it is why this chapter belongs here, early in the book.
 
 ## Do This Now
 
@@ -423,3 +440,6 @@ The mitigation is a simple test:
 use AI in ways that widen your range without removing your participation.
 
 That is how help becomes expansion instead of replacement.
+
+And one of the first places that becomes visible is when curiosity turns into
+artifact.

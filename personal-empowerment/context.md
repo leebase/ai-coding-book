@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; Introduction and Chapters 1-4 drafted; Chapters 1-3 tightened from review; Part I draft complete pending unit pass |
+| **Status** | Concept package locked; Introduction and Chapters 1-5 drafted; Part I unit pass in progress; Part II started |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -129,7 +129,8 @@ The manuscript is no longer empty. The opening chapter now exists at
 exists at `chapters/chapter-1-you-are-the-executive.md`. Chapter 2 now exists
 at `chapters/chapter-2-think-in-stereo.md`. Chapter 3 now exists at
 `chapters/chapter-3-forge-dont-factory.md`. Chapter 4 now exists at
-`chapters/chapter-4-expand-dont-replace.md`.
+`chapters/chapter-4-expand-dont-replace.md`. Chapter 5 now exists at
+`chapters/chapter-5-turn-curiosity-into-output.md`.
 
 The proof layer did its job: the Introduction was drafted from the locked
 thesis, proof map, and research support map instead of improvising from a pile
@@ -158,7 +159,14 @@ moves.
 
 Part I is now drafted as a unit. The next major move is a voice and handbook
 usefulness pass across the Introduction plus Chapters 1-4 before the book moves
-into Part II.
+deeper into Part II.
+
+That work has now begun in parallel with Chapter 5. The Introduction now names
+the four-move ladder more explicitly, Chapter 1 closes with less repeated
+cadence, and Chapter 2 now hands off more clearly into the forge chapter.
+Chapter 5 starts Part II by arguing that AI lowers the barrier between interest
+and first artifact, using music as the anchor proof and a small backyard-garden
+plan as an ordinary reader-scale translation.
 
 ---
 
@@ -198,10 +206,10 @@ into Part II.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Run a voice pass across the Introduction and Part I | Lee + AI | The opening unit sounds cumulative, distinct by chapter, and recognizably Lee |
-| 2 | Run a handbook-usefulness pass across the Introduction and Part I | Lee + AI | The opening unit teaches moves clearly enough to reuse, not just admire |
+| 1 | Finish the Part I voice and handbook-usefulness pass | Lee + AI | The opening unit sounds cumulative, distinct by chapter, and practically reusable |
+| 2 | Tighten Chapter 5 — Turn Curiosity into Output | Lee + AI | The first Part II chapter is sharp enough to carry the application section |
 | 3 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
-| 4 | Draft Chapter 5 — Turn Curiosity into Output | Lee + AI | Part II begins with a concrete curiosity-to-artifact chapter |
+| 4 | Draft Chapter 6 — Think Better About Work and Learning | Lee + AI | Part II has its work-and-learning chapter on the page |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---
