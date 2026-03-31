@@ -121,7 +121,7 @@ the book's doctrine.
 |------|--------|
 | Draft `Introduction — This Is Not About Going Faster` | ✅ Done |
 | Draft `Chapter 1 — You Are the Executive` | ✅ Done |
-| Draft `Chapter 2 — Think in Stereo` | ⬜ Not started |
+| Draft `Chapter 2 — Think in Stereo` | ✅ Done |
 | Draft `Chapter 3 — Forge, Don't Factory` | ⬜ Not started |
 | Draft `Chapter 4 — Expand, Don't Replace` | ⬜ Not started |
 | Run voice pass across Introduction + Part I | ⬜ Not started |

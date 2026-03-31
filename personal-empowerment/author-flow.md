@@ -202,6 +202,32 @@ log as part of the live method.
 
 ## 2026-03-31 — Chapter 1 Used Both a Lee Story and a Composite Reader Story
 
+## 2026-03-31 — Chapter 2 Turned a Phrase Into a Practice Loop
+
+`Think in Stereo` could easily have stayed a good phrase.
+
+The chapter draft forced it to become a repeatable move.
+
+What changed:
+
+- the concept was translated into a clear posture: bring unfinished material
+  into dialogue on purpose
+- the Devin-class story gave the idea lived proof without overinflating the
+  story
+- the chapter had to distinguish real co-thinking from endless AI conversation
+- the "first practice loop" turned the concept into a handbook move
+
+Why it matters:
+
+- AuthorFlow is not finished when a concept is named.
+- A named concept becomes real only when a reader can use it without needing
+  Lee's biography to make sense of it.
+
+Method signal:
+
+- every named framework needs a behavior loop, not just a definition
+- if the reader cannot run the move today, the concept is still half-formed
+
 The Executive Model chapter needed more than a principle and more than a single
 Lee proof. It needed one high-stakes ownership story and one ordinary-use
 example.

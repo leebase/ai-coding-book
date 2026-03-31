@@ -4,6 +4,26 @@
 
 ---
 
+## 2026-03-31 — Chapter 2 Drafted
+
+Drafted
+[chapter-2-think-in-stereo.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-2-think-in-stereo.md).
+
+What the chapter now does:
+
+- defines `Think in Stereo` as externalized thinking rather than generic chat
+- explains why unfinished thought often gets stronger in dialogue
+- uses the Devin-class story as the anchor proof
+- adds a practical first dialogue loop the reader can run immediately
+- distinguishes real co-thinking from endless conversational drift
+
+Why it matters:
+
+- Part I now has its second doctrine chapter and the handbook's core
+  interaction pattern is on the page.
+- The manuscript can now move into `Forge, Don't Factory` with the authority
+  model and the dialogue model already established.
+
 ## 2026-03-31 — Chapter 1 Drafted
 
 Drafted
