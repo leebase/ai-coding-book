@@ -136,6 +136,24 @@ It needs to be real enough to answer back.
 
 That is where learning starts to accelerate.
 
+Here is the loop in its simplest form:
+
+name the live curiosity
+
+choose the smallest honest artifact
+
+ask AI to scope it down
+
+make the first version
+
+react to what exists
+
+decide on the next rep
+
+That is a small loop.
+
+It is also how a lot of dormant interests finally get a body.
+
 ## Lee in the Field
 
 One of the clearest examples of this in my own life was music.
@@ -179,6 +197,9 @@ It was not finished.
 It was not automatically good.
 
 But it was the first time the thing in my head answered back in sound.
+
+It stopped being private intuition and became something I could actually react
+to.
 
 That changes something.
 
@@ -270,6 +291,14 @@ You can compare it against your actual yard.
 
 You can decide whether to start this weekend.
 
+And if the point is contact, the weekend should end with one real rep.
+
+Three containers.
+
+Three plants.
+
+Dirt on your hands.
+
 That is different.
 
 The artifact is not the whole journey.
@@ -281,10 +310,9 @@ It is the thing that makes the journey real.
 Tools that reduce activation energy often change whether a person starts at
 all.
 
-And once a person starts, iterative exploration can do something that pure
-consumption rarely does:
+And once a person starts, contact does something pure consumption rarely does:
 
-it builds familiarity through contact.
+it builds familiarity through reps instead of admiration from a distance.
 
 That is why this chapter belongs in the book.
 
@@ -340,33 +368,14 @@ It is proof of entry.
 For you, this chapter matters anywhere interest has stayed trapped in private
 admiration.
 
-That might mean:
+The useful question is not:
 
-- a creative domain you have circled for years
-- a technical skill you always thought was "for other people"
-- a topic you keep reading about but never practice
-- a project idea that has lived only in notes
-- a form of expression you have wanted to test without committing your whole
-  life to it
+"Could I become great at this?"
 
-You do not need to begin with a giant ambition.
+It is:
 
-Begin with a first artifact.
-
-Small counts.
-
-Ugly counts.
-
-Incomplete counts.
-
-What matters is that the curiosity stops being only internal.
-
-One useful question is:
-
-What is the smallest real thing this interest could become by the end of the
-week?
-
-That question changes a lot.
+"What is the smallest real thing this interest could become by the end of the
+week?"
 
 ## Do This Now
 
@@ -419,6 +428,7 @@ larger commitment.
 
 That is how curiosity becomes motion.
 
-That is how motion becomes practice.
-
 And that is how a possible self gets a real beginning.
+
+And once you are in the room, the next question is whether AI is helping you
+learn there or only helping you look ready.

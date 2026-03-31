@@ -12,10 +12,14 @@
 
 **Situation:**
 Established consultant at peak value in existing domain.
+Pattern of prior wave transitions already visible: databases to the web,
+FoxPro to Oracle, MicroStrategy from the Java/Oracle world, and now GenAI.
 
 **Tension:**
 - AI wave emerging
 - Risk of losing value vs stepping into unknown
+- Pattern learned from missed waves like Big Data and AI/ML, where the window
+  was visible but self-training capacity was not there early enough
 
 **Decision:**
 Move early. Prepare before the market demands it.
@@ -26,6 +30,9 @@ Director of Data & AI role.
 **Insight:**
 > The move isn’t made when it’s obvious.  
 > It’s made when it’s uncomfortable.
+>
+> If you miss the window, the market fills with experienced people and the
+> high-pay entry point disappears.
 
 ---
 

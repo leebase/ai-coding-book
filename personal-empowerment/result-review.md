@@ -4,6 +4,33 @@
 
 ---
 
+## 2026-03-31 — Chapter 6 Drafted
+
+Drafted
+[chapter-6-think-better-about-work-and-learning.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-6-think-better-about-work-and-learning.md).
+
+What the chapter now does:
+
+- distinguishes scaffolding from substitution in professional work
+- uses the Hockey Stick Bet as the anchor proof and `Am I Adding Value?` as the
+  supporting internal loop
+- makes the Hockey Stick proof more concrete by naming the wage-transition
+  problem, the market window, and the Lewis and Clark offer as a learning
+  architecture move
+- preserves the misses too, especially Big Data and AI/ML, so the pattern reads
+  as real market timing rather than retrospective hero story
+- makes the learning-versus-avoidance asymmetry explicit: avoiding learning
+  with AI is easy, learning with AI is deliberate
+- adds a strategy-meeting example to show the difference between sounding
+  prepared and becoming prepared
+- gives the reader a reusable work-task check for understanding versus output
+
+Why it matters:
+
+- Part II now has its work-and-learning chapter on the page.
+- The manuscript can now carry a stronger professional caution without waiting
+  until the later risk chapter.
+
 ## 2026-03-31 — Chapter 5 Drafted
 
 Drafted
@@ -18,11 +45,13 @@ What the chapter now does:
 - grounds the music proof in one real making moment instead of only summarizing
   the pattern
 - adds a backyard-garden example to keep the chapter ordinary and usable
+- pushes the garden example through one actual rep instead of ending at a plan
 - distinguishes real contact from passive consumption about a domain
 - gives the reader a small domain-entry experiment instead of a grand ambition
   speech
 - sharpens the action step by explicitly making small, ugly, incomplete first
   artifacts acceptable
+- adds a compact first-contact loop the reader can remember and reuse
 
 Why it matters:
 

@@ -198,6 +198,43 @@ log as part of the live method.
 
 ## Running Log
 
+## 2026-03-31 — Chapter 6 Carried the Professional Asymmetry Explicitly
+
+By the time Part II reached work and learning, the next risk was obvious:
+
+the book could sound too optimistic about professional AI use if it did not
+name how easy avoidance is.
+
+What changed:
+
+- the chapter was built around one asymmetry on purpose: avoiding learning with
+  AI is easy, learning with AI is deliberate
+- the Hockey Stick Bet was reused here, but this time as a learning story, not
+  only as an expansion story
+- the chapter got materially stronger once the story stopped sounding like a
+  generic career pivot and started naming the real wage-window logic behind the
+  bet
+- it got stronger again once the misses stayed in the story: Big Data and
+  AI/ML make the pattern more credible because they show that seeing the wave is
+  not enough if you cannot get enough reps before the market window closes
+- `Am I Adding Value?` became the supporting loop that prevents AI-assisted work
+  from collapsing into polished irrelevance
+- the ordinary example focused on a strategy meeting because work often rewards
+  the appearance of understanding before it rewards understanding itself
+
+Why it matters:
+
+- this lets Part II stay practical without losing the book's caution layer
+- the professional chapter now teaches a reusable distinction instead of only
+  celebrating leverage
+
+Method signal:
+
+- the same story can do different work in different chapters if the proof job
+  is different
+- a chapter gets stronger when it names the easiest wrong move in plain
+  language
+
 ## 2026-03-31 — Part II Started by Turning Curiosity Into a Real Artifact Problem
 
 Once Part I established authority, dialogue, craft, and expansion, the next
@@ -216,6 +253,8 @@ What changed:
 - later review improved the music section by forcing one true detail onto the
   page; the chapter got stronger as soon as the proof stopped sounding like a
   summary and started sounding like a real making moment
+- the chapter got more handbook-like once "contact" became a repeatable loop
+  instead of only a good idea
 - the ordinary example stayed modest on purpose: a small backyard-garden plan,
   not a dramatic reinvention story
 - the chapter's exercise asks for a tiny artifact by the end of the week, which

@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; Introduction and Chapters 1-5 drafted; Part I unit pass in progress; Part II started |
+| **Status** | Concept package locked; Introduction and Chapters 1-6 drafted; Part I unit pass in progress; Part II underway |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -130,7 +130,8 @@ exists at `chapters/chapter-1-you-are-the-executive.md`. Chapter 2 now exists
 at `chapters/chapter-2-think-in-stereo.md`. Chapter 3 now exists at
 `chapters/chapter-3-forge-dont-factory.md`. Chapter 4 now exists at
 `chapters/chapter-4-expand-dont-replace.md`. Chapter 5 now exists at
-`chapters/chapter-5-turn-curiosity-into-output.md`.
+`chapters/chapter-5-turn-curiosity-into-output.md`. Chapter 6 now exists at
+`chapters/chapter-6-think-better-about-work-and-learning.md`.
 
 The proof layer did its job: the Introduction was drafted from the locked
 thesis, proof map, and research support map instead of improvising from a pile
@@ -166,7 +167,10 @@ the four-move ladder more explicitly, Chapter 1 closes with less repeated
 cadence, and Chapter 2 now hands off more clearly into the forge chapter.
 Chapter 5 starts Part II by arguing that AI lowers the barrier between interest
 and first artifact, using music as the anchor proof and a small backyard-garden
-plan as an ordinary reader-scale translation.
+plan as an ordinary reader-scale translation. Chapter 6 now carries the
+work-and-learning layer, arguing for scaffolding over substitution and using
+the Hockey Stick Bet plus the `Am I Adding Value?` loop to keep professional
+thinking from turning into borrowed competence.
 
 ---
 
@@ -206,10 +210,10 @@ plan as an ordinary reader-scale translation.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Finish the Part I voice and handbook-usefulness pass | Lee + AI | The opening unit sounds cumulative, distinct by chapter, and practically reusable |
-| 2 | Tighten Chapter 5 — Turn Curiosity into Output | Lee + AI | The first Part II chapter is sharp enough to carry the application section |
+| 1 | Tighten Chapter 6 — Think Better About Work and Learning | Lee + AI | The work-and-learning chapter is sharp enough to carry the strongest professional caution in Part II |
+| 2 | Finish the Part I voice and handbook-usefulness pass | Lee + AI | The opening unit sounds cumulative, distinct by chapter, and practically reusable |
 | 3 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
-| 4 | Draft Chapter 6 — Think Better About Work and Learning | Lee + AI | Part II has its work-and-learning chapter on the page |
+| 4 | Draft Chapter 7 — Use AI for Reflection, Parenting, and Decisions | Lee + AI | Part II extends into emotionally real personal life |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---
