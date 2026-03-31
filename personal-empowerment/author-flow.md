@@ -200,6 +200,34 @@ log as part of the live method.
 
 ## 2026-03-31 — The Introduction Was Drafted From the Proof Layer Instead of From Vibes
 
+## 2026-03-31 — Chapter 1 Used Both a Lee Story and a Composite Reader Story
+
+The Executive Model chapter needed more than a principle and more than a single
+Lee proof. It needed one high-stakes ownership story and one ordinary-use
+example.
+
+What changed:
+
+- the Cognizant/IP story carried the chapter's authority and ownership logic
+- the manager performance-review composite carried the reader-translation logic
+- the chapter used research mainly as caution support around overtrust,
+  hallucination, and sycophancy rather than as heavy exposition
+
+Why it matters:
+
+- This is the first proof that the book can hold lived authority without
+  becoming exceptionalist.
+- The composite-example move gives later chapters a repeatable way to stay
+  accessible when Lee's own stories are higher-agency than the average reader's
+  life.
+
+Method signal:
+
+- some chapters need two proof scales: one lived proof of principle and one
+  ordinary-use proof of transferability
+- if a handbook chapter sounds impressive but not reachable, add a modest
+  composite and keep going
+
 The first manuscript prose did not start from a blank page and a vague sense of
 the thesis. It started after the proof map and research support map existed.
 

@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; proof map and research support map added; Introduction drafted; Part I drafting in progress |
+| **Status** | Concept package locked; proof map and research support map added; Introduction and Chapter 1 drafted; Part I drafting in progress |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -125,12 +125,15 @@ project skill now exists at `skills/personal-empowerment-book.md`, and a
 project-specific reviewer now exists at `agents/human-empowerment-reviewer.md`.
 
 The manuscript is no longer empty. The opening chapter now exists at
-`chapters/introduction-this-is-not-about-going-faster.md`.
+`chapters/introduction-this-is-not-about-going-faster.md`, and Chapter 1 now
+exists at `chapters/chapter-1-you-are-the-executive.md`.
 
 The proof layer did its job: the Introduction was drafted from the locked
 thesis, proof map, and research support map instead of improvising from a pile
-of notes. The next major move is Chapter 1, `You Are the Executive`, while the
-Part I doctrine sequence is still warm.
+of notes. Chapter 1 was then drafted directly from the Executive Model, the
+ownership story, the research caution layer, and the modest manager composite.
+The next major move is Chapter 2, `Think in Stereo`, while the Part I doctrine
+sequence is still warm.
 
 ---
 
@@ -170,8 +173,8 @@ Part I doctrine sequence is still warm.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft Chapter 1 — You Are the Executive | Lee + AI | The Executive Model is proven in finished chapter form |
-| 2 | Draft Chapter 2 — Think in Stereo | Lee + AI | The book's co-thinking pattern exists in finished chapter form |
+| 1 | Draft Chapter 2 — Think in Stereo | Lee + AI | The book's co-thinking pattern exists in finished chapter form |
+| 2 | Draft Chapter 3 — Forge, Don't Factory | Lee + AI | The craft discipline is proven in finished chapter form |
 | 3 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
 | 4 | Pressure-test whether Chapter 10 needs a stronger lived weakening story | Lee + AI | The risk chapter has vivid proof, not only warnings |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |

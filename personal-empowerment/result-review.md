@@ -4,6 +4,28 @@
 
 ---
 
+## 2026-03-31 — Chapter 1 Drafted
+
+Drafted
+[chapter-1-you-are-the-executive.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-1-you-are-the-executive.md).
+
+What the chapter now does:
+
+- establishes the Executive Model as the first non-negotiable relationship rule
+- distinguishes thinking partnership from equal authority
+- turns prompting into delegation, orientation, review, and ownership
+- uses the Cognizant/IP story as the anchor proof
+- adds the manager performance-review composite so the chapter stays reachable,
+  not only aspirational
+
+Why it matters:
+
+- Part I now has its first real doctrine chapter, not just an Introduction.
+- The manuscript now has a concrete accountability frame to build the rest of
+  the handbook on.
+- Chapter 2 can now build from an explicit authority model instead of having to
+  imply one.
+
 ## 2026-03-31 — Introduction Drafted
 
 Drafted the manuscript opening at

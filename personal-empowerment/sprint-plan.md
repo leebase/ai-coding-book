@@ -120,7 +120,7 @@ the book's doctrine.
 | Task | Status |
 |------|--------|
 | Draft `Introduction — This Is Not About Going Faster` | ✅ Done |
-| Draft `Chapter 1 — You Are the Executive` | ⬜ Not started |
+| Draft `Chapter 1 — You Are the Executive` | ✅ Done |
 | Draft `Chapter 2 — Think in Stereo` | ⬜ Not started |
 | Draft `Chapter 3 — Forge, Don't Factory` | ⬜ Not started |
 | Draft `Chapter 4 — Expand, Don't Replace` | ⬜ Not started |
