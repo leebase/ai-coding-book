@@ -25,6 +25,14 @@ Why it matters:
   artifacts.
 - Chapter 1 can now draft against a real opening instead of an imagined one.
 
+Follow-up tightening after review:
+
+- the "How to Read This Book" section was compressed so it keeps more of the
+  surrounding energy
+- the four-move setup in the Introduction was made to mirror the canonical
+  four-part structure more explicitly
+- [proof-map.md](/Users/lee/projects/ai-coding-book/personal-empowerment/proof-map.md) now includes a modest composite everyday example to keep the manuscript accessible, not only aspirational
+
 ## 2026-03-31 — Proof Map and Research Support Map Added
 
 Created two new drafting-control artifacts:

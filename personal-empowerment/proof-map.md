@@ -367,6 +367,32 @@ of inspiring moments.
   learning story. A clearer "learned this with AI without outsourcing the
   learning" example would strengthen it.
 
+## Composite Everyday Example
+
+Use a recurring modest example when a chapter needs accessibility more than
+biographical proof.
+
+Current best candidate:
+
+- a manager preparing for a difficult performance review
+
+Low-agency version:
+
+- ask AI to write the script
+- accept the language because it sounds smooth
+
+High-agency version:
+
+- ask AI to role-play likely reactions and objections
+- test your own wording against resistance
+- refine your thinking before the real conversation
+
+Why it belongs:
+
+- it is ordinary enough to feel reachable
+- it makes the Executive Model concrete
+- it shows reflection support without outsourcing judgment or empathy
+
 ---
 
 ## Current Recommendation

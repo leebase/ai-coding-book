@@ -224,6 +224,17 @@ Method signal:
 - a good proof layer changes the quality of the prose, not just the order of
   the files
 
+The first outside review of the Introduction also surfaced a useful method
+lesson: once prose exists, the support docs may need another sync pass.
+
+In this case that meant:
+
+- tightening the weakest handbook section instead of defending it
+- making the Introduction's four-move setup mirror the canonical part
+  structure more explicitly
+- adding a modest composite example to the proof layer so later chapters do not
+  rely only on high-agency Lee stories
+
 ## 2026-03-31 — Proof Was Split Into Story Weight and Research Weight
 
 Sprint 2 did not begin by drafting prose. It began by turning two large context

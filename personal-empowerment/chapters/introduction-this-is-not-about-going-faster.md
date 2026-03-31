@@ -256,10 +256,11 @@ Not just work. Real life.
 Curiosity. Learning. Writing. Creativity. Parenting. Reflection. Decisions.
 Meaning. Identity.
 
-Third, we will get honest about the risks.
+Third, we will learn how to stay human while using powerful tools.
 
-Not just hallucinations. Weakening. Dependency. Sycophancy. Passivity.
-Outsourcing too much of the exact struggle that builds discernment.
+That means insight, authorship, taste, risk, weakening, dependency,
+sycophancy, and the temptation to outsource too much of the exact struggle that
+builds discernment.
 
 Then we will close by turning all of it into practice.
 
@@ -272,20 +273,18 @@ Do not read this book like a book of tips.
 
 Read it like a field manual.
 
-That means three things.
+Use the chapter moves while you read.
 
-First, stop during the book and use the ideas.
+Test them.
 
-When a chapter tells you to try something, try it. The point is not to agree
-with the chapter. The point is to test the move.
+Do not confuse agreement with application.
 
-Second, do not confuse agreement with application.
+You can agree with a sentence like "stay in control" and still use AI in a way
+that makes you softer, lazier, and more dependent.
 
-You can nod at a sentence like "stay in control" and still use AI in a way that
-makes you softer, lazier, and more dependent. Application is where the truth
-shows up.
+Application is where the truth shows up.
 
-Third, watch your own reactions.
+So watch your own reactions.
 
 Where does the AI make you bolder in a good way?
 

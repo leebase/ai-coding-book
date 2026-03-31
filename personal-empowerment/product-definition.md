@@ -319,7 +319,8 @@ Codex should use the supporting principle files as source truth for detailed cha
 
 10. Proposed Book Structure
 
-This is a directional structure, not a frozen table of contents.
+This section should mirror the canonical four-part path in `book-plan.md`.
+It is directional in detail, but not separate in structure.
 
 Part I — Reframe the Relationship
 	•	AI as thinking partner
