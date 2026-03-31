@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Book plan, thesis brief, positioning, and framework notes in place; source docs synced to that package; manuscript drafting still ahead |
+| **Status** | Concept package locked; proof map and research support map added; manuscript drafting still ahead |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -86,6 +86,8 @@ The supporting package remains:
 - `lee-voice.md`
 - `ai-thinking-research.md`
 - `product-definition.md`
+- `proof-map.md`
+- `research-support.md`
 
 The working direction is becoming clearer. The book is arguing that AI is most
 valuable when it acts as a thinking partner that expands human agency,
@@ -123,9 +125,10 @@ project skill now exists at `skills/personal-empowerment-book.md`, and a
 project-specific reviewer now exists at `agents/human-empowerment-reviewer.md`.
 
 The `chapters/` directory still exists as an empty manuscript container. The
-remaining pre-draft support work is now mostly proof-layer normalization rather
-than concept formation. The next major move can be the Introduction once the
-story and research support maps are sharp enough.
+remaining pre-draft support work is now much narrower than before because the
+proof layer has been normalized into chapter-facing maps. The next major move
+can now be the Introduction and Part I draft sequence without having to
+rediscover which stories or research should carry each chapter.
 
 ---
 
@@ -144,16 +147,18 @@ story and research support maps are sharp enough.
 | `book-plan.md` is the canonical planning artifact for this workspace | Gives the book one strategy document instead of scattering structure across memory files | 2026-03-31 |
 | `book-plan.md` owns the canonical part structure for the manuscript | Prevents supporting docs from drifting into parallel structures | 2026-03-31 |
 | `thesis-brief.md` is the canonical argument-lock artifact for this workspace | Gives the book a compact source of truth for claim, wrong move, tension, and reader shift | 2026-03-31 |
+| `proof-map.md` is the canonical story-to-chapter proof planner | Keeps the manuscript from drifting into memoir or underproved chapter claims | 2026-03-31 |
+| `research-support.md` is the canonical research-to-chapter support planner | Separates strong support, cautions, and gaps before prose drafting | 2026-03-31 |
 
 ---
 
 ## Open Questions
 
 1. What is the best final subtitle?
-2. Which stories are strong enough to become anchor proofs in the manuscript?
-3. Which research claims are strong enough to feature prominently, and which
-   need caution or trimming?
-4. What chapter-level exercise pattern, if any, should repeat across the book?
+2. What chapter-level exercise pattern, if any, should repeat across the book?
+3. Does Chapter 10 need a stronger lived weakening story than the current proof
+   set provides?
+4. Does Chapter 6 need a cleaner learning-specific story?
 5. What final subtitle will still feel right after the Introduction is drafted?
 
 ---
@@ -162,10 +167,10 @@ story and research support maps are sharp enough.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Normalize the research memo into reusable claims and cautions | Lee + AI | Research can be cited or paraphrased without re-reading a giant block file |
-| 2 | Create a story-to-chapter proof map | Lee + AI | Anchor stories are matched to the planned chapters and their jobs |
-| 3 | Start the manuscript with the Introduction and Part I once the support artifacts are ready | Lee + AI | The writing phase begins from a stable plan rather than from improvisation |
-| 4 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
+| 1 | Draft the Introduction from the now-locked thesis, proof map, and research support map | Lee + AI | The opening chapter exists in prose without rediscovering the argument |
+| 2 | Draft Chapter 1 — You Are the Executive | Lee + AI | The Executive Model is proven in finished chapter form |
+| 3 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
+| 4 | Pressure-test whether Chapter 10 needs a stronger lived weakening story | Lee + AI | The risk chapter has vivid proof, not only warnings |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---

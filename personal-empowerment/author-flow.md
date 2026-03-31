@@ -198,6 +198,34 @@ log as part of the live method.
 
 ## Running Log
 
+## 2026-03-31 — Proof Was Split Into Story Weight and Research Weight
+
+Sprint 2 did not begin by drafting prose. It began by turning two large context
+files into two operational drafting artifacts:
+
+- `proof-map.md`
+- `research-support.md`
+
+What changed:
+
+- stories were ranked as anchor, supporting, or hold
+- each planned chapter was assigned a proof job before prose existed
+- research was normalized into strong support, moderate support, weak support,
+  original claims, and open gaps
+- the project stopped treating the research memo as a blob of "helpful facts"
+
+Why it matters:
+
+- AuthorFlow works better when lived proof and research proof are separated
+  before chapter drafting.
+- This keeps the manuscript from oscillating between memoir and study-dump.
+
+Method signal:
+
+- "proof" is not one thing
+- separate story weight from evidence weight before you draft or both will get
+  sloppy
+
 ## 2026-03-31 — Sync Pass Pulled the Source Documents Back Into Line
 
 After `positioning.md` and `framework-notes.md` sharpened the project, the

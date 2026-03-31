@@ -4,6 +4,36 @@
 
 ---
 
+## 2026-03-31 — Proof Map and Research Support Map Added
+
+Created two new drafting-control artifacts:
+
+- [proof-map.md](/Users/lee/projects/ai-coding-book/personal-empowerment/proof-map.md)
+- [research-support.md](/Users/lee/projects/ai-coding-book/personal-empowerment/research-support.md)
+
+The proof map now decides:
+
+- which Lee stories are anchor proofs
+- which stories should only support or add texture
+- which chapter each story is meant to carry
+- where the current story set still has gaps
+
+The research support map now decides:
+
+- which claims have strong, moderate, or weak support
+- which ideas are original book contributions rather than research claims
+- where the current memo carries real evidence versus caution-worthy material
+- which chapters should lean on research heavily and which should let lived
+  proof lead
+
+Why it matters:
+
+- Sprint 2 has now been turned into usable drafting controls rather than note
+  accumulation.
+- The manuscript can start from a proof-aware plan instead of pulling random
+  stories and studies into chapters.
+- The Introduction and Part I are now much closer to draft-ready.
+
 ## 2026-03-31 — Source Documents Synced Before Drafting
 
 Pulled the latest positioning and framework decisions back into the canonical

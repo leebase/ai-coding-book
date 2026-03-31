@@ -44,7 +44,7 @@ local AuthorFlow scaffold.
 
 ---
 
-## Sprint 1 — Book Plan and Concept Lock (ACTIVE 🔄)
+## Sprint 1 — Book Plan and Concept Lock (COMPLETE ✅)
 
 **Goal**: Convert the doctrine package into a clear book architecture that is
 ready to guide drafting.
@@ -81,7 +81,7 @@ ready to guide drafting.
 
 ---
 
-## Sprint 2 — Proof and Support Layer (PLANNED)
+## Sprint 2 — Proof and Support Layer (COMPLETE ✅)
 
 **Goal**: Turn the raw story and research package into a usable drafting layer.
 
@@ -89,18 +89,19 @@ ready to guide drafting.
 |------|--------|
 | Draft a Story Bank (`lee-stories.md`) | ✅ Done |
 | Draft a Research Support Memo (`ai-thinking-research.md`) | ✅ Done |
-| Identify anchor stories versus supporting stories | ⬜ Not started |
-| Mark strong claims, weak claims, and original claims | ⬜ Not started |
-| Record the biggest evidence gaps | ⬜ Not started |
-| Normalize the research memo into reusable sections | ⬜ Not started |
-| Create a story-to-chapter map | ⬜ Not started |
-| Create a research-to-chapter support map | ⬜ Not started |
+| Identify anchor stories versus supporting stories | ✅ Done |
+| Mark strong claims, weak claims, and original claims | ✅ Done |
+| Record the biggest evidence gaps | ✅ Done |
+| Normalize the research memo into reusable sections | ✅ Done |
+| Create a story-to-chapter map | ✅ Done |
+| Create a research-to-chapter support map | ✅ Done |
 
 ### Sprint 2 Deliverables
 
 - trimmed story bank with anchor stories called out
 - reusable research support map
 - list of evidence cautions and claims to handle carefully
+- chapter-facing proof map
 
 ### Sprint 2 Exit Criteria
 
@@ -111,7 +112,7 @@ ready to guide drafting.
 
 ---
 
-## Sprint 3 — Introduction and Part I Draft
+## Sprint 3 — Introduction and Part I Draft (ACTIVE 🔄)
 
 **Goal**: Draft the opening argument and the first four chapters that define
 the book's doctrine.
