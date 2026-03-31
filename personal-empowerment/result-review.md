@@ -4,6 +4,72 @@
 
 ---
 
+## 2026-03-31 — Chapter 3 Tightened From Review
+
+Revised
+[chapter-3-forge-dont-factory.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-3-forge-dont-factory.md)
+after chapter-level review feedback.
+
+The main tightening moves were:
+
+- replacing the slightly literary opening beat with plainer pressure language
+- moving the warning about elegant slop earlier into the chapter's logic
+- adding one concrete forge-scene detail from the real book-making process
+- making the friction section sound more confident and less pre-defensive
+- keeping `RBM` / `MoG` out of the chapter for now so Part I does not
+  overload itself too early
+
+Why it matters:
+
+- Chapter 3 now feels more lived-in without losing its handbook clarity.
+- Part I has a cleaner craft-discipline chapter to hand off into Chapter 4.
+
+## 2026-03-31 — Chapters 1 and 2 Tightened From Review
+
+Revised
+[chapter-1-you-are-the-executive.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-1-you-are-the-executive.md)
+and
+[chapter-2-think-in-stereo.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-2-think-in-stereo.md)
+after a chapter-level review pass.
+
+The main tightening moves were:
+
+- defining "executive" as a role, not a title
+- adding a light automation-bias / fluency-trust pulse to Chapter 1
+- sharpening the ownership section in Chapter 1 so it feels more like a scene
+  and less like a summary
+- replacing `synthetic confabulation` with simpler reader-facing language
+- threading the "faster is not the same as stronger" hinge back into Chapter 2
+- adding a stronger AI-facing bridge, a miniature before/after example, and a
+  privacy note to Chapter 2
+- varying the closing cadence so Part I does not start sounding mechanically
+  repetitive
+
+Why it matters:
+
+- Part I now has clearer chapter borders while still feeling cumulative.
+- The early doctrine chapters are more grounded, more readable, and more
+  obviously transferable to the reader's life.
+
+## 2026-03-31 — Chapter 3 Drafted
+
+Drafted
+[chapter-3-forge-dont-factory.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-3-forge-dont-factory.md).
+
+What the chapter now does:
+
+- draws a clean line between generated material and forged work
+- uses the fast-book-writing pattern as the anchor proof
+- teaches concrete pressure moves: narrow, contradict, rewrite, verify, extract
+- argues that some friction is formative rather than waste
+- adds an ordinary team-message example so the chapter stays practical
+
+Why it matters:
+
+- Part I now has its craft discipline chapter on the page.
+- The manuscript can move into `Expand, Don't Replace` with the authority,
+  dialogue, and forge layers already in place.
+
 ## 2026-03-31 — Introduction Tightened From External Review
 
 Revised

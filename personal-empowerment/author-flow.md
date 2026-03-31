@@ -198,6 +198,38 @@ log as part of the live method.
 
 ## Running Log
 
+## 2026-03-31 — Chapter 3 Review Tightened Craft Without Reopening Framework Design
+
+Once Part I had three chapters, the next review question changed again.
+
+It was no longer "Is the doctrine clear?"
+
+It was "Does the manuscript sound lived-in enough to earn the doctrine?"
+
+What changed:
+
+- Chapter 3 was tightened around concrete pressure rather than abstract process
+- one real beat from the book-making forge was added so the chapter proves
+  revision, not just recommends it
+- a good coined warning, `elegant slop`, was moved earlier because it named the
+  actual temptation more precisely than generic caution language
+- the review specifically did not trigger more framework inflation; `RBM` /
+  `MoG` were held back on purpose
+
+Why it matters:
+
+- this is a useful AuthorFlow lesson: once the framework stack is already
+  ranked, later review should improve texture and transferability more than it
+  expands terminology
+- the manuscript got sharper without the planning system getting noisier
+
+Method signal:
+
+- after concept lock, treat external review as a pressure tool for scene,
+  cadence, and proof density
+- not every good idea belongs in the current chapter just because a reviewer
+  can imagine it fitting there
+
 ## 2026-03-31 — The Introduction Was Drafted From the Proof Layer Instead of From Vibes
 
 ## 2026-03-31 — Chapter 1 Used Both a Lee Story and a Composite Reader Story
@@ -205,6 +237,34 @@ log as part of the live method.
 ## 2026-03-31 — Chapter 2 Turned a Phrase Into a Practice Loop
 
 ## 2026-03-31 — External Review Tightened the Prose and the Evidence Layer Together
+
+## 2026-03-31 — Early Chapter Review Helped Protect Part I From Blur
+
+Once the Introduction and first two chapters existed, the next risk was no
+longer weak concept. It was early-chapter repetition.
+
+What changed:
+
+- Chapter 1 was tightened around transferability and scene pressure
+- Chapter 2 was tightened around AI-facing proof and a concrete before/after
+  example
+- both chapters were nudged back toward the opening hinge so the Part I arc
+  stays cumulative instead of drifting sideways
+- Chapter 3 was drafted immediately after the revision pass instead of opening
+  another planning loop
+
+Why it matters:
+
+- this is what a healthy review cycle looks like once the book foundation is
+  real: less invention, more border protection between chapters
+- the manuscript stayed moving while still getting sharper
+
+Method signal:
+
+- once a book has a real spine, review should mostly protect distinction and
+  momentum
+- if a section gets tighter and the next chapter still gets drafted in the same
+  session, the workflow is probably healthy
 
 The latest review did not trigger a thesis rewrite. It triggered a targeted
 revision pass.

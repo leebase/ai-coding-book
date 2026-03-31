@@ -17,6 +17,11 @@ You are still the executive.
 
 The AI is still staff.
 
+By executive I do not mean a title.
+
+I mean the person who sets direction, defines success, reviews the work, and
+lives with the consequence.
+
 That is not an insult to the tool. It is the only way to use the tool without
 slowly giving away the part of yourself that is supposed to remain awake.
 
@@ -103,9 +108,16 @@ uncertainty. They still tell users what they want to hear too often. They are
 often more eager to satisfy than to resist. That means they can be useful and
 misleading in the same session.
 
+Research on automation bias helps explain why this matters. When a system
+sounds polished and confident, people lower their verification threshold. In
+AI, fluency can wear the mask of professionalism before the logic has actually
+earned your trust.
+
 If you forget that, you will overtrust the polish.
 
 If you remember it, you will use the polish as input rather than verdict.
+
+That is one more way AI can make you faster without making you stronger.
 
 ## The Executive Model in Practice
 
@@ -196,22 +208,15 @@ prompt.
 
 It had to do with ownership.
 
-I had built significant intellectual property: AgentFlow, books, systems,
-frameworks, operating patterns. Some of that could absolutely be used inside a
-company context. Some of it could create real value there. But there was a
-line I was not willing to lose.
+I had already built significant intellectual property: AgentFlow, books,
+systems, frameworks, operating patterns. When those became obviously useful in
+a company setting, the easy move would have been to let the line blur. Useful
+is persuasive. Once people can see value, they start acting as though access,
+use, and ownership are all basically the same thing.
+
+I did not want that line to blur.
 
 The line was authorship and ownership.
-
-That is the part people get casual about when new leverage shows up.
-
-They start thinking:
-
-- if the work is useful, maybe ownership is less important
-- if the company benefits, maybe the boundary can blur
-- if AI accelerates creation, maybe creation itself is now cheap
-
-I do not believe that.
 
 Creation is abundant.
 
@@ -221,13 +226,22 @@ That is the difference.
 
 So the decision was not "never use what I know."
 
-The decision was "use what is useful without giving away what must remain
-mine."
+It was:
+
+use what is useful
+
+without casually handing over what must remain mine.
 
 That is an executive posture.
 
-The point here is bigger than employment or contracts. The point is that new
-leverage tends to blur boundaries unless the human draws them on purpose.
+That is the scene.
+
+New leverage was in the room. Real value was in the room. And the question was
+whether usefulness would quietly become surrender by default.
+
+It did not.
+
+Because the boundary was drawn on purpose.
 
 The AI can help you create.
 
@@ -323,8 +337,8 @@ It is what happens when convenience becomes authority by default.
 And once that happens, several failure modes show up fast:
 
 - automation bias: you trust the answer because it arrived with confidence
-- synthetic confabulation: the model invents or smooths over what it does not
-  know
+- confident invention: the model makes things up or smooths over what it does
+  not know
 - sycophancy: the model agrees with your framing instead of challenging it
 - authorship drift: the words are on the page, but they are no longer fully
   yours
@@ -445,6 +459,4 @@ very capacities you were hoping to expand.
 
 You are the executive.
 
-That is not a slogan.
-
-It is the first protection.
+Keep that line clear and the rest of your AI practice gets healthier fast.

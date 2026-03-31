@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; proof map and research support map added; Introduction and Chapters 1-2 drafted; Part I drafting in progress |
+| **Status** | Concept package locked; Introduction and Chapters 1-3 drafted; Chapters 1-3 tightened from review; Part I drafting in progress |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -127,16 +127,31 @@ project-specific reviewer now exists at `agents/human-empowerment-reviewer.md`.
 The manuscript is no longer empty. The opening chapter now exists at
 `chapters/introduction-this-is-not-about-going-faster.md`, and Chapter 1 now
 exists at `chapters/chapter-1-you-are-the-executive.md`. Chapter 2 now exists
-at `chapters/chapter-2-think-in-stereo.md`.
+at `chapters/chapter-2-think-in-stereo.md`. Chapter 3 now exists at
+`chapters/chapter-3-forge-dont-factory.md`.
 
 The proof layer did its job: the Introduction was drafted from the locked
 thesis, proof map, and research support map instead of improvising from a pile
 of notes. Chapter 1 was then drafted directly from the Executive Model, the
 ownership story, the research caution layer, and the modest manager composite.
 Chapter 2 was then drafted from the Devin-class story, the externalized
-thinking principle, and a first practical dialogue loop. The next major move is
-Chapter 3, `Forge, Don't Factory`, while the Part I doctrine sequence is still
-warm.
+thinking principle, and a first practical dialogue loop.
+
+The latest refinement pass tightened Chapters 1 through 3 against external
+review:
+
+- Chapter 1 now defines "executive" as a role, not a title
+- Chapter 1 has a clearer automation-bias / fluency-trust pulse and a more
+  concrete ownership scene
+- Chapter 2 now threads the faster-vs-stronger hinge explicitly
+- Chapter 2 has a stronger AI-facing bridge, a miniature before/after example,
+  and a privacy note
+- Chapter 3 now has a plainer opening, a more concrete forge-scene beat, and a
+  stronger early warning against elegant slop
+
+Chapter 3, `Forge, Don't Factory`, is now materially stronger and ready for the
+same commit/push rhythm as the earlier Part I chapters. The next major move is
+Chapter 4 while Part I is still warm.
 
 ---
 
@@ -176,7 +191,7 @@ warm.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft Chapter 3 — Forge, Don't Factory | Lee + AI | The craft discipline is proven in finished chapter form |
+| 1 | Commit and push the latest Part I review pass | Lee + AI | The refined Chapter 3 and synced memory docs are safely published |
 | 2 | Draft Chapter 4 — Expand, Don't Replace | Lee + AI | The amplification-vs-replacement distinction exists in finished chapter form |
 | 3 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
 | 4 | Pressure-test whether Chapter 10 needs a stronger lived weakening story | Lee + AI | The risk chapter has vivid proof, not only warnings |

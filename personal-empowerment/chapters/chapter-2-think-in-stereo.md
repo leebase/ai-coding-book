@@ -12,6 +12,10 @@ That works for retrieval.
 
 It is weak for thinking.
 
+It may make you faster.
+
+It will not necessarily make you stronger.
+
 Because thinking usually does not arrive finished.
 
 It arrives partial.
@@ -147,6 +151,11 @@ Because it becomes part of the working surface your brain can use.
 
 That is how to understand this chapter.
 
+This is not just a poetic way of talking. Research on distributed cognition and
+other external-thinking models points in the same direction: thought often gets
+better when it can move onto a surface that can be inspected, challenged, and
+reworked.
+
 You are not outsourcing thought.
 
 You are expanding the surface on which thought can happen.
@@ -165,53 +174,26 @@ The real skill is:
 
 stay alive inside the dialogue.
 
+You are still the executive inside the conversation.
+
 ## Lee in the Field
 
-I have seen this most clearly in settings where the easier move would have been
-silence.
+I learned this long before I used AI for it.
 
-One small but revealing example was a church class with a strong leader, real
-content, and a dynamic that made over-speaking easy to do badly.
+One small but revealing example was a church class where I could feel the real
+question forming before I could say it cleanly. I did not want to dominate the
+room. I also did not want to hide behind politeness if something true needed to
+be said out loud.
 
-I could feel several tensions at once.
+What mattered in that moment was not perfect phrasing.
 
-- I had real thoughts.
-- I did not want to dominate the room.
-- I wanted to support the leader.
-- I also did not want to hide behind politeness if something true needed to be
-  said out loud.
+It was that the thought got sharper once it entered interaction.
 
-That is a familiar kind of moment for me.
+That is the bridge to AI.
 
-Not because the setting was special.
-
-Because the dynamic is common: you are thinking live, you are calibrating, and
-you are trying to decide whether the next thing should stay internal or be
-brought into the room.
-
-What mattered was not perfect delivery.
-
-What mattered was that truth got sharper in interaction.
-
-That is the point.
-
-Not all clarity arrives in solitude.
-
-Sometimes the act of saying the thing is what lets the thing become more fully
-itself.
-
-That is true in human conversation.
-
-It is also true in good AI dialogue.
-
-A lot of people think they should wait until the thought is finished before
-they speak or type it.
-
-I think the opposite is often more useful.
-
-Bring the thought out while it still has edges on it.
-
-Now it can be worked.
+Good AI dialogue gives unfinished thought the same kind of working surface. You
+bring it out with edges still on it, and now it can be tested instead of merely
+looped.
 
 ## The Wrong Way to Use Dialogue
 
@@ -334,6 +316,28 @@ The clarified thought.
 
 That is a usable first loop.
 
+Here is a tiny version of what that can look like:
+
+rough thought:
+
+"I think this issue matters, but I still cannot tell what the hinge is."
+
+AI response:
+
+"Maybe the real issue is not the topic itself but the hidden assumption under
+it."
+
+pushback:
+
+"Closer, but make it less abstract. What assumption would actually make the
+whole thing wobble?"
+
+clarified line:
+
+"The problem is not the tool. The problem is where I quietly stopped thinking."
+
+That is the kind of move this chapter is after.
+
 ## A More Ordinary Example
 
 Say you are trying to decide whether to stay in a role that still looks fine on
@@ -403,6 +407,9 @@ Your job is not to bring the AI a finished mind.
 
 Your job is to bring it a real one.
 
+If the material is sensitive, anonymize the details or practice the pattern on
+lower-risk material first.
+
 ## Do This Now
 
 Open your AI tool and give it one unfinished thought.
@@ -450,6 +457,5 @@ That is how dialogue becomes a thinking tool instead of a dependency habit.
 
 Think in Stereo.
 
-That is not a slogan either.
-
-It is a way of making unfinished thought strong enough to work with.
+It is one of the fastest ways to turn fuzzy thought into something strong
+enough to use.
