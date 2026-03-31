@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; proof map and research support map added; manuscript drafting still ahead |
+| **Status** | Concept package locked; proof map and research support map added; Introduction drafted; Part I drafting in progress |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -124,11 +124,13 @@ The live methodology log for the book is in `author-flow.md`. A dedicated
 project skill now exists at `skills/personal-empowerment-book.md`, and a
 project-specific reviewer now exists at `agents/human-empowerment-reviewer.md`.
 
-The `chapters/` directory still exists as an empty manuscript container. The
-remaining pre-draft support work is now much narrower than before because the
-proof layer has been normalized into chapter-facing maps. The next major move
-can now be the Introduction and Part I draft sequence without having to
-rediscover which stories or research should carry each chapter.
+The manuscript is no longer empty. The opening chapter now exists at
+`chapters/introduction-this-is-not-about-going-faster.md`.
+
+The proof layer did its job: the Introduction was drafted from the locked
+thesis, proof map, and research support map instead of improvising from a pile
+of notes. The next major move is Chapter 1, `You Are the Executive`, while the
+Part I doctrine sequence is still warm.
 
 ---
 
@@ -154,12 +156,13 @@ rediscover which stories or research should carry each chapter.
 
 ## Open Questions
 
-1. What is the best final subtitle?
+1. What is the best final subtitle now that the Introduction exists?
 2. What chapter-level exercise pattern, if any, should repeat across the book?
 3. Does Chapter 10 need a stronger lived weakening story than the current proof
    set provides?
 4. Does Chapter 6 need a cleaner learning-specific story?
-5. What final subtitle will still feel right after the Introduction is drafted?
+5. How hard should the Introduction lean on explicit research language versus
+   keeping the support mostly implicit?
 
 ---
 
@@ -167,8 +170,8 @@ rediscover which stories or research should carry each chapter.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft the Introduction from the now-locked thesis, proof map, and research support map | Lee + AI | The opening chapter exists in prose without rediscovering the argument |
-| 2 | Draft Chapter 1 — You Are the Executive | Lee + AI | The Executive Model is proven in finished chapter form |
+| 1 | Draft Chapter 1 — You Are the Executive | Lee + AI | The Executive Model is proven in finished chapter form |
+| 2 | Draft Chapter 2 — Think in Stereo | Lee + AI | The book's co-thinking pattern exists in finished chapter form |
 | 3 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
 | 4 | Pressure-test whether Chapter 10 needs a stronger lived weakening story | Lee + AI | The risk chapter has vivid proof, not only warnings |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |

@@ -4,6 +4,27 @@
 
 ---
 
+## 2026-03-31 — Introduction Drafted
+
+Drafted the manuscript opening at
+[introduction-this-is-not-about-going-faster.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/introduction-this-is-not-about-going-faster.md).
+
+What the draft now does:
+
+- opens with ordinary personal-AI convenience wins rather than abstract theory
+- lands the hinge that AI can make a person faster without making them stronger
+- frames the book as a human-development question rather than a tools book
+- uses Lee's own range expansion as proof without letting the Introduction
+  collapse into memoir
+- explains the handbook promise, audience, and reading posture
+
+Why it matters:
+
+- Sprint 3 has now started in actual prose.
+- The argument has been pressure-tested on the page, not only in planning
+  artifacts.
+- Chapter 1 can now draft against a real opening instead of an imagined one.
+
 ## 2026-03-31 — Proof Map and Research Support Map Added
 
 Created two new drafting-control artifacts:

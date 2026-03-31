@@ -198,6 +198,32 @@ log as part of the live method.
 
 ## Running Log
 
+## 2026-03-31 — The Introduction Was Drafted From the Proof Layer Instead of From Vibes
+
+The first manuscript prose did not start from a blank page and a vague sense of
+the thesis. It started after the proof map and research support map existed.
+
+What changed:
+
+- the opening hinge was already locked before prose began
+- the lived proof for the Introduction had already been chosen
+- research was used as pressure and credibility support, not as source-dump
+  material
+- the draft could focus on rhythm, reader tension, and argument movement
+
+Why it matters:
+
+- AuthorFlow is supposed to make drafting easier, not slower.
+- This is the first proof in this book that the artifact stack is actually
+  reducing drafting ambiguity.
+
+Method signal:
+
+- if the planning artifacts are doing their job, the first prose draft should
+  feel directed rather than exploratory
+- a good proof layer changes the quality of the prose, not just the order of
+  the files
+
 ## 2026-03-31 — Proof Was Split Into Story Weight and Research Weight
 
 Sprint 2 did not begin by drafting prose. It began by turning two large context
