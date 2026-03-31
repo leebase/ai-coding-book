@@ -13,6 +13,8 @@
 - Research should support the book's argument, not replace its lived proof.
 - Do not let a vivid statistic become doctrine until the exact source is
   verified and the study design is understood.
+- Do not put numeric claims into chapter prose until the exact primary source
+  is locked.
 - Separate empirical support from analytical framing and opinion writing.
 - Mark where the manuscript is making an inference beyond the sources.
 - Prefer a few credible supports per chapter over a pile of weakly related
@@ -28,15 +30,19 @@ These are the safest themes to lean on once exact source checks are done.
 
 1. **Cognitive offloading can weaken engagement and critical thinking**
    - support type: empirical plus analytical
+   - source readiness: primary verified
    - use for: Introduction, Chapter 6, Chapter 10
 2. **Extended / distributed cognition gives a credible frame for thinking with tools**
    - support type: analytical / theoretical
+   - source readiness: conceptual / theoretical
    - use for: Chapter 2, Chapter 11
 3. **AI systems can become sycophantic, over-compliant, and overtrusted**
    - support type: analytical plus product-observation
+   - source readiness: good secondary / practitioner pattern
    - use for: Chapter 10
 4. **AI collaboration can increase volume without reliably increasing originality**
    - support type: empirical
+   - source readiness: good secondary, primary re-check needed
    - use for: Chapter 3, Chapter 9
 
 ### Moderate Support
@@ -45,16 +51,20 @@ These are usable, but should be framed carefully.
 
 1. **People are increasingly using AI for cognitive work, not just automation**
    - support type: usage analysis
+   - source readiness: good secondary
    - use for: Introduction, Chapter 2
 2. **AI can help with reflection, mental-health-adjacent support, and therapeutic alliance**
    - support type: early empirical plus design literature
+   - source readiness: mixed, primary re-check needed
    - use for: Chapter 7
    - caution: support is not the same as substitution for therapy or clinical care
 3. **Dialectical, adversarial, and role-based prompting can produce better thought**
    - support type: analytical / practitioner pattern
+   - source readiness: practitioner pattern
    - use for: Chapter 2, Chapter 11
 4. **Developmental foreclosure is a real concern for children and adolescents**
    - support type: analytical / expert warning
+   - source readiness: conceptual / expert warning
    - use for: Chapter 7, Chapter 10
 
 ### Weak / Use Sparingly
@@ -378,6 +388,18 @@ atrophy of judgment, learning, and self-governance.
    discussion needs careful framing.
 4. Several examples in the current memo are useful illustrations but not strong
    enough to function as central evidence.
+
+---
+
+## Standing Boundary Note
+
+Use this plain-language caution in the Introduction and any high-stakes chapter
+where the manuscript moves into personal, medical, therapeutic, or spiritual
+territory:
+
+AI may assist reflection, research, preparation, and framing. It cannot replace
+accountable relationships, clinicians, conscience, or careful handling of
+private and sensitive information.
 
 ---
 

@@ -4,6 +4,34 @@
 
 ---
 
+## 2026-03-31 — Introduction Tightened From External Review
+
+Revised
+[introduction-this-is-not-about-going-faster.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/introduction-this-is-not-about-going-faster.md)
+after an editorial review pass.
+
+The main changes were:
+
+- compressing repeated hinge language
+- making the personal proof section obey the proof map more closely by centering
+  the forge pattern
+- adding one light research pulse near the hinge
+- adding a clear recurring boundary sentence for high-stakes domains
+- replacing the "more dangerous" line with a broader, safer capability line
+- strengthening the final bridge into Chapter 1
+
+Also updated
+[research-support.md](/Users/lee/projects/ai-coding-book/personal-empowerment/research-support.md)
+to add source-readiness labels, a hard no-numerics-before-primary-verification
+rule, and a standing boundary note for high-stakes chapters.
+
+Why it matters:
+
+- The Introduction is now sharper, more trustworthy, and more tightly aligned
+  with the proof system.
+- The research memo is more usable during drafting because confidence and
+  source readiness are no longer mixed together.
+
 ## 2026-03-31 — Chapter 2 Drafted
 
 Drafted

@@ -96,10 +96,15 @@ Those can overlap, but they do not automatically overlap.
 
 That distinction matters more than most people realize.
 
-Early research is already pointing at the tension. People can use AI and
-perform better while learning less. They can offload more thinking while
-mistaking fluency for understanding. They can accept smooth output without
-noticing that their own judgment is getting less exercised.
+Recent research is already pointing at the same tension. Survey work on
+knowledge workers has found that higher confidence in AI is associated with
+less critical thinking effort, and other studies are linking frequent AI use,
+cognitive offloading, and weaker critical-thinking performance. The exact
+numbers matter less here than the pattern.
+
+People can use AI and perform better while learning less. They can offload more
+thinking while mistaking fluency for understanding. They can accept smooth
+output without noticing that their own judgment is getting less exercised.
 
 That does not mean AI is bad.
 
@@ -128,17 +133,15 @@ What AI changed was not just throughput.
 
 It changed range.
 
-It helped me write books faster, yes, but that is not the interesting part. The
-interesting part is that the books did not come from pressing a button and
-accepting whatever spilled out. They came from pressure, iteration, naming,
+The clearest example was not one isolated output. It was the forge itself: an
+ongoing pattern of using AI dialogue to turn unfinished thinking into books,
+systems, and clearer expression through pressure, iteration, naming,
 refinement, argument, and structure. The speed came from process. The quality
 came from staying in the work.
 
-It helped me articulate theology I had been wrestling with for years. It helped
-me create music in a domain where interest had long outrun execution. It helped
-me think through parenting questions with more patience and better framing. It
-helped me explore health questions more broadly while keeping responsibility in
-my own hands.
+That same pattern later widened into other domains too: theology, music,
+parenting, health. But the core thing was the forge. The relationship changed
+what I could do with unfinished thought.
 
 In other words, it did not replace me.
 
@@ -262,6 +265,11 @@ That means insight, authorship, taste, risk, weakening, dependency,
 sycophancy, and the temptation to outsource too much of the exact struggle that
 builds discernment.
 
+It also means keeping one boundary clear from the start: AI may assist
+reflection, research, preparation, and framing. It does not replace
+accountable human judgment in intimate, medical, therapeutic, or spiritual
+matters.
+
 Then we will close by turning all of it into practice.
 
 Because a handbook should leave you with something you can use, not just
@@ -304,9 +312,8 @@ I am optimistic about AI.
 
 Not in the shallow sense.
 
-I am optimistic because I think it can help people become more dangerous in the
-best sense of that word: more able to see, think, articulate, create, decide,
-and act.
+I am optimistic because I think it can help people become more capable: more
+able to see, think, articulate, create, decide, and act.
 
 I think it can help people become more themselves, not less.
 
@@ -336,3 +343,9 @@ This book is not about going faster.
 It is about becoming more capable.
 
 And if we do this right, that means becoming more of yourself, not less.
+
+To use AI well, the first line you have to keep clear is simple:
+
+help is not authority.
+
+You are still the executive.

@@ -204,6 +204,30 @@ log as part of the live method.
 
 ## 2026-03-31 — Chapter 2 Turned a Phrase Into a Practice Loop
 
+## 2026-03-31 — External Review Tightened the Prose and the Evidence Layer Together
+
+The latest review did not trigger a thesis rewrite. It triggered a targeted
+revision pass.
+
+What changed:
+
+- the Introduction was compressed instead of expanded
+- the proof section was pulled closer to the proof map
+- one research pulse was added near the hinge instead of scattering evidence
+  throughout the opening
+- the research support map gained source-readiness labels in addition to
+  confidence labels
+
+Why it matters:
+
+- good external review often sharpens execution, not just ideas
+- this kept the book moving forward without reopening major concept discovery
+
+Method signal:
+
+- once the foundation is real, use outside review to tighten manuscript
+  discipline, not to restart worldview design
+
 `Think in Stereo` could easily have stayed a good phrase.
 
 The chapter draft forced it to become a repeatable move.
