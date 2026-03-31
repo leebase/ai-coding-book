@@ -6,6 +6,63 @@
 
 ---
 
+## 2026-03-31 — Personal Empowerment Memory Sync and Book-Specific Tooling Added
+
+Synced the local memory for
+[personal-empowerment/](/Users/lee/projects/ai-coding-book/personal-empowerment)
+to reflect the actual book package rather than the original empty scaffold.
+
+The local book docs now explicitly track the added doctrine, stories, voice,
+research package, and the RBM / MoG distinction is now locked in the live
+workspace:
+
+- `RBM` = AI-side emergence
+- `MoG` = human-side genius
+
+Also added reusable book-specific tooling:
+
+- [skills/personal-empowerment-book.md](/Users/lee/projects/ai-coding-book/skills/personal-empowerment-book.md)
+- [agents/human-empowerment-reviewer.md](/Users/lee/projects/ai-coding-book/agents/human-empowerment-reviewer.md)
+
+Why it matters:
+
+- Future sessions can orient to the real state of the book quickly.
+- The workspace now has project-specific doctrine and review guardrails instead
+  of depending only on the generic AuthorFlow roles.
+
+## 2026-03-31 — Personal Empowerment AuthorFlow Workspace Created
+
+Created the new standalone book workspace at
+[personal-empowerment/](/Users/lee/projects/ai-coding-book/personal-empowerment)
+for *The Personal Empowerment with AI Handbook*.
+
+Seeded the core AuthorFlow files using the newest local standalone-book pattern
+from `business-growth-playbook/`, then adapted them for a fresh book start:
+
+- [personal-empowerment/author-flow.md](/Users/lee/projects/ai-coding-book/personal-empowerment/author-flow.md)
+- [personal-empowerment/context.md](/Users/lee/projects/ai-coding-book/personal-empowerment/context.md)
+- [personal-empowerment/result-review.md](/Users/lee/projects/ai-coding-book/personal-empowerment/result-review.md)
+- [personal-empowerment/sprint-plan.md](/Users/lee/projects/ai-coding-book/personal-empowerment/sprint-plan.md)
+
+Also created the empty manuscript container at
+[personal-empowerment/chapters/](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters).
+
+Why it matters:
+
+- The book now has its own memory and planning trail inside the repo.
+- Future AuthorFlow work can start from the current scaffold instead of
+  reconstructing it later.
+
+### How to Verify
+
+1. Confirm the directory exists:
+   - `find personal-empowerment -maxdepth 2 -print | sort`
+2. Read the seeded docs:
+   - [personal-empowerment/author-flow.md](/Users/lee/projects/ai-coding-book/personal-empowerment/author-flow.md)
+   - [personal-empowerment/context.md](/Users/lee/projects/ai-coding-book/personal-empowerment/context.md)
+   - [personal-empowerment/result-review.md](/Users/lee/projects/ai-coding-book/personal-empowerment/result-review.md)
+   - [personal-empowerment/sprint-plan.md](/Users/lee/projects/ai-coding-book/personal-empowerment/sprint-plan.md)
+
 ## 2026-03-20 — Book 1 Claude Code Edition Generator and First Generated Manuscript
 
 **Created a reusable Book 1 edition pipeline** instead of doing a one-off rewrite. The repo now has a generator at [scripts/generate_book1_edition.py](/Users/lee/projects/ai-coding-book/scripts/generate_book1_edition.py), harness profiles in [edition-profiles/](/Users/lee/projects/ai-coding-book/edition-profiles/README.md), a live Claude Code profile at [edition-profiles/claude-code.json](/Users/lee/projects/ai-coding-book/edition-profiles/claude-code.json), and a Cortex scaffold profile at [edition-profiles/cortex.json](/Users/lee/projects/ai-coding-book/edition-profiles/cortex.json).

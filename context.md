@@ -12,7 +12,7 @@
 | **Series** | Main arc: 3 books. Standalone environment primer tracked separately. |
 | **Phase** | Book 1: Complete. Book 2: Complete. Standalone environment primer: Complete and rebuilt from final revised sources. Main-arc Book 3: Planned. |
 | **Mode** | 2 (Collaborative) |
-| **Last Updated** | 2026-03-20 |
+| **Last Updated** | 2026-03-31 |
 
 ### Sprint Status
 | Sprint | Status | Completion |
@@ -39,6 +39,11 @@
 
 ### Series Status
 Book 1 and Book 2 are complete and published. The standalone environment primer is also complete and rebuilt from its revised source set. The main-arc Book 3 is still ahead of us.
+
+A new standalone AuthorFlow workspace now also exists at
+`personal-empowerment/` for *The Personal Empowerment with AI Handbook*. It now
+includes doctrine, story, voice, research, and book-planning materials, and
+its local memory has been synced to that fuller state.
 
 ### Book 1 — The AI-Era Developer (complete)
 - ✅ All 16 chapters (14 + Introduction + Conclusion)
