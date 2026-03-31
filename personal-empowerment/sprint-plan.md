@@ -61,7 +61,7 @@ ready to guide drafting.
 | Clarify the primary audience | ✅ Done (working decision) |
 | Draft the working chapter architecture | ✅ Done |
 | Draft a Thesis Brief artifact | ✅ Done |
-| Draft a dedicated positioning artifact | ⬜ Not started |
+| Draft a dedicated positioning artifact | ✅ Done |
 | Draft a dedicated framework-notes artifact | ⬜ Not started |
 | Decide whether the title needs a subtitle | ⬜ Not started |
 
@@ -236,8 +236,6 @@ the book's doctrine.
 
 ## Working Backlog
 
-- write the dedicated thesis brief and positioning artifacts that the current
-  plan still depends on
 - test subtitle options against the actual chapter architecture
 - identify which chapters most need research support versus lived proof
 - decide whether any chapter should include a recurring exercise format

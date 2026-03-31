@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Book plan and thesis brief in place; positioning, framework notes, and manuscript drafting still ahead |
+| **Status** | Book plan, thesis brief, and positioning in place; framework notes and manuscript drafting still ahead |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -29,6 +29,10 @@ The newest argument-lock artifact is:
 
 - `thesis-brief.md`
 
+The newest market-and-reader artifact is:
+
+- `positioning.md`
+
 It now captures:
 
 - the book's role in the handbook series
@@ -46,6 +50,14 @@ The thesis brief now sharpens:
 - the reader shift
 - the Empowerment Loop as connective tissue
 - the credibility burden of the risk chapter
+
+The positioning notes now sharpen:
+
+- the center-of-gravity reader
+- the current subtitle direction
+- the trilogy relationship
+- the front-stage promise of the book
+- which frameworks should lead and which should stay deeper in the manuscript
 
 The supporting package remains:
 
@@ -91,9 +103,9 @@ project skill now exists at `skills/personal-empowerment-book.md`, and a
 project-specific reviewer now exists at `agents/human-empowerment-reviewer.md`.
 
 The `chapters/` directory still exists as an empty manuscript container. The
-remaining planning artifacts to add are positioning notes and framework notes
-so the manuscript can begin from sharper supporting documents rather than from
-the chapter list alone.
+remaining planning artifact to add before manuscript drafting is
+`framework-notes.md`, so the manuscript can begin from sharper supporting
+documents rather than from the chapter list alone.
 
 ---
 
@@ -117,7 +129,8 @@ the chapter list alone.
 ## Open Questions
 
 1. What is the best final subtitle?
-2. Which framework candidates deserve their own supporting artifact next?
+2. Which framework candidates deserve front-stage status in the manuscript and
+   which should stay supporting?
 3. Which stories are strong enough to become anchor proofs in the manuscript?
 4. Which research claims are strong enough to feature prominently, and which
    need caution or trimming?
@@ -129,11 +142,11 @@ the chapter list alone.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft positioning notes and settle subtitle options | Lee + AI | The book can be described cleanly and marketed without drifting into prompt-book language |
-| 2 | Draft framework notes from the current concept spine | Lee + AI | The leading concepts have distinct jobs and enough shape to guide chapters |
-| 3 | Normalize the research memo into reusable claims and cautions | Lee + AI | Research can be cited or paraphrased without re-reading a giant block file |
-| 4 | Start the manuscript with the Introduction and Part I once the support artifacts are ready | Lee + AI | The writing phase begins from a stable plan rather than from improvisation |
-| 5 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
+| 1 | Draft framework notes from the current concept spine | Lee + AI | The leading concepts have distinct jobs and enough shape to guide chapters |
+| 2 | Normalize the research memo into reusable claims and cautions | Lee + AI | Research can be cited or paraphrased without re-reading a giant block file |
+| 3 | Start the manuscript with the Introduction and Part I once the support artifacts are ready | Lee + AI | The writing phase begins from a stable plan rather than from improvisation |
+| 4 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
+| 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---
 

@@ -90,7 +90,6 @@ Current working answer:
 Likely next artifacts:
 
 - framework notes
-- positioning notes
 - story-to-chapter map
 - research-to-chapter map
 - chapter drafts
@@ -199,6 +198,31 @@ log as part of the live method.
 ---
 
 ## Running Log
+
+## 2026-03-31 — Positioning Was Split Off From Thesis and Structure
+
+A dedicated `positioning.md` was added after the thesis brief and book plan
+were already in place.
+
+What it clarified:
+
+- the center-of-gravity reader
+- the current subtitle direction
+- the short-pitch and back-cover promise
+- which concepts belong in the front-stage promise and which should stay deeper
+  in the manuscript
+
+Why it matters:
+
+- This keeps the project from making the thesis document do marketing work and
+  from making the structure document do audience work.
+- It also keeps title pressure visible without forcing premature title lock.
+
+Method signal:
+
+- In AuthorFlow, positioning deserves its own artifact.
+- A strong book often needs a separate document for audience center, title
+  pressure, and front-stage promise even after the thesis is already clear.
 
 ## 2026-03-31 — Lee Context Docs and Research Were Made Explicit Parts of the Method
 

@@ -139,6 +139,31 @@ Why it matters:
 - That makes the future AuthorFlow writeup much more usable because the input
   layers are now visible, not implied.
 
+## 2026-03-31 — Positioning Artifact Drafted
+
+Created
+[positioning.md](/Users/lee/projects/ai-coding-book/personal-empowerment/positioning.md)
+as the first remaining Sprint 1 artifact.
+
+This file now sharpens:
+
+- the center-of-gravity reader
+- the current subtitle direction
+- the trilogy relationship
+- the front-stage promise of the book
+- which frameworks should lead the positioning and which should stay deeper in
+  the manuscript
+
+It also keeps the title open on purpose instead of pretending the current title
+is already inevitable.
+
+Why it matters:
+
+- The project now has a cleaner reader-and-market artifact separate from the
+  thesis and structure docs.
+- The manuscript can start from a sharper promise and a narrower reader center.
+- `RBM` / `MoG` now have a more disciplined place in the overall positioning.
+
 ## 2026-03-31 — Book Plan Added and Sprint Roadmap Expanded
 
 Created the canonical strategic plan for the book at
