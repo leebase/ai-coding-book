@@ -108,8 +108,8 @@ This book is meant to fill that gap with a handbook, not a hack list.
 
 ### Primary Reader
 
-The primary reader is a thoughtful adult who is curious about AI, not afraid of
-it, and wants to use it to become more capable in life and work.
+The primary reader is a reflective working adult whose life extends beyond work
+and who already senses that convenience may be outpacing growth.
 
 The center-of-gravity reader is someone who already feels the tension:
 
@@ -260,7 +260,33 @@ This book shows what that same doctrine means inside an actual human life.
 
 These are the leading candidates for the book's conceptual spine.
 
-### 1. The Executive Model
+The canonical front-stage stack is:
+
+1. `AI as Thinking Partner`
+2. `The Executive Model`
+3. `Think in Stereo`
+4. `The Empowerment Loop`
+
+`Forge, Don't Factory` remains a major craft discipline inside that stack rather
+than a cover-level pillar. `RBM` / `MoG` stay deeper until the manuscript earns
+them.
+
+### 1. AI as Thinking Partner
+
+**Role:** central reframe
+
+AI is most useful when it functions as a thinking partner in process rather
+than as a vending machine for answers.
+
+This framework anchors:
+
+- co-thinking
+- clarification
+- testing
+- refinement
+- capability growth instead of mere assistance
+
+### 2. The Executive Model
 
 **Role:** control and responsibility framework
 
@@ -277,7 +303,7 @@ This framework anchors:
 - quality control
 - authorship
 
-### 2. Think in Stereo
+### 3. Think in Stereo
 
 **Role:** core practice of externalized thinking
 
@@ -290,30 +316,31 @@ This framework anchors:
 - reflective dialogue
 - clarification through interaction
 
-### 3. Forge, Don't Factory
+### 4. The Empowerment Loop
 
-**Role:** anti-slop and anti-one-shot framework
+**Role:** operating loop for repeated use
+
+Visual shorthand:
+
+1. Notice tension
+2. Engage AI
+3. Refine
+4. Extract insight
+5. Apply
+6. Repeat and expand
+
+Fuller language such as "think out loud" and "expand self" can stay inside the
+chapter prose and examples rather than overloading the diagram.
+
+### 5. Forge, Don't Factory
+
+**Role:** main craft discipline
 
 The point is not to press a button and accept what comes out.
 
 The point is to pressure, refine, test, and shape.
 
-### 4. The Empowerment Loop
-
-**Role:** operating loop for repeated use
-
-Current working sequence:
-
-1. Notice tension
-2. Engage AI
-3. Think out loud
-4. Refine
-5. Extract insight
-6. Apply
-7. Repeat
-8. Expand self
-
-### 5. RBM and MoG
+### 6. RBM and MoG
 
 **Role:** authorship and originality language
 
@@ -391,6 +418,10 @@ Optional supporting elements when useful:
 ---
 
 ## Working Book Architecture
+
+This section is the canonical owner of the book's part structure. Supporting
+documents should align to this structure unless an explicit planning decision
+updates them together.
 
 ### Introduction — This Is Not About Going Faster
 

@@ -129,8 +129,8 @@ default culture.
 
 ### Primary Reader
 
-A thoughtful everyday adult who is curious about AI and wants practical
-personal empowerment, not hype.
+A reflective working adult whose life extends beyond work and who already
+senses that convenience may be outpacing growth.
 
 They may be:
 
@@ -233,16 +233,17 @@ authorship, and originality.
 This is the connective tissue of the handbook, especially in the middle
 chapters.
 
-Working sequence:
+Visual shorthand:
 
 1. Notice tension
 2. Engage AI
-3. Think out loud
-4. Refine
-5. Extract insight
-6. Apply
-7. Repeat
-8. Expand self
+3. Refine
+4. Extract insight
+5. Apply
+6. Repeat and expand
+
+Fuller language such as "think out loud" and "expand self" can stay in the
+chapter prose and exercises.
 
 If Chapters 5-8 start feeling like isolated use cases, the loop should be used
 to reconnect them.

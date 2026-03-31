@@ -4,6 +4,27 @@
 
 ---
 
+## 2026-03-31 — Source Documents Synced Before Drafting
+
+Pulled the latest positioning and framework decisions back into the canonical
+source documents before manuscript drafting begins.
+
+The main sync moves were:
+
+- aligning [book-plan.md](/Users/lee/projects/ai-coding-book/personal-empowerment/book-plan.md) to the current front-stage framework stack
+- standardizing the center-of-gravity reader language across the package
+- simplifying the Empowerment Loop into a cleaner visual shorthand while
+  keeping the richer wording available in prose
+- making [book-plan.md](/Users/lee/projects/ai-coding-book/personal-empowerment/book-plan.md) explicit owner of the canonical part structure
+- making prompt patterns optional in [product-definition.md](/Users/lee/projects/ai-coding-book/personal-empowerment/product-definition.md) so the handbook does not drift back toward prompt-book behavior
+
+Why it matters:
+
+- The supporting docs had started to outrun the source docs.
+- The package now has a cleaner source-of-truth hierarchy before drafting.
+- Future chapter work can proceed from one aligned structure instead of
+  carrying quiet contradictions forward.
+
 ## 2026-03-31 — Mission Clarified as Human-Amplification Handbook
 
 Locked a key positioning rule in local memory: this book is a handbook for
@@ -163,6 +184,30 @@ Why it matters:
   thesis and structure docs.
 - The manuscript can start from a sharper promise and a narrower reader center.
 - `RBM` / `MoG` now have a more disciplined place in the overall positioning.
+
+## 2026-03-31 — Framework Notes Drafted
+
+Created
+[framework-notes.md](/Users/lee/projects/ai-coding-book/personal-empowerment/framework-notes.md)
+to close the remaining concept-selection gap in Sprint 1.
+
+This artifact now decides:
+
+- the recommended framework stack
+- which concepts are primary
+- which concepts are supporting
+- which concepts should stay deeper in the manuscript
+- how the frameworks should flow through the book
+
+It also explicitly protects the project from becoming framework-drunk by
+keeping `RBM` / `MoG` meaningful but not overexposed too early.
+
+Why it matters:
+
+- The book now has a cleaner conceptual spine.
+- Later chapter drafting can choose from a ranked framework system instead of a
+  flat list of good phrases.
+- Sprint 1 concept lock is materially closer to complete.
 
 ## 2026-03-31 — Book Plan Added and Sprint Roadmap Expanded
 

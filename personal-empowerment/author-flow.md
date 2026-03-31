@@ -89,7 +89,6 @@ Current working answer:
 
 Likely next artifacts:
 
-- framework notes
 - story-to-chapter map
 - research-to-chapter map
 - chapter drafts
@@ -198,6 +197,55 @@ log as part of the live method.
 ---
 
 ## Running Log
+
+## 2026-03-31 — Sync Pass Pulled the Source Documents Back Into Line
+
+After `positioning.md` and `framework-notes.md` sharpened the project, the
+supporting artifacts were actually clearer than some of the source documents.
+
+What changed:
+
+- the center-of-gravity reader language was standardized
+- the front-stage framework stack was pulled back into `book-plan.md`
+- the Empowerment Loop was simplified for visual use
+- `book-plan.md` was made explicit owner of the canonical part structure
+- prompt patterns were downgraded from requirement to optional teaching aid
+
+Why it matters:
+
+- AuthorFlow is not only about creating new artifacts. It is also about
+  reconciling them when later thinking gets sharper than earlier source files.
+- This kept the project from entering prose with quiet contradictions already
+  embedded in the planning system.
+
+Method signal:
+
+- Support documents often get smart first.
+- Before drafting, pull the best decisions back into the canonical files or
+  the manuscript will inherit drift.
+
+## 2026-03-31 — Framework Selection Was Separated From Positioning
+
+A dedicated `framework-notes.md` was added after `positioning.md`.
+
+What it clarified:
+
+- which concepts are carrying the manuscript
+- which concepts are supporting moves
+- which concepts should stay deeper until they earn broader exposure
+- where each framework should appear in the book
+
+Why it matters:
+
+- This keeps the project from turning a principle inventory into a flat pile of
+  equal-weight concepts.
+- It also protects the manuscript from early framework overload.
+
+Method signal:
+
+- In AuthorFlow, concept naming and concept ranking are different jobs.
+- After positioning is clear, add a separate framework-selection artifact so
+  the manuscript knows what to emphasize and what to hold back.
 
 ## 2026-03-31 — Positioning Was Split Off From Thesis and Structure
 

@@ -118,7 +118,10 @@ Thoughtful everyday adults who are curious about AI and want practical personal 
 
 Center-of-Gravity Reader
 
-A reflective working adult who already feels both sides of AI:
+A reflective working adult whose life extends beyond work and who already
+senses that convenience may be outpacing growth.
+
+This reader already feels both sides of AI:
 	•	the leverage
 	•	the convenience
 	•	the risk of becoming more assisted but less formed
@@ -290,10 +293,10 @@ clinician, spiritual authority, or substitute for human accountability.
 
 Primary framework pillars:
 	•	AI as Thinking Partner
-	•	Think in Stereo
 	•	You Are the Executive
-	•	Forge, Don’t Factory
+	•	Think in Stereo
 	•	The Empowerment Loop
+	•	Forge, Don’t Factory (craft discipline)
 
 Supporting operating moves:
 	•	Start with Tension, Not Clarity
@@ -345,8 +348,8 @@ Part IV — Build a Personal Empowerment Practice
 	•	integrating AI into everyday life
 	•	examples and activation patterns
 
-This structure should stay aligned with `book-plan.md` unless an explicit
-planning decision changes both documents together.
+`book-plan.md` owns the canonical part structure. This file should stay aligned
+to it unless an explicit planning decision changes both documents together.
 
 ⸻
 
@@ -374,9 +377,10 @@ Bridge the principle into the reader’s own life.
 
 A short action the reader can take immediately.
 
-6. Prompt Pattern
+6. Prompt Pattern (Optional)
 
-A reusable starting pattern, not a gimmicky prompt list.
+Use only when it teaches a transferable move more clearly than ordinary prose
+or example.
 
 7. Common Failure Mode
 

@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Book plan, thesis brief, and positioning in place; framework notes and manuscript drafting still ahead |
+| **Status** | Book plan, thesis brief, positioning, and framework notes in place; source docs synced to that package; manuscript drafting still ahead |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-03-31 |
 
@@ -25,6 +25,9 @@ The new canonical planning artifact is:
 
 - `book-plan.md`
 
+That file now explicitly owns the canonical part structure so supporting
+documents can point at one source instead of quietly diverging.
+
 The newest argument-lock artifact is:
 
 - `thesis-brief.md`
@@ -32,6 +35,10 @@ The newest argument-lock artifact is:
 The newest market-and-reader artifact is:
 
 - `positioning.md`
+
+The newest framework-selection artifact is:
+
+- `framework-notes.md`
 
 It now captures:
 
@@ -58,6 +65,19 @@ The positioning notes now sharpen:
 - the trilogy relationship
 - the front-stage promise of the book
 - which frameworks should lead and which should stay deeper in the manuscript
+
+The framework notes now sharpen:
+
+- the recommended framework stack
+- which concepts are primary, supporting, or conditional
+- where each framework belongs in the manuscript
+- how to keep the book from becoming framework-drunk
+
+The source documents have now been pulled back into line with those newer
+artifacts. The center-of-gravity reader language is standardized, the
+front-stage framework stack is clearer, the Empowerment Loop now has a simpler
+visual shorthand, and prompt patterns are explicitly optional rather than
+required.
 
 The supporting package remains:
 
@@ -103,9 +123,9 @@ project skill now exists at `skills/personal-empowerment-book.md`, and a
 project-specific reviewer now exists at `agents/human-empowerment-reviewer.md`.
 
 The `chapters/` directory still exists as an empty manuscript container. The
-remaining planning artifact to add before manuscript drafting is
-`framework-notes.md`, so the manuscript can begin from sharper supporting
-documents rather than from the chapter list alone.
+remaining pre-draft support work is now mostly proof-layer normalization rather
+than concept formation. The next major move can be the Introduction once the
+story and research support maps are sharp enough.
 
 ---
 
@@ -122,6 +142,7 @@ documents rather than from the chapter list alone.
 | This book is a handbook, not a prompt collection | Protects the project from collapsing into low-trust "life optimization" content | 2026-03-31 |
 | The book's moral direction is abundance through human amplification | Keeps it aligned with the consulting-growth and business-growth thesis instead of reduction logic | 2026-03-31 |
 | `book-plan.md` is the canonical planning artifact for this workspace | Gives the book one strategy document instead of scattering structure across memory files | 2026-03-31 |
+| `book-plan.md` owns the canonical part structure for the manuscript | Prevents supporting docs from drifting into parallel structures | 2026-03-31 |
 | `thesis-brief.md` is the canonical argument-lock artifact for this workspace | Gives the book a compact source of truth for claim, wrong move, tension, and reader shift | 2026-03-31 |
 
 ---
@@ -129,12 +150,11 @@ documents rather than from the chapter list alone.
 ## Open Questions
 
 1. What is the best final subtitle?
-2. Which framework candidates deserve front-stage status in the manuscript and
-   which should stay supporting?
-3. Which stories are strong enough to become anchor proofs in the manuscript?
-4. Which research claims are strong enough to feature prominently, and which
+2. Which stories are strong enough to become anchor proofs in the manuscript?
+3. Which research claims are strong enough to feature prominently, and which
    need caution or trimming?
-5. What chapter-level exercise pattern, if any, should repeat across the book?
+4. What chapter-level exercise pattern, if any, should repeat across the book?
+5. What final subtitle will still feel right after the Introduction is drafted?
 
 ---
 
@@ -142,8 +162,8 @@ documents rather than from the chapter list alone.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft framework notes from the current concept spine | Lee + AI | The leading concepts have distinct jobs and enough shape to guide chapters |
-| 2 | Normalize the research memo into reusable claims and cautions | Lee + AI | Research can be cited or paraphrased without re-reading a giant block file |
+| 1 | Normalize the research memo into reusable claims and cautions | Lee + AI | Research can be cited or paraphrased without re-reading a giant block file |
+| 2 | Create a story-to-chapter proof map | Lee + AI | Anchor stories are matched to the planned chapters and their jobs |
 | 3 | Start the manuscript with the Introduction and Part I once the support artifacts are ready | Lee + AI | The writing phase begins from a stable plan rather than from improvisation |
 | 4 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |

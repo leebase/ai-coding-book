@@ -62,7 +62,7 @@ ready to guide drafting.
 | Draft the working chapter architecture | ✅ Done |
 | Draft a Thesis Brief artifact | ✅ Done |
 | Draft a dedicated positioning artifact | ✅ Done |
-| Draft a dedicated framework-notes artifact | ⬜ Not started |
+| Draft a dedicated framework-notes artifact | ✅ Done |
 | Decide whether the title needs a subtitle | ⬜ Not started |
 
 ### Sprint 1 Deliverables
