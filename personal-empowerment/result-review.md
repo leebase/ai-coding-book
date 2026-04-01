@@ -4,6 +4,161 @@
 
 ---
 
+## 2026-04-01 — Final Back-End Chapters and Conclusion Polished, Exports Rebuilt
+
+Tightened the final manuscript pass on
+[chapter-10-the-risks-of-getting-weaker-with-better-tools.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-10-the-risks-of-getting-weaker-with-better-tools.md),
+[chapter-11-build-your-personal-empowerment-practice.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-11-build-your-personal-empowerment-practice.md),
+and
+[conclusion-become-more-of-yourself.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/conclusion-become-more-of-yourself.md),
+then rebuilt the full export set.
+
+What changed:
+
+- Chapter 10 now includes a more vivid health-scene weakening example, two
+  compact research pulses, and a clearer bridge from hallucination to lowered
+  verification and overtrust
+- Chapter 11 now explicitly reconciles the short-loop diagram with the fuller
+  canonical loop, adds one end-to-end miniature specimen, lowers first-week
+  adoption burden with a lighter track, and reduces acronym load in the
+  practice section
+- the conclusion now carries one embodied paragraph about more of Lee becoming
+  usable across work, creation, belief, and personal life, trims the trilogy
+  section, and restores `thinking partner` near the close without changing the
+  final line
+- rebuilt
+  [personal-empowerment-with-ai-handbook.md](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook.md),
+  [personal-empowerment-with-ai-handbook.docx](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook.docx),
+  [personal-empowerment-with-ai-handbook.epub](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook.epub),
+  and
+  [personal-empowerment-with-ai-handbook.pdf](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook.pdf)
+
+Why it matters:
+
+- the last serious credibility and practice chapters now feel more proved and
+  more runnable
+- the ending now lands as invitation plus embodiment instead of synthesis only
+- the export set is now aligned with the latest manuscript state instead of an
+  earlier draft snapshot
+
+### How to Verify
+
+1. Read [chapter-10-the-risks-of-getting-weaker-with-better-tools.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-10-the-risks-of-getting-weaker-with-better-tools.md) and confirm it now has the health-scene weakening proof, compact evidence pulses, and the hallucination-to-overtrust bridge
+2. Read [chapter-11-build-your-personal-empowerment-practice.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-11-build-your-personal-empowerment-practice.md) and confirm the short-loop / full-loop sync sentence, miniature specimen, and lighter starting track are present
+3. Read [conclusion-become-more-of-yourself.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/conclusion-become-more-of-yourself.md) and confirm it now includes one lived embodied paragraph and a `thinking partner` callback near the end
+4. Confirm the four rebuilt output files exist in [personal-empowerment/](/Users/lee/projects/ai-coding-book/personal-empowerment) and have fresh timestamps
+5. Confirm all three touched prose files still pass the local cadence rule by checking that none contains consecutive one-sentence paragraph clusters
+
+---
+
+## 2026-04-01 — Publication Outputs Built With Cover
+
+Built publication outputs for the personal handbook using the new local cover
+asset at
+[PersonalEmpowermentCover.png](/Users/lee/projects/ai-coding-book/personal-empowerment/PersonalEmpowermentCover.png).
+
+What changed:
+
+- added a local build pipeline in
+  [build_common.py](/Users/lee/projects/ai-coding-book/personal-empowerment/build_common.py),
+  [build-manuscript.py](/Users/lee/projects/ai-coding-book/personal-empowerment/build-manuscript.py),
+  [build-docx.py](/Users/lee/projects/ai-coding-book/personal-empowerment/build-docx.py),
+  [build-epub.py](/Users/lee/projects/ai-coding-book/personal-empowerment/build-epub.py),
+  [build-pdf.py](/Users/lee/projects/ai-coding-book/personal-empowerment/build-pdf.py),
+  and
+  [epub-styles.css](/Users/lee/projects/ai-coding-book/personal-empowerment/epub-styles.css)
+- generated the combined markdown manuscript:
+  [personal-empowerment-with-ai-handbook.md](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook.md)
+- generated the DOCX:
+  [personal-empowerment-with-ai-handbook.docx](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook.docx)
+- generated the EPUB:
+  [personal-empowerment-with-ai-handbook.epub](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook.epub)
+- generated the PDF:
+  [personal-empowerment-with-ai-handbook.pdf](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook.pdf)
+- avoided the earlier PDF forced-wrap problem by building without pandoc's
+  `markdown+hard_line_breaks` mode
+
+Why it matters:
+
+- the book now exists as a portable manuscript and publication-ready files
+- the new cover is embedded in the export set instead of only living as a loose
+  asset in the workspace
+- the personal handbook now has its own repeatable build path like the other
+  books in the repo
+
+### How to Verify
+
+1. Confirm the four output files exist in [personal-empowerment/](/Users/lee/projects/ai-coding-book/personal-empowerment)
+2. Open the EPUB and DOCX and confirm the cover image appears at the front
+3. Open the PDF and confirm the text flows as normal paragraphs instead of preserving the source line wrapping
+
+## 2026-04-01 — Conclusion Drafted
+
+Drafted
+[conclusion-become-more-of-yourself.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/conclusion-become-more-of-yourself.md)
+to close the manuscript.
+
+What changed:
+
+- closed the book as an invitation rather than a recap of chapter points
+- restated the core distinctions that govern healthy AI use: help is not
+  authority, assistance is not growth, and convenience is not empowerment
+- tied the personal handbook back to the series-level doctrine of amplification
+  over replacement
+- added a final practical note to start smaller than you want to so the ending
+  still carries operator discipline rather than generic uplift
+- ran the cadence pass so the conclusion does not fall into consecutive
+  one-sentence paragraph clusters
+
+Why it matters:
+
+- the full manuscript is now on the page through the conclusion
+- the book ends on responsibility and possibility at the same time, which keeps
+  the promise aligned with the warning
+- the next phase is integration and review, not missing-core-chapter drafting
+
+### How to Verify
+
+1. Read [conclusion-become-more-of-yourself.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/conclusion-become-more-of-yourself.md) and confirm it closes as an invitation rather than a summary dump
+2. Confirm the conclusion reconnects the personal book to the larger trilogy doctrine
+3. Confirm the conclusion contains no consecutive one-sentence paragraph clusters
+
+## 2026-04-01 — Chapter 11 Drafted
+
+Drafted
+[chapter-11-build-your-personal-empowerment-practice.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-11-build-your-personal-empowerment-practice.md)
+as the practice chapter for Part IV.
+
+What changed:
+
+- formalized the `Empowerment Loop` as the handbook's repeatable operating
+  system
+- translated the loop into usable stages: notice tension, engage AI, refine,
+  extract insight, apply, and repeat
+- added a small daily rhythm and a weekly review so the chapter functions as a
+  practice chapter rather than a motivational summary
+- added an `Executive or Receiver?` diagnostic to help readers review whether
+  their AI use is governed or merely convenient
+- used `The Forge Itself` as the anchor proof so the chapter argues that
+  repeated co-thinking changes the thinker over time
+- ran the cadence pass so the chapter contains no consecutive one-sentence
+  paragraph clusters
+
+Why it matters:
+
+- the handbook now has a repeatable operating system instead of ending on
+  scattered principles alone
+- the bridge from risk awareness into sustained personal practice is now on the
+  page
+- the next drafting move is cleanly focused on the conclusion rather than on
+  inventing the practice layer late
+
+### How to Verify
+
+1. Read [chapter-11-build-your-personal-empowerment-practice.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-11-build-your-personal-empowerment-practice.md) and confirm it defines the `Empowerment Loop`
+2. Confirm the chapter includes both a daily rhythm and a weekly review
+3. Confirm the chapter includes the `Executive or Receiver?` diagnostic and still reads like a handbook chapter rather than a framework memo
+
 ## 2026-04-01 — Chapter 10 Drafted
 
 Drafted

@@ -59,14 +59,29 @@ conflicting viewpoints, compare mechanisms, surface tradeoffs, and help you see
 where your thinking is still thin. That is real leverage. It is also exactly
 the kind of domain where passivity gets expensive.
 
+I have watched the good and bad version of that happen inside the same kind of
+health question. I came in with a strong hunch, scattered notes, and just
+enough reading to feel half-informed. The model gave me a cleaner mechanism
+story than I had in my own head. It sounded persuasive because it was not only
+organized. It was sequenced. It gave me tradeoffs, causes, timing, and a sense
+that the whole thing fit together.
+
+That was the danger. The answer did not only inform me. It stabilized my
+premature conclusion. It made my first interpretation feel more inevitable than
+it deserved to feel.
+
+The spell broke when I stopped asking, "Does this hang together?" and started
+asking, "What evidence would actually rule this out?" The moment I did that, I
+could see how much I still had not pressure-tested. Some of the assumptions had
+been smoothed over by the structure of the answer itself.
+
 If I use AI well there, it helps me understand the landscape better. It helps
 me prepare better questions, sort noise from signal, and think more clearly
 about what risk I am actually taking.
 
 If I use it badly, the same speed turns into false confidence. Now I have a
 cleaner explanation, a more coherent story, and maybe more motivation, but I
-may also be further from reality than I was before because the tool helped me
-stabilize a premature conclusion.
+may also be further from reality than I was before.
 
 That is why the rule has to stay hard: AI supports understanding. It does not
 replace responsibility.
@@ -106,6 +121,12 @@ You stop wrestling with the problem. You stop holding the material. You stop
 noticing what your own mind can no longer carry. The output improves, but the
 thinker does not.
 
+This is also where the research warning is strongest. The literature does not
+say every use of AI makes people weaker. It does keep pointing at the same
+risk, though: when the system takes more of the framing, summarizing, and
+reasoning load, people often perform better in the assisted moment while
+engaging less deeply with the underlying material.
+
 ### 2. Automation Bias
 
 The answer arrives with confidence, structure, and speed, so your verification
@@ -114,6 +135,11 @@ because it was actually tested.
 
 That happens in work. It happens in parenting. It happens in health. It
 happens anywhere the system sounds more composed than you feel.
+
+This is also where hallucinations stop being a separate category and become
+part of the same problem. A bizarre wrong answer is easy to reject. A polished
+wrong answer inside a workflow that has already lowered your verification
+threshold is how falsehood starts feeling like support.
 
 This is one reason the risk chapter has to be more research-supported than some
 of the earlier ones. The literature keeps pointing at the same problem:
@@ -130,6 +156,12 @@ most dangerous patterns precisely because it feels supportive.
 That is not always because the AI is malicious or broken. These systems are
 often optimized to be helpful, agreeable, and responsive. But in a reflective
 or high-stakes domain, agreeable can become corrosive.
+
+Research and product behavior point in the same direction here too. People
+already tend to over-trust fluent systems, and the systems themselves are often
+tuned to be cooperative. That means the risk is not only that you will meet a
+confident answer. It is that you may meet a confident answer that is quietly
+aligned with your current story.
 
 You do not need a machine that always comforts your self-story. You need one
 that can sometimes stress-test it.

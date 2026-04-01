@@ -10,11 +10,12 @@
 
 ## Current Phase
 
-**Phase 6 — Part III and Conclusion Draft**
+**Phase 7 — Manuscript Integration and Review**
 
-Part III drafting has started with risk, authorship, and practice-closure work.
-Sprint 5 review tasks for the personal chapters remain open and will be handled in
-Sprint 7 before the full integration pass.
+The full manuscript is now drafted through the conclusion, and the publication
+outputs have been rebuilt with the cover. The next work is no longer chapter
+creation. It is full-manuscript integration, review, subtitle pressure-testing,
+and visual QA on the export set.
 
 ---
 
@@ -175,7 +176,7 @@ the book's doctrine.
 
 ---
 
-## Sprint 6 — Part III and Conclusion Draft
+## Sprint 6 — Part III and Conclusion Draft (COMPLETE ✅)
 
 **Goal**: Draft the risk, authorship, and practice-closing chapters.
 
@@ -184,9 +185,9 @@ the book's doctrine.
 | Draft `Chapter 9 — Real Insight, Real Surprise` | ✅ Done |
 | Draft `Chapter 10 — The Risks of Getting Weaker With Better Tools` | ✅ Done |
 | Add a research pulse to Chapter 10 instead of deferring evidence to end-stage review | ✅ Done |
-| Draft `Chapter 11 — Build Your Personal Empowerment Practice` | ⬜ Not started |
-| Draft `Conclusion — Become More of Yourself` | ⬜ Not started |
-| Review the close for momentum and coherence | ⬜ Not started |
+| Draft `Chapter 11 — Build Your Personal Empowerment Practice` | ✅ Done |
+| Draft `Conclusion — Become More of Yourself` | ✅ Done |
+| Review the close for momentum and coherence | ✅ Done |
 
 ### Sprint 6 Exit Criteria
 
@@ -225,10 +226,10 @@ the book's doctrine.
 
 | Task | Status |
 |------|--------|
-| Assemble the full manuscript file | ⬜ Not started |
-| Create or adapt the local build tooling if needed | ⬜ Not started |
-| Generate EPUB, DOCX, and PDF | ⬜ Not started |
-| Run structural QA on outputs | ⬜ Not started |
+| Assemble the full manuscript file | ✅ Done |
+| Create or adapt the local build tooling if needed | ✅ Done |
+| Generate EPUB, DOCX, and PDF | ✅ Done |
+| Run structural QA on outputs | ✅ Done (light structural QA) |
 | Update local memory docs with finish state | ⬜ Not started |
 
 ### Sprint 8 Exit Criteria

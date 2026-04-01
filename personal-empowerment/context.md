@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; Introduction and Chapters 1-10 drafted; cadence/process pass complete; Sprint 6 active |
+| **Status** | Concept package locked; full manuscript drafted through the conclusion; exports rebuilt with cover; Sprint 7 active |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-04-01 |
 
@@ -219,9 +219,37 @@ only as vocabulary.
 Chapter 10, `The Risks of Getting Weaker With Better Tools`, now exists as the
 risk chapter the planning artifacts had been preparing for. It names four
 weakening patterns, grounds the warning in health, parenting, and contribution
-pressure, includes a restrained research pulse on cognitive offloading and
-overreliance, and adds a practical `Weakening Test` so the chapter functions as
-handbook method rather than generalized caution.
+pressure, now includes a more vivid health-scene proof plus restrained
+research pulses on cognitive offloading and overtrust, and adds a practical
+`Weakening Test` so the chapter functions as handbook method rather than
+generalized caution.
+
+Chapter 11, `Build Your Personal Empowerment Practice`, now exists as the
+practice-closure chapter for the handbook. It formalizes the `Empowerment
+Loop`, turns the book's doctrine into a daily and weekly rhythm, adds an
+executive-versus-receiver review check, and uses `The Forge Itself` to argue
+that the deepest output of repeated AI use is the thinker you become over
+time.
+
+The conclusion, `Become More of Yourself`, is now on the page as well. It
+closes shorter and more directly than the chapters, restates the promise and
+the responsibility, reconnects the personal handbook to the larger trilogy
+doctrine, now includes one compact embodied paragraph about more of Lee
+becoming usable across domains, and ends on an invitation to use AI boldly
+without surrendering the human parts that still have to become stronger.
+
+Publication outputs now exist for the personal handbook as well. The workspace
+has a local build pipeline at `build-manuscript.py`, `build-docx.py`,
+`build-epub.py`, `build-pdf.py`, and `build_common.py`, plus
+`epub-styles.css`. The assembled markdown, DOCX, EPUB, and PDF were generated
+successfully using `PersonalEmpowermentCover.png` as the cover asset, and the
+full export set has now been rebuilt again after the latest Chapter 10,
+Chapter 11, and conclusion polish.
+
+The PDF build path was deliberately set up without pandoc's
+`markdown+hard_line_breaks` extension so the source wrapping in the manuscript
+does not turn into forced line breaks in the export, which had been part of the
+formatting problem in earlier book outputs.
 
 That work happened in parallel with Part II. Chapter 5 argues that AI lowers
 the barrier between interest and first artifact, using music as the anchor
@@ -256,11 +284,9 @@ decisions while keeping high-stakes human boundaries explicit.
 
 ## Open Questions
 
-1. What is the best final subtitle now that the Introduction exists?
+1. What is the best final subtitle now that the full manuscript exists?
 2. What chapter-level exercise pattern, if any, should repeat across the book?
-3. Does Chapter 10 need a stronger lived weakening story than the current proof
-   set provides?
-4. How hard should the Introduction lean on explicit research language versus
+3. How hard should the Introduction lean on explicit research language versus
    keeping the support mostly implicit?
 
 ---
@@ -269,11 +295,11 @@ decisions while keeping high-stakes human boundaries explicit.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft `Chapter 11 — Build Your Personal Empowerment Practice` | Lee + AI | The book ends with a repeatable practice instead of a loose exhortation |
-| 2 | Draft `Conclusion — Become More of Yourself` | Lee + AI | The close lands as invitation and synthesis rather than summary dump |
-| 3 | Finish the handbook-usefulness pass across drafted chapters | Lee + AI | The drafted chapters feel practical, cumulative, and reusable |
-| 4 | Run the new personal-review stack across Chapters 5-10 | Lee + AI | Part II and Part III pass lived-fit, handbook usefulness, and boundary review |
-| 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
+| 1 | Run a continuity and tone pass across the full manuscript | Lee + AI | The book reads like one coherent handbook rather than strong isolated chapters |
+| 2 | Finish the handbook-usefulness pass across drafted chapters | Lee + AI | The drafted chapters feel practical, cumulative, and reusable |
+| 3 | Run the new personal-review stack across Chapters 5-11 plus the conclusion | Lee + AI | The back half passes lived-fit, handbook usefulness, and boundary review |
+| 4 | Settle the final subtitle after the full manuscript pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
+| 5 | Do a visual QA pass on the rebuilt DOCX, EPUB, and PDF outputs | Lee + AI | The export set is trusted for release packaging |
 
 ---
 
