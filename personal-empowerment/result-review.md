@@ -4,6 +4,45 @@
 
 ---
 
+## 2026-04-01 — Chapters 7 and 8 Tightened From Cross-Review
+
+Revised
+[chapter-7-use-ai-for-reflection-parenting-and-decisions.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-7-use-ai-for-reflection-parenting-and-decisions.md)
+and
+[chapter-8-explore-meaning-belief-identity-without-losing-yourself.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-8-explore-meaning-belief-identity-without-losing-yourself.md)
+using the converging feedback from external review.
+
+What changed:
+
+- Chapter 7 now states its real unifier earlier: emotionally loaded situations
+  where proximity is high and clarity is hardest
+- the Friday-night parenting scene now clarifies the timing so AI is visibly
+  used for preparation before the real conversation rather than during it
+- the teenager example now includes a tiny before/after opening-line contrast
+  so the reader can hear the difference between reaction and prepared care
+- Chapter 7 now includes a short health-decision vignette, a restrained
+  research pulse, and a sharper adolescent-boundary sentence
+- the decision pattern in Chapter 7 is now framed as a reusable `Personal Use
+  Loop`
+- Chapter 8 now names the actual theological hinge in `The Divine Struggle`
+  so the reader can see what borrowed fluency becoming real authorship looked
+  like in lived use
+
+Why it matters:
+
+- the two most intimate chapters now carry more lived proof and less abstract
+  wisdom-only language
+- Chapter 7 now feels more handbook-like and Chapter 8 now shows real stake,
+  not only process
+- the handoff from Chapter 7 into Chapter 8 is cleaner because both chapters
+  now reveal more of what was actually at risk
+
+### How to Verify
+
+1. Read [chapter-7-use-ai-for-reflection-parenting-and-decisions.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-7-use-ai-for-reflection-parenting-and-decisions.md) and confirm the parenting story now clarifies the timing of the AI use, includes a before/after line contrast, and adds the health and adolescent-boundary material
+2. Read [chapter-8-explore-meaning-belief-identity-without-losing-yourself.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-8-explore-meaning-belief-identity-without-losing-yourself.md) and confirm `The Divine Struggle` now names the actual theological claim under pressure
+3. Confirm both chapters still pass the local cadence rule by checking that neither chapter contains consecutive one-sentence paragraph clusters
+
 ## 2026-04-01 — Manuscript Cadence Pass and Anti-Pattern Check Added
 
 Ran a full cadence pass across the drafted manuscript in

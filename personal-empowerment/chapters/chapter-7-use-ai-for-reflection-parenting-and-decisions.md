@@ -7,6 +7,9 @@ The question is whether it helps you stay human when the emotional heat rises.
 AI can help you think more clearly. It cannot be your empathy, your conscience, or
 your replacement for accountability where relationships and consequences are real.
 
+This chapter is really about emotionally loaded situations where proximity is
+high and clarity is hardest.
+
 ## Why Personal Use Is Different
 
 Work often gives you distance. Personal life usually does not. At work, you can
@@ -14,7 +17,9 @@ often pause and optimize from the outside. At home, inside a relationship, you a
 in it, activated, and already in motion, so this section has higher friction.
 
 It is also why a thinking partner can be useful. The tool can help you slow
-down the story before you speak, and then you decide.
+down the story before you speak, and then you decide. That is the real
+unifier here: not "personal use" in general, but moments where emotion is
+close enough that you need help preparing without handing over your role.
 
 ## Healthy Support vs. Dangerous Delegation
 
@@ -54,12 +59,18 @@ constraint:
 - one version that kept me accountable
 - one version that named what I was afraid of instead of assigning blame
 
+I did not do that in front of her. I stepped away first, because the whole
+point was to prepare before the conversation, not outsource the conversation
+while it was happening.
+
 I used those prompts to hear my own distortion faster. The first version I got
 was still too quick. It fixed tone, not intention. The second rewrite is what
 mattered because it landed closer to my own truth.
 
 The value came from the rewrite, not from the final generated line. I still
 had to decide whether I was reacting to her behavior or to my own anxiety.
+I still had to walk back into the room and say the thing as her father, not as
+someone hiding behind a better sentence.
 
 AI helped me create distance where I was only urgency. It did not replace
 being a parent. It gave me a cleaner working surface for empathy.
@@ -79,6 +90,11 @@ Try this:
 - ask for two openings that lower defensiveness without lowering accountability
 - ask what part of your response is fear rather than the actual issue
 
+The bad opening usually sounds something like: "You always do this. Why are you
+making everything harder than it has to be?" A better opening sounds more like:
+"I need to talk with you about what happened, but I want to do it without
+turning this into another fight."
+
 Then answer each point in your own words, then speak, and repair quickly if you
 miss.
 That is the job, and it only works if the human still has to stand in the
@@ -90,13 +106,31 @@ Reflection support can be useful. Therapy replacement is not. AI can help you
 rehearse, compare, and clarify. It cannot be your therapist, your clinician,
 or your spiritual authority.
 
+There is some real support for journaling-adjacent reflection,
+therapeutic-alliance-style use, and conflict-preparation patterns here. That
+does not weaken the boundary. It sharpens it. Structured reflection can be
+useful precisely because the authority still has to remain human.
+
 A strong boundary is practical, not performative:
 
 - reduce identifying detail when discussing intimate material
 - ask for framing and objections, not comfort-only consensus
 - ask questions that sharpen your own discernment before asking for a verdict
 
-That keeps support practical and keeps human leadership intact.
+That keeps support practical and keeps human leadership intact. And especially
+with kids, the tool cannot become a hidden co-parent, a child's primary
+mirror, or a substitute feedback loop through which they learn who they are.
+
+## A Health Decision Uses the Same Rule
+
+The same principle applies in health. If you are thinking about fasting,
+testing a supplement, or changing some part of your routine, AI can help you
+prepare questions, compare tradeoffs, and notice where your motives are
+clarity, control, fear, or hope. It can help you organize the decision.
+
+It cannot diagnose you. It cannot clear the decision for you. It cannot become
+the clinician. Use it to prepare for the appointment, sharpen the questions,
+and understand the tradeoffs you still have to carry in real life.
 
 ## Use AI to Prepare, Not to Abdicate
 
@@ -118,19 +152,19 @@ Do not use it this way:
 If the decision involves a person in front of you, the tool has to stay behind
 the work, not in front of it.
 
-## A Better Decision Pattern
+## The Personal Use Loop
 
-For emotional decisions, use this sequence:
+For emotionally loaded situations, use this sequence:
 
-1. Name the actual decision in one sentence.
-2. Name the emotion likely distorting your view.
-3. Ask AI for competing tradeoffs.
+1. Name the actual issue in one sentence.
+2. Name the emotion most likely to distort you.
+3. Ask AI for framing and competing tradeoffs.
 4. Ask what you are likely refusing to see.
-5. Write your own decision in your own language.
-6. Add this final test: what requires me to be present in real life?
+5. Rewrite your own stance in your own language.
+6. Return to the conversation or own the decision in real life.
 
-Step six is where this chapter earns its edge. If the answer skips presence, this
-was probably abdication.
+That last move is where this chapter earns its edge. If the loop never comes
+back through your presence, it was probably abdication.
 
 ## Do This Now
 
@@ -141,10 +175,11 @@ Use this loop today:
 
 1. Name the issue.
 2. Name the emotion most likely to distort you.
-3. Ask AI for framing pressure, not a verdict.
+3. Ask AI for framing and tradeoffs, not a verdict.
 4. Rewrite the result in your own words.
 5. Write the responsibility statement: what stays mine?
-6. Say it in the room and listen before defending your position.
+6. Say it in the room or own it in the decision, then listen before defending
+   your position.
 
 ## Common Failure Mode
 

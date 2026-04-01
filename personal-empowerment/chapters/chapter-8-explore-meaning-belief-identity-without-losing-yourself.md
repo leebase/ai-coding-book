@@ -25,6 +25,11 @@ I had a long stretch of theological questions that felt solved and never felt
 true. The first draft read like polished doctrine. The second draft felt like
 I was borrowing someone else’s finish.
 
+One live hinge in that struggle was this: the Fall was not a failed first
+draft followed by a divine rescue patch. It was part of the original
+architecture of becoming. That is not a decorative difference. It changes how
+you read suffering, agency, and the shape of the whole story.
+
 The move that changed it was not "ask for better words." It was "ask better
 friction."
 
@@ -48,6 +53,8 @@ whether I would let AI become my stand-in judge.
 
 The hard part was not getting to the answer. The hard part was the point where
 I had to choose between a neat formulation and a version I could live with.
+If that claim was going to survive, it had to survive objection, discomfort,
+and the cost of saying it out loud as something I actually believed.
 
 Here is what changed:
 

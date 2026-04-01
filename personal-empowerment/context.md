@@ -200,6 +200,13 @@ paragraph clusters. The workflow now includes an explicit cadence gate in
 `skills/sounds-like-lee.md`, and the local registry plus book skill now make
 that gate part of the chapter-finish path rather than a stylistic suggestion.
 
+The newest cross-review pass also tightened Chapters 7 and 8 in the places
+where external readers agreed the manuscript still felt slightly too elevated.
+Chapter 7 now makes the parenting timing clearer, adds a tiny audible
+before/after contrast, adds a short health-decision vignette, and sharpens the
+adolescent boundary. Chapter 8 now names the actual theological hinge inside
+`The Divine Struggle` so the lived proof is no longer only process-shaped.
+
 That work happened in parallel with Part II. Chapter 5 argues that AI lowers
 the barrier between interest and first artifact, using music as the anchor
 proof and a small backyard-garden example as ordinary translation. Chapter 6
