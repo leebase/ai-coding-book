@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; Introduction and Chapters 1-8 drafted; cadence/process pass complete; Part II draft complete; Sprint 6 active |
+| **Status** | Concept package locked; Introduction and Chapters 1-10 drafted; cadence/process pass complete; Sprint 6 active |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-04-01 |
 
@@ -216,6 +216,13 @@ difference between slop, AI-side emergence, and human-side leap, and it adds a
 reusable `RBM / MoG Trace` so the chapter lands as handbook method rather than
 only as vocabulary.
 
+Chapter 10, `The Risks of Getting Weaker With Better Tools`, now exists as the
+risk chapter the planning artifacts had been preparing for. It names four
+weakening patterns, grounds the warning in health, parenting, and contribution
+pressure, includes a restrained research pulse on cognitive offloading and
+overreliance, and adds a practical `Weakening Test` so the chapter functions as
+handbook method rather than generalized caution.
+
 That work happened in parallel with Part II. Chapter 5 argues that AI lowers
 the barrier between interest and first artifact, using music as the anchor
 proof and a small backyard-garden example as ordinary translation. Chapter 6
@@ -262,10 +269,10 @@ decisions while keeping high-stakes human boundaries explicit.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Draft `Chapter 10 — The Risks of Getting Weaker With Better Tools` | Lee + AI | The book names weakening patterns clearly without drifting into fear-book voice |
-| 2 | Add the Chapter 10 research pulse while drafting, not as an afterthought | Lee + AI | The risk chapter stays credible and specific |
+| 1 | Draft `Chapter 11 — Build Your Personal Empowerment Practice` | Lee + AI | The book ends with a repeatable practice instead of a loose exhortation |
+| 2 | Draft `Conclusion — Become More of Yourself` | Lee + AI | The close lands as invitation and synthesis rather than summary dump |
 | 3 | Finish the handbook-usefulness pass across drafted chapters | Lee + AI | The drafted chapters feel practical, cumulative, and reusable |
-| 4 | Run the new personal-review stack across Chapters 5-9 | Lee + AI | Part II and the authorship chapter pass lived-fit, handbook usefulness, and boundary review |
+| 4 | Run the new personal-review stack across Chapters 5-10 | Lee + AI | Part II and Part III pass lived-fit, handbook usefulness, and boundary review |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---

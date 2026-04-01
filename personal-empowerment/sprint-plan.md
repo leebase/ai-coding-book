@@ -182,8 +182,8 @@ the book's doctrine.
 | Task | Status |
 |------|--------|
 | Draft `Chapter 9 — Real Insight, Real Surprise` | ✅ Done |
-| Draft `Chapter 10 — The Risks of Getting Weaker With Better Tools` | ⬜ Not started |
-| Add a research pulse to Chapter 10 instead of deferring evidence to end-stage review | ⬜ Not started |
+| Draft `Chapter 10 — The Risks of Getting Weaker With Better Tools` | ✅ Done |
+| Add a research pulse to Chapter 10 instead of deferring evidence to end-stage review | ✅ Done |
 | Draft `Chapter 11 — Build Your Personal Empowerment Practice` | ⬜ Not started |
 | Draft `Conclusion — Become More of Yourself` | ⬜ Not started |
 | Review the close for momentum and coherence | ⬜ Not started |

@@ -4,6 +4,40 @@
 
 ---
 
+## 2026-04-01 — Chapter 10 Drafted
+
+Drafted
+[chapter-10-the-risks-of-getting-weaker-with-better-tools.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-10-the-risks-of-getting-weaker-with-better-tools.md)
+as the risk chapter for Part III.
+
+What changed:
+
+- framed the core danger as quiet atrophy rather than only bad answers or
+  hallucinations
+- named four weakening patterns: cognitive offloading, automation bias,
+  sycophancy, and dependency on reduced friction
+- anchored the warning in health, parenting, and contribution pressure so the
+  chapter stays lived rather than abstract
+- added a restrained research pulse on cognitive offloading and overreliance
+  without turning the chapter into a study parade
+- added a `Weakening Test`, an ordinary example, and a `Do This Now` audit so
+  the chapter teaches governed use instead of generic caution
+- ran the cadence pass so the chapter does not fall back into consecutive
+  one-sentence paragraph clusters
+
+Why it matters:
+
+- Part III now has both the authorship chapter and the risk chapter on the page
+- the book can now warn about weakening without collapsing into fear-book voice
+- the path into Chapter 11 is clearer because the chapter ends by calling for a
+  repeatable practice rather than only awareness
+
+### How to Verify
+
+1. Read [chapter-10-the-risks-of-getting-weaker-with-better-tools.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-10-the-risks-of-getting-weaker-with-better-tools.md) and confirm it names the four weakening patterns explicitly
+2. Confirm the chapter includes the `Weakening Test` and the `Do This Now` audit
+3. Confirm the chapter includes a light research pulse and still reads like a handbook chapter rather than a warning manifesto
+
 ## 2026-04-01 — Chapter 9 Drafted
 
 Drafted
