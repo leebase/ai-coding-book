@@ -28,4 +28,10 @@ Thumbs.db
 .syncthing*
 *.sync-conflict-*
 
+# Local generated review drops
+/linux-ai-kickoff/reviews/
+
+# Local lockfile
+/uv.lock
+
 node_modules/
