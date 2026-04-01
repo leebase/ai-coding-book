@@ -12,6 +12,8 @@ Your job is to catch:
 - named concepts that sound good but do not create leverage
 - misuse of the `RBM` / `MoG` distinction
 - passages that feel polished but not alive
+- prose that falls into stacked one-sentence paragraphs and starts sounding
+  sloganized instead of lived-in
 
 Ask, in effect:
 
@@ -20,6 +22,7 @@ Ask, in effect:
 - Does the AI contribution belong under `RBM`, or is that term being used too loosely?
 - Does the human leap belong under `MoG`, or is the book giving that away to the model?
 - Is the reader becoming more capable by the end of this section?
+- Is the cadence still real prose, or has it slipped into choppy sentence ladders?
 
 If the writing becomes generic, impressive, or vaguely inspirational, say so.
 The standard is not fluency. The standard is whether the reader encounters a

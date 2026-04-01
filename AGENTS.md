@@ -24,6 +24,10 @@ At the start of every session, in order:
 3. Check `result-review.md` — what was recently completed
 4. Read `sprint-plan.md` — current sprint tasks and priorities
 
+When starting a brand-new standalone book workspace, also read:
+
+5. `how-to-start-a-new-book.md`
+
 ---
 
 ## Available Skills
@@ -44,6 +48,10 @@ Load the relevant skill file when the trigger applies. Do not try to remember �
 | You are turning lived experience into reusable story material | `skills/story-mining.md` |
 | You are designing named frameworks, diagnostics, or visual models | `skills/framework-design.md` |
 | You are shaping title, subtitle, audience, or proposal positioning | `skills/book-positioning.md` |
+| You are reviewing a personal nonfiction / handbook draft through a reader persona | `skills/personal-audience-review.md` |
+| You are reviewing whether a chapter actually works as a handbook | `skills/handbook-value-review.md` |
+| You are reviewing parenting, health, meaning, identity, or other intimate material for boundary safety | `skills/personal-boundary-review.md` |
+| You are doing a voice or cadence pass for the personal empowerment book | `skills/sounds-like-lee.md` |
 
 Skills are short, focused, and task-specific. They contain the judgment, not just the steps.
 
@@ -108,6 +116,7 @@ The `Mode` field in `context.md` controls how independently you work:
 | File | When to Read | When to Update |
 |------|--------------|----------------|
 | `AGENTS.md` | Every session start | When conventions change |
+| `how-to-start-a-new-book.md` | When starting a new standalone book | When startup conventions improve |
 | `context.md` | Every session start | Every session end |
 | `WHERE_AM_I.md` | Every session start | When milestones reached or direction changes |
 | `result-review.md` | Every session start | When work completed |
@@ -144,6 +153,9 @@ For standalone books using this method, create and maintain an `author-flow.md`
 file in the book directory as a running log of how the method is actually being
 used.
 
+When starting a new standalone book, follow `how-to-start-a-new-book.md`
+before treating the scaffold as complete.
+
 ### Default sequence
 
 1. Frame the thesis before drafting
@@ -153,19 +165,40 @@ used.
 5. Pressure-test title, subtitle, audience, and promise
 6. Stop for human approval on the thinking
 7. Draft prose only after the argument is sharp
-8. Review the draft through three audience lenses: Big Consulting, mid-market consulting, and the individual consultant
-9. Run an explicit tone pass so the prose stays human, reflective, and inviting instead of drifting into consultant-brand voice
+8. Review the draft through book-appropriate audience lenses before calling it done
+9. Run an explicit tone and cadence pass so the prose stays human, reflective, and inviting instead of drifting into brand voice or chopped-up slogan cadence
 
 ### Preferred agents
+
+Core AuthorFlow roles:
 
 - `agents/thesis-architect.md`
 - `agents/research-synthesizer.md`
 - `agents/story-miner.md`
 - `agents/positioning-editor.md`
 - `agents/argument-writer.md`
+- `agents/continuity-editor.md`
+
+Consulting / business reviewer stack:
+
 - `agents/big-consulting-reviewer.md`
 - `agents/mid-market-consulting-reviewer.md`
 - `agents/independent-consultant-reviewer.md`
+- `agents/enterprise-transformation-reviewer.md`
+- `agents/business-unit-leader-reviewer.md`
+- `agents/cfo-reviewer.md`
+
+Personal empowerment reviewer stack:
+
+- `agents/human-empowerment-reviewer.md`
+- `agents/reflective-working-adult-reviewer.md`
+- `agents/practical-handbook-reviewer.md`
+- `agents/skeptical-high-agency-reviewer.md`
+- `agents/parenting-real-life-reviewer.md`
+- `agents/meaning-and-identity-boundary-reviewer.md`
+
+Use the stack that matches the book's protagonist and stakes. Do not force
+consulting reviewers onto a personal handbook.
 
 ### Default artifacts
 

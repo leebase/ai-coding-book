@@ -136,6 +136,14 @@ These act as:
 - resets
 - emphasis points
 
+### Guardrail:
+One-sentence paragraphs are a spice, not the meal.
+
+Use them deliberately for emphasis, hinge lines, or resets. Do not stack them
+for page after page. The default paragraph rhythm should usually be 2-4
+sentences so the prose feels like guided thought instead of chopped-up slogan
+beats.
+
 ---
 
 ## 8. Builds Momentum

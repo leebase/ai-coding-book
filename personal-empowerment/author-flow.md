@@ -198,6 +198,124 @@ log as part of the live method.
 
 ## Running Log
 
+## 2026-04-01 — Sprint Progression Into Part II Draft B
+
+We started the meaning/identity arc and moved the sprint forward by drafting
+`chapter-8-explore-meaning-belief-identity-without-losing-yourself.md`.
+
+What changed:
+
+- `The Divine Struggle` was used as the chapter anchor to keep this highest-stakes
+  section concrete.
+- the chapter keeps the boundary rule explicit: AI supports reflection, it does not
+  become the judge of your identity or beliefs.
+- an ordinary grief-conversation example was added so the chapter has transferability
+  beyond theologically oriented readers.
+- `Sprint 5` is marked active in `personal-empowerment/sprint-plan.md`.
+
+Why this matters:
+
+- we can now review Part II Draft B for emotional honesty and handbook usefulness
+  without writing around the meaning section.
+- this also tests whether the `sounds-like-lee` and personal reviewer stack can keep
+  this domain clear without drifting into either mysticism or fear.
+
+## 2026-03-31 — The Personal Book Needed Its Own Review Stack, Not a Lighter Copy
+
+One gap became obvious once the manuscript got deeper:
+
+this book had doctrine and drafting momentum, but not the same level of
+explicit agent/skill infrastructure the earlier books had.
+
+What changed:
+
+- the generic AuthorFlow docs were corrected so they no longer assume
+  consulting-review lenses by default
+- the personal-empowerment workflow now has its own reader-review stack:
+  reflective working adult, practical handbook, skeptical high-agency reader,
+  parenting/real-life, meaning/identity boundary, plus the existing
+  human-empowerment reviewer
+- three new skills were added so those reviews have actual procedural backing,
+  not just nice file names
+- a dedicated voice skill, `sounds-like-lee`, was added so Lee's cadence is
+  enforced from the actual `lee-voice.md` file rather than treated as a loose
+  reminder
+
+Why it matters:
+
+- this fixes a real process drift, not just a missing convenience
+- the book now has explicit aspect ownership closer to the other books in the
+  series
+
+Method signal:
+
+- a new book in the series should inherit the sophistication of the method, not
+  only the existence of the scaffold
+- if the protagonist changes, the reviewer stack usually has to change too
+
+## 2026-03-31 — Chapter 6 Got Better Once The Learning Became Visible
+
+The review pressure on Chapter 6 was useful because it exposed a subtle drift:
+
+the chapter was proving strategy and value more clearly than it was proving
+learning.
+
+What changed:
+
+- the Hockey Stick section was narrowed to one visible rep instead of staying
+  at career-arc altitude
+- the chapter got stronger as soon as the reader could watch the loop happen:
+  map tensions, inspect the source, explain it back, then pressure-test the
+  explanation
+- the strategy-meeting example gained a weak-prep / better-prep contrast so
+  the reader can see the difference instead of only hearing about it
+- the chapter was given a named reusable loop, `The Work Learning Loop`, so the
+  professional section behaves more like a handbook than a smart essay
+
+Why it matters:
+
+- AuthorFlow keeps exposing the same principle: a distinction gets much more
+  usable once the reader can watch it happen in one real rep
+- good reviews do not always ask for new ideas; sometimes they ask for a better
+  camera angle on the same idea
+
+Method signal:
+
+- when a chapter sounds true but still slightly high-altitude, look for the
+  missing rep
+- visible practice beats abstract credibility almost every time
+
+## 2026-03-31 — Cadence Had To Become A Process Rule, Not Just A Revision Habit
+
+Once seven chapters existed, one prose problem became too obvious to ignore:
+
+the manuscript was drifting into stacked one-sentence paragraphs.
+
+What changed:
+
+- a full rhythm pass was run across all drafted chapters, not just the newest
+  one
+- one-sentence paragraphs were kept only where they were doing real emphasis
+  work
+- the broader default was reset to 2-4 sentence paragraphs so the prose could
+  feel like guided thought instead of chopped-up slogan cadence
+- the rule was then added to `lee-voice.md`,
+  `skills/personal-empowerment-book.md`, and
+  `agents/human-empowerment-reviewer.md`
+
+Why it matters:
+
+- this is a pure AuthorFlow lesson: some quality problems should not stay
+  "editorial taste" problems if they repeat often enough to become predictable
+- the best fix was not only revising the prose, but turning the preference into
+  a reusable guardrail for future drafting and review
+
+Method signal:
+
+- when an anti-pattern keeps recurring, promote the correction into the
+  workflow
+- voice control is not just word choice; cadence is part of authorship too
+
 ## 2026-03-31 — Chapter 6 Carried the Professional Asymmetry Explicitly
 
 By the time Part II reached work and learning, the next risk was obvious:
@@ -322,6 +440,9 @@ What changed:
 - the later pass also forced more visible machinery onto the page:
   operational definition, replacement-vs-expansion contrasts, and a forward
   bridge into Chapter 5
+- a later correction clarified that AI was not the origin of the Hockey Stick
+  pattern, only the latest wave; that kept Chapter 4 focused on becoming larger
+  without stealing Chapter 6's wage-window and learning architecture details
 
 Why it matters:
 

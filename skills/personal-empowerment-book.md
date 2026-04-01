@@ -23,6 +23,7 @@ Read these when relevant:
 - `personal-empowerment/book-plan.md` for the canonical chapter architecture
 - `personal-empowerment/ai-thinking-research.md` for research-backed argument
 - `personal-empowerment/product-definition.md` for chapter-template and product rules
+- `skills/sounds-like-lee.md` when doing a voice or cadence pass
 
 ## Core Claim
 
@@ -80,6 +81,8 @@ Do not flatten `RBM` and `MoG` into synonyms.
 - Keep empowerment concrete, not vague
 - Name patterns only when they create real leverage
 - Stories exist to prove a principle, not to build persona
+- Keep paragraph rhythm human: default to 2-4 sentence paragraphs and reserve
+  one-sentence paragraphs for deliberate emphasis
 - Do not drift into generic AI boosterism
 - Do not drift into consultant-brand prose
 - Do not confuse fast output with real transformation
@@ -98,6 +101,36 @@ the book spine:
 - The Empowerment Loop
 
 Treat this as an inventory, not a locked table of contents.
+
+## Preferred Review Stack
+
+For this book, the default review stack should not inherit the consulting-book
+lenses.
+
+Use these agents by default once prose exists:
+
+- `agents/reflective-working-adult-reviewer.md`
+- `agents/practical-handbook-reviewer.md`
+- `agents/skeptical-high-agency-reviewer.md`
+- `agents/human-empowerment-reviewer.md`
+
+Add these when the chapter touches intimate or high-stakes personal material:
+
+- `agents/parenting-real-life-reviewer.md`
+- `agents/meaning-and-identity-boundary-reviewer.md`
+
+The purpose is not to create review theater. It is to make sure each chapter is
+pressure-tested for:
+
+- lived fit
+- handbook usefulness
+- anti-fluff credibility
+- empowerment integrity
+- boundary discipline
+
+For explicit voice-and-cadence work, also load:
+
+- `skills/sounds-like-lee.md`
 
 ## When an RBM Happens
 

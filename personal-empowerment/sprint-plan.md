@@ -10,12 +10,11 @@
 
 ## Current Phase
 
-**Phase 1 — Book Design and Writing Setup**
+**Phase 5 — Part II Draft B**
 
-The workspace now has enough raw material to stop behaving like a blank-book
-project. The goal of the current phase is to turn the doctrine package into a
-working book blueprint, then use that blueprint to drive chapter drafting in a
-deliberate order.
+Part II drafting has moved from the curiosity/work pair to the higher-stakes
+personal identity section. The immediate goal is to close the meaning and belief
+arc before moving into the risk and synthesis chapters.
 
 ---
 
@@ -124,7 +123,7 @@ the book's doctrine.
 | Draft `Chapter 2 — Think in Stereo` | ✅ Done |
 | Draft `Chapter 3 — Forge, Don't Factory` | ✅ Done |
 | Draft `Chapter 4 — Expand, Don't Replace` | ✅ Done |
-| Run voice pass across Introduction + Part I | ⬜ Not started |
+| Run voice pass across Introduction + Part I | ✅ Done |
 | Run handbook-usefulness review across Introduction + Part I | ⬜ Not started |
 
 ### Sprint 3 Exit Criteria
@@ -143,6 +142,8 @@ the book's doctrine.
 |------|--------|
 | Draft `Chapter 5 — Turn Curiosity into Output` | ✅ Done |
 | Draft `Chapter 6 — Think Better About Work and Learning` | ✅ Done |
+| Run paragraph-rhythm pass across drafted chapters | ✅ Done |
+| Add personal-book reviewer stack and supporting skills | ✅ Done |
 | Draft supporting examples and exercises for both chapters | ⬜ Not started |
 | Thread the Empowerment Loop explicitly through both chapters | ⬜ Not started |
 | Review both chapters for handbook practicality | ⬜ Not started |
@@ -160,8 +161,9 @@ the book's doctrine.
 
 | Task | Status |
 |------|--------|
-| Draft `Chapter 7 — Use AI for Reflection, Parenting, and Decisions` | ⬜ Not started |
-| Draft `Chapter 8 — Explore Meaning, Belief, and Identity Without Losing Yourself` | ⬜ Not started |
+| Draft `Chapter 7 — Use AI for Reflection, Parenting, and Decisions` | ✅ Done |
+| Draft `Chapter 8 — Explore Meaning, Belief, and Identity Without Losing Yourself` | ✅ Done |
+| Run parenting / real-life reviewer on Chapter 7 | ⬜ Not started |
 | Thread the Empowerment Loop explicitly through both chapters | ⬜ Not started |
 | Review both chapters for concreteness and emotional honesty | ⬜ Not started |
 | Confirm the book stays practical in the most personal material | ⬜ Not started |
@@ -203,6 +205,7 @@ the book's doctrine.
 | Run a continuity pass across all chapters | ⬜ Not started |
 | Run a tone pass using `lee-voice.md` | ⬜ Not started |
 | Run a handbook-value pass chapter by chapter | ⬜ Not started |
+| Run the personal-reader review stack on all personal-handbook chapters | ⬜ Not started |
 | Check research-backed claims for caution and accuracy | ⬜ Not started |
 | Trim repetition across doctrine chapters | ⬜ Not started |
 | Confirm story usage supports principle instead of replacing it | ⬜ Not started |

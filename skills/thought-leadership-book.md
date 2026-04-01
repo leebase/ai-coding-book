@@ -26,8 +26,17 @@ constraints.
 | big-consulting-reviewer | `agents/big-consulting-reviewer.md` | Reviews for large-firm credibility and scale realism |
 | mid-market-consulting-reviewer | `agents/mid-market-consulting-reviewer.md` | Reviews for mid-market practicality and economics |
 | independent-consultant-reviewer | `agents/independent-consultant-reviewer.md` | Reviews for solo and small-shop relevance |
+| reflective-working-adult-reviewer | `agents/reflective-working-adult-reviewer.md` | Reviews for the main personal-reader tension and lived fit |
+| practical-handbook-reviewer | `agents/practical-handbook-reviewer.md` | Reviews for repeatable usefulness and exercise quality |
+| skeptical-high-agency-reviewer | `agents/skeptical-high-agency-reviewer.md` | Reviews for anti-fluff credibility and overclaim risk |
+| parenting-real-life-reviewer | `agents/parenting-real-life-reviewer.md` | Reviews for emotionally real life use and family-domain trust |
+| meaning-and-identity-boundary-reviewer | `agents/meaning-and-identity-boundary-reviewer.md` | Reviews for boundary discipline in meaning/identity material |
+| human-empowerment-reviewer | `agents/human-empowerment-reviewer.md` | Guards against slop, fake empowerment, and framework misuse |
 
-Every drafting stage should also load `skills/consulting-book-voice.md`.
+Every drafting stage should also load the project-local voice layer when one
+exists. For consulting books, use `skills/consulting-book-voice.md`. For
+`personal-empowerment/`, use `skills/personal-empowerment-book.md`, and for an
+explicit voice/cadence pass also load `skills/sounds-like-lee.md`.
 
 ## Stage 1: Frame the Thesis
 
@@ -102,23 +111,32 @@ slide-deck polished.
 
 ## Stage 7: Audience Review
 
-**Roles**:
-- big-consulting-reviewer
-- mid-market-consulting-reviewer
-- independent-consultant-reviewer
+Choose the review stack that matches the book's protagonist and failure modes.
 
-**Load**:
+**Consulting / business-facing stack**:
+
 - `agents/big-consulting-reviewer.md`
 - `agents/mid-market-consulting-reviewer.md`
 - `agents/independent-consultant-reviewer.md`
 
+**Personal handbook stack**:
+
+- `agents/reflective-working-adult-reviewer.md`
+- `agents/practical-handbook-reviewer.md`
+- `agents/skeptical-high-agency-reviewer.md`
+- `agents/human-empowerment-reviewer.md`
+
+**Sensitive-domain add-ons when relevant**:
+
+- `agents/parenting-real-life-reviewer.md`
+- `agents/meaning-and-identity-boundary-reviewer.md`
+
 **Produce**: Audience Review Notes
 
-- What lands for Big Consulting?
-- What lands for mid-market firms?
-- What lands for the individual consultant?
-- Where does the draft overfit one audience and lose the others?
-- What scale assumptions need to be made explicit?
+- What lands for the core reader?
+- What feels thin, unrealistic, or overfit?
+- Where does the draft lose transferability or trust?
+- What practical or boundary issues need to be made explicit?
 
 ## Stage 8: Refine
 
@@ -131,6 +149,7 @@ every section still serves the claim rather than the note pile.
 
 Before marking prose done, run an explicit tone pass:
 
-- remove consulting cliches
+- remove cliches from the dominant genre
 - replace abstract prestige language with observed language
-- make sure the reader feels guided by a person rather than addressed by a firm
+- make sure the reader feels guided by a person rather than addressed by a
+  brand, firm, or machine

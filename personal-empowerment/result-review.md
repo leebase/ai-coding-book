@@ -4,6 +4,147 @@
 
 ---
 
+## 2026-04-01 — Chapter 8 Drafted, Part II Draft B Started
+
+Drafted
+[chapter-8-explore-meaning-belief-identity-without-losing-yourself.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-8-explore-meaning-belief-identity-without-losing-yourself.md)
+to close the high-stakes meaning and identity section in Part II.
+
+What changed:
+
+- added the Anchor Story (`The Divine Struggle`) from the proof map as the lead
+  lived proof
+- introduced a meaning-level boundary rule that keeps reflection support from
+  drifting into spiritual outsourcing
+- added a practical ordinary example (grief conversation framing) so this chapter
+  stays useful outside exceptional stories
+- added a lightweight loop for belief work: generate contrast, test assumptions,
+  rewrite in your own words
+- kept risk language practical with one clear mitigation boundary (preparation only,
+  no substitution)
+
+Why it matters:
+
+- Part II now has the first full transfer from doctrine to meaning and identity.
+- the chapter keeps the Handbook promise in the most fragile domain.
+- the sprint can now move from drafting into reader-review and boundary checks
+  for Chapters 7–8.
+
+## 2026-03-31 — Personal Empowerment Agent Stack Expanded
+
+Added the missing agent/skill infrastructure so this book now has a review and
+responsibility model closer to the earlier books in the series.
+
+What changed:
+
+- added new review skills:
+  [personal-audience-review.md](/Users/lee/projects/ai-coding-book/skills/personal-audience-review.md),
+  [handbook-value-review.md](/Users/lee/projects/ai-coding-book/skills/handbook-value-review.md),
+  [sounds-like-lee.md](/Users/lee/projects/ai-coding-book/skills/sounds-like-lee.md),
+  and
+  [personal-boundary-review.md](/Users/lee/projects/ai-coding-book/skills/personal-boundary-review.md)
+- added new personal-book reviewer agents:
+  [reflective-working-adult-reviewer.md](/Users/lee/projects/ai-coding-book/agents/reflective-working-adult-reviewer.md),
+  [practical-handbook-reviewer.md](/Users/lee/projects/ai-coding-book/agents/practical-handbook-reviewer.md),
+  [skeptical-high-agency-reviewer.md](/Users/lee/projects/ai-coding-book/agents/skeptical-high-agency-reviewer.md),
+  [parenting-real-life-reviewer.md](/Users/lee/projects/ai-coding-book/agents/parenting-real-life-reviewer.md),
+  and
+  [meaning-and-identity-boundary-reviewer.md](/Users/lee/projects/ai-coding-book/agents/meaning-and-identity-boundary-reviewer.md)
+- updated the shared
+  [thought-leadership-book.md](/Users/lee/projects/ai-coding-book/skills/thought-leadership-book.md)
+  workflow so it no longer assumes consulting reviewers and consulting voice by
+  default
+- updated [AGENTS.md](/Users/lee/projects/ai-coding-book/AGENTS.md) so the repo now explicitly supports both consulting/business stacks and a personal-empowerment stack
+- updated
+  [personal-empowerment-book.md](/Users/lee/projects/ai-coding-book/skills/personal-empowerment-book.md)
+  to define the preferred review stack for this book
+
+Why it matters:
+
+- this book now has explicit aspect owners and reader-lens reviewers instead of
+  relying on one local reviewer plus ad hoc external feedback
+- the shared AuthorFlow system is less likely to misapply consulting-book
+  assumptions to a personal handbook
+
+## 2026-03-31 — Chapter 6 Tightened From Review
+
+Revised
+[chapter-6-think-better-about-work-and-learning.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-6-think-better-about-work-and-learning.md)
+after editorial review.
+
+What changed:
+
+- narrowed the Hockey Stick proof from career-arc summary to one visible
+  learning rep
+- showed the learning move on the page: map tensions, inspect source, explain
+  back in Lee's own language, then pressure-test
+- replaced the more internal labels with plainer explanation where the reader
+  needed it
+- added a visible weak-prep versus better-prep contrast inside the strategy
+  meeting example
+- upgraded the chapter from a distinction to a reusable named workflow:
+  `The Work Learning Loop`
+- strengthened the research pulse around cognitive offloading and
+  scaffolding-versus-substitution logic
+- trimmed the close so the chapter lands harder on retained capability
+
+Why it matters:
+
+- Chapter 6 now shows learning happening instead of only describing the idea of
+  better learning
+- the professional chapter is more reusable as a handbook move, not just a good
+  argument
+
+## 2026-03-31 — Global Cadence Pass and Process Fix
+
+Ran a manuscript-wide rhythm pass across the drafted chapters and then updated
+the local process docs so the same anti-pattern is easier to catch early.
+
+What changed:
+
+- tightened paragraph rhythm across the Introduction and Chapters 1-7
+- reduced habitual stacks of one-sentence paragraphs while keeping a few
+  deliberate emphasis lines
+- cleaned up a few awkward post-automation joins, especially in the opening
+  hinge sections and the Hockey Stick chapters
+- added an explicit cadence guardrail to
+  [lee-voice.md](/Users/lee/projects/ai-coding-book/personal-empowerment/lee-voice.md)
+- added the same rule to
+  [personal-empowerment-book.md](/Users/lee/projects/ai-coding-book/skills/personal-empowerment-book.md)
+- updated
+  [human-empowerment-reviewer.md](/Users/lee/projects/ai-coding-book/agents/human-empowerment-reviewer.md)
+  so future review passes flag sloganized sentence ladders
+
+Why it matters:
+
+- the prose now reads more like guided thought and less like stacked slogan
+  beats
+- the process now has a durable guardrail instead of relying on Lee to keep
+  correcting the same rhythm issue by hand
+
+## 2026-03-31 — Chapter 7 Drafted
+
+Drafted
+[chapter-7-use-ai-for-reflection-parenting-and-decisions.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-7-use-ai-for-reflection-parenting-and-decisions.md).
+
+What the chapter now does:
+
+- extends the book into emotionally real personal life without drifting into
+  therapeutic overreach
+- states the high-stakes boundary early: AI may support reflection and
+  preparation, but not replace therapy, clinical judgment, spiritual authority,
+  empathy, or accountable relationship
+- uses parenting as the anchor proof for reflection support before action
+- adds an ordinary hard-conversation example with a teenager
+- gives the reader a simple decision pattern for emotionally loaded choices
+- keeps privacy and sensitive-information caution on the page
+
+Why it matters:
+
+- Part II now reaches beyond curiosity and work into personal life
+- the manuscript can test its doctrine under higher emotional stakes without
+  waiting for the late risk chapter
+
 ## 2026-03-31 — Chapter 6 Drafted
 
 Drafted
@@ -98,6 +239,8 @@ What the chapter now does:
 - makes the Hockey Stick proof more concrete by centering the Lewis and Clark
   offer and the framing/rehearsal work around it rather than leaving the story
   at title level
+- clarifies that AI is the latest wave in a longer pattern of expansion rather
+  than the origin of the pattern itself
 - gives the reader a practical expansion test and an ordinary manager-scale
   example
 - defines expansion more behaviorally and adds a small replacement-vs-expansion

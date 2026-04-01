@@ -10,9 +10,9 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; Introduction and Chapters 1-6 drafted; Part I unit pass in progress; Part II underway |
+| **Status** | Concept package locked; Introduction and Chapters 1-8 drafted; cadence/process pass complete; Part II Draft B active |
 | **Mode** | 2 (Collaborative) |
-| **Last Updated** | 2026-03-31 |
+| **Last Updated** | 2026-04-01 |
 
 ---
 
@@ -123,6 +123,18 @@ architecture now exist as working planning decisions inside `book-plan.md`.
 The live methodology log for the book is in `author-flow.md`. A dedicated
 project skill now exists at `skills/personal-empowerment-book.md`, and a
 project-specific reviewer now exists at `agents/human-empowerment-reviewer.md`.
+That local stack has now expanded with dedicated reader-review agents for:
+
+- reflective working adults
+- handbook practicality
+- skeptical high-agency readers
+- parenting / emotionally real life
+- meaning / identity boundary pressure
+
+The shared AuthorFlow docs have also been corrected so this book no longer
+inherits consulting-review assumptions by default. A dedicated voice-pass skill
+now exists at `skills/sounds-like-lee.md`, tied directly to
+`personal-empowerment/lee-voice.md`.
 
 The manuscript is no longer empty. The opening chapter now exists at
 `chapters/introduction-this-is-not-about-going-faster.md`, and Chapter 1 now
@@ -131,7 +143,10 @@ at `chapters/chapter-2-think-in-stereo.md`. Chapter 3 now exists at
 `chapters/chapter-3-forge-dont-factory.md`. Chapter 4 now exists at
 `chapters/chapter-4-expand-dont-replace.md`. Chapter 5 now exists at
 `chapters/chapter-5-turn-curiosity-into-output.md`. Chapter 6 now exists at
-`chapters/chapter-6-think-better-about-work-and-learning.md`.
+`chapters/chapter-6-think-better-about-work-and-learning.md`. Chapter 7 now
+exists at `chapters/chapter-7-use-ai-for-reflection-parenting-and-decisions.md`.
+`chapter-8-explore-meaning-belief-identity-without-losing-yourself.md` is now drafted
+for the meaning-belief section.
 
 The proof layer did its job: the Introduction was drafted from the locked
 thesis, proof map, and research support map instead of improvising from a pile
@@ -158,19 +173,24 @@ from self-erasure, and it makes the first three doctrine chapters answer a
 larger human-development question instead of reading like isolated workflow
 moves.
 
-Part I is now drafted as a unit. The next major move is a voice and handbook
-usefulness pass across the Introduction plus Chapters 1-4 before the book moves
-deeper into Part II.
+Part II is now in its second sprint.
+We are moving from external action and work learning into meaning and identity,
+so the next pass will balance existential usefulness with strict personal boundaries.
 
-That work has now begun in parallel with Chapter 5. The Introduction now names
-the four-move ladder more explicitly, Chapter 1 closes with less repeated
-cadence, and Chapter 2 now hands off more clearly into the forge chapter.
-Chapter 5 starts Part II by arguing that AI lowers the barrier between interest
-and first artifact, using music as the anchor proof and a small backyard-garden
-plan as an ordinary reader-scale translation. Chapter 6 now carries the
-work-and-learning layer, arguing for scaffolding over substitution and using
-the Hockey Stick Bet plus the `Am I Adding Value?` loop to keep professional
-thinking from turning into borrowed competence.
+Part I is now drafted as a unit, and the cadence problem Lee flagged has now
+been addressed across all drafted chapters. The one-sentence paragraph habit
+was corrected in the manuscript and then promoted into the local voice,
+skill, and reviewer docs as an explicit rule: one-sentence paragraphs are for
+deliberate emphasis, not default rhythm.
+
+That work happened in parallel with Part II. Chapter 5 argues that AI lowers
+the barrier between interest and first artifact, using music as the anchor
+proof and a small backyard-garden example as ordinary translation. Chapter 6
+now carries the work-and-learning layer, arguing for scaffolding over
+substitution and using the Hockey Stick Bet plus the `Am I Adding Value?` loop
+to keep professional thinking from turning into borrowed competence. Chapter 7
+extends the manuscript into reflection, parenting, and emotionally loaded
+decisions while keeping high-stakes human boundaries explicit.
 
 ---
 
@@ -200,8 +220,7 @@ thinking from turning into borrowed competence.
 2. What chapter-level exercise pattern, if any, should repeat across the book?
 3. Does Chapter 10 need a stronger lived weakening story than the current proof
    set provides?
-4. Does Chapter 6 need a cleaner learning-specific story?
-5. How hard should the Introduction lean on explicit research language versus
+4. How hard should the Introduction lean on explicit research language versus
    keeping the support mostly implicit?
 
 ---
@@ -210,10 +229,10 @@ thinking from turning into borrowed competence.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Tighten Chapter 6 — Think Better About Work and Learning | Lee + AI | The work-and-learning chapter is sharp enough to carry the strongest professional caution in Part II |
-| 2 | Finish the Part I voice and handbook-usefulness pass | Lee + AI | The opening unit sounds cumulative, distinct by chapter, and practically reusable |
-| 3 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
-| 4 | Draft Chapter 7 — Use AI for Reflection, Parenting, and Decisions | Lee + AI | Part II extends into emotionally real personal life |
+| 1 | Finish the handbook-usefulness pass across drafted chapters | Lee + AI | The drafted chapters feel practical, cumulative, and reusable |
+| 2 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
+| 3 | Complete the handbook-usefulness + boundary pass on Chapter 8 | Lee + AI | Meaning, belief, and identity remain practical and non-therapeutic |
+| 4 | Run the new personal-review stack across Chapters 5-7 | Lee + AI | Part II has lived-fit, handbook, anti-fluff, and boundary review before it goes deeper |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---
