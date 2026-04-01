@@ -136,6 +136,16 @@ inherits consulting-review assumptions by default. A dedicated voice-pass skill
 now exists at `skills/sounds-like-lee.md`, tied directly to
 `personal-empowerment/lee-voice.md`.
 
+The local activation registry for this book is now:
+
+- `personal-empowerment/agents.md`
+
+That file should be treated as part of the startup protocol, not as passive
+reference. The business-growth workspace had the right sophistication about
+review roles and supporting skills; this workspace now explicitly activates the
+same level of process discipline for its own protagonist, review stack, and
+voice layer.
+
 The manuscript is no longer empty. The opening chapter now exists at
 `chapters/introduction-this-is-not-about-going-faster.md`, and Chapter 1 now
 exists at `chapters/chapter-1-you-are-the-executive.md`. Chapter 2 now exists
@@ -183,6 +193,12 @@ been addressed across all drafted chapters. The one-sentence paragraph habit
 was corrected in the manuscript and then promoted into the local voice,
 skill, and reviewer docs as an explicit rule: one-sentence paragraphs are for
 deliberate emphasis, not default rhythm.
+
+The latest full-manuscript cadence pass tightened the Introduction and
+Chapters 1-8 again so the book no longer falls into consecutive one-sentence
+paragraph clusters. The workflow now includes an explicit cadence gate in
+`skills/sounds-like-lee.md`, and the local registry plus book skill now make
+that gate part of the chapter-finish path rather than a stylistic suggestion.
 
 That work happened in parallel with Part II. Chapter 5 argues that AI lowers
 the barrier between interest and first artifact, using music as the anchor
@@ -243,15 +259,18 @@ decisions while keeping high-stakes human boundaries explicit.
 ### Start of session
 1. Read `AGENTS.md`
 2. Read this file
-3. Read `result-review.md`
-4. Read `sprint-plan.md`
-5. Read `author-flow.md`
-6. Read `book-plan.md`
-7. Read `skills/personal-empowerment-book.md`
+3. Read `agents.md`
+4. Read `result-review.md`
+5. Read `sprint-plan.md`
+6. Read `author-flow.md`
+7. Read `book-plan.md`
+8. Read `skills/personal-empowerment-book.md`
+9. Read `skills/sounds-like-lee.md` before revising chapter prose
 
 ### End of session
 1. Update "What's Happening Now"
 2. Update `result-review.md`
 3. Update `sprint-plan.md` if task status changed
-4. Update "Next Actions Queue"
-5. Update "Last Updated"
+4. Update `agents.md` if the active stack changed
+5. Update "Next Actions Queue"
+6. Update "Last Updated"

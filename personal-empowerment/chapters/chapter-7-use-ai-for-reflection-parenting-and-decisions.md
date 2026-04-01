@@ -13,12 +13,12 @@ Work often gives you distance. Personal life usually does not. At work, you can
 often pause and optimize from the outside. At home, inside a relationship, you are
 in it, activated, and already in motion, so this section has higher friction.
 
-It is also why a thinking partner can be useful.
-The tool can help you slow down the story before you speak, and then you decide.
+It is also why a thinking partner can be useful. The tool can help you slow
+down the story before you speak, and then you decide.
 
 ## Healthy Support vs. Dangerous Delegation
 
-Healthy support in personal life usually looks like one of four things:
+Healthy support in personal life usually looks like:
 
 - helping you name what is actually happening
 - helping you prepare for a hard conversation
@@ -36,46 +36,42 @@ That second list is where people confuse comfort with clarity. If the
 conversation is emotional, this distinction is the entire chapter: in parenting,
 in conflict, in repair, the human remains the one with consequence.
 
-AI can help you shape the moment.
-It cannot own the moment.
+AI can help you shape the moment. It cannot own the moment.
 
 ## Lee in the Field
 
-One specific moment taught this better than any abstract principle.
+One specific moment taught this better than any abstract principle. It was a
+Friday night after a long week.
+My daughter walked in late, tense, and still talking over an argument she had
+just had. My first impulse was to correct her immediately. I could already
+hear a polished line in my head: “You need to pause and take ownership.”
 
-It was a Friday night after a long week.
-My daughter walked in late, tense, and still talking over an argument she had just
-had.
-My first impulse was to correct her immediately.
-
-My brain was already loud.
-I had a clean sentence ready in my head.
-
-Then I made a better move.
-I asked AI for three options and one hard constraint:
+My brain was already loud, and I already had a clean sentence ready in my
+head. Then I made a better move. I asked AI for three options and one hard
+constraint:
 
 - one version that stayed calm
 - one version that kept me accountable
 - one version that named what I was afraid of instead of assigning blame
 
-I used those prompts to hear my own distortion faster.
+I used those prompts to hear my own distortion faster. The first version I got
+was still too quick. It fixed tone, not intention. The second rewrite is what
+mattered because it landed closer to my own truth.
 
-The value came from the rewrite, not from the final generated line. I still had to
-decide whether I was reacting to her behavior or to my own anxiety.
+The value came from the rewrite, not from the final generated line. I still
+had to decide whether I was reacting to her behavior or to my own anxiety.
 
-AI helped me create distance where I was only urgency.
-It did not replace being a parent.
-It gave me a cleaner working surface for empathy.
+AI helped me create distance where I was only urgency. It did not replace
+being a parent. It gave me a cleaner working surface for empathy.
 
 ## A More Ordinary Example
 
-You do not need a crisis to use this chapter.
-Say you need to talk with a teenager after a week of tension.
-You are frustrated.
-They are defensive.
+You do not need a crisis to use this chapter. If you need to talk with a
+teenager after a week of tension, you are usually frustrated and they are
+often defensive. That is exactly where this section gets useful.
 
-The weak move is easy: ask AI for the best-sounding message and send it.
-The better move is to use the tool to stress-test your thinking.
+The weak move is easy: ask AI for the best-sounding message and send it. The
+better move is to use the tool to stress-test your thinking.
 
 Try this:
 
@@ -83,17 +79,16 @@ Try this:
 - ask for two openings that lower defensiveness without lowering accountability
 - ask what part of your response is fear rather than the actual issue
 
-Then answer each point in your own words, then speak, and repair if you miss.
-That is the job.
+Then answer each point in your own words, then speak, and repair quickly if you
+miss.
+That is the job, and it only works if the human still has to stand in the
+conversation afterward.
 
 ## Reflection Is Not Therapy
 
 Reflection support can be useful. Therapy replacement is not. AI can help you
-rehearse, compare, and clarify.
-
-AI cannot be your therapist.
-AI cannot be your clinician.
-AI cannot be your spiritual authority.
+rehearse, compare, and clarify. It cannot be your therapist, your clinician,
+or your spiritual authority.
 
 A strong boundary is practical, not performative:
 
@@ -120,8 +115,8 @@ Do not use it this way:
 - ask it to replace the human conversation
 - ask it to authorize a response you were avoiding anyway
 
-If the decision involves a person in front of you, the tool must stay behind the
-work.
+If the decision involves a person in front of you, the tool has to stay behind
+the work, not in front of it.
 
 ## A Better Decision Pattern
 
@@ -139,9 +134,8 @@ was probably abdication.
 
 ## Do This Now
 
-Choose one real conversation or decision you have been avoiding.
-Not the hardest one.
-One real one.
+Choose one real conversation or decision you have been avoiding. Not the
+hardest one. One real one.
 
 Use this loop today:
 
@@ -154,10 +148,9 @@ Use this loop today:
 
 ## Common Failure Mode
 
-Emotional outsourcing is the quiet failure.
-The tool gives a smooth answer.
-Relief feels like wisdom, and comfort can look like clarity. That is when people
-protect their discomfort and skip the hard truth.
+Emotional outsourcing is the quiet failure. The tool gives a smooth answer.
+Relief feels like wisdom, and comfort can look like clarity. That is when
+people protect their discomfort and skip the hard truth.
 
 ## Risk and Mitigation
 

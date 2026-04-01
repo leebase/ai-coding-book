@@ -23,8 +23,9 @@ Forge logic says:
 - resistance improves thinking
 - authorship survives through revision
 
-That is why the book keeps coming back to this line: Forge, don't factory. Not because speed is bad. Because speed without pressure is one of the easiest ways to get weaker while
-looking more productive.
+That is why the book keeps coming back to this line: Forge, don't factory. Not
+because speed is bad. Because speed without pressure is one of the easiest
+ways to get weaker while looking more productive.
 
 ## Why One-Shot Output Feels So Convincing
 
@@ -153,7 +154,8 @@ Do not only improve what the model said. Fight it. Ask:
 - where is this too smooth?
 - what is this hiding?
 
-This is one of the fastest ways to separate living thought from generated ease.
+This is one of the fastest ways to separate living thought from generated ease,
+which is why contradiction matters as much as improvement.
 
 ### 3. Rewrite in inhabited language
 
@@ -243,7 +245,9 @@ Take one AI-generated draft you have created recently. Not a new one. An existin
 4. Verify one factual or high-confidence point.
 5. Name the one line or idea that actually survived the pressure.
 
-If nothing survives the pressure, that tells you something too.
+If nothing survives the pressure, that tells you something too, and it is
+better to learn that before you publish the draft into a real relationship or
+decision.
 
 ## Common Failure Mode
 

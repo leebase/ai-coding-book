@@ -29,9 +29,10 @@ Most of the market still frames AI in one of a few familiar ways.
 - It is a shortcut.
 - It is a way to automate annoying work.
 
-Some of that is true. It is just too small. The more interesting question is not, "How do I get AI to do this for me?" It is: What kind of person am I becoming while I use this tool?
-
-That is the real question. Because AI is not entering life as a single-purpose utility. It is entering the
+Some of that is true. It is just too small. The more interesting question is
+not, "How do I get AI to do this for me?" It is: What kind of person am I
+becoming while I use this tool? That is the real question, because AI is not
+entering life as a single-purpose utility. It is entering the
 thinking loop itself. It is showing up where people reflect, decide, write,
 study, create, plan, process, argue, prepare, and make sense of things.
 
@@ -99,13 +100,14 @@ But:
 - more action
 - more of yourself made visible and usable
 
-That is empowerment.
+That is empowerment, not just convenience dressed up as progress.
 
 ## Thinking Partner, Not Vending Machine
 
-The central reframe in this book is simple: AI is strongest when it functions as a thinking partner, not a vending machine. A vending machine gives you a finished item. A thinking partner helps you work.
-
-That is the difference. When people use AI badly, they tend to approach it like this:
+The central reframe in this book is simple: AI is strongest when it functions
+as a thinking partner, not a vending machine. A vending machine gives you a
+finished item. A thinking partner helps you work. That is the difference. When
+people use AI badly, they tend to approach it like this:
 
 - give me the answer
 - write the draft
@@ -138,10 +140,10 @@ a builder, a learner, or some combination of those. The point is not your job
 title. The point is that you do not want to become a passive user of fluent
 systems.
 
-You want to become more capable. That is who this book is for. If all you want is a bag of prompts, this will feel like too much book.
-
-If you want a way to use AI across life and work without giving away judgment,
-voice, or self-respect, this book is for you.
+You want to become more capable. That is who this book is for. If all you want
+is a bag of prompts, this will feel like too much book. If you want a way to
+use AI across life and work without giving away judgment, voice, or
+self-respect, this book is for you.
 
 ## What This Book Will Teach
 
@@ -176,9 +178,10 @@ application.
 You can agree with a sentence like "stay in control" and still use AI in a way
 that makes you softer, lazier, and more dependent. Application is where the truth shows up. So watch your own reactions.
 
-Where does the AI make you bolder in a good way? Where does it make you passive? Where do you stop thinking too early because the output sounds complete? Where do you get larger? Where do you get thinner?
-
-That self-observation is part of the handbook.
+Where does the AI make you bolder in a good way? Where does it make you
+passive? Where do you stop thinking too early because the output sounds
+complete? Where do you get larger? Where do you get thinner? That
+self-observation is part of the handbook.
 
 ## The Promise and the Responsibility
 
@@ -186,14 +189,12 @@ I am optimistic about AI. Not in the shallow sense. I am optimistic because I th
 able to see, think, articulate, create, decide, and act. I think it can help people become more themselves, not less.
 
 But that outcome is not automatic. That is why this book carries both promise
-and warning at the same time. Use AI boldly. Do not surrender yourself to it.
-Let it widen your range. Do not let it hollow out your judgment.
+and warning at the same time: use AI boldly, but do not surrender yourself to
+it. Let it widen your range without hollowing out your judgment. Let it help
+you enter rooms you would not have entered, but do not let it convince you
+that fluent output is the same thing as formed thought.
 
-Let it help you enter rooms you would not have entered. Do not let it convince
-you that fluent output is the same thing as formed thought. That is the
-discipline. That is the invitation. This book is not about going faster. It is
-about becoming more capable. And if we do this right, that means becoming more
-of yourself, not less. To use AI well, the first line you have to keep clear
-is simple:
-
-help is not authority. You are still the executive.
+That is the discipline. That is the invitation. This book is not about going
+faster. It is about becoming more capable. And if we do this right, that means
+becoming more of yourself, not less. To use AI well, the first line you have
+to keep clear is simple: help is not authority. You are still the executive.

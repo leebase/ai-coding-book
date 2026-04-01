@@ -35,7 +35,8 @@ barrier to first contact. It can help you:
 - turn a vague pull into a small experiment
 - move from passive interest to active making
 
-That is a real shift. And it matters more than people think. A person who makes one rough artifact learns something a spectator never does.
+That is a real shift, and it matters more than people think. A person who
+makes one rough artifact learns something a spectator never does.
 
 ## Consumption Is Not the Same as Contact
 
@@ -115,7 +116,8 @@ all. And once a person starts, contact does something pure consumption rarely do
 Curiosity is not just a feeling. It is often the front edge of identity expansion. People do not usually grow by becoming interested in less. They grow by turning live interest into repeated contact, then into practice,
 then into capability.
 
-AI can help that process begin sooner.
+AI can help that process begin sooner, which is why lowered activation energy
+matters more than people assume.
 
 ## The Wrong Way to Use This
 

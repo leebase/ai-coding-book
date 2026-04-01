@@ -13,10 +13,11 @@ This project is a handbook. It is not a prompt collection.
 Before doing meaningful work on this book, read:
 
 1. `personal-empowerment/context.md`
-2. `personal-empowerment/author-flow.md`
-3. `personal-empowerment/lee-ai-principles.md`
-4. `personal-empowerment/lee-stories.md`
-5. `personal-empowerment/lee-voice.md`
+2. `personal-empowerment/agents.md`
+3. `personal-empowerment/author-flow.md`
+4. `personal-empowerment/lee-ai-principles.md`
+5. `personal-empowerment/lee-stories.md`
+6. `personal-empowerment/lee-voice.md`
 
 Read these when relevant:
 
@@ -83,6 +84,8 @@ Do not flatten `RBM` and `MoG` into synonyms.
 - Stories exist to prove a principle, not to build persona
 - Keep paragraph rhythm human: default to 2-4 sentence paragraphs and reserve
   one-sentence paragraphs for deliberate emphasis
+- Before treating a chapter revision as done, run the `Cadence Gate` in
+  `skills/sounds-like-lee.md`
 - Do not drift into generic AI boosterism
 - Do not drift into consultant-brand prose
 - Do not confuse fast output with real transformation

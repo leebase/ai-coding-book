@@ -127,9 +127,10 @@ Then do this in sequence.
 
 ### Step 1. Start ugly
 
-Write the thought in the roughest honest form you can. Not polished. Something like: "I think I am frustrated about X, but I am not sure that is really the issue." Or: "I have an idea here, but I do not know what the actual hinge is."
-
-That is enough to start the loop.
+Write the thought in the roughest honest form you can. Not polished.
+Something like: "I think I am frustrated about X, but I am not sure that is
+really the issue." Or: "I have an idea here, but I do not know what the
+actual hinge is." That is enough to start the loop.
 
 ### Step 2. Ask for clarification, not solution
 
@@ -152,7 +153,8 @@ Do not reward the first response just because it is tidy. Say:
 - give me the stronger opposing view
 
 This is where the thinking becomes yours again, because your reaction becomes
-part of the material.
+part of the material instead of letting the AI's first phrasing become the
+default truth.
 
 ### Step 4. Extract the improved thought
 
@@ -162,15 +164,12 @@ language. Name the hinge. That is the output, not the whole conversation. The
 clarified thought is the usable first loop. Here is a tiny version of what
 that can look like:
 
-rough thought: "I think this issue matters, but I still cannot tell what the hinge is."
+- rough thought: "I think this issue matters, but I still cannot tell what the hinge is."
+- AI response: "Maybe the real issue is not the topic itself but the hidden assumption under it."
+- pushback: "Closer, but make it less abstract. What assumption would actually make the whole thing wobble?"
+- clarified line: "The problem is not the tool. The problem is where I quietly stopped thinking."
 
-AI response: "Maybe the real issue is not the topic itself but the hidden assumption under it."
-
-pushback: "Closer, but make it less abstract. What assumption would actually make the whole thing wobble?"
-
-clarified line:
-
-"The problem is not the tool. The problem is where I quietly stopped thinking." That is the kind of move this chapter is after.
+That is the kind of move this chapter is after.
 
 ## A More Ordinary Example
 
@@ -233,5 +232,5 @@ The risk here is passive coasting disguised as dialogue. The mitigation is:
 
 That is how dialogue becomes a thinking tool instead of a dependency habit.
 Think in Stereo. It is one of the fastest ways to turn fuzzy thought into
-something strong enough to use. And once it is in the open, the next job is to
+something strong enough to use, and once it is in the open the next job is to
 pressure it until it becomes work you can trust.

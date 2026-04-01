@@ -45,6 +45,19 @@ Your job is to pressure-test whether the prose:
 - Which lines feel true but not yet inhabited
 - What to cut, merge, or sharpen to restore Lee's voice
 
+## Cadence Gate
+
+Before calling a chapter-level prose pass done:
+
+- scan for consecutive one-sentence paragraphs and remove them unless they are
+  a clearly intentional hinge
+- if a chapter still has more than a small handful of one-sentence paragraphs,
+  justify why each one is carrying emphasis rather than habit
+- prefer merging short adjacent paragraphs into 2-4 sentence thought units when
+  the prose starts sounding chopped up
+- treat list-intro lines as acceptable only when the list genuinely needs a
+  setup sentence, not as a way to preserve slogan cadence
+
 ## Rules
 
 - Use `lee-voice.md` as the source of truth

@@ -65,7 +65,8 @@ is one more way AI can make you faster without making you stronger.
 
 ## The Executive Model in Practice
 
-The Executive Model is simple enough to remember in motion.
+The Executive Model is simple enough to remember in motion, which is why it
+works as a real-life practice and not just a chapter diagram.
 
 ### 1. Hire the right mind
 
@@ -101,7 +102,8 @@ If you take the first answer because it sounds smooth, you are not managing. You
 - what still needs my judgment
 
 That review step is where authorship stays alive, because it keeps you from
-mistaking reception for leadership.
+mistaking reception for leadership and turns the interaction back into managed
+work instead of passive receipt.
 
 ### 4. Own the output
 
@@ -163,7 +165,7 @@ This is where people usually drift. They do not consciously decide to surrender 
 
 So they stop pushing. They stop checking. They stop asking whether the answer is merely fluent or actually sound. This is not laziness in the cartoon sense. It is more subtle than that. It is what happens when convenience becomes authority by default.
 
-And once that happens, several failure modes show up fast:
+Once that happens, several failure modes show up fast:
 
 - automation bias: you trust the answer because it arrived with confidence
 - confident invention: the model makes things up or smooths over what it does
@@ -190,7 +192,7 @@ For you, this probably does not start with IP law or a performance review. It st
 
 In each of those cases, the question is the same. What job is the AI doing, and what job is still yours? Start there. If you cannot answer that clearly, the boundary is already getting soft.
 
-A useful default is this: Let the AI help with:
+A useful default is this. Let the AI help with:
 
 - options
 - structure
@@ -199,7 +201,7 @@ A useful default is this: Let the AI help with:
 - rehearsal
 - clarification
 
-Keep for yourself:
+Keep these for yourself:
 
 - judgment
 - truth-testing
@@ -231,7 +233,8 @@ The common failure mode is not "the AI gave me a bad answer." The common failure
 
 ## Risk and Mitigation
 
-The risk in this chapter is overtrust. The mitigation is simple, but not automatic:
+The risk in this chapter is overtrust. The mitigation is simple, but not
+automatic:
 
 - assign clearly
 - orient clearly
@@ -240,4 +243,5 @@ The risk in this chapter is overtrust. The mitigation is simple, but not automat
 - keep the final consequence attached to the human
 
 That is how you use a powerful tool without slowly training yourself out of the
-very capacities you were hoping to expand. You are the executive. Keep that line clear and the rest of your AI practice gets healthier fast.
+very capacities you were hoping to expand. You are the executive, and if you
+keep that line clear the rest of your AI practice gets healthier fast.

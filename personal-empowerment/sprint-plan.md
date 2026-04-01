@@ -256,6 +256,8 @@ the book's doctrine.
 - Do not let efficiency language quietly replace the abundance-through-amplification thesis
 - Do not call a human insight an `RBM`
 - Do not let framework naming get ahead of proof
+- Read `agents.md` before substantive work in this directory
+- Run `skills/sounds-like-lee.md` before treating revised chapter prose as done
 - Before each drafting sprint, re-read `book-plan.md`
 - Stop for human approval once the thesis, research, stories, frameworks, and
   positioning package is ready

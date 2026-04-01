@@ -72,6 +72,8 @@ Agents drift. This rule prevents it.
 If you are working inside a standalone book directory such as
 `growth-consulting-playbook/`, also re-read that directory's local
 `context.md`, `result-review.md`, and `sprint-plan.md` before continuing.
+If an `agents.md` registry exists in that directory, read it too and treat it
+as part of the live startup protocol rather than as optional reference.
 
 ---
 

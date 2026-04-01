@@ -105,9 +105,8 @@ confidence instead of borrowed hype: give me five high performers, and let me
 show them how to become radically more capable with these tools before a
 broader rollout. That only works if something real has taken root in you.
 
-I am fine being tool-dependent for speed. That is not the issue.
-
-The issue is what I keep when the tool is not in the room:
+I am fine being tool-dependent for speed. That is not the issue. The issue is
+what I keep when the tool is not in the room:
 
 - judgment
 - frameworks
@@ -218,7 +217,9 @@ thinking or quietly replace it. That might mean:
 - using research support without becoming dependent on pre-digested thought
 - writing better recommendations without renting your judgment
 
-One useful question is: Did this workflow leave me more capable the next time? That is the standard. Not whether the meeting went fine. Not whether the memo looked clean. Whether something in you actually got stronger.
+One useful question is: Did this workflow leave me more capable the next time?
+That is the standard. Not whether the meeting went fine. Not whether the memo
+looked clean. Whether something in you actually got stronger.
 
 ## Do This Now
 
@@ -230,7 +231,8 @@ Take one real work or learning task from this week. Then run this check:
 4. Add one step where you must explain the issue back in your own words.
 5. End by writing one sentence answering: did this workflow increase my understanding or only my output?
 
-That answer is usually enough to tell you which path you are on.
+That answer is usually enough to tell you which path you are on, because it
+forces you to separate visible output from retained capability.
 
 ## Common Failure Mode
 

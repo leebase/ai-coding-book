@@ -62,7 +62,8 @@ or identity. That is the goal. This is why the first three chapters matter. You 
 You think in stereo so unfinished thought gets stronger instead of flatter. You forge instead of factory so output passes through pressure before it carries
 your name. Now Chapter 4 names what all of that is for.
 
-Not just better AI use, but a bigger human use.
+Not just better AI use, but a bigger human use. That is what the earlier
+chapters were trying to protect.
 
 ## Lee in the Field
 
@@ -141,7 +142,8 @@ The deeper question is not whether the tool made you faster while it was
 present. The deeper question is what it left behind in you. Did it deepen judgment? Did it increase range? Did it leave you with stronger language, better questions, clearer pattern
 recognition, or more courage to enter the room again?
 
-That is the residue that matters.
+That is the residue that matters, because it tells you what stayed in you after
+the tool was gone.
 
 ## A Quick Expansion Test
 
@@ -184,13 +186,15 @@ avoid discomfort. Not a huge life overhaul. One place. Then run this test:
 4. Use the tool once in a way that keeps you visibly in the work.
 5. Write one sentence answering this: did that use make me more capable or more dependent?
 
-That answer is worth more than a hundred clever prompts.
+That answer is worth more than a hundred clever prompts, because it exposes the
+direction of the leverage instead of admiring the tool.
 
 ## Common Failure Mode
 
-The common failure mode here is confusing relief with growth. The tool makes the discomfort disappear, so the user assumes progress happened. Sometimes progress did happen. Sometimes the hard part you removed was the part that would have changed you.
-
-That is what to watch.
+The common failure mode here is confusing relief with growth. The tool makes
+the discomfort disappear, so the user assumes progress happened. Sometimes
+progress did happen. Sometimes the hard part you removed was the part that
+would have changed you. That is what to watch.
 
 ## Risk and Mitigation
 

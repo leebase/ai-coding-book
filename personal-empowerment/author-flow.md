@@ -76,6 +76,7 @@ Current working answer:
 ## Core Artifacts In Use
 
 - `author-flow.md`
+- `agents.md`
 - `context.md`
 - `result-review.md`
 - `sprint-plan.md`
@@ -83,6 +84,8 @@ Current working answer:
 - `lee-ai-principles.md`
 - `lee-stories.md`
 - `lee-voice.md`
+- `skills/personal-empowerment-book.md`
+- `skills/sounds-like-lee.md`
 - `ai-thinking-research.md`
 - `book-plan.md`
 - `thesis-brief.md`
@@ -197,6 +200,63 @@ log as part of the live method.
 ---
 
 ## Running Log
+
+## 2026-04-01 — Cadence Needed a Workflow Gate, Not Just Taste
+
+One manuscript pattern showed up again even after earlier cleanup:
+the prose would drift toward stacked one-sentence paragraphs, especially in the
+most emotionally charged or declarative sections.
+
+What changed:
+
+- the drafted manuscript was tightened again across the Introduction and
+  Chapters 1-8
+- the local voice skill now includes a concrete `Cadence Gate`
+- the personal-book registry and skill now make that gate part of the finish
+  path for chapter prose
+
+Why it matters:
+
+- cadence drift was not just an editing flaw, it was a process flaw
+- the book now has a reusable anti-pattern check instead of relying on Lee or a
+  later reviewer to notice the same problem again
+
+Method signal:
+
+- if a recurring prose problem appears twice, promote the fix from taste into
+  workflow
+- voice protection works better when it includes explicit failure checks, not
+  only style ideals
+
+## 2026-04-01 — The Local Agent and Skill Stack Was Activated, Not Just Added
+
+One process bug became clear in this workspace:
+the right personal-book agents and skills existed on disk, but the startup flow
+did not force future sessions to load them.
+
+What changed:
+
+- `personal-empowerment/agents.md` now functions as a live activation registry,
+  not just a file list
+- the local startup flow now explicitly reads that registry
+- `skills/sounds-like-lee.md` is now part of the default chapter-revision path,
+  tied directly to `lee-voice.md`
+- the local stack is now framed as the personal-handbook equivalent of the
+  reviewer-and-skill discipline already visible in `business-growth-playbook/`
+
+Why it matters:
+
+- future sessions are less likely to skip the right review lenses by accident
+- Lee's voice is now operationalized as part of finishing prose, not treated as
+  a nice-to-have
+- the book is less likely to inherit the wrong protagonist assumptions from
+  consulting or business books
+
+Method signal:
+
+- adding an agent or skill file is not the same as activating it
+- local startup docs have to name the active stack explicitly or the method
+  quietly regresses
 
 ## 2026-04-01 — Sprint Progression Into Part II Draft B
 

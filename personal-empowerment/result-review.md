@@ -4,6 +4,84 @@
 
 ---
 
+## 2026-04-01 — Manuscript Cadence Pass and Anti-Pattern Check Added
+
+Ran a full cadence pass across the drafted manuscript in
+[personal-empowerment/chapters/](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters)
+to remove the recurring stacked one-sentence-paragraph pattern while keeping a
+small number of deliberate emphasis lines.
+
+What changed:
+
+- tightened the Introduction plus Chapters 1-8 so the prose now lands in
+  fuller thought units more often instead of chopped-up slogan cadence
+- removed the remaining consecutive one-sentence paragraph clusters across the
+  drafted chapters
+- strengthened the local workflow in
+  [skills/sounds-like-lee.md](/Users/lee/projects/ai-coding-book/skills/sounds-like-lee.md)
+  with a `Cadence Gate`
+- updated
+  [personal-empowerment/agents.md](/Users/lee/projects/ai-coding-book/personal-empowerment/agents.md)
+  and
+  [skills/personal-empowerment-book.md](/Users/lee/projects/ai-coding-book/skills/personal-empowerment-book.md)
+  so chapter revisions now explicitly run that gate before prose is treated as
+  finished
+
+Why it matters:
+
+- the manuscript now sounds more like guided thought and less like stacked
+  emphasis beats
+- future sessions have a concrete check against the same rhythm drift instead
+  of relying on memory or taste alone
+
+### How to Verify
+
+1. Read the drafted chapters in [personal-empowerment/chapters/](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters) and confirm the prose no longer falls into consecutive one-sentence paragraph runs
+2. Read [skills/sounds-like-lee.md](/Users/lee/projects/ai-coding-book/skills/sounds-like-lee.md) and confirm the `Cadence Gate` now requires a paragraph-rhythm check before a prose pass is called done
+3. Read [personal-empowerment/agents.md](/Users/lee/projects/ai-coding-book/personal-empowerment/agents.md) and [skills/personal-empowerment-book.md](/Users/lee/projects/ai-coding-book/skills/personal-empowerment-book.md) and confirm the cadence gate is now part of the live workflow
+
+## 2026-04-01 — Personal Empowerment Agent and Skill Stack Activated
+
+Updated the workflow docs so the personal-book stack is now operational rather
+than merely present on disk.
+
+What changed:
+
+- updated [AGENTS.md](/Users/lee/projects/ai-coding-book/AGENTS.md) so
+  standalone book sessions now re-read a local
+  [agents.md](/Users/lee/projects/ai-coding-book/personal-empowerment/agents.md)
+  registry when one exists
+- updated
+  [personal-empowerment/context.md](/Users/lee/projects/ai-coding-book/personal-empowerment/context.md)
+  so the local startup flow explicitly includes
+  [agents.md](/Users/lee/projects/ai-coding-book/personal-empowerment/agents.md)
+  and the Lee voice pass
+- updated
+  [personal-empowerment/agents.md](/Users/lee/projects/ai-coding-book/personal-empowerment/agents.md)
+  so it now acts as a live activation guide by phase rather than a passive list
+- updated
+  [personal-empowerment/author-flow.md](/Users/lee/projects/ai-coding-book/personal-empowerment/author-flow.md),
+  [personal-empowerment/sprint-plan.md](/Users/lee/projects/ai-coding-book/personal-empowerment/sprint-plan.md),
+  and
+  [skills/personal-empowerment-book.md](/Users/lee/projects/ai-coding-book/skills/personal-empowerment-book.md)
+  so the local stack and `sounds-like-lee` pass are part of the active method
+
+Why it matters:
+
+- the personal book now inherits the same level of explicit workflow discipline
+  that the business-growth workspace had
+- future sessions are less likely to skip the personal review stack or the
+  Lee-voice pass by accident
+- the book is now less likely to drift back into consulting or generic-AI
+  assumptions during drafting and revision
+
+### How to Verify
+
+1. Read [personal-empowerment/context.md](/Users/lee/projects/ai-coding-book/personal-empowerment/context.md) and confirm `agents.md` is part of the local startup protocol
+2. Read [personal-empowerment/agents.md](/Users/lee/projects/ai-coding-book/personal-empowerment/agents.md) and confirm it includes activation order, phase-based use, and the Lee voice layer tied to [lee-voice.md](/Users/lee/projects/ai-coding-book/personal-empowerment/lee-voice.md)
+3. Read [skills/personal-empowerment-book.md](/Users/lee/projects/ai-coding-book/skills/personal-empowerment-book.md) and confirm it now reads the local registry before substantive work
+4. Read [AGENTS.md](/Users/lee/projects/ai-coding-book/AGENTS.md) and confirm standalone book sessions now re-read a local `agents.md` when present
+
 ## 2026-04-01 — Chapter 8 Drafted, Part II Draft B Started
 
 Drafted
