@@ -1,0 +1,9 @@
+# Ignore generated narration intermediates by default.
+*
+!/.gitignore
+!deepgram-audiobook/
+deepgram-audiobook/*
+!deepgram-audiobook/manifest.json
+!deepgram-audiobook/final/
+deepgram-audiobook/final/*
+!deepgram-audiobook/final/personal-empowerment-deepgram-thalia-v1.mp4

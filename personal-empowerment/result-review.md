@@ -4,6 +4,52 @@
 
 ---
 
+## 2026-04-01 — Audiobook Built With Spoken Headings and Cover-Backed MP4
+
+Built a full audiobook pass for the personal handbook using the Story Builder
+narration pipeline and kept the final deliverables inside the personal book
+workspace.
+
+What changed:
+
+- created
+  [personal-empowerment-with-ai-handbook-narration.md](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook-narration.md)
+  as a narration-prep manuscript so markdown headings become spoken text
+  instead of being stripped by the TTS loader
+- rendered a full Deepgram Aura audiobook into
+  [audio/deepgram-audiobook/](/Users/lee/projects/ai-coding-book/personal-empowerment/audio/deepgram-audiobook)
+- kept the final audiobook deliverables at
+  [personal-empowerment-deepgram-thalia-v1.wav](/Users/lee/projects/ai-coding-book/personal-empowerment/audio/deepgram-audiobook/final/personal-empowerment-deepgram-thalia-v1.wav)
+  and
+  [personal-empowerment-deepgram-thalia-v1.mp4](/Users/lee/projects/ai-coding-book/personal-empowerment/audio/deepgram-audiobook/final/personal-empowerment-deepgram-thalia-v1.mp4)
+- repackaged the MP4 so it uses
+  [PersonalEmpowermentCover.png](/Users/lee/projects/ai-coding-book/personal-empowerment/PersonalEmpowermentCover.png)
+  as the video background instead of the default black frame
+- added
+  [audio/.gitignore](/Users/lee/projects/ai-coding-book/personal-empowerment/audio/.gitignore)
+  so raw chunks, paced chunks, logs, and test renders stay out of git while
+  the final audiobook outputs remain trackable
+
+Why it matters:
+
+- the book now exists in listening form, not only print and ebook formats
+- the spoken version preserves chapter and section orientation instead of
+  flattening the structure
+- the repo now keeps the final audiobook artifacts without dragging along the
+  large intermediate render directories
+- the repo tracks a git-friendly cover-backed MP4, while the full-size WAV
+  remains a local deliverable because GitHub rejects files over 100 MB
+
+### How to Verify
+
+1. Open [personal-empowerment-with-ai-handbook-narration.md](/Users/lee/projects/ai-coding-book/personal-empowerment/personal-empowerment-with-ai-handbook-narration.md) and confirm the title, chapter names, and section headings are plain spoken lines instead of markdown headings
+2. Confirm [personal-empowerment-deepgram-thalia-v1.mp4](/Users/lee/projects/ai-coding-book/personal-empowerment/audio/deepgram-audiobook/final/personal-empowerment-deepgram-thalia-v1.mp4) exists in the repo path and opens cleanly
+3. Confirm the local full-size WAV still exists at [personal-empowerment-deepgram-thalia-v1.wav](/Users/lee/projects/ai-coding-book/personal-empowerment/audio/deepgram-audiobook/final/personal-empowerment-deepgram-thalia-v1.wav)
+4. Open the MP4 and confirm the cover image is the background for the full runtime
+5. Confirm [audio/.gitignore](/Users/lee/projects/ai-coding-book/personal-empowerment/audio/.gitignore) excludes intermediate audio folders and the full-size WAV while allowing the versioned MP4
+
+---
+
 ## 2026-04-01 — Final Back-End Chapters and Conclusion Polished, Exports Rebuilt
 
 Tightened the final manuscript pass on

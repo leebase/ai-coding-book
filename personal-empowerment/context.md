@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; full manuscript drafted through the conclusion; exports rebuilt with cover; Sprint 7 active |
+| **Status** | Concept package locked; full manuscript drafted through the conclusion; print/ebook exports plus audiobook outputs built; Sprint 7 active |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-04-01 |
 
@@ -246,6 +246,14 @@ successfully using `PersonalEmpowermentCover.png` as the cover asset, and the
 full export set has now been rebuilt again after the latest Chapter 10,
 Chapter 11, and conclusion polish.
 
+Audiobook outputs now exist too. A narration-prep manuscript at
+`personal-empowerment-with-ai-handbook-narration.md` was created so chapter and
+section headings are spoken instead of being stripped by the Story Builder TTS
+pipeline. The finished Deepgram Aura audiobook lives under
+`audio/deepgram-audiobook/`. The repo tracks a git-friendly cover-backed MP4
+there, while the full-size WAV remains a local output because it exceeds
+GitHub's file-size limit.
+
 The PDF build path was deliberately set up without pandoc's
 `markdown+hard_line_breaks` extension so the source wrapping in the manuscript
 does not turn into forced line breaks in the export, which had been part of the
@@ -299,7 +307,7 @@ decisions while keeping high-stakes human boundaries explicit.
 | 2 | Finish the handbook-usefulness pass across drafted chapters | Lee + AI | The drafted chapters feel practical, cumulative, and reusable |
 | 3 | Run the new personal-review stack across Chapters 5-11 plus the conclusion | Lee + AI | The back half passes lived-fit, handbook usefulness, and boundary review |
 | 4 | Settle the final subtitle after the full manuscript pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
-| 5 | Do a visual QA pass on the rebuilt DOCX, EPUB, and PDF outputs | Lee + AI | The export set is trusted for release packaging |
+| 5 | Do a spot-check on the audiobook start, middle, and end | Lee + AI | The spoken headings, pacing, and cover-backed MP4 all hold up in listening use |
 
 ---
 
