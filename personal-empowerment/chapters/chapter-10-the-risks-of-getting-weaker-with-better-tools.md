@@ -83,7 +83,9 @@ value?
 That loop matters because it exposes the difference between sounding useful and
 actually contributing. AI can make you sound prepared. It can make you sound
 structured. It can make you sound decisive. But if you are not adding real
-judgment, then the speed gain may be hiding a capability loss.
+judgment, then the speed gain may be hiding a capability loss. If your
+contribution is mostly relaying the model's structure back to the room, you may
+be borrowing usefulness rather than adding it.
 
 That is the warning. The better the tool gets, the easier it becomes to
 confuse smoothness with strength.
@@ -285,7 +287,8 @@ The mitigation is not fear. It is governed use:
 - keep asking whether you are still adding value
 
 That is how better tools stop being a path to quiet atrophy and become part of
-a stronger human practice instead. Chapter 11 will turn that principle into a
-repeatable practice, because the point is not merely to avoid becoming weaker.
-The point is to build a way of working and living with AI that leaves more of
-you standing at the end.
+a stronger human practice instead. The practical line is simple: depending on a
+tool for throughput is not the same as depending on it for the underlying
+capability itself. The point is not merely to avoid becoming weaker. The point
+is to build a way of working and living with AI that leaves more of you
+standing at the end.
