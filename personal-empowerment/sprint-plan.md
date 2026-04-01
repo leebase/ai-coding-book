@@ -10,11 +10,11 @@
 
 ## Current Phase
 
-**Phase 5 — Part II Draft B**
+**Phase 6 — Part III and Conclusion Draft**
 
-Part II drafting has moved from the curiosity/work pair to the higher-stakes
-personal identity section. The immediate goal is to close the meaning and belief
-arc before moving into the risk and synthesis chapters.
+Part III drafting has started with risk, authorship, and practice-closure work.
+Sprint 5 review tasks for the personal chapters remain open and will be handled in
+Sprint 7 before the full integration pass.
 
 ---
 

@@ -10,7 +10,7 @@
 |-----------|-------|
 | **Book** | The Personal Empowerment with AI Handbook |
 | **Subtitle** | TBD |
-| **Status** | Concept package locked; Introduction and Chapters 1-8 drafted; cadence/process pass complete; Part II Draft B active |
+| **Status** | Concept package locked; Introduction and Chapters 1-8 drafted; cadence/process pass complete; Part II draft complete; Sprint 6 active |
 | **Mode** | 2 (Collaborative) |
 | **Last Updated** | 2026-04-01 |
 
@@ -173,9 +173,10 @@ from self-erasure, and it makes the first three doctrine chapters answer a
 larger human-development question instead of reading like isolated workflow
 moves.
 
-Part II is now in its second sprint.
-We are moving from external action and work learning into meaning and identity,
-so the next pass will balance existential usefulness with strict personal boundaries.
+Part II is fully drafted through Chapter 8.
+The team has moved into Sprint 6: Part III and conclusion drafting, while
+reviews for Part II  draft quality remain open and will be run as backlog items
+before full integration.
 
 Part I is now drafted as a unit, and the cadence problem Lee flagged has now
 been addressed across all drafted chapters. The one-sentence paragraph habit
@@ -232,7 +233,7 @@ decisions while keeping high-stakes human boundaries explicit.
 | 1 | Finish the handbook-usefulness pass across drafted chapters | Lee + AI | The drafted chapters feel practical, cumulative, and reusable |
 | 2 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
 | 3 | Complete the handbook-usefulness + boundary pass on Chapter 8 | Lee + AI | Meaning, belief, and identity remain practical and non-therapeutic |
-| 4 | Run the new personal-review stack across Chapters 5-7 | Lee + AI | Part II has lived-fit, handbook, anti-fluff, and boundary review before it goes deeper |
+| 4 | Run the new personal-review stack across Chapters 5-8 | Lee + AI | Part II must pass lived-fit, handbook usefulness, and boundary review before integration |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---
