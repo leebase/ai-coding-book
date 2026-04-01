@@ -4,6 +4,37 @@
 
 ---
 
+## 2026-04-01 — Chapter 9 Drafted
+
+Drafted
+[chapter-9-real-insight-real-surprise.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-9-real-insight-real-surprise.md)
+as the first Part III chapter.
+
+What changed:
+
+- defined the difference between slop, `RBM`, and `MoG`
+- made verification the hinge between surprise and trustworthy authorship
+- used the existing local doctrine to keep `RBM` on the AI side and `MoG` on
+  the human side
+- added a restrained creativity/originality research pulse without pretending
+  the named concepts themselves are externally validated terms
+- added a reusable `RBM / MoG Trace` so the chapter teaches a method, not just
+  a distinction
+
+Why it matters:
+
+- Part III is now on the page instead of only in planning artifacts
+- the book now has a chapter that can carry the authorship/originality language
+  before the risk chapter arrives
+- the trace gives the handbook a visible way to record surprise, disagreement,
+  verification, and the human leap
+
+### How to Verify
+
+1. Read [chapter-9-real-insight-real-surprise.md](/Users/lee/projects/ai-coding-book/personal-empowerment/chapters/chapter-9-real-insight-real-surprise.md) and confirm it defines slop, `RBM`, and `MoG` separately
+2. Confirm the chapter includes the `RBM / MoG Trace`
+3. Confirm the chapter frames surprise as a signal that requires verification rather than as automatic proof of originality
+
 ## 2026-04-01 — Chapters 7 and 8 Tightened From Cross-Review
 
 Revised

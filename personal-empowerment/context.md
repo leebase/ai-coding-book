@@ -157,6 +157,8 @@ at `chapters/chapter-2-think-in-stereo.md`. Chapter 3 now exists at
 exists at `chapters/chapter-7-use-ai-for-reflection-parenting-and-decisions.md`.
 `chapter-8-explore-meaning-belief-identity-without-losing-yourself.md` is now drafted
 for the meaning-belief section.
+`chapter-9-real-insight-real-surprise.md` now exists as the first Part III
+chapter and introduces the live distinction between slop, `RBM`, and `MoG`.
 
 The proof layer did its job: the Introduction was drafted from the locked
 thesis, proof map, and research support map instead of improvising from a pile
@@ -207,6 +209,13 @@ before/after contrast, adds a short health-decision vignette, and sharpens the
 adolescent boundary. Chapter 8 now names the actual theological hinge inside
 `The Divine Struggle` so the lived proof is no longer only process-shaped.
 
+Part III is now actually on the page. Chapter 9,
+`Real Insight, Real Surprise`, has been drafted from the locked `RBM` / `MoG`
+distinction plus the Chapter 9 proof and research notes. It now teaches the
+difference between slop, AI-side emergence, and human-side leap, and it adds a
+reusable `RBM / MoG Trace` so the chapter lands as handbook method rather than
+only as vocabulary.
+
 That work happened in parallel with Part II. Chapter 5 argues that AI lowers
 the barrier between interest and first artifact, using music as the anchor
 proof and a small backyard-garden example as ordinary translation. Chapter 6
@@ -253,10 +262,10 @@ decisions while keeping high-stakes human boundaries explicit.
 
 | Rank | Action | Owner | Done When |
 |------|--------|-------|-----------|
-| 1 | Finish the handbook-usefulness pass across drafted chapters | Lee + AI | The drafted chapters feel practical, cumulative, and reusable |
-| 2 | Define a reusable chapter-level trace or log artifact for RBM/MoG and disagreement moments | Lee + AI | The handbook turns authorship and co-thinking into a visible repeatable move |
-| 3 | Complete the handbook-usefulness + boundary pass on Chapter 8 | Lee + AI | Meaning, belief, and identity remain practical and non-therapeutic |
-| 4 | Run the new personal-review stack across Chapters 5-8 | Lee + AI | Part II must pass lived-fit, handbook usefulness, and boundary review before integration |
+| 1 | Draft `Chapter 10 — The Risks of Getting Weaker With Better Tools` | Lee + AI | The book names weakening patterns clearly without drifting into fear-book voice |
+| 2 | Add the Chapter 10 research pulse while drafting, not as an afterthought | Lee + AI | The risk chapter stays credible and specific |
+| 3 | Finish the handbook-usefulness pass across drafted chapters | Lee + AI | The drafted chapters feel practical, cumulative, and reusable |
+| 4 | Run the new personal-review stack across Chapters 5-9 | Lee + AI | Part II and the authorship chapter pass lived-fit, handbook usefulness, and boundary review |
 | 5 | Settle the final subtitle after the Introduction pressure-tests the promise | Lee + AI | The title package feels earned rather than merely serviceable |
 
 ---
