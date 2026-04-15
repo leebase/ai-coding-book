@@ -1,6 +1,6 @@
 # AI Coding Books by Lee Harrington
 
-A set of hands-on guides for developers working with AI tools. The main arc is a three-book series, and there is also a standalone environment primer. Each book is self-contained and builds directly on real practice — no toy examples, no hype.
+A set of hands-on guides for developers working with AI tools. The main arc is a three-book series, and there are also standalone books built from the same real-world practice. Each book is self-contained and builds directly on real work — no toy examples, no hype.
 
 ---
 
@@ -12,9 +12,12 @@ A set of hands-on guides for developers working with AI tools. The main arc is a
 - **Book 2** — *Coding with Agent Teams* — complete
 - **Book 3** — independent and autonomous agents — planned, not started
 
-### Standalone Primer
+### Standalone Books
 
 - **Your Dev Environment** — complete, revised, and rebuilt from final sources
+- **Teach Yourself Anything with AI** — complete
+- **The Growth Consulting Playbook** — complete
+- **The Personal Empowerment with AI Handbook** — complete
 
 ---
 
@@ -123,6 +126,7 @@ This book teaches you to build and run teams of AI agents — specialized roles 
 | 📖 EPUB | [coding-with-agent-teams.epub](book2/coding-with-agent-teams.epub) |
 | 📝 Word (DOCX) | [coding-with-agent-teams.docx](book2/coding-with-agent-teams.docx) |
 | 📄 PDF | [coding-with-agent-teams.pdf](book2/coding-with-agent-teams.pdf) |
+| 🧾 Source | [coding-with-agent-teams.md](book2/coding-with-agent-teams.md) |
 
 ---
 
@@ -183,6 +187,63 @@ This book teaches new developers just enough about each layer of the environment
 | 📖 EPUB | [your-dev-environment.epub](ai-env-book/your-dev-environment.epub) |
 | 📝 Word (DOCX) | [your-dev-environment.docx](ai-env-book/your-dev-environment.docx) |
 | 📄 PDF | [your-dev-environment.pdf](ai-env-book/your-dev-environment.pdf) |
+| 🧾 Source | [your-dev-environment.md](ai-env-book/your-dev-environment.md) |
+
+---
+
+## Standalone Book: Teach Yourself Anything with AI
+
+<img src="linux-ai-kickoff/TeachYourselfAnything.png" alt="Teach Yourself Anything with AI cover" width="200" align="right" />
+
+> A practical handbook for using AI to learn real skills without outsourcing the learning itself.
+
+**Thesis**: AI can dramatically accelerate learning, but only if you use it as scaffolding instead of substitution. The goal is not to feel smart faster. The goal is to become capable for real.
+
+### Download Teach Yourself Anything with AI
+
+| Format | File |
+|--------|------|
+| 📖 EPUB | [teach-yourself-anything.epub](linux-ai-kickoff/teach-yourself-anything.epub) |
+| 📝 Word (DOCX) | [teach-yourself-anything.docx](linux-ai-kickoff/teach-yourself-anything.docx) |
+| 📄 PDF | [teach-yourself-anything.pdf](linux-ai-kickoff/teach-yourself-anything.pdf) |
+| 🧾 Source | [teach-yourself-anything.md](linux-ai-kickoff/teach-yourself-anything.md) |
+
+---
+
+## Standalone Book: The Growth Consulting Playbook
+
+<img src="growth-consulting-playbook/TheGrowthConsultingPlaybook.png" alt="The Growth Consulting Playbook cover" width="200" align="right" />
+
+> A field guide for using AI to grow consulting work, sharpen offers, and improve client-facing judgment.
+
+**Thesis**: AI does not replace the consultant's judgment, credibility, or client intimacy. It expands the consultant who already knows how to diagnose, frame, and lead.
+
+### Download The Growth Consulting Playbook
+
+| Format | File |
+|--------|------|
+| 📖 EPUB | [the-growth-consulting-playbook.epub](growth-consulting-playbook/the-growth-consulting-playbook.epub) |
+| 📝 Word (DOCX) | [the-growth-consulting-playbook.docx](growth-consulting-playbook/the-growth-consulting-playbook.docx) |
+| 📄 PDF | [the-growth-consulting-playbook.pdf](growth-consulting-playbook/the-growth-consulting-playbook.pdf) |
+
+---
+
+## Standalone Book: The Personal Empowerment with AI Handbook
+
+<img src="personal-empowerment/PersonalEmpowermentCover.png" alt="The Personal Empowerment with AI Handbook cover" width="200" align="right" />
+
+> A handbook for using AI as a thinking partner so you become more capable, creative, and self-directed.
+
+**Thesis**: The best use of AI is not speed for its own sake. It is personal expansion: clearer thinking, stronger authorship, better judgment, and a wider life that still remains yours.
+
+### Download The Personal Empowerment with AI Handbook
+
+| Format | File |
+|--------|------|
+| 📖 EPUB | [personal-empowerment-with-ai-handbook.epub](personal-empowerment/personal-empowerment-with-ai-handbook.epub) |
+| 📝 Word (DOCX) | [personal-empowerment-with-ai-handbook.docx](personal-empowerment/personal-empowerment-with-ai-handbook.docx) |
+| 📄 PDF | [personal-empowerment-with-ai-handbook.pdf](personal-empowerment/personal-empowerment-with-ai-handbook.pdf) |
+| 🧾 Source | [personal-empowerment-with-ai-handbook.md](personal-empowerment/personal-empowerment-with-ai-handbook.md) |
 
 ---
 
@@ -191,6 +252,9 @@ This book teaches new developers just enough about each layer of the environment
 - **Book 1** — Working developers (2–10 yrs) who want to restore software engineering discipline to their AI-assisted workflow.
 - **Book 2** — Developers who have outgrown single-agent sessions and want to coordinate multi-agent teams without external infrastructure.
 - **Standalone primer: Your Dev Environment** — New developers (or developers new to a stack) who need to understand the environment before they can direct an AI tool effectively.
+- **Teach Yourself Anything with AI** — Adults using AI to learn real skills, especially when they want speed without hollowing out competence.
+- **The Growth Consulting Playbook** — Consultants and advisors using AI to sharpen offers, delivery, and growth decisions without diluting trust.
+- **The Personal Empowerment with AI Handbook** — Thoughtful adults who want to use AI across work and life without surrendering judgment, agency, or voice.
 - **Planned Book 3** — Developers ready to move from coordinated agent teams toward more independent and autonomous agent systems.
 
 ---
@@ -231,6 +295,27 @@ This book teaches new developers just enough about each layer of the environment
 │   ├── your-dev-environment.pdf
 │   └── DevEnvCover.png
 │
+├── linux-ai-kickoff/       # Standalone book: Teach Yourself Anything with AI
+│   ├── chapters/
+│   ├── teach-yourself-anything.md
+│   ├── teach-yourself-anything.epub
+│   ├── teach-yourself-anything.docx
+│   └── teach-yourself-anything.pdf
+│
+├── growth-consulting-playbook/   # Standalone book: The Growth Consulting Playbook
+│   ├── chapters/
+│   ├── the-growth-consulting-playbook.epub
+│   ├── the-growth-consulting-playbook.docx
+│   └── the-growth-consulting-playbook.pdf
+│
+├── personal-empowerment/   # Standalone book: The Personal Empowerment with AI Handbook
+│   ├── chapters/
+│   ├── personal-empowerment-with-ai-handbook.md
+│   ├── personal-empowerment-with-ai-handbook.epub
+│   ├── personal-empowerment-with-ai-handbook.docx
+│   ├── personal-empowerment-with-ai-handbook.pdf
+│   └── audio/
+│
 ├── skills/                 # AgentFlow skill definitions
 ├── agents/                 # Agent role definitions (Book 1)
 ├── edition-profiles/       # Harness profiles for generated Book 1 editions
@@ -255,5 +340,8 @@ The three written books were produced using **AgentFlow** — the same documenta
 
 *Book 1: "The AI-Era Developer" — complete*
 *Book 2: "Coding with Agent Teams" — complete*
-*Standalone primer: "Your Dev Environment" — complete, revised, and rebuilt*
+*Standalone: "Your Dev Environment" — complete, revised, and rebuilt*
+*Standalone: "Teach Yourself Anything with AI" — complete*
+*Standalone: "The Growth Consulting Playbook" — complete*
+*Standalone: "The Personal Empowerment with AI Handbook" — complete*
 *Planned main-arc Book 3: independent and autonomous agents*
