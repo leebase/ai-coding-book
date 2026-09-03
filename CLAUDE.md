@@ -1,48 +1,24 @@
-# CLAUDE.md — ai-coding-book
+# Claude Code entry point
 
-This project uses **AgentFlow**, a documentation-driven methodology for human-AI collaboration.
+@AGENTS.md
 
-## Startup Protocol
+`AGENTS.md` above is the shared operating doctrine for every harness and model that
+works in this repo. This file adds only what Claude Code needs; it never overrides
+`AGENTS.md`.
 
-At the start of every session, read in order:
+## AgentFlow, stated as outcomes
 
-1. `AGENTS.md` — guardrails and operating rules
-2. `context.md` — current state and what to do next
-3. `result-review.md` — recently completed work
-4. `sprint-plan.md` — current sprint tasks and priorities
-
-## Autonomy Mode
-
-The `Mode` field in `context.md` controls independence:
-
-| Mode | Name | Behavior |
-|------|------|----------|
-| 1 | Supervised | Ask before every significant action |
-| 2 | Collaborative | Implement with check-ins; ask on decisions, not routine code |
-| 3 | Autonomous | Execute independently; report results; ask only if blocked |
-
-**Default: Mode 2.**
-
-## Skills
-
-Load the relevant skill file when the trigger applies:
-
-| Trigger | Skill |
-|---------|-------|
-| Implementing a feature or fix | `skills/development-loop.md` |
-| About to test | `skills/test-as-lee.md` |
-| About to commit | `skills/documentation.md` |
-| Creating a backlog item | `skills/backlog.md` |
-| Closing a sprint / preparing release | `skills/code-review.md` |
-| Writing or planning a tutorial or chapter | `skills/tutorial-writer/tutorial-writer.md` |
-| Writing a book chapter | `skills/ebook-writer.md` |
-
-## Guardrails
-
-**Allowed:** write/modify code, create/update docs, add tests, research, update context and decision logs, create backlog items in `backlog/candidates/`.
-
-**Not allowed without explicit permission:** add external runtime dependencies, make breaking API changes, delete files without confirming, skip tests or docs, commit to protected branches, move files out of `backlog/candidates/`.
-
-## Task Rehydration
-
-Before continuing any task mid-session: re-read `sprint-plan.md`, re-read modified files, confirm the objective. Agents drift — this prevents it.
+- **Before changing anything, know the current state** well enough to say what the next
+  action is and why. That means `context.md` (state and autonomy mode), `result-review.md`
+  (what just landed), `sprint-plan.md` (what is queued), and the guardrails in `AGENTS.md`.
+  Load a file under `skills/` when its trigger applies, not up front.
+- **Take whole sprint items, not fragments.** Plan the path yourself, verify as you go
+  (tests, a real run, a diff read), and report what you verified rather than what you
+  intended. Never claim a step passed without evidence.
+- **Honor the autonomy mode set in `context.md`.** Mode 2 is the default: decisions get a
+  check-in, routine code does not. Mode 3 means finish and report; ask only when blocked.
+- **Leave the repo handoff-ready.** A different model or harness may pick up next. The
+  session is not done until `context.md`, `sprint-plan.md`, and `result-review.md` (newest
+  first), plus `WHERE_AM_I.md` at milestones, are accurate enough that the next agent starts
+  with no blind spots.
+- **Backlog items go to `backlog/candidates/` only.** Humans curate the other folders.
